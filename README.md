@@ -9,5 +9,5 @@ Parsers
 - 107: Top Countries by Spirits Consumption per person (1961-2014)
 - 108: Top Countries by Beer Consumption per person (1961-2014)
 - 109: Future Population Growth by Country (2000-2100)
-- 110: Cryptocurreny prices over time
-- 111: Human Development Index by Country (1990-2017)
+- 110: Cryptocurreny prices over time- [Not published]
+- 111: Top Countries by Daily Smokers (1980-2012)
