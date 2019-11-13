@@ -1,0 +1,67 @@
+{
+  "BTC": {
+    "label": "Bitcoin",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Afghanistan/2/large/Afghanistan.png",
+    "file": "bitcoin_price.csv"
+  },
+  "BCC": {
+    "label": "Bitconnect",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Albania/2/large/Albania.png",
+    "file": "bitconnect_price.csv"
+  },
+  "DAP": {
+    "label": "Dash Price",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Algeria/2/large/Algeria.png",
+    "file": "dash_price.csv"
+  },
+  "ETH": {
+    "label": "Ethereum",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Andorra/2/large/Andorra.png",
+    "file": "ethereum_price.csv"
+  },
+  "IOT": {
+    "label": "IOTA",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Angola/2/large/Angola.png",
+    "file": "iota_price.csv"
+  },
+  "LTE": {
+    "label": "Litecoin",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Antigua_and_Barbuda/2/large/Antigua_and_Barbuda.png",
+    "file": "litecoin_price.csv"
+  },
+  "MON": {
+    "label": "Monero",
+    "url": "https://images.reference.com/amg-cms-reference-images/prod/argentina-flag-colors-meaning-of_b7cf58aa-cdaa-479b-867d-2b57d7a723da.jpg",
+    "file": "monero_price.csv"
+  },
+  "NEM": {
+    "label": "NEM",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Armenia/2/large/Armenia.png",
+    "file": "nem_price.csv"
+  },
+  "NEO": {
+    "label": "NEO",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Aruba/2/large/Aruba.png",
+    "file": "neo_price.csv"
+  },
+  "NUM": {
+    "label": "Numeraire",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Aruba/2/large/Aruba.png",
+    "file": "numeraire_price.csv"
+  },
+  "RIP": {
+    "label": "Ripple (XRP)",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Aruba/2/large/Aruba.png",
+    "file": "ripple_price.csv"
+  },
+  "STR": {
+    "label": "Stratis",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Aruba/2/large/Aruba.png",
+    "file": "stratis_price.csv"
+  },
+  "WAV": {
+    "label": "Waves",
+    "url": "https://dynamospanish.com/wp-content/uploads/flags/images/Aruba/2/large/Aruba.png",
+    "file": "waves_price.csv"
+  }
+}
