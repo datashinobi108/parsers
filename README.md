@@ -11,3 +11,6 @@ Parsers
 - 109: Future Population Growth by Country (2000-2100)
 - 110: Cryptocurreny prices over time- [Not published]
 - 111: Top Countries by Daily Smokers (1980-2012)
+- 112: Top Countries by Nuclear Weapons Inventory (1945-2014)
+- 113: Minimum Wage by US State (1968-2018)
+- 114: Top Countries by Population Density (1961-2018)
