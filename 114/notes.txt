@@ -1,6 +1,8 @@
-Top Countries by Population Density (1961-2018)
+Most Densely Populated Countries in the World (1961-2018)
 
-This video shows the most densely populated countries in the world. The density is calculated by taking the population of the country in that year and divided by the countrys total land area in square kilometres(this does not include area under inland water bodies). 
+This video compares the countries with the most dense population. The density is calculated by taking the population of the country in that year and divided by the country's total land area in square kilometres(this does not include area under inland water bodies). 
 
 [Source]
 https://data.worldbank.org/
+
+#Population #Density #World
