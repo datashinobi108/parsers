@@ -17,3 +17,4 @@ Parsers
 - 114: Top Countries by Population Density (1961-2018)
 - 115: Top Countries by Percentage of Daily Cigarette Smokers (1980-2012)
 - 116: Countries with the Most Fatalities from Natural Disasters (1990-2017)
+- 117: Countries with the Most Daily Caloric Supply per capita (1991-2013)
