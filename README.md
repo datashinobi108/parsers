@@ -20,3 +20,4 @@ Parsers
 - 117: Countries with the Most Daily Caloric Supply per capita (1991-2013)
 - 118: Top Countries by Share of Population using Internet (1990-2017)
 - 119: Top Countries by Openness to Trade (1960-2017)
+- 120: Top Countries by Number of International Arrivals (1995 to 2016)
