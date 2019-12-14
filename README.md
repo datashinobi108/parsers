@@ -21,3 +21,5 @@ Parsers
 - 118: Top Countries by Share of Population using Internet (1990-2017)
 - 119: Top Countries by Openness to Trade (1960-2017)
 - 120: Top Countries by Number of International Arrivals (1995 to 2016)
+- 121: Countries with the most fatalities from terrorist attacks (2017)
+- 122: Highest earning artists (2019)
