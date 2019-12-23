@@ -24,3 +24,4 @@ Parsers
 - 121: Countries with the most fatalities from terrorist attacks (2017)
 - 122: Highest earning artists (2019)
 - 123: Best performing companies (2019)
+- 124: Highest paid athletes (2019)
