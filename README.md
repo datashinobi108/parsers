@@ -25,3 +25,4 @@ Parsers
 - 122: Highest earning artists (2019)
 - 123: Best performing companies (2019)
 - 124: Highest paid athletes (2019)
+- 125: Highest earning celebrities (2019)
