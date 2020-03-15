@@ -32,3 +32,4 @@ Parsers
 - 129: Most watched sporting events of all time
 - 130: NBA top points scoring leaders of all time
 - 131: World's most valuable sports teams (2019)
+- 132: Coronavirus pandemic: Confirmed cases by Country
