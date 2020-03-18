@@ -33,3 +33,4 @@ Parsers
 - 130: NBA top points scoring leaders of all time
 - 131: World's most valuable sports teams (2019)
 - 132: Coronavirus pandemic: Confirmed cases by Country
+- 133: Coronavirus pandemic: Average number of cases by Country
