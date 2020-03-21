@@ -34,3 +34,4 @@ Parsers
 - 131: World's most valuable sports teams (2019)
 - 132: Coronavirus pandemic: Confirmed cases by Country
 - 133: Coronavirus pandemic: Average number of cases by Country
+- 134: Coronavirus pandemic: Confirmed cases by Country (updated)
