@@ -35,3 +35,4 @@ Parsers
 - 132: Coronavirus pandemic: Confirmed cases by Country
 - 133: Coronavirus pandemic: Average number of cases by Country
 - 134: Coronavirus pandemic: Confirmed cases by Country (updated)
+- 135: Coronavirus pandemic: Reported cases per death compared to World Average
