@@ -37,3 +37,4 @@ Parsers
 - 134: Coronavirus pandemic: Confirmed cases by Country (updated)
 - 135: Coronavirus pandemic: Reported cases per death compared to World Average
 - 136: Coronavirus pandemic: Reported deaths by Country
+- 137: Coronavirus pandemic: Reported deaths per million by Country
