@@ -2,7 +2,7 @@ Ranking Countries according to Confirmed Cases per Million People
 
 [Updated as of 28th March 2020 at 7.45 ET]
 
-This video ranks countries based on the average number of cases/people confirmed to have the coronavirus(COVID-19) per 1 million people since Mar 1, 2020 up until March 29, 2020. The virus has spread to over 170 countries with significant outbreaks in China (where the virus originated), Italy, Spain, USA, Iran and South Korea. I also added in the world average in the animation for comparison.
+This video ranks countries based on the average number of cases/people confirmed to have the coronavirus(COVID-19) per 1 million people since Jan 21, 2020 up until March 28, 2020. The virus has spread to over 170 countries with significant outbreaks in China (where the virus originated), Italy, Spain, USA, Iran and South Korea. I also added in the world average in the animation for comparison.
 The number of reported deaths in Europe keeps on rising especially in Italy and Spain, two countries that have overtaken China.
 
 [Source]
