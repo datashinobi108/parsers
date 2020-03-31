@@ -2,8 +2,9 @@ Ranking USA vs China vs Italy vs Spain by Confirmed Cases in the month of March
 
 [Updated as of 31th March 2020 at 11.45 ET]
 
-This video ranks countries based on the number of cases/people confirmed to have the coronavirus(COVID-19) during the month of March 2020.
-The number of reported cases outside of China keeps on rising especially in USA, Italy and Spain, three countries that have now overtaken China.
+This video ranks USA, China, Italy and Spain based on the number of cases/people confirmed to have the coronavirus(COVID-19) during the month of March 2020. I specifically chose these countries so that you can see how the number of confirmed cases in USA, Italy and Spain grew to overtake China which is alarming.
+
+The number of reported cases outside of China keeps on rising and we need to practice physical distancing to slow down the rate at which these numbers are increasing.
 
 [Source]
 World Health Organization (WHO), CDC, Johns Hopkins University
