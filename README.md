@@ -41,3 +41,4 @@ Parsers
 - 138: Coronavirus pandemic: Comparing the Top 10 countries according to confirmed cases
 - 139: Coronavirus pandemic: Comparing USA vs China vs Italy vs Spain by confirmed cases
 - 140: Coronavirus pandemic: Daily new reported deaths by Country
+- 141: Coronavirus pandemic: Daily new confirmed cases by Country
