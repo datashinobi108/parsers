@@ -42,4 +42,3 @@ Parsers
 - 139: Coronavirus pandemic: Comparing USA vs China vs Italy vs Spain by confirmed cases
 - 140: Coronavirus pandemic: Daily new reported deaths by Country
 - 141: Coronavirus pandemic: Daily new confirmed cases by Country
-- 142: Coronavirus pandemic: Case fatality rate by country
