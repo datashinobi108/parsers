@@ -43,3 +43,4 @@ Parsers
 - 140: Coronavirus pandemic: Daily new reported deaths by Country
 - 141: Coronavirus pandemic: Daily new confirmed cases by Country
 - 142: Coronavirus pandemic: Case fatality rate by country
+- 143: Coronavirus pandemic: Confirmed cases by country (updated)
