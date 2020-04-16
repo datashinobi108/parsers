@@ -47,4 +47,5 @@ Parsers
 - 144: Coronavirus pandemic: Reported deaths by country (updated)
 - 145: Coronavirus pandemic: Reported deaths per million by country (updated)
 - 146: Coronavirus pandemic: Confirmed cases per million by country (updated)
-- 147: Coronavirus pandemic: Tests performs by country
+- 147: Coronavirus pandemic: Tests performed by country
+- 148: Coronavirus pandemic: Tests performed per thousand by country
