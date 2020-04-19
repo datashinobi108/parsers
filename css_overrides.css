@@ -1,0 +1,25 @@
+text,
+div#current-column,
+div#totaliser {
+  font-family: monospace;
+}
+
+rect {
+  rx: 8px;
+}
+
+.tl-axis-bottom g.tick {
+  display: none;
+}
+
+path.tl-scrub-node {
+  fill: black;
+}
+
+.tl-axis-bottom {
+  color: black !important;
+}
+
+g.tick line {
+  visibility: hidden;
+}
