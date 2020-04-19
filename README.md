@@ -49,3 +49,4 @@ Parsers
 - 146: Coronavirus pandemic: Confirmed cases per million by country (updated)
 - 147: Coronavirus pandemic: Tests performed by country
 - 148: Coronavirus pandemic: Tests performed per thousand by country
+- 149: Coronavirus pandemic: Confirmed cases by country (updated)

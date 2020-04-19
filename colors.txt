@@ -1,0 +1,202 @@
+Afghanistan: #CA2929
+Albania: #E73537
+Algeria: #1B7349
+Andorra: #1C32B2
+Angola: #D42E40
+Antigua & Barbuda: #D3293C
+Argentina: #9FC6EA
+Armenia: #1A48AA
+Australia: #1B1B97
+Austria: #F04957
+Azerbaijan: #E31A48
+Bahamas: #38B4CF
+Bahrain: #C3172B
+Bangladesh: #408F7B
+Barbados: #193C8C
+Belarus: #CE4752
+Belgium: #FBE459
+Belize: #093D7D
+Benin: #2F9363
+Bhutan: #F1BB46
+Bolivia: #FAE619
+Bosnia & Herzegovina: #1A39A0
+Botswana: #83B3DF
+Brazil: #37A64D
+Brunei: #F9E32F
+Bulgaria: #34A17C
+Burkina Faso: #37A85C
+Burundi: #D53345
+Cambodia: #E31A3B
+Cameroon: #2A886E
+Canada: #F5191B
+Cape Verde: #2454A2
+Central African Rep.: #3EA23E
+Chad: #2052B1
+Chile: #D94136
+China: #E13F28
+Colombia: #569C4D
+Comoros: #539B4A
+Congo: #34A158
+Costa Rica: #CE1126
+Cote d'Ivoire: #F88C19
+Croatia: #F51B1C
+Cuba: #D42E41
+Cyprus: #FAB748
+Czech Republic: #29588B
+DR Congo: #228CFF
+Denmark: #CC2647
+Djibouti: #85C0EB
+Dominica: #267B55
+Dominican Republic: #1F4675
+Ecuador: #FDDE1B
+Egypt: #D53042
+El Salvador: #2759B6
+Equatorial Guinea: #2281D3
+Eritrea: #ED1F4C
+Estonia: #5E9EDE
+Ethiopia: #FCE020
+Fiji: #78C6E8
+Finland: #1A4A8D
+France: #1A39A0
+Gabon: #FCD62E
+Gambia: #253398
+Georgia: #F5191B
+Germany: #FCD319
+Ghana: #FCD630
+Gibraltar: #D80B27
+Greece: #276EB7
+Greenland: #D80B27
+Grenada: #2A886F
+Guatemala: #5CA2D5
+Guinea: #D3293C
+Guinea-Bissau: #D53245
+Guyana: #FCD838
+Haiti: #1B38AA
+Honduras: #2487D6
+Hong Kong: #D71301
+Hungary: #D53245
+Iceland: #1C4EA2
+India: #F9A952
+Indonesia: #D42E3F
+Iran: #3FAB58
+Iraq: #D42F41
+Ireland: #36A65C
+Israel: #2353C2
+Italy: #339E5A
+Jamaica: #37A955
+Japan: #C41D45
+Jordan: #D42E40
+Kazakhstan: #3ABAD2
+Kenya: #C2191B
+Kiribati: #D32A3E
+Kuwait: #D3293C
+Kyrgyzstan: #EA2942
+Laos: #1A3E77
+Latvia: #A9464F
+Lebanon: #F03F45
+Lesotho: #213DAC
+Liberia: #20437B
+Libya: #EB2839
+Liechtenstein: #1B418D
+Lithuania: #FBC334
+Luxembourg: #EF4250
+Macao: #496E2D
+Macedonia: #D7191A
+Madagascar: #F6635A
+Malawi: #D3293C
+Malaysia: #1B1C77
+Maldives: #2C8B4E
+Mali: #3FBD4E
+Malta: #D63549
+Marshall Islands: #1A3E6E
+Mauritania: #227248
+Mauritius: #31377C
+Mexico: #24775A
+Moldova: #1A59B6
+Monaco: #D42E3F
+Mongolia: #CB3E44
+Montenegro: #C5090A
+Morocco: #C73D42
+Mozambique: #D72B4B
+Myanmar: #FCD222
+Namibia: #1A4A8D
+Nauru: #1B418D
+Nepal: #DF2D52
+Netherlands: #C1565F
+New Zealand: #1D3D8C
+Nicaragua: #2A598C
+Niger: #E46B2A
+Nigeria: #2F9363
+North Korea: #F03C46
+Norway: #F14D4F
+Oman: #DF2E32
+Pakistan: #1B5433
+Palau: #69BADC
+Palestine: #DF0C00
+Panama: #1A649E
+Papua New Guinea: #D53446
+Paraguay: #DD554B
+Peru: #DD2839
+Philippines: #3C67BC
+Poland: #E02C50
+Portugal: #35841F
+Puerto Rico:
+Qatar: #9F415C
+Romania: #1A418C
+Russia: #1B4DAF
+Rwanda: #34AEE3
+St. Kitts & Nevis: #38AB60
+St. Lucia: #76D1FF
+St. Vincent & the Grenadines: #2281CC
+Samoa: #D3293C
+San Marino: #6EBDE7
+Sao Tome & Principe: #3FBB4E
+Saudi Arabia: #267C4A
+Senegal: #2E9153
+Serbia: #EE3A36
+Seychelles: #FDDF72
+Sierra Leone: #5CCB76
+Singapore: #F04F5B
+Slovakia: #326BB1
+Slovenia: #1C6FAF
+Solomon Islands: #2E70C7
+Somalia: #5495E0
+South Africa: #2B8B64
+South Korea: #CD2C4C
+South Sudan: #2954A2
+Spain: #FCCE2A
+Sri Lanka: #993840
+Sudan: #28803F
+Suriname: #C43D4E
+Swaziland: #BA2727
+Sweden: #F9CF1E
+Switzerland: #F52223
+Syria: #D73D4E
+Taiwan: #EE353B
+Tajikistan: #D63739
+Tanzania: #40BF54
+Thailand: #3C3662
+Timor: #D80B27
+Togo: #D72749
+Tonga: #C81B1C
+Trinidad & Tobago: #D3293C
+Tunisia: #EA1C2B
+Turkey: #E62330
+Turkmenistan: #41B878
+Tuvalu: #7DADC0
+Uganda: #FCE125
+Ukraine: #2170C4
+United Arab Emirates: #445B9A
+United Kingdom: #23438F
+United States: #5A5984
+Uruguay: #2252B3
+Uzbekistan: #49B6CA
+Vanuatu: #D80B27
+Vatican: #FDE31B
+Venezuela: #E04E47
+Vietnam: #DE3B34
+Yemen: #D73A4C
+Zambia: #31961B
+Zimbabwe: #F4C42E
+[WORLD AVERAGE]: #FFFFFF
+World: #FFFFFF
