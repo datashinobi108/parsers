@@ -50,3 +50,5 @@ Parsers
 - 147: Coronavirus pandemic: Tests performed by country
 - 148: Coronavirus pandemic: Tests performed per thousand by country
 - 149: Coronavirus pandemic: Confirmed cases by country (updated)
+- 150: Coronavirus pandemic: Confirmed deaths by country (updated)
+- 151: Coronavirus pandemic: Daily confirmed cases by country (updated)
