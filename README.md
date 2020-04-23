@@ -52,3 +52,4 @@ Parsers
 - 149: Coronavirus pandemic: Confirmed cases by country (updated)
 - 150: Coronavirus pandemic: Confirmed deaths by country (updated)
 - 151: Coronavirus pandemic: Daily confirmed cases by country (updated)
+- 152: Coronavirus pandemic: Daily reported deaths by country (updated)
