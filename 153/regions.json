@@ -1,0 +1,26 @@
+{
+  "AFR": {
+    "label": "Africa",
+    "url": "https://i.ibb.co/z5xHZjT/FDE4161-C-0-E9-F-4-DFD-8395-0-AA48-B8-D3671-3202-0000070-D47-D043-D9.png"
+  },
+  "ASA": {
+    "label": "Asia",
+    "url": "https://i.ibb.co/6RrFyL4/A1640713-7-E38-41-A5-9314-0-F3-D9-C26-AD9-D-3202-00000712-A1-BBC8-DE.png"
+  },
+  "SAM": {
+    "label": "South America",
+    "url": "https://i.ibb.co/jrsp5LL/117771-AE-FFE1-4-FB6-A8-FE-628477-D74-A14-3202-000007128-C213424.png"
+  },
+  "NAM": {
+    "label": "North America",
+    "url": "https://i.ibb.co/fdvChLf/EE59677-C-135-D-4860-9-D74-6-E8-CC36-A479-E-3202-000007110-ECB53-DE.png"
+  },
+  "OCE": {
+    "label": "Oceania",
+    "url": "https://i.ibb.co/pjzDdTb/50293-F9-C-4296-496-E-9-BCF-779-A9-AAC7-C93-3202-00000708-B22-A3668.png"
+  },
+  "EUR": {
+    "label": "Europe",
+    "url": "https://i.ibb.co/dQn8mvd/B72-C3-F47-78-F4-4-ED8-B4-FF-DE24145424-ED-3202-00000710-DE99-DE4-D.png"
+  }
+}
