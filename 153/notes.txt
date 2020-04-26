@@ -2,7 +2,7 @@ Coronavirus: Ranking of Total Confirmed Cases by Region [25 April 2020]
 
 [Updated as of 25th April 2020 at 8.45 ET]
 
-This video ranks regions based on the number of daily confirmed cases due to the coronavirus(COVID-19) since January 21, 2020 up until April 25, 2020.
+This video ranks regions based on the number of confirmed cases due to the coronavirus(COVID-19) since January 21, 2020 up until April 25, 2020.
 We can see that early on, Asia had the highest number of confirmed cases, but in the month of March, Europe and North America started to report a huge increase in the number of confirmed cases and eventually overtook Asia.
 The number of confirmed cases is lower than the number of actual total cases. The main reason for this is due to limited testing that varies from country to country.
 
@@ -14,4 +14,4 @@ World Health Organization (WHO), CDC, Johns Hopkins University
 Coronavirus, covid-19, pandemic, wuhan, hubei, china, iran, italy, spain, usa, germany, france, south korea, who, outbreak, infected, disease, virus, flattenthecurve
 
 Comment:
-I'll be posting a similar video tomorrow but it will compare the reported deaths. Appreciate all the feedback and support! 
+I'll be posting a similar video tomorrow but it will compare the reported deaths. Appreciate all the feedback and support!
