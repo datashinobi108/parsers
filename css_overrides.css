@@ -1,6 +1,7 @@
 text,
 div#current-column,
-div#totaliser {
+div#totaliser,
+div.flourish-footer-text {
   font-family: monospace;
 }
 
@@ -8,6 +9,15 @@ rect {
   rx: 8px;
 }
 
+g.tick line {
+  visibility: hidden;
+}
+
+g.tl-axis-bottom g.tick:last-child text {
+  transform: translateX(16px);
+}
+
+/* remove timeline */
 .tl-axis-bottom g.tick {
   display: none;
 }
@@ -18,8 +28,4 @@ path.tl-scrub-node {
 
 .tl-axis-bottom {
   color: black !important;
-}
-
-g.tick line {
-  visibility: hidden;
 }
