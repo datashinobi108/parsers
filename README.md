@@ -57,3 +57,4 @@ Parsers
 - 154: Coronavirus pandemic: Reported deaths by region
 - 155: Coronavirus pandemic: Cases fatality rate by country (updated)
 - 156: Coronavirus pandemic: Reported cases per million by country (updated)
+- 157: Coronavirus pandemic: Reported deaths per million by country (updated)
