@@ -48,6 +48,7 @@ Denmark: #CC2647
 Djibouti: #85C0EB
 Dominica: #267B55
 Dominican Republic: #1F4675
+Dominican Rep.: #1F4675
 Ecuador: #FDDE1B
 Egypt: #D53042
 El Salvador: #2759B6
@@ -186,9 +187,12 @@ Turkmenistan: #41B878
 Tuvalu: #7DADC0
 Uganda: #FCE125
 Ukraine: #2170C4
-United Arab Emirates: #445B9A
+United Arab Emirates: #D3293C
 United Kingdom: #23438F
 United States: #5A5984
+U.A.E: #D3293C
+U.K: #23438F
+U.S.A : #5A5984
 Uruguay: #2252B3
 Uzbekistan: #49B6CA
 Vanuatu: #D80B27

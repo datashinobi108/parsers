@@ -56,3 +56,4 @@ Parsers
 - 153: Coronavirus pandemic: Confirmed cases by region
 - 154: Coronavirus pandemic: Reported deaths by region
 - 155: Coronavirus pandemic: Cases fatality rate by country (updated)
+- 156: Coronavirus pandemic: Reported cases per million by country (updated)
