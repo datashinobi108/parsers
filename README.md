@@ -59,3 +59,4 @@ Parsers
 - 156: Coronavirus pandemic: Reported cases per million by country (updated)
 - 157: Coronavirus pandemic: Reported deaths per million by country (updated)
 - 158: Coronavirus pandemic: Tests performed by country over last 2 months
+- 159: Coronavirus pandemic: Tests performed per thousand by country over last 2 months
