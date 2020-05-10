@@ -144,7 +144,7 @@ Portugal: #35841F
 Puerto Rico:
 Qatar: #9F415C
 Romania: #1A418C
-Russia: #1B4DAF
+Russia: #D94136
 Rwanda: #34AEE3
 St. Kitts & Nevis: #38AB60
 St. Lucia: #76D1FF
