@@ -62,3 +62,4 @@ Parsers
 - 159: Coronavirus pandemic: Tests performed per thousand by country over last 2 months
 - 160: Population growth by country (1800-2100)
 - 161: Nuclear weapon inventory by country (1945-2014)
+- 162: Coronavirus pandemic: Confirmed cases by country (updated)
