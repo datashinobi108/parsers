@@ -63,3 +63,4 @@ Parsers
 - 160: Population growth by country (1800-2100)
 - 161: Nuclear weapon inventory by country (1945-2014)
 - 162: Coronavirus pandemic: Confirmed cases by country (updated)
+- 163: Coronavirus pandemic: Reported deaths by country (updated)
