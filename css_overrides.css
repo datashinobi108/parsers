@@ -23,9 +23,11 @@ g.tl-axis-bottom g.tick:last-child text {
 }
 
 path.tl-scrub-node {
-  fill: black;
+  /* fill: black; */
+  fill: #17252A;
 }
 
 .tl-axis-bottom {
-  color: black !important;
+  /* color: black !important; */
+  color: #17252A !important;
 }

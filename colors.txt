@@ -67,7 +67,7 @@ Ghana: #FCD630
 Gibraltar: #D80B27
 Greece: #276EB7
 Greenland: #D80B27
-Grenada: #2A886F
+Grenada: #FDD93F
 Guatemala: #5CA2D5
 Guinea: #D3293C
 Guinea-Bissau: #D53245
@@ -89,7 +89,7 @@ Japan: #C41D45
 Jordan: #D42E40
 Kazakhstan: #3ABAD2
 Kenya: #C2191B
-Kiribati: #D32A3E
+Kiribati: #D3293E
 Kuwait: #D3293C
 Kyrgyzstan: #EA2942
 Laos: #1A3E77
@@ -133,7 +133,7 @@ Norway: #F14D4F
 Oman: #DF2E32
 Pakistan: #1B5433
 Palau: #69BADC
-Palestine: #DF0C00
+Palestine: #267A3D
 Panama: #1A649E
 Papua New Guinea: #D53446
 Paraguay: #DD554B
@@ -146,9 +146,9 @@ Qatar: #9F415C
 Romania: #1A418C
 Russia: #D94136
 Rwanda: #34AEE3
-St. Kitts & Nevis: #38AB60
-St. Lucia: #76D1FF
-St. Vincent & the Grenadines: #2281CC
+St K. & Nevis: #38AB60
+St Lucia: #76D1FF
+St V. & G.: #2281CC
 Samoa: #D3293C
 San Marino: #6EBDE7
 Sao Tome & Principe: #3FBB4E
@@ -157,7 +157,7 @@ Senegal: #2E9153
 Serbia: #EE3A36
 Seychelles: #FDDF72
 Sierra Leone: #5CCB76
-Singapore: #F04F5B
+Singapore: #F15662
 Slovakia: #326BB1
 Slovenia: #1C6FAF
 Solomon Islands: #2E70C7

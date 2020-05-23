@@ -64,3 +64,4 @@ Parsers
 - 161: Nuclear weapon inventory by country (1945-2014)
 - 162: Coronavirus pandemic: Confirmed cases by country (updated)
 - 163: Coronavirus pandemic: Reported deaths by country (updated)
+- 164: Population density by country (1800-2100)
