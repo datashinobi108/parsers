@@ -42,7 +42,7 @@ Cote d'Ivoire: #F88C19
 Croatia: #F51B1C
 Cuba: #D42E41
 Cyprus: #FAB748
-Czech Republic: #29588B
+Czech Rep.: #29588B
 DR Congo: #228CFF
 Denmark: #CC2647
 Djibouti: #85C0EB
