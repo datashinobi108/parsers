@@ -65,3 +65,5 @@ Parsers
 - 162: Coronavirus pandemic: Confirmed cases by country (updated)
 - 163: Coronavirus pandemic: Reported deaths by country (updated)
 - 164: Population density by country (1800-2100)
+- 165: Top countries by internet users (1990-2020)
+- 166: Top countries by percentage of population that are internet users (1990-2020)

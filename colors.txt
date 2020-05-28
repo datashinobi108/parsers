@@ -3,7 +3,7 @@ Albania: #E73537
 Algeria: #1B7349
 Andorra: #1C32B2
 Angola: #D42E40
-Antigua & Barbuda: #D3293C
+Antigua & B.: #D3293C
 Argentina: #9FC6EA
 Armenia: #1A48AA
 Australia: #1B1B97
@@ -19,7 +19,7 @@ Belize: #093D7D
 Benin: #2F9363
 Bhutan: #F1BB46
 Bolivia: #FAE619
-Bosnia & Herzegovina: #1A39A0
+Bosnia & H.: #1A39A0
 Botswana: #83B3DF
 Brazil: #37A64D
 Brunei: #F9E32F
