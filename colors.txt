@@ -34,7 +34,7 @@ Central African Rep.: #3EA23E
 Chad: #2052B1
 Chile: #D94136
 China: #E13F28
-Colombia: #569C4D
+Colombia: #FDD93F
 Comoros: #539B4A
 Congo: #34A158
 Costa Rica: #CE1126
