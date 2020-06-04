@@ -1,0 +1,41 @@
+Coronavirus: Change in time spent at home due to lockdown [Feb 16 to May 26]
+
+[Updated as of 2nd June]
+
+This video shows the percentage change in the average duration spent in places of residence to a baseline day, before worldwide lockdown due to the Coronavirus outbreak. A baseline day represents a normal value for that day of the week and is taken to be the median value from the 5-week period between Jan 3rd and Feb 6th 2020.
+
+As an example:
+If India has a value of 30% on April 21st(which is a Tuesday), that means that on average, people in India spent 30% more time at home compared to the average(median) Tuesday between Jan 3rd and Feb 6th.
+
+It is important to note that for each country, the baseline day isn’t a single value—it’s 7 individual values for each day of the week. The same number of people staying at home on 2 different days of the week, can result in different percentage changes since it is two different baseline days.
+
+I have only included countries that have the highest number of cases as of June 3rd 2020.
+
+[Source]
+Our World in Data
+Google COVID-19 Community Mobility Trends
+
+#coronavirus #covid19 #pandemic
+
+Coronavirus, covid-19, pandemic, wuhan, hubei, china, russia, iran, italy, spain, usa, germany, france, south korea, who, outbreak, infected, disease, virus, flattenthecurve
+
+Comment:
+There was no data available for China, Iran and Russia, sorry guys :(
+
+
+RDT:
+[OC] Change in time spent at home because of lockdown from Feb 16th to May 26th
+
+Sources:
+Google COVID-19 Community Mobility Trends(https://www.google.com/covid19/mobility/)
+
+Tools used:
+Flourish
+
+
+This video shows the percentage change in the average duration spent in places of residence to a baseline day, before worldwide lockdown due to the Coronavirus outbreak. A baseline day represents a normal value for that day of the week and is taken to be the median value from the 5-week period between Jan 3rd and Feb 6th 2020.
+As an example: If India has a value of 30% on April 21st(which is a Tuesday), that means that on average, people in India spent 30% more time at home compared to the average(median) Tuesday between Jan 3rd and Feb 6th.
+It is important to note that for each country, the baseline day isn’t a single value—it’s 7 individual values for each day of the week. The same number of people staying at home on 2 different days of the week, can result in different percentage changes since it is two different baseline days.
+I have only included countries that have the highest number of cases as of June 3rd 2020. There was no data available for China, Iran and Russia, sorry!
+I appreciate any and all feedback!
+StatPanda

@@ -204,3 +204,10 @@ Zambia: #31961B
 Zimbabwe: #F4C42E
 [WORLD AVERAGE]: #FFFFFF
 World: #FFFFFF
+
+Asia & the Pacific: #E13F28
+Europe: #FCD319
+Africa: #283D15
+Oceania: #722F5A
+Latin America & the Caribbean:
+North America: #5A5984
