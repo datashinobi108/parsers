@@ -10,7 +10,7 @@ rect {
 }
 
 g.tick line {
-  visibility: hidden;
+  opacity: 0.2
 }
 
 g.tl-axis-bottom g.tick:last-child text {

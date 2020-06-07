@@ -135,7 +135,7 @@ Pakistan: #1B5433
 Palau: #69BADC
 Palestine: #267A3D
 Panama: #1A649E
-Papua New Guinea: #D53446
+Papua New G.: #D53446
 Paraguay: #DD554B
 Peru: #DD2839
 Philippines: #3C67BC
@@ -151,7 +151,7 @@ St Lucia: #76D1FF
 St V. & G.: #2281CC
 Samoa: #D3293C
 San Marino: #6EBDE7
-Sao Tome & Principe: #3FBB4E
+Sao Tome & P.: #3FBB4E
 Saudi Arabia: #267C4A
 Senegal: #2E9153
 Serbia: #EE3A36
@@ -180,7 +180,7 @@ Thailand: #3C3662
 Timor: #D80B27
 Togo: #D72749
 Tonga: #C81B1C
-Trinidad & Tobago: #D3293C
+Trinidad & T.: #D3293C
 Tunisia: #EA1C2B
 Turkey: #E62330
 Turkmenistan: #41B878
