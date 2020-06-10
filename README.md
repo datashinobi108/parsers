@@ -70,3 +70,4 @@ Parsers
 - 167: Coal production per capita (1900-2016)
 - 168: Coronavirus: Change in time spent at home (Feb 16 to May 26)
 - 169: Top countries by coffee bean production (1961-2018)
+- 170: Top countries by rice production (1961-2018)
