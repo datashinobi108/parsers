@@ -72,3 +72,4 @@ Parsers
 - 169: Top countries by coffee bean production (1961-2018)
 - 170: Top countries by rice production (1961-2018)
 - 171: Coronavirus pandemic: Confirmed cases by country (updated)
+- 172: Top countries by tea production (1961-2018)
