@@ -10,7 +10,7 @@ rect {
 }
 
 g.tick line {
-  opacity: 0.2
+  opacity: 0.8
 }
 
 g.tl-axis-bottom g.tick:last-child text {
@@ -23,11 +23,9 @@ g.tl-axis-bottom g.tick:last-child text {
 }
 
 path.tl-scrub-node {
-  /* fill: black; */
-  fill: #17252A;
+  opacity: 0;
 }
 
 .tl-axis-bottom {
-  /* color: black !important; */
-  color: #17252A !important;
+  opacity: 0;
 }
