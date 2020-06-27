@@ -75,3 +75,4 @@ Parsers
 - 172: Top countries by tea production (1961-2018)
 - 173: Best clubs in the EPL over the past decade
 - 174: Top countries by egg production (1961-2018)
+- 175: Top countries by energy use per capita (1960-2015)
