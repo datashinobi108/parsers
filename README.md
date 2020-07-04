@@ -77,3 +77,4 @@ Parsers
 - 174: Top countries by egg production (1961-2018)
 - 175: Top countries by energy use per capita (1960-2015)
 - 176: Coronavirus pandemic: Confirmed cases by country (updated)
+- 177: Coronavirus pandemic: Reported deaths by country (updated)
