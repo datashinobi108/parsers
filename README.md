@@ -78,3 +78,4 @@ Parsers
 - 175: Top countries by energy use per capita (1960-2015)
 - 176: Coronavirus pandemic: Confirmed cases by country (updated)
 - 177: Coronavirus pandemic: Reported deaths by country (updated)
+- 178: Top countries by tobacco production (1961-2018)
