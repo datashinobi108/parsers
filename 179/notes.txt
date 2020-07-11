@@ -1,0 +1,17 @@
+Top countries by new cancer cases per 100,000 people [1990 to 2017]
+
+Figures shown are measured in number of new cases per 100,000 people
+
+This video shows the new cases of any type of cancer(incidence) measured as number of cases per 100,000 people. In order to compare countries over time, the data has been age-standardized assuming a constant age structure of each country's population.
+
+[Source]
+Global Burden of Disease Collaborative Network
+Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States
+Institute for Health Metrics and Evaluation (IHME), 2018.
+
+#Cancer #Health #Data
+
+cancer, health, data, neoplasms, tumor, usa, new zealand
+
+Comment:
+- For anyone wondering, the world average hovers around 300 cases per 100,000 people over this timeline.
