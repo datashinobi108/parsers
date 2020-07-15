@@ -80,3 +80,4 @@ Parsers
 - 177: Coronavirus pandemic: Reported deaths by country (updated)
 - 178: Top countries by tobacco production (1961-2018)
 - 179: Top countries by new cancer cases per 100,000 people (1990-2017)
+- 180: Top countries by life expectancy (1950-2019)
