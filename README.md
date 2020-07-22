@@ -82,3 +82,4 @@ Parsers
 - 179: Top countries by new cancer cases per 100,000 people (1990-2017)
 - 180: Top countries by life expectancy (1950-2019)
 - 181: Top countries by wine production (1961-2014)
+- 182: Top countries by electricity consumption per capita (1985-2018)

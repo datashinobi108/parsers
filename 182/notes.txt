@@ -1,0 +1,13 @@
+Top countries by electricity consumption per capita [1985 to 2018]
+
+Figures shown are measured in kilowatt-hours per person per year
+
+This video shows the top countries according to electricity consumption per capita from 1985 to 2018. BP was used as the primary source for electricity consumption data and it is worth noting that BP does not provide data for all countries. For countries that BP didnt have electricity data on, Ember was used to supplement the data for that country for that year.
+
+[Source]
+BP Statistical Review of World Energy
+Ember
+
+#Electricity #Power #PerCapita
+
+electricity, consumption, per capita, kilowatt, usa, china, norway, iceland, canada
