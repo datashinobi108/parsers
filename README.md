@@ -83,3 +83,4 @@ Parsers
 - 180: Top countries by life expectancy (1950-2019)
 - 181: Top countries by wine production (1961-2014)
 - 182: Top countries by electricity consumption per capita (1985-2018)
+- 183: Coronavirus pandemic: Daily new cases by country (updated)
