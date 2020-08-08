@@ -87,3 +87,4 @@ Parsers
 - 184: Top countries by CO2 emissions (1950-2018)
 - 185: Top countries by value of agricultural production (1991-2016)
 - 186: Coronavirus pandemic: Confirmed cases by country (updated)
+- 187: Coronavirus pandemic: Reported deaths by country (updated)
