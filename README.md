@@ -89,3 +89,4 @@ Parsers
 - 186: Coronavirus pandemic: Confirmed cases by country (updated)
 - 187: Coronavirus pandemic: Reported deaths by country (updated)
 - 188: Top countries by apple production (1961-2018)
+- 189: Top countries by banana production (1961-2018)
