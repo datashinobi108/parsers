@@ -92,3 +92,4 @@ Parsers
 - 189: Top countries by banana production (1961-2018)
 - 190: Top countries by sulphur dioxide emissions (1990-2015)
 - 191: Top countries by consumption based CO2 emissions (1990-2017)
+- 192: Top countries by barley production (1961-2018)
