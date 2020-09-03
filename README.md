@@ -95,3 +95,4 @@ Parsers
 - 192: Top countries by barley production (1961-2018)
 - 193: Top countries by electricity production (1985-2018)
 - 194: Top countries by people suffering from cancer (1990-2017)
+- 195: Top countries by number of doctors per 1000 people (1960-2016)
