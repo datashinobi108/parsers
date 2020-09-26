@@ -99,3 +99,4 @@ Parsers
 - 196: Coronavirus pandemic: Confirmed cases by country (updated)
 - 197: Coronavirus pandemic: Reported deaths by country (updated)
 - 198: Top countries by sugar cane production (1961-2018)
+- 199: Coronavirus pandemic: Daily confirmed cases by country (updated)
