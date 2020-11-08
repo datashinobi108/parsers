@@ -104,4 +104,5 @@ Parsers
 - 201: Top countries by grape production (1961-2018)
 - 202: Coronavirus pandemic: Daily new deaths by country (updated)
 - 203: Top countries by orange production (1961-2018)
-- 204: Top countries by forest cover (1990-2017)
+- 204: Top countries by share of deaths from heart disease (1990-2017)
+- 205: Coronavirus pandemic: Reported deaths by country (updated)
