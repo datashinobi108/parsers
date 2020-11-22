@@ -107,3 +107,4 @@ Parsers
 - 204: Top countries by share of deaths from heart disease (1990-2017)
 - 205: Coronavirus pandemic: Reported deaths by country (updated)
 - 206: Top countries by avocado production (1961-2018)
+- 207: Coronavirus pandemic: Confrimed cases in Africa
