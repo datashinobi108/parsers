@@ -1,0 +1,502 @@
+{
+  "Lionel Messi": {
+    "label": "#1 - Lionel Messi",
+    "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/02/24/15510280140720.jpg",
+    "category": "Soccer"
+  },
+  "Cristiano Ronaldo": {
+    "label": "#2 - Cristiano Ronaldo",
+    "url": "https://media.nbcsandiego.com/2019/09/AP_18295479879093-1.jpg?resize=850%2C478",
+    "category": "Soccer"
+  },
+  "Neymar": {
+    "label": "#3 - Neymar",
+    "url": "https://cdn.images.express.co.uk/img/dynamic/67/590x/Neymar-1086225.jpg?r=1550001649682",
+    "category": "Soccer"
+  },
+  "Canelo Alvarez": {
+    "label": "#4 - Canelo Alvarez",
+    "url": "https://www.pe.com/wp-content/uploads/migration/n22/n22acj-10049901canelo2binary1149361.jpg?w=535",
+    "category": "Boxing"
+  },
+  "Roger Federer": {
+    "label": "#5 - Roger Federer",
+    "url": "https://tennistonic.com/wp-content/uploads/2019/03/Rogere-Federer-reaches-the-Miami-Final.jpg",
+    "category": "Tennis"
+  },
+  "Russell Wilson": {
+    "label": "#6 - Russell Wilson",
+    "url": "https://image.cnbcfm.com/api/v1/image/105750759-1550691030283gettyimages-1125907953.jpeg?v=1550691095&w=1400&h=950",
+    "category": "Football"
+  },
+  "Aaron Rodgers": {
+    "label": "#7 - Aaron Rodgers",
+    "url": "https://i.pinimg.com/originals/a5/ff/0b/a5ff0baf30225d664f0e32dda3a2115d.jpg",
+    "category": "Football"
+  },
+  "LeBron James": {
+    "label": "#8 - LeBron James",
+    "url": "http://darudemag.com/wp-content/uploads/2019/04/lebron-james-lakers-shut-down-lead-735x400.jpg",
+    "category": "Basketball"
+  },
+  "Stephen Curry": {
+    "label": "#9 - Stephen Curry",
+    "url": "https://image.businessinsider.com/5ce4517d021b4c15701c11e2?width=1100&format=jpeg&auto=webp",
+    "category": "Basketball"
+  },
+  "Kevin Durant": {
+    "label": "#10 - Kevin Durant",
+    "url": "https://usatftw.files.wordpress.com/2019/06/kd.jpg?w=1000&h=600&crop=1",
+    "category": "Basketball"
+  },
+  "Tiger Woods": {
+    "label": "#11 - Tiger Woods",
+    "url": "https://sportsnaut.com/wp-content/uploads/2019/04/USATSI_12532707_168386999_lowres.jpg",
+    "category": "Golf"
+  },
+  "Ben Roethlisberger": {
+    "label": "#12 - Ben Roethlisberger",
+    "url": "https://fansrule.files.wordpress.com/2019/09/ben-roethlisberger.png?w=1200&h=627&crop=1",
+    "category": "Football"
+  },
+  "Lewis Hamilton": {
+    "label": "#14 - Lewis Hamilton",
+    "url": "https://www.formula1.com/content/fom-website/en/drivers/lewis-hamilton/_jcr_content/image16x9.img.1536.high.jpg",
+    "category": "Auto Racing"
+  },
+  "Anthony Joshua": {
+    "label": "#14 - Anthony Joshua",
+    "url": "https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/12/GettyImages-1192563380.jpg?quality=90&strip=all&zoom=1&resize=644%2C473&ssl=1",
+    "category": "Boxing"
+  },
+  "Khalil Mack": {
+    "label": "#15 - Khalil Mack",
+    "url": "https://specials-images.forbesimg.com/imageserve/5cfe6e024c687b0008593043/416x416.jpg?background=000000&cropX1=1101&cropX2=4230&cropY1=253&cropY2=3380",
+    "category": "Football"
+  },
+  "Russell Westbrook": {
+    "label": "#16 - Russell Westbrook",
+    "url": "https://clutchpoints.com/wp-content/uploads/2019/10/Russell-Westbrook-leaves-practice-after-bumping-knees.jpg",
+    "category": "Basketball"
+  },
+  "Novak Djokovic": {
+    "label": "#18 - Novak Djokovic",
+    "url": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2019/11/GettyImages-1186761970.jpg?quality=90&strip=all&zoom=1&resize=644%2C430&ssl=1",
+    "category": "Tennis"
+  },
+  "Mike Trout": {
+    "label": "#18 - Mike Trout",
+    "url": "https://img.bleacherreport.net/img/images/photos/003/838/226/hi-res-24329469d19e9051341377b202f37ca8_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
+    "category": "Baseball"
+  },
+  "Phil Mickelson": {
+    "label": "#19 - Phil Mickelson",
+    "url": "https://www.insidehook.com/wp-content/uploads/2019/10/GettyImages-1177514127-e1570109111313.jpg?fit=806%2C537",
+    "category": "Golf"
+  },
+  "James Harden": {
+    "label": "#20 - James Harden",
+    "url": "https://www.nba.com/rockets/sites/rockets/files/hi-res-819f35207dc403cd35144b23be41e5c0_crop_north.jpg",
+    "category": "Basketball"
+  },
+  "Conor McGregor": {
+    "label": "#21 - Conor McGregor",
+    "url": "https://cdn.heraldodemexico.com.mx/wp-content/uploads/2019/11/28224416/conor_mcgregor_regresa_ufc_artes_marciales_deportes.jpg",
+    "category": "Mixed Martial Arts"
+  },
+  "DeMarcus Lawrence": {
+    "label": "#22 - DeMarcus Lawrence",
+    "url": "https://ca-times.brightspotcdn.com/dims4/default/3aa1148/2147483647/strip/true/crop/4954x3303+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff9%2Fa0%2Fcf16a6d549e6942861ffa1991d30%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1084379938.jpg",
+    "category": "Football"
+  },
+  "Bryce Harper": {
+    "label": "#23 - Bryce Harper",
+    "url": "https://www.inquirer.com/resizer/6wF3hEHAUVUbHX-Zt2rnA1Oeexw=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/4QDQTORQQ5B7FEH4U554QJ5YFY.jpg",
+    "category": "Baseball"
+  },
+  "Chris Paul": {
+    "label": "#24 - Chris Paul",
+    "url": "https://s.yimg.com/ny/api/res/1.2/zC.ugrJqJbnQ5puCYhxKRw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/rotoworld.com/ee6dc5e4036f28418cf7deb60b5d22d6",
+    "category": "Basketball"
+  },
+  "Kyrie Irving": {
+    "label": "#25 - Kyrie Irving",
+    "url": "https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Irving_Kyrie_brk_191029.jpg",
+    "category": "Basketball"
+  },
+  "Giannis Antetokounmpo": {
+    "label": "#26 - Giannis Antetokounmpo",
+    "url": "https://sportshub.cbsistatic.com/i/r/2019/12/11/ced6fe78-68e4-4e30-8240-64aa74bf98da/thumbnail/1200x675/a567b69fb936995b9d61d8bc1957fa39/usatsi-13774015-1.jpg",
+    "category": "Basketball"
+  },
+  "Drew Brees": {
+    "label": "#27 - Drew Brees",
+    "url": "https://cdn.vox-cdn.com/thumbor/1EIkjIZM1OG-v_fEaFtWoLWu8oA=/0x0:3279x2186/1200x800/filters:focal(1325x529:1849x1053)/cdn.vox-cdn.com/uploads/chorus_image/image/65921119/usa_today_13803652.0.jpg",
+    "category": "Football"
+  },
+  "Aaron Donald": {
+    "label": "#28 - Aaron Donald",
+    "url": "https://ca-times.brightspotcdn.com/dims4/default/062da59/2147483647/strip/true/crop/720x405+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc3%2F65%2F29b3fb75006eeb44ac97efc45044%2Fla-1505358758-0fjsq0cumd-snap-image",
+    "category": "Football"
+  },
+  "Damian Lillard": {
+    "label": "#29 - Damian Lillard",
+    "url": "https://cdn.vox-cdn.com/thumbor/w0Oz-PCwCOXTs7nOjAi01oZR0pA=/0x0:3255x2169/1200x800/filters:focal(1242x122:1762x642)/cdn.vox-cdn.com/uploads/chorus_image/image/63083046/1093883274.jpg.0.jpg",
+    "category": "Basketball"
+  },
+  "Sebastian Vettel": {
+    "label": "#30 - Sebastian Vettel",
+    "url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2019/09/28162715/Sebastian-Vettel-PA4.jpg",
+    "category": "Auto Racing"
+  },
+  "Blake Griffin": {
+    "label": "#31 - Blake Griffin",
+    "url": "https://s.yimg.com/ny/api/res/1.2/s_FOyj7wJjU6opNgshjOOA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://img.huffingtonpost.com/asset/5cb4167d24000080094f6a11.jpeg",
+    "category": "Basketball"
+  },
+  "Rory McIlroy": {
+    "label": "#32 - Rory McIlroy",
+    "url": "https://cdn-02.independent.ie/incoming/article38769058.ece/742d6/AUTOCROP/w620/48NoIntent.jpg",
+    "category": "Golf"
+  },
+  "Paul George": {
+    "label": "#33 - Paul George",
+    "url": "https://img.bleacherreport.net/img/images/photos/003/841/946/hi-res-08fe6dfe62e29f06bc27b27167c87a4b_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
+    "category": "Basketball"
+  },
+  "Brandin Cooks": {
+    "label": "#34 - Brandin Cooks",
+    "url": "https://www.si.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY4MDI3MTk0NjI3NTMyMTYw/brandin-cooks-concussion-evaluationjpg.jpg",
+    "category": "Football"
+  },
+  "Kei Nishikori": {
+    "label": "#35 - Kei Nishikori",
+    "url": "https://img.kyodonews.net/english/public/images/posts/bb797631225091b77a144d0219706a7c/image_l.jpeg",
+    "category": "Tennis"
+  },
+  "Nick Foles": {
+    "label": "#36 - Nick Foles",
+    "url": "https://specials-images.forbesimg.com/imageserve/1188313236/960x0.jpg?fit=scale",
+    "category": "Football"
+  },
+  "Rafael Nadal": {
+    "label": "#37 - Rafael Nadal",
+    "url": "https://ca-times.brightspotcdn.com/dims4/default/1c763b2/2147483647/strip/true/crop/2048x1152+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F91%2Fb4%2Fa07cc3f73d045a240d2039c385d3%2Fla-1562799506-c4tf768sg5-snap-image",
+    "category": "Tennis"
+  },
+  "Manny Machado": {
+    "label": "#38 - Manny Machado",
+    "url": "https://img.bleacherreport.net/img/images/photos/003/817/644/hi-res-e54e66c2d414e6a2b499764aed9334ea_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
+    "category": "Baseball"
+  },
+  "Anthony Davis": {
+    "label": "#39 - Anthony Davis",
+    "url": "https://specials-images.forbesimg.com/imageserve/1189030491/960x0.jpg?fit=scale",
+    "category": "Basketball"
+  },
+  "Gordon Hayward": {
+    "label": "#41 - Gordon Hayward",
+    "url": "https://www.nbcsports.com/boston/sites/csnne/files/2019/12/12/gordon_hayward.jpg",
+    "category": "Basketball"
+  },
+  "Klay Thompson": {
+    "label": "#41 - Klay Thompson",
+    "url": "https://image.businessinsider.com/5d447485100a2411521db156?width=1100&format=jpeg&auto=webp",
+    "category": "Basketball"
+  },
+  "Carmelo Anthony": {
+    "label": "#42 - Carmelo Anthony",
+    "url": "https://www.denverpost.com/wp-content/uploads/2019/11/2d714d1b9fe944828bb54263b17b456b.jpg?w=525",
+    "category": "Basketball"
+  },
+  "Kyle Lowry": {
+    "label": "#43 - Kyle Lowry",
+    "url": "https://clutchpoints.com/wp-content/uploads/2019/09/thumbtemp7.jpg",
+    "category": "Basketball"
+  },
+  "Paul Pogba": {
+    "label": "#44 - Paul Pogba",
+    "url": "https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/09/PRI_86857801.jpg?quality=90&strip=all&zoom=1&resize=644%2C429&ssl=1",
+    "category": "Soccer"
+  },
+  "DeMar DeRozan": {
+    "label": "#45 - DeMar DeRozan",
+    "url": "https://cdn.vox-cdn.com/thumbor/IpTSXzN2IOxcWHZ6ifXbAoKRHG8=/0x0:4000x6000/1200x800/filters:focal(1720x2007:2360x2647)/cdn.vox-cdn.com/uploads/chorus_image/image/65877349/usa_today_13743388.0.jpg",
+    "category": "Basketball"
+  },
+  "Andres Iniesta": {
+    "label": "#46 - Andres Iniesta",
+    "url": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190107100630-andres-iniesta.jpg",
+    "category": "Soccer"
+  },
+  "Justin Rose": {
+    "label": "#47 - Justin Rose",
+    "url": "https://www.theportugalnews.com/uploads/news/Page47_Justin_Rose.jpg",
+    "category": "Golf"
+  },
+  "Joel Embiid": {
+    "label": "#48 - Joel Embiid",
+    "url": "https://www.inquirer.com/resizer/ITyxHPoZkV49WgVWrTOBBJyyMsY=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/T3ZCL5K5VRF2RCQUUSSMSY6A4E.jpg",
+    "category": "Basketball"
+  },
+  "Al Horford": {
+    "label": "#49 - Al Horford",
+    "url": "https://ca-times.brightspotcdn.com/dims4/default/46b8b01/2147483647/strip/true/crop/4000x2667+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe9%2F48%2F80903c8f4d1aa2a9b0a945398218%2F76ers-media-day-basketball-96594.jpg",
+    "category": "Basketball"
+  },
+  "David Price": {
+    "label": "#50 - David Price",
+    "url": "https://www.nbcsports.com/boston/sites/csnne/files/2019/12/11/david_price_red_sox_052819.jpg",
+    "category": "Baseball"
+  },
+  "Mike Conley Jr.": {
+    "label": "#51 - Mike Conley, Jr.",
+    "url": "https://cdn.theathletic.com/app/uploads/2019/10/23103709/Mike-Conley-e1571841969845-1024x682.jpg",
+    "category": "Basketball"
+  },
+  "Jordan Spieth": {
+    "label": "#52 - Jordan Spieth",
+    "url": "https://www.golfchannel.com/sites/default/files/2019/06/01/spieth_1920_memorial19_d3_finish.jpg",
+    "category": "Golf"
+  },
+  "Alexis Sánchez": {
+    "label": "#53 - Alexis Sánchez",
+    "url": "https://sempreinter.com/wp-content/uploads/2019/09/alexis-sanchez-10-e1569694071467.jpg",
+    "category": "Soccer"
+  },
+  "Clayton Kershaw": {
+    "label": "#54 - Clayton Kershaw",
+    "url": "https://cdn.vox-cdn.com/thumbor/SBWvjvrSybzAuDW_ppdcU_5mpBI=/0x0:3000x2214/1200x800/filters:focal(1256x594:1736x1074)/cdn.vox-cdn.com/uploads/chorus_image/image/60792621/1009963290.jpg.0.jpg",
+    "category": "Baseball"
+  },
+  "Kylian Mbappe": {
+    "label": "#55 - Kylian Mbappe",
+    "url": "https://i.dailymail.co.uk/1s/2019/12/01/12/21672410-7743601-image-a-1_1575204933401.jpg",
+    "category": "Soccer"
+  },
+  "Deontay Wilder": {
+    "label": "#56 - Deontay Wilder",
+    "url": "https://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/2017/11/deontay_wilder_anthony_joshua_heavyweight_boxing_gettyimages-870338698.jpg?itok=6rVD3INi",
+    "category": "Boxing"
+  },
+  "Trey Flowers": {
+    "label": "#57 - Trey Flowers",
+    "url": "https://cdn.vox-cdn.com/thumbor/dRiFAVEd3xWKEXLCckjwAph2TD4=/0x0:2130x1410/1200x800/filters:focal(953x453:1293x793)/cdn.vox-cdn.com/uploads/chorus_image/image/63203582/Bildschirmfoto_2019_03_08_um_15.22.35.1552054216.png",
+    "category": "Football"
+  },
+  "Mesut Ozil": {
+    "label": "#58 - Mesut Ozil",
+    "url": "https://e3.365dm.com/19/12/2048x1152/skynews-mesut-ozil_4866980.jpg",
+    "category": "Soccer"
+  },
+  "Paul Millsap": {
+    "label": "#59 - Paul Millsap",
+    "url": "https://sportshub.cbsistatic.com/i/r/2018/12/10/669a38c7-0f7b-43c9-9cae-12f9db8cdbb1/thumbnail/1200x675/f7045e45f333d64b4865950767b4f2bc/paul-millsap.jpg",
+    "category": "Basketball"
+  },
+  "Matt Ryan": {
+    "label": "#60 - Matt Ryan",
+    "url": "https://serverlessimageresize-imagebucket-1k649d8ug3han.s3.amazonaws.com/blog/2019/06/Matt-Ryan-Fantasy-Football.jpg",
+    "category": "Football"
+  },
+  "Justin Verlander": {
+    "label": "#61 - Justin Verlander",
+    "url": "https://media.spokesman.com/photos/2019/11/13/Cy_Young_Awards_Baseball2.JPG_t1200.jpg?298603a24e8d51915fce203907ff2746e482a5a6",
+    "category": "Baseball"
+  },
+  "Yoenis Cespedes": {
+    "label": "#62 - Yoenis Cespedes",
+    "url": "https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Frisingapple.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F952548506.jpeg&c=sc&w=736&h=485",
+    "category": "Baseball"
+  },
+  "Miguel Cabrera": {
+    "label": "#64 - Miguel Cabrera",
+    "url": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F6bb5fd95ea734997b3905867d209ba04%2F960x0.jpg%3Ffit%3Dscale",
+    "category": "Baseball"
+  },
+  "Serena Williams": {
+    "label": "#64 - Serena Williams",
+    "url": "https://d2me2qg8dfiw8u.cloudfront.net/content/uploads/2019/09/06082004/Serena-Williams-pointing-from-PA-752x428.jpg",
+    "category": "Tennis"
+  },
+  "Geno Atkins": {
+    "label": "#65 - Geno Atkins",
+    "url": "https://s3.amazonaws.com/bncore/wp-content/uploads/2019/09/GettyImages-1173189961-900x570.jpg",
+    "category": "Football"
+  },
+  "Oscar": {
+    "label": "#67 - Oscar",
+    "url": "https://images.daznservices.com/di/library/GOAL/de/b9/oscar-shanghai-sipg_itt86xkqj28n1mkajepxjvwbd.jpg?t=750351672&quality=100&h=300",
+    "category": "Soccer"
+  },
+  "Earl Thomas": {
+    "label": "#67 - Earl Thomas",
+    "url": "https://sports.mynorthwest.com/wp-content/uploads/2019/10/earl-thomas-seahawks-getty-620.jpg",
+    "category": "Football"
+  },
+  "Jake Arrieta": {
+    "label": "#69 - Jake Arrieta",
+    "url": "https://metsmerizedonline.com/wp-content/uploads/2019/04/jake-arrieta.jpg",
+    "category": "Baseball"
+  },
+  "C.J. McCollum": {
+    "label": "#69 - C.J. McCollum",
+    "url": "https://cdn.theathletic.com/app/uploads/2019/08/22080442/USATSI_12627101-1024x683.jpg",
+    "category": "Basketball"
+  },
+  "Kawhi Leonard": {
+    "label": "#70 - Kawhi Leonard",
+    "url": "https://ahoramismoeditorial.files.wordpress.com/2019/11/kawhi-leonard-1.jpg?quality=65&strip=all&w=780",
+    "category": "Basketball"
+  },
+  "Kevin Love": {
+    "label": "#71 - Kevin Love",
+    "url": "https://sportshub.cbsistatic.com/i/r/2019/12/12/71d759ed-8e46-41b9-a345-eb54c4b520ae/thumbnail/1200x675/71ffa7c46e595a4e33b6a807d9b244b6/kevinlove-2.jpg",
+    "category": "Basketball"
+  },
+  "Justin Houston": {
+    "label": "#72 - Justin Houston",
+    "url": "https://cdn.theathletic.com/app/uploads/2018/06/22141019/justin-houston-chiefs-1024x731.jpg",
+    "category": "Football"
+  },
+  "Albert Pujols": {
+    "label": "#73 - Albert Pujols",
+    "url": "http://www.sportsonearth.com/assets/images/5/7/6/264802576/cuts/615x348/cut@2x.JPG",
+    "category": "Baseball"
+  },
+  "Dwight Howard": {
+    "label": "#74 - Dwight Howard",
+    "url": "https://www.talkbasket.net/wp-content/uploads/2019/10/hi-res-bcdfceb226930fcd2c9db6a5479abb60_crop_north.webp",
+    "category": "Basketball"
+  },
+  "Antoine Griezmann": {
+    "label": "#75 - Antoine Griezmann",
+    "url": "https://cdn.vox-cdn.com/thumbor/vP6SX3eSPpqYnx0h16DsksT-P90=/0x0:4285x2857/1200x800/filters:focal(1780x401:2464x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/65334169/1170810116.jpg.0.jpg",
+    "category": "Soccer"
+  },
+  "Jrue Holiday": {
+    "label": "#76 - Jrue Holiday",
+    "url": "https://usathoopshype.files.wordpress.com/2019/12/usatsi_13789698.jpg?w=1000&h=600&crop=1",
+    "category": "Basketball"
+  },
+  "Giancarlo Stanton": {
+    "label": "#77 - Giancarlo Stanton",
+    "url": "https://www.sportsnet.ca/wp-content/uploads/2019/06/Giancarlo-Stanton-1040x572.jpg",
+    "category": "Baseball"
+  },
+  "Steven Adams": {
+    "label": "#78 - Steven Adams",
+    "url": "https://cdn2.newsok.biz/cache/large960_blur-67eead67e6c75b58c45598fb50fa95bb.jpg",
+    "category": "Basketball"
+  },
+  "Gareth Bale": {
+    "label": "#80 - Gareth Bale",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEr9uiUaoYuio_cH4-lrgKaoZ0cI0DS65CEpeBxjzWj-GtLYiF&s",
+    "category": "Soccer"
+  },
+  "Bradley Beal": {
+    "label": "#80 - Bradley Beal",
+    "url": "https://cdn.images.express.co.uk/img/dynamic/4/590x/Bradley-Beal-has-no-interest-in-joining-the-Lakers-1213226.jpg?r=1575500417874",
+    "category": "Basketball"
+  },
+  "Tom Brady": {
+    "label": "#81 - Tom Brady",
+    "url": "https://img.bleacherreport.net/img/images/photos/003/823/325/hi-res-2e148f9b3f3e4b3a13e44375bad339f7_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
+    "category": "Football"
+  },
+  "Andrew Luck": {
+    "label": "#83 - Andrew Luck",
+    "url": "https://img.bleacherreport.net/img/images/photos/003/775/845/hi-res-60306309de30f7427d49085ab579e8eb_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
+    "category": "Football"
+  },
+  "C.J. Mosley": {
+    "label": "#83 - C.J. Mosley",
+    "url": "https://www.tsn.ca/polopoly_fs/1.1382312!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/c-j-mosley.jpg",
+    "category": "Football"
+  },
+  "Felix Hernandez": {
+    "label": "#84 - Felix Hernandez",
+    "url": "https://sportsnaut.com/wp-content/uploads/2019/09/USATSI_13385364_168386999_lowres.jpg",
+    "category": "Baseball"
+  },
+  "Odell Beckham Jr.": {
+    "label": "#86 - Odell Beckham, Jr.",
+    "url": "https://clutchpoints.com/wp-content/uploads/2019/10/Odell-2.jpg",
+    "category": "Football"
+  },
+  "Otto Porter Jr.": {
+    "label": "#86 - Otto Porter, Jr.",
+    "url": "https://cdn.vox-cdn.com/thumbor/ar2WpZfLz5PZssdqYfmlhPpxgNc=/0x0:2905x3834/1200x800/filters:focal(1324x778:1788x1242)/cdn.vox-cdn.com/uploads/chorus_image/image/63051438/usa_today_12157347.0.jpg",
+    "category": "Basketball"
+  },
+  "Andre Drummond": {
+    "label": "#87 - Andre Drummond",
+    "url": "https://clutchpoints.com/wp-content/uploads/2018/09/Andre-Drummond.jpg",
+    "category": "Basketball"
+  },
+  "Harrison Barnes": {
+    "label": "#88 - Harrison Barnes",
+    "url": "https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Faroyalpain.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1134474341.jpeg&c=sc&w=736&h=485",
+    "category": "Basketball"
+  },
+  "Nikola Jokic": {
+    "label": "#90 - Nikola Jokic",
+    "url": "https://cdn.vox-cdn.com/thumbor/fy0jsbMsPXAN5f5aLfvq1IpMZio=/0x0:4486x2991/1200x800/filters:focal(1885x1138:2601x1854)/cdn.vox-cdn.com/uploads/chorus_image/image/65605055/1179236154.jpg.0.jpg",
+    "category": "Basketball"
+  },
+  "Hassan Whiteside": {
+    "label": "#90 - Hassan Whiteside",
+    "url": "https://s.yimg.com/uu/api/res/1.2/93KFGydne8b0PEEhRPzJXQ--~B/aD0zMDg5O3c9NDYzMztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2b971180-0263-11ea-adde-ef7d385216be",
+    "category": "Basketball"
+  },
+  "Andrew Wiggins": {
+    "label": "#91 - Andrew Wiggins",
+    "url": "https://imagesvc.timeincapp.com/v3/fan/image?url=http://hoopshabit.com/wp-content/uploads/getty-images/2018/08/928128324.jpeg&c=sc&w=3200&h=2133",
+    "category": "Basketball"
+  },
+  "Manny Pacquiao": {
+    "label": "#92 - Manny Pacquiao",
+    "url": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1097220402%2F960x0.jpg%3Ffit%3Dscale",
+    "category": "Boxing"
+  },
+  "Saquon Barkley": {
+    "label": "#93 - Saquon Barkley",
+    "url": "https://images2.minutemediacdn.com/image/upload/c_fill,w_688,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/New-York-Giants-v-Chicago-Bears-d78ae182c8039af7c6a021bf9947a87e.jpg",
+    "category": "Football"
+  },
+  "J.D. Martinez": {
+    "label": "#94 - J.D. Martinez",
+    "url": "https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.masslive.com/home/mass-media/width2048/img/redsox_impact/photo/jd-martinez-745123b1a03224ad.jpg",
+    "category": "Baseball"
+  },
+  "Gennady Golovkin": {
+    "label": "#95 - Gennady Golovkin",
+    "url": "https://specials-images.forbesimg.com/imageserve/5d9638fe4223bf0006b7a95a/960x0.jpg?fit=scale",
+    "category": "Boxing"
+  },
+  "Joey Votto": {
+    "label": "#96 - Joey Votto",
+    "url": "https://img.bleacherreport.net/img/images/photos/003/754/510/hi-res-cf03e0e9f1da17bdaa39f7c2062e3774_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
+    "category": "Baseball"
+  },
+  "Jon Lester": {
+    "label": "#97 - Jon Lester",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dxFcZhz98MsXGEGWWPq-fUEdsR_wbnBtXy4i3GtGdlYHeNKb&s",
+    "category": "Baseball"
+  },
+  "Marc Gasol": {
+    "label": "#99 - Marc Gasol",
+    "url": "https://cdn.theathletic.com/app/uploads/2019/12/14232208/USATSI_13746756-e1576385594598-1024x683.jpg",
+    "category": "Basketball"
+  },
+  "Mohamed Salah": {
+    "label": "#99 - Mohamed Salah",
+    "url": "https://e0.365dm.com/19/10/768x432/skysports-mohamed-salah-liverpool_4793639.jpg?20191002215601",
+    "category": "Soccer"
+  },
+  "Virat Kohli": {
+    "label": "#100 - Virat Kohli",
+    "url": "http://www.viralhotline.com/wp-content/uploads/2018/08/virat-kohli-century.png",
+    "category": "Cricket"
+  }
+}

@@ -1,0 +1,23 @@
+Coronavirus: Ranking Countries according to Case Fatality Rate compared to the World [28 April 2020]
+
+[Updated as of 28rd April 2020 at 8.45 ET]
+
+This video ranks countries based on the Case Fatality Rate for people that are infected with COVID-19 since March 1, 2020 up until April 28, 2020. I have also included the world average for comparison.
+
+What is Case Fatality Rate?
+Case Fatality Rate (CFR) is the percentage of total confirmed cases that resulted in deaths and can be calculated as follows:
+CFR = (total # of deaths / total # of cases) * 100.
+As an example, if there are 100 people infected, and 5 of them die, then the CFR is (5/100) * 100 = 5%.
+CFR is one of the most utilized metrics to answer the question: 'If I am infected with COVID-19, what are the chances that I will die?'. While it is the most common metric used to answer this question, it does not represent actual chance that a given person will die from the virus for 2 reasons:
+1) there are more cases around the world than what is actually reported, this is due to limited testing which varies from country to country
+2) there are active cases right now that may still result in death
+
+[Source]
+World Health Organization (WHO), CDC, Johns Hopkins University
+
+#coronavirus #covid19 #pandemic
+
+Coronavirus, covid-19, pandemic, wuhan, hubei, china, iran, italy, spain, usa, germany, france, south korea, who, outbreak, infected, disease, virus, flattenthecurve
+
+Comment
+Only countries that have reported more than 100 cases are shown in this video.

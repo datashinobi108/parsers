@@ -1,0 +1,14 @@
+Top countries by energy use per capita [1960 to 2015]
+
+Figures shown are measured in kilowatt-hours per person per year
+
+This video shows the top countries according to energy use per capita. According to the source: "energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport."
+
+[Source]
+Our World in Data
+International Energy Agency (IEA) via The World Bank
+IEA Statistics © OECD/IEA 2014 (http://www.iea.org/stats/index.asp)
+
+#Energy #Power #PerCapita
+
+energy, consumption, per capita, kilowatt, usa, china, luxembourg, qatar, uae, canada

@@ -1,0 +1,229 @@
+Liberal,157
+Conservative,121
+Bloc Québécois,32
+New Democratic Party,24
+Green Party,3
+Other,1
+
+Liberal,184
+Conservative,99
+New Democratic Party,44
+Bloc Québécois,10
+Green Party,1
+Other,0
+
+Conservative,166
+New Democratic Party,103
+Liberal,34
+Bloc Québécois,4
+Green Party,1
+Other,0
+
+Conservative,143
+Liberal,77
+Bloc Québécois,49
+New Democratic Party,37
+Green Party,0
+Other,2
+
+Conservative,124
+Liberal,103
+Bloc Québécois,51
+New Democratic Party,29
+Green Party,0
+Other,1
+
+Liberal,135
+Conservative,99
+Bloc Québécois,54
+New Democratic Party,19
+Green Party,0
+Other,1
+
+Liberal,172
+Conservative,78
+Bloc Québécois,38
+New Democratic Party,13
+Other,0
+
+Liberal,155
+Conservative,80
+Bloc Québécois,44
+New Democratic Party,21
+Other,1
+
+Liberal,177
+Bloc Québécois,54
+Conservative,54
+New Democratic Party,9
+Other,1
+
+Conservative,169
+Liberal,83
+New Democratic Party,43
+Social Credit
+Other,0
+
+Conservative,211
+Liberal,40
+New Democratic Party,30
+Other,1
+Social Credit,0
+
+Liberal,147
+Conservative,103
+New Democratic Party,32
+Social Credit,0
+Other,0
+
+Conservative,136
+Liberal,114
+New Democratic Party,26
+Social Credit,6
+Other,0
+
+Liberal,141
+Conservative,95
+New Democratic Party,16
+Social Credit,11
+Other,1
+
+Liberal,109
+Conservative,107
+New Democratic Party,31
+Social Credit,15
+Other,2
+
+Liberal,155
+Conservative,72
+New Democratic Party,22
+Other,15
+Social Credit,0
+
+Liberal,131
+Conservative,97
+New Democratic Party,21
+Other,11
+Social Credit,5
+
+Liberal,129
+Conservative,95
+Social Credit,24
+New Democratic Party,17
+Other,0
+
+Conservative,116
+Liberal,99
+Social Credit,30
+New Democratic Party,19
+Other,1
+
+Conservative,208
+Liberal,49
+New Democratic Party,8
+Social Credit,0
+Other,0
+
+Conservative,112
+Liberal,105
+New Democratic Party,25
+Social Credit,19
+Other,4
+
+Liberal,171
+Conservative,51
+New Democratic Party,23
+Social Credit,15
+Other,5
+
+Liberal,190
+Conservative,41
+New Democratic Party,13
+Social Credit,10
+Other,8
+
+Liberal,125
+Conservative,67
+New Democratic Party,28
+Social Credit,13
+Other,12
+
+Liberal,178
+Conservative,39
+Social Credit,10
+Other,10
+New Democratic Party,8
+
+Liberal,171
+Conservative,39
+Social Credit,17
+Other,11
+New Democratic Party,7
+
+Conservative,137
+Liberal,91
+Other,17
+
+Liberal,116
+Conservative,91
+Other,38
+
+Conservative,116
+Liberal,99
+Other,30
+
+Liberal,116
+Other,69
+Conservative,50
+
+Conservative,153
+Liberal,82
+Other,0
+
+Conservative,133
+Liberal,86
+Other,2
+
+Liberal,133
+Conservative,85
+Other,3
+
+Liberal,139
+Conservative,75
+Other,0
+
+Liberal,132
+Conservative,81
+Other,0
+
+Liberal,118
+Conservative,88
+Other,7
+
+Conservative,123
+Liberal,92
+Other,0
+
+Conservative,123
+Liberal,92
+Other,0
+
+Conservative,139
+Liberal,71
+Other,0
+
+Conservative,137
+Liberal,69
+Other,0
+
+Liberal,133
+Conservative,73
+Other,0
+
+Conservative,103
+Liberal,97
+Other,0
+
+Conservative,101
+Liberal,80
+Other,0
