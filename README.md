@@ -109,4 +109,6 @@ Parsers
 - 206: Top countries by avocado production (1961-2018)
 - 207: Coronavirus pandemic: Confirmed cases in Africa
 - 208: Coronavirus pandemic: Confirmed cases in Asia
-- 208: Coronavirus pandemic: Confirmed cases in Europe
+- 209: Coronavirus pandemic: Confirmed cases in Europe
+- 210: Coronavirus pandemic: Confirmed cases in the Americas
+- 211: Coronavirus pandemic: Tests performed per thousand by country
