@@ -112,3 +112,4 @@ Parsers
 - 209: Coronavirus pandemic: Confirmed cases in Europe
 - 210: Coronavirus pandemic: Confirmed cases in the Americas
 - 211: Coronavirus pandemic: Tests performed per thousand by country
+- 212: Coronavirus pandemic: Daily hospitalizations by country
