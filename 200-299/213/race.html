@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+
+  <script src="index.js"></script>
+</head>
+<body>
+  <script>
+    let fileName = 'http://localhost:8888/data.csv'
+
+    let jsonFile = 'http://localhost:8888/companies.json'
+    let youtubeLogo = 'http://localhost:8888/yt.png'
+
+    let titleText = 'Top Global Brands from 2000 to 2020';
+    let footerText = 'value: US$ million';
+
+    //  1440p
+    // var width = 2550;
+    // var height = 1400;
+
+    //  1080p
+    var width = 1900;
+    var height = 1060;
+
+    //  Mac
+    // var width = 1420;
+    // var height = 880;
+
+    var startPause = 5000;
+
+    var top_n = 20;
+
+    var fixedDomain = false
+    domainMax = 4000
+
+    var tickDuration = 250;
+    var inBetween = 20
+
+    let currentCount = 2000
+    let end = 2020
+
+    var svg = d3.select("body").append("svg")
+      .attr("width", width)
+      .attr("height", height);
+
+    const margin = {
+      top: 100,
+      right: 40,
+      bottom: 10,
+      left: 140
+    };
+
+    let barPadding = (height-(margin.bottom+margin.top))/(top_n*5);
+
+    let title = svg.append('text')
+      .attr('class', 'title')
+      .attr('x', 20)
+      .attr('y', 28)
+      .html(titleText);
+
+    let subTitle = svg.append("text")
+      .attr("class", "subTitle")
+      .attr('x', 20)
+      .attr("y", 60)
+      .html(footerText);
+
+    let youtubeText = svg.append('text')
+      .attr('class', 'caption')
+      .attr('x', width - 170)
+      .attr('y', 38)
+      .style('text-anchor', 'center')
+      .html('/statpanda');
+
+    let youtubeImage = svg.append("svg:image")
+      .attr('x', width - 210)
+      .attr('y', 10)
+      .attr('width', 40)
+      .attr('height', 40)
+      .style('text-anchor', 'end')
+      .attr("xlink:href", youtubeLogo)
+
+    d3.json(jsonFile).then((json) => {
+      d3.csv(fileName).then(function(data) {
+        //if (error) throw error;
+
+        // console.log(data);
+
+        dateValues = Array.from(d3.rollup(data, ([d]) => d.value, d => +d.date, d => d.name))
+          .reduce(function(map, [time, data]) {
+            map[time] = data;
+            return map;
+          }, {});
+
+        let carryOver = {};
+        let dataPoints = [];
+
+        data.forEach(function(d) {
+          if (d.name) {
+            const info = json[d.name];
+            d.value = +d.value
+            d.lastValue = d.value
+            if (d.date - 1 >= currentCount) {
+              if (dateValues[d.date - 1] != null && dateValues[d.date - 1].get(d.name) != null)
+                d.lastValue = dateValues[d.date - 1].get(d.name)
+            }
+            d.lastValue = +d.lastValue
+            d.value = isNaN(d.value) ? 0 : d.value
+            d.date = +d.date
+            d.colour = d3.hsl(Math.random()*360,0.75,0.75)
+
+            if (info != null) {
+              d.image = info.url;
+            }
+
+            // For each inBetween i, add .i to date
+            // intr = d3.interpolate(d.lastValue, d.value)
+            //
+
+            if (d.date == currentCount) {
+              carryOver[d.name] = d.lastValue;
+            }
+
+            if (d.date - 1 >= currentCount) {
+              for (var i = 0; i < inBetween; i++) {
+                let newDataPoint = Object.assign({}, d);
+                let inBetweenPoint = i/inBetween;
+                let lastBetweenPoint = (i-1)/inBetween;
+                let inBetweenDate = (newDataPoint.date - 1 + inBetweenPoint);
+
+                newDataPoint.date = inBetweenDate;
+                intr = d3.interpolate(newDataPoint.lastValue, newDataPoint.value)
+                newDataPoint.value = intr(inBetweenPoint);
+                if (i == 0) {
+                  newDataPoint.lastValue = carryOver[d.name]
+                } else {
+                  newDataPoint.lastValue = intr(lastBetweenPoint);
+                }
+
+                if (i+1 == inBetween) {
+                  carryOver[d.name] = newDataPoint.value;
+                }
+
+                dataPoints.push(newDataPoint);
+              }
+            }
+
+            if (d.date == end) {
+              d.lastValue = carryOver[d.name]
+              dataPoints.push(d);
+            }
+          }
+        });
+
+        // init
+        let beginning = data.filter(d => d.date == currentCount && !isNaN(d.value))
+          .sort((a,b) => b.value - a.value)
+          .slice(0, top_n);
+
+        beginning.forEach((d,i) => d.rank = i);
+
+        let x = d3.scaleLinear()
+          .domain([0, fixedDomain ? domainMax : d3.max(beginning, d => d.value)])
+          .range([margin.left, width-margin.right-65]);
+
+        let y = d3.scaleLinear()
+          .domain([top_n, 0])
+          .range([height-margin.bottom, margin.top]);
+
+        let xAxis = d3.axisTop()
+          .scale(x)
+          .ticks(width > 500 ? 5 : 2)
+          .tickSize(-(height-margin.top-margin.bottom))
+          .tickFormat(d => d3.format(',')(d));
+
+        svg.append('g')
+         .attr('class', 'axis xAxis')
+         .attr('transform', `translate(0, ${margin.top})`)
+         .call(xAxis)
+         .selectAll('.tick line')
+         .classed('origin', d => d == 0);
+
+        // Bars
+        svg.selectAll('rect.bar')
+          .data(beginning, d => d.name)
+          .enter()
+          .append('rect')
+          .attr('class', 'bar')
+          .attr('x', x(0)+1)
+          .attr('width', d => x(d.value)-x(0)-1)
+          .attr('y', d => y(d.rank)+5)
+          .attr('height', y(1)-y(0)-barPadding)
+          .style('fill', d => d.colour);
+
+        // Labels
+        svg.selectAll('text.label')
+          .data(beginning, d => d.name)
+          .enter()
+          .append('text')
+          .attr('class', 'label')
+          .attr('x', d => x(d.value)-8)
+          .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1)
+          .style('text-anchor', 'end')
+          .html(d => d.name);
+
+        // Values
+        svg.selectAll('text.valueLabel')
+          .data(beginning, d => d.name)
+          .enter()
+          .append('text')
+          .attr('class', 'valueLabel')
+          .attr('x', d => x(d.value)+5)
+          .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1)
+          .text(d => d3.format(',.0f')(d.lastValue));
+
+        // Ranks
+        // svg.selectAll('text.rank')
+        //   .data(beginning, d => d.name)
+        //   .enter()
+        //   .append('text')
+        //   .attr('class', 'rank')
+        //   .attr('x', 50)
+        //   .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1)
+        //   .text(d => d.rank + 1);
+
+        // images
+        svg.selectAll('.image')
+          .data(beginning, d => d.name)
+          .enter()
+          .append("image")
+          .attr('class', 'image')
+          .attr('x', 25)
+          .attr('y', d => y(d.rank)-15+((y(1)-y(0))/2)+1)
+          .attr('height', 30)
+          .attr('width', 100)
+          .attr('preserveAspectRatio', 'xMidYMid meet')
+          .style('text-anchor', 'start')
+          .attr("xlink:href", d => d.image)
+
+
+        let timeText = svg.append('text')
+          .attr('class', 'timeText')
+          .attr('x', width-margin.right)
+          .attr('y', height-40)
+          .style('text-anchor', 'end')
+          .html(~~currentCount);
+
+        // Next iterations
+        setTimeout(function () {
+          let ticker = d3.interval(e => {
+            timeSlice = dataPoints.filter(d => d.date == currentCount && !isNaN(d.value))
+              .sort((a,b) => b.value - a.value)
+              .slice(0, top_n);
+
+            timeSlice.forEach((d,i) => d.rank = i);
+
+            x.domain([0, fixedDomain ? domainMax : d3.max(timeSlice, d => d.value)])
+
+            svg.select('.xAxis')
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .call(xAxis);
+
+            let bars = svg.selectAll('.bar').data(timeSlice, d => d.name);
+
+            bars
+              .enter()
+              .append('rect')
+              .attr('class', d => `bar ${d.name.replace(/\s/g,'_')}`)
+              .attr('x', x(0)+1)
+              .attr('width', d => x(d.value)-x(0)-1)
+              .attr('y', d => y(top_n+1)+5)
+              .attr('height', y(1)-y(0)-barPadding)
+              .style('fill', d => d.colour)
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('y', d => y(d.rank)+5)
+
+            bars
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('width', d => x(d.value)-x(0)-1)
+              .attr('y', d => y(d.rank)+5);
+
+            bars
+              .exit()
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('width', d => x(d.value)-x(0)-1)
+              .attr('y', d => y(top_n+1)+margin.bottom)
+              .remove();
+
+            let labels = svg.selectAll('.label')
+              .data(timeSlice, d => d.name);
+
+            labels
+              .enter()
+              .append('text')
+              .attr('class', 'label')
+              .attr('x', d => x(d.value)-8)
+              .attr('y', d => y(top_n+1)+5+((y(1)-y(0))/2))
+              .style('text-anchor', 'end')
+              .html(d => d.name)
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1);
+
+            labels
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('x', d => x(d.value)-8)
+              .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1);
+
+            labels
+              .exit()
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('x', d => x(d.value)-8)
+              .attr('y', d => y(top_n+1)+margin.bottom)
+              .remove();
+
+            let valueLabels = svg.selectAll('.valueLabel').data(timeSlice, d => d.name);
+
+            valueLabels
+              .enter()
+              .append('text')
+              .attr('class', 'valueLabel')
+              .attr('x', d => x(d.value)+5)
+              .attr('y', d => y(top_n+1)+5)
+              .text(d => d3.format(',.0f')(d.lastValue))
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1);
+
+            valueLabels
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('x', d => x(d.value)+5)
+              .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1)
+              .tween("text", function(d) {
+                 let i = d3.interpolateRound(d.lastValue, d.value);
+                 return function(t) {
+                   this.textContent = d3.format(',')(i(t));
+                };
+              });
+
+            valueLabels
+              .exit()
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('x', d => x(d.value)+5)
+              .attr('y', d => y(top_n+1)+margin.bottom)
+              .remove();
+
+            // let ranks = svg.selectAll('.rank')
+            //   .data(timeSlice, d => d.name);
+            //
+            // ranks
+            //   .enter()
+            //   .append('text')
+            //   .attr('class', 'rank')
+            //   .attr('x', 60)
+            //   .attr('y', d => y(top_n+1)+5+((y(1)-y(0))/2))
+            //   .style('text-anchor', 'start')
+            //   .text(d => d.rank + 1)
+            //   .transition()
+            //   .duration(tickDuration)
+            //   .ease(d3.easeLinear)
+            //   .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1);
+            //
+            // ranks
+            //   .transition()
+            //   .duration(tickDuration)
+            //   .ease(d3.easeLinear)
+            //   .text(d => d.rank + 1)
+            //   .attr('x', 60)
+            //   .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1);
+            //
+            // ranks
+            //   .exit()
+            //   .transition()
+            //   .duration(tickDuration)
+            //   .ease(d3.easeLinear)
+            //   .attr('x', 60)
+            //   .attr('y', d => y(top_n+1)+5)
+            //   .remove();
+
+            let images = svg.selectAll('.image')
+              .data(timeSlice, d => d.name);
+
+            images
+              .enter()
+              .append("image")
+              .attr('class', 'image')
+              .attr('x', 25)
+              .attr('y', d => y(d.rank)-15+((y(1)-y(0))/2)+1)
+              .attr('height', 30)
+              .attr('width', 100)
+              .attr('preserveAspectRatio', 'xMidYMid meet')
+              .style('text-anchor', 'start')
+              .attr("xlink:href", d => d.image)
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+
+            images
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr("xlink:href", d => d.image)
+              .attr('x', 25)
+              .attr('y', d => y(d.rank)-15+((y(1)-y(0))/2)+1);
+
+            images
+              .exit()
+              .transition()
+              .duration(tickDuration)
+              .ease(d3.easeLinear)
+              .attr('x', 60)
+              .attr('y', d => y(top_n+1)+margin.bottom)
+              .remove();
+
+            timeText.html(~~currentCount);
+
+           if(currentCount == end) ticker.stop();
+
+           currentCount = d3.format('.3f')((+currentCount) + 1/inBetween);
+          }, tickDuration);
+        }, startPause);
+      });
+    });
+  </script>
+</body>

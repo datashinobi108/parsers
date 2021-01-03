@@ -1,0 +1,482 @@
+{
+  "Apple": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/160px-Apple_logo_black.svg.png",
+    "category": "USA"
+  },
+  "Microsoft": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/440px-Microsoft_logo_%282012%29.svg.png",
+    "category": "USA"
+  },
+  "Amazon": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/350px-Amazon_logo.svg.png",
+    "category": "USA"
+  },
+  "Google": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/250px-Google_2015_logo.svg.png",
+    "category": "USA"
+  },
+  "Berkshire Hathaway": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berkshire_Hathaway.svg/500px-Berkshire_Hathaway.svg.png",
+    "category": "USA"
+  },
+  "Facebook": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Facebook_Logo_%282019%29.svg/500px-Facebook_Logo_%282019%29.svg.png",
+    "category": "USA"
+  },
+  "Alibaba": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Alibaba-Group-Logo.svg/440px-Alibaba-Group-Logo.svg.png",
+    "category": "China"
+  },
+  "Tencent Holdings": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tencent_Logo.svg/440px-Tencent_Logo.svg.png",
+    "category": "China"
+  },
+  "J.P. Morgan": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/J_P_Morgan_Chase_Logo_2008_1.svg/440px-J_P_Morgan_Chase_Logo_2008_1.svg.png",
+    "category": "USA"
+  },
+  "Johnson & Johnson": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/JohnsonandJohnsonLogo.svg/440px-JohnsonandJohnsonLogo.svg.png",
+    "category": "USA"
+  },
+  "Visa": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Visa_2014_logo_detail.svg/350px-Visa_2014_logo_detail.svg.png",
+    "category": "USA"
+  },
+  "ExxonMobil": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Exxon_Mobil_Logo.svg/440px-Exxon_Mobil_Logo.svg.png",
+    "category": "USA"
+  },
+  "ICBC": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Industrial_and_Commercial_Bank_of_China_logo.svg/500px-Industrial_and_Commercial_Bank_of_China_logo.svg.png",
+    "category": "China"
+  },
+  "Walmart": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/440px-Walmart_logo.svg.png",
+    "category": "USA"
+  },
+  "Bank of America": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bank_of_America_logo.svg/440px-Bank_of_America_logo.svg.png",
+    "category": "USA"
+  },
+  "Nestle": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Nestl%C3%A9.svg/440px-Nestl%C3%A9.svg.png",
+    "category": "Switzerland"
+  },
+  "Samsung": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Samsung_wordmark.svg/440px-Samsung_wordmark.svg.png",
+    "category": "Korea"
+  },
+  "Procter & Gamble": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png",
+    "category": "USA"
+  },
+  "Royal Dutch Shell": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/240px-Shell_logo.svg.png",
+    "category": "Netherlands"
+  },
+  "Intel": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Intel_logo_%282020%2C_dark_blue%29.svg/165px-Intel_logo_%282020%2C_dark_blue%29.svg.png",
+    "category": "USA"
+  },
+  "Cisco Systems": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/440px-Cisco_logo_blue_2016.svg.png",
+    "category": "USA"
+  },
+  "Mastercard": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mastercard_2019_logo.svg/400px-Mastercard_2019_logo.svg.png",
+    "category": "USA"
+  },
+  "Verizon Communications": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Verizon_2015_logo_-vector.svg/440px-Verizon_2015_logo_-vector.svg.png",
+    "category": "USA"
+  },
+  "Disney": {
+    "url": "https://i.pinimg.com/originals/90/38/a4/9038a431f8f2064eff5abcf4f25d9870.png",
+    "category": "USA"
+  },
+  "AT&T": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AT%26T_logo_2016.svg/300px-AT%26T_logo_2016.svg.png",
+    "category": "USA"
+  },
+  "Chevron": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chevron_Logo.svg/240px-Chevron_Logo.svg.png",
+    "category": "USA"
+  },
+  "Home Depot": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TheHomeDepot.svg/400px-TheHomeDepot.svg.png",
+    "category": "USA"
+  },
+  "China Construction Bank": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/China_Construction_Bank.svg/500px-China_Construction_Bank.svg.png",
+    "category": "China"
+  },
+  "Nike": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/440px-Logo_NIKE.svg.png",
+    "category": "USA"
+  },
+  "Taiwan Semiconductor": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/400px-Tsmc.svg.png",
+    "category": "Taiwan"
+  },
+  "Roche Holding": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hoffmann-La_Roche_logo.svg/340px-Hoffmann-La_Roche_logo.svg.png",
+    "category": "Switzerland"
+  },
+  "Ping An Insurance Group": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Ping_An_Insurance_logo.svg/400px-Ping_An_Insurance_logo.svg.png",
+    "category": "China"
+  },
+  "Pfizer": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pfizer.svg/300px-Pfizer.svg.png",
+    "category": "USA"
+  },
+  "Wells Fargo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wells_Fargo_Bank.svg/350px-Wells_Fargo_Bank.svg.png",
+    "category": "USA"
+  },
+  "Boeing": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Boeing_full_logo.svg/440px-Boeing_full_logo.svg.png",
+    "category": "USA"
+  },
+  "UnitedHealth Group": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/UnitedHealth_Group_logo.svg/440px-UnitedHealth_Group_logo.svg.png",
+    "category": "USA"
+  },
+  "Coca-Cola": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/440px-Coca-Cola_logo.svg.png",
+    "category": "USA"
+  },
+  "PetroChina": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Petrochina_logo.svg/200px-Petrochina_logo.svg.png",
+    "category": "China"
+  },
+  "China Mobile": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/China_Mobile_Logo.svg/440px-China_Mobile_Logo.svg.png",
+    "category": "Hong Kong"
+  },
+  "Agricultural Bank of China": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Agricultural_Bank_of_China_logo.svg/600px-Agricultural_Bank_of_China_logo.svg.png",
+    "category": "China"
+  },
+  "Comcast": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Comcast_Logo.svg/440px-Comcast_Logo.svg.png",
+    "category": "USA"
+  },
+  "Merck & Co.": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Merck_Logo.svg/400px-Merck_Logo.svg.png",
+    "category": "USA"
+  },
+  "Oracle": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/440px-Oracle_Logo.svg.png",
+    "category": "USA"
+  },
+  "PepsiCo": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Pepsico_logo.svg/440px-Pepsico_logo.svg.png",
+    "category": "USA"
+  },
+  "Kweichow Moutai": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kweichow_Moutai_Logo.png/260px-Kweichow_Moutai_Logo.png",
+    "category": "China"
+  },
+  "Toyota": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Toyota.png/440px-Toyota.png",
+    "category": "Japan"
+  },
+  "Anheuser-Busch InBev": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Anheuser-Busch_InBev_text_logo.svg/440px-Anheuser-Busch_InBev_text_logo.svg.png",
+    "category": "Belgium"
+  },
+  "Novartis": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Novartis-Logo.svg/440px-Novartis-Logo.svg.png",
+    "category": "Switzerland"
+  },
+  "HSBC Holdings": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/440px-HSBC_logo_%282018%29.svg.png",
+    "category": "UK"
+  },
+  "Citigroup": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Citi.svg/300px-Citi.svg.png",
+    "category": "USA"
+  },
+  "Netflix": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/340px-Netflix_2015_logo.svg.png",
+    "category": "USA"
+  },
+  "Unilever": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Unilever.svg/240px-Unilever.svg.png",
+    "category": "Netherlands"
+  },
+  "L'Oréal": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/440px-L%27Or%C3%A9al_logo.svg.png",
+    "category": "France"
+  },
+  "BP": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/BP_Helios_logo.svg/440px-BP_Helios_logo.svg.png",
+    "category": "UK"
+  },
+  "Total": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Total_logo.svg/440px-Total_logo.svg.png",
+    "category": "France"
+  },
+  "McDonald's": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/400px-McDonald%27s_Golden_Arches.svg.png",
+    "category": "USA"
+  },
+  "Bank of China": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Bank_of_China_logo.jpg/500px-Bank_of_China_logo.jpg",
+    "category": "China"
+  },
+  "BHP Group": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BHP_2017_logo.svg/310px-BHP_2017_logo.svg.png",
+    "category": "Australia"
+  },
+  "SAP": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/440px-SAP_2011_logo.svg.png",
+    "category": "Germany"
+  },
+  "Adobe": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Adobe_logo_and_wordmark_%282017%29.svg/440px-Adobe_logo_and_wordmark_%282017%29.svg.png",
+    "category": "USA"
+  },
+  "Philip Morris International": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Philip_Morris_International.svg/500px-Philip_Morris_International.svg.png",
+    "category": "USA"
+  },
+  "China Merchants Bank": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/China_Merchants_Bank_logo.svg/440px-China_Merchants_Bank_logo.svg.png",
+    "category": "China"
+  },
+  "Abbott Laboratories": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/AbbottLaboratories.svg/440px-AbbottLaboratories.svg.png",
+    "category": "USA"
+  },
+  "Reliance Industries": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Reliance_Industries_Logo.svg/440px-Reliance_Industries_Logo.svg.png",
+    "category": "India"
+  },
+  "Broadcom": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Broadcom_Ltd_Logo.svg/440px-Broadcom_Ltd_Logo.svg.png",
+    "category": "USA"
+  },
+  "3M": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/3M_wordmark.svg/400px-3M_wordmark.svg.png",
+    "category": "USA"
+  },
+  "PayPal": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/460px-PayPal.svg.png",
+    "category": "USA"
+  },
+  "Union Pacific": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Union_pacific_railroad_logo.svg/300px-Union_pacific_railroad_logo.svg.png",
+    "category": "USA"
+  },
+  "IBM": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/500px-IBM_logo.svg.png",
+    "category": "USA"
+  },
+  "Honeywell International": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Honeywell_logo.svg/440px-Honeywell_logo.svg.png",
+    "category": "USA"
+  },
+  "AIA Group": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/AIA_Group_logo.svg/440px-AIA_Group_logo.svg.png",
+    "category": "Hong Kong"
+  },
+  "Salesforce.com": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Salesforce_logo.svg/300px-Salesforce_logo.svg.png",
+    "category": "USA"
+  },
+  "Eli Lilly": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/440px-Eli_Lilly_and_Company.svg.png",
+    "category": "USA"
+  },
+  "United Technologies": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/United_Technologies.svg/440px-United_Technologies.svg.png",
+    "category": "USA"
+  },
+  "Novo Nordisk": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Novo_Nordisk.svg/400px-Novo_Nordisk.svg.png",
+    "category": "Denmark"
+  },
+  "Tata Consultancy Services": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/500px-Tata_Consultancy_Services_Logo.svg.png",
+    "category": "India"
+  },
+  "RBC": {
+    "url": "https://cdn.freebiesupply.com/logos/thumbs/2x/rbc-4-logo.png",
+    "category": "Canada"
+  },
+  "AbbVie": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/AbbVie_logo.svg/440px-AbbVie_logo.svg.png",
+    "category": "USA"
+  },
+  "China Life Insurance": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/China_Life_logo_3.svg/440px-China_Life_logo_3.svg.png",
+    "category": "China"
+  },
+  "Accenture": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/400px-Accenture.svg.png",
+    "category": "Ireland"
+  },
+  "NVIDIA": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Nvidia_image_logo.svg/400px-Nvidia_image_logo.svg.png",
+    "category": "USA"
+  },
+  "Medtronic": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Medtronic_logo.svg/440px-Medtronic_logo.svg.png",
+    "category": "Ireland"
+  },
+  "Softbank": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Softbank_mobile_logo.svg/400px-Softbank_mobile_logo.svg.png",
+    "category": "Japan"
+  },
+  "Naspers": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Naspers.svg/440px-Naspers.svg.png",
+    "category": "South Africa"
+  },
+  "Amgen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Amgen.svg/500px-Amgen.svg.png",
+    "category": "USA"
+  },
+  "Texas Instruments": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Texas_Instruments_Logo.svg/440px-Texas_Instruments_Logo.svg.png",
+    "category": "USA"
+  },
+  "Costco Wholesale": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Costco_Wholesale_logo_2010-10-26.svg/440px-Costco_Wholesale_logo_2010-10-26.svg.png",
+    "category": "USA"
+  },
+  "Sinopec": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Sinopec.svg/200px-Sinopec.svg.png",
+    "category": "China"
+  },
+  "AIRBUS": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Airbus_Logo_2017.svg/500px-Airbus_Logo_2017.svg.png",
+    "category": "Netherlands"
+  },
+  "Thermo Fisher Scientific": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Thermo_Fisher_Scientific_logo.svg/400px-Thermo_Fisher_Scientific_logo.svg.png",
+    "category": "USA"
+  },
+  "TD Bank Group": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Toronto-Dominion_Bank_logo.svg/420px-Toronto-Dominion_Bank_logo.svg.png",
+    "category": "Canada"
+  },
+  "Allianz": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Allianz.svg/440px-Allianz.svg.png",
+    "category": "Germany"
+  },
+  "Sanofi": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Sanofi.svg/300px-Sanofi.svg.png",
+    "category": "France"
+  },
+  "Altria Group": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Altria_logo.svg/440px-Altria_logo.svg.png",
+    "category": "USA"
+  },
+  "Saudi Basic Industries": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/SABIC_logo.svg/440px-SABIC_logo.svg.png",
+    "category": "Saudi Arabia"
+  },
+  "Rio Tinto": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rio_Tinto.svg/360px-Rio_Tinto.svg.png",
+    "category": "UK"
+  },
+  "AstraZeneca": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/AstraZeneca.svg/440px-AstraZeneca.svg.png",
+    "category": "UK"
+  },
+  "Linde": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TheLindeGroup-Logo.svg/1200px-TheLindeGroup-Logo.svg.png",
+    "category": "UK"
+  },
+  "United Parcel Service": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/UPS_Logo_Shield_2017.svg/350px-UPS_Logo_Shield_2017.svg.png",
+    "category": "USA"
+  },
+  "Inditex": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Inditex.svg/500px-Inditex.svg.png",
+    "category": "Spain"
+  },
+  "L. Vuitton": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Vuitton_logo_and_wordmark.svg/110px-Louis_Vuitton_logo_and_wordmark.svg.png",
+    "category": "France"
+  },
+  "GE": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/General_Electric_logo.svg/200px-General_Electric_logo.svg.png",
+    "category": "USA"
+  },
+  "Nokia": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nokia_wordmark.svg/250px-Nokia_wordmark.svg.png",
+    "category": "Finland"
+  },
+  "BMW": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/220px-BMW.svg.png",
+    "category": "Germany"
+  },
+  "Mercedes-Benz": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png",
+    "category": "Germany"
+  },
+  "Cisco": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/220px-Cisco_logo_blue_2016.svg.png",
+    "category": "USA"
+  },
+  "Gillette": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gillette.svg/220px-Gillette.svg.png",
+    "category": "USA"
+  },
+  "Honda": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Honda_logo.svg/220px-Honda_logo.svg.png",
+    "category": "Japan"
+  },
+  "Chanel": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chanel_logo.svg/170px-Chanel_logo.svg.png",
+    "category": "France"
+  },
+  "American Express": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/American_Express_logo_%282018%29.svg/150px-American_Express_logo_%282018%29.svg.png",
+    "category": "USA"
+  },
+  "Pepsi": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pepsi_logo_new.svg/220px-Pepsi_logo_new.svg.png",
+    "category": "USA"
+  },
+  "IKEA": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ikea_logo.svg/220px-Ikea_logo.svg.png",
+    "category": "Sweden"
+  },
+  "Marlboro": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Marlboro_Logo.svg/170px-Marlboro_Logo.svg.png",
+    "category": "USA"
+  },
+  "Citi": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Citi.svg/150px-Citi.svg.png",
+    "category": "USA"
+  },
+  "HP": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/120px-HP_logo_2012.svg.png",
+    "category": "USA"
+  },
+  "Ford": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/220px-Ford_logo_flat.svg.png",
+    "category": "USA"
+  },
+  "Sony": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/220px-Sony_logo.svg.png",
+    "category": "Japan"
+  },
+  "Merrill Lynch": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Merrill_Logo_2019.svg/220px-Merrill_Logo_2019.svg.png",
+    "category": "USA"
+  },
+  "H&M": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/H%26M-Logo.svg/220px-H%26M-Logo.svg.png",
+    "category": "USA"
+  },
+  "Instagram": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png",
+    "category": "USA"
+  }
+}

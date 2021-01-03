@@ -1,5 +1,8 @@
 Parsers
 
+Data Shinobi
+dataShinobi108@gmail.com
+
 - 100: Best Football Clubs in the English Top Division League (1888-2019)
 - 101: Most Dominant Political Parties in Canada (1867-2019) *
 - 102: Countries with the highest CO2 emissions (1850-2017)
@@ -113,3 +116,4 @@ Parsers
 - 210: Coronavirus pandemic: Confirmed cases in the Americas
 - 211: Coronavirus pandemic: Tests performed per thousand by country
 - 212: Coronavirus pandemic: Daily hospitalizations by country
+- 213: Top global brands (2000-2020)
