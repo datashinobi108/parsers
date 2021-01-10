@@ -1,0 +1,1928 @@
+rank,date,name,value,category
+1,2021,Elon Musk,189.7,United States
+2,2021,Jeff Bezos,185.7,United States
+3,2021,Bernard Arnault,155.4,France
+4,2021,Bill Gates,122,United States
+5,2021,Mark Zuckerberg,97.9,United States
+6,2021,Zhong Shanshan,95.6,China
+7,2021,Larry Ellison,89.4,United States
+8,2021,Warren Buffett,88.6,United States
+9,2021,Larry Page,79.2,United States
+10,2021,Sergey Brin,77.0,United States
+11,2021,Amancio Ortega,75.9,Spain
+1,2020,Jeff Bezos,113,United States
+2,2020,Bill Gates,98,United States
+4,2020,Bernard Arnault,76,France
+3,2020,Warren Buffett,67.5,United States
+5,2020,Larry Ellison,59,United States
+6,2020,Amancio Ortega,55.1,Spain
+7,2020,Mark Zuckerberg,54.7,United States
+8,2020,Jim Walton,54.6,United States
+9,2020,Alice Walton,54.4,United States
+10,2020,S. Robson Walton,54.1,United States
+11,2020,Steve Ballmer,52.7,United States
+12,2020,Carlos Slim Helu,52.1,Mexico
+13,2020,Larry Page,50.9,nited States
+14,2020,Sergey Brin,49.1,United States
+15,2020,Francoise Bettencourt,48.9,France
+31,2020,Elon Musk,24.6,United States
+1063,2020,Zhong Shanshan,2,China
+1,2019,Jeff Bezos,131,United States
+2,2019,Bill Gates,96.5,United States
+3,2019,Warren Buffett,82.5,United States
+4,2019,Bernard Arnault,76,France
+5,2019,Carlos Slim Helu,64,Mexico
+6,2019,Amancio Ortega,62.7,Spain
+7,2019,Larry Ellison,62.5,United States
+8,2019,Mark Zuckerberg,62.3,United States
+9,2019,Michael Bloomberg,55.5,United States
+10,2019,Larry Page,50.8,United States
+11,2019,Sergey Brin,59.3,United States
+12,2019,Francoise Bettencourt,58.2,France
+14,2019,Mukesh Ambani,56.9,India
+15,2019,S. Robson Walton,53.3,United States
+16,2019,Steve Ballmer,53.1,United States
+17,2019,Jim Walton,53.1,United States
+18,2019,Alice Walton,52.2,United States
+19,2019,Jacqueline Mars,42,United States
+20,2019,John Mars,42,United States
+21,2019,Jack Ma,41.6,China
+22,2019,Francois Pinault,37.3,France
+23,2019,MacKenzie Bezos,35.7,United States
+24,2019,Phil Knight,35.1,United States
+25,2019,Sheldon Adelson,35,United States
+26,2019,Pony Ma,33.2,China
+27,2019,Tadashi Yanai,31.7,Japan
+28,2019,Michael Dell,31.1,United States
+29,2019,Giovanni Ferrero,30.2,Italy
+30,2019,Li Ka-Shing,28.2,Hong Kong
+31,2019,Alain Wertheimer,27.6,France
+32,2019,Gerard Wertheimer,27.6,France
+33,2019,Hui Ka Yan,26.7,China
+34,2019,Vladimir Potanin,26.3,Russian Federation
+35,2019,Elon Musk,25.8,United States
+36,2019,Len Blavatnik,25.6,United States
+37,2019,Dieter Schwarz,25.3,Germany
+38,2019,Leonardo del Vecchio,24.7,Italy
+39,2019,Lee Shau Kee,24.3,Hong Kong
+40,2019,Leonid Mikhelson,23.9,Russian Federation
+41,2019,Yang Huiyan,23.7,China
+42,2019,Laurene Powell Jobs,23.7,United States
+43,2019,Jorge Paulo Lemann,22.6,Brazil
+44,2019,Pallonji Mistry,22.4,Ireland
+45,2019,Colin Huang,21.2,China
+46,2019,Elaine Marshall,21,United States
+47,2019,Carl Icahn,20.7,United States
+48,2019,Jim Simons,20.7,United States
+49,2019,Leonard Lauder,20.6,United States
+50,2019,Charoen Sirivadhanabhakdi,20.5,Thailand
+51,2019,Vagit Alekperov,20.4,Russian Federation
+52,2019,Stefan Persson,20.3,Sweden
+53,2019,Azim Premji,20,India
+54,2019,Susanne Klatten,19.7,Germany
+55,2019,He Xiangjian,19.3,China
+56,2019,Vladimir Lisin,19.2,Russian Federation
+57,2019,Takemitsu Takizaki,18.8,Japan
+58,2019,Jim Ratcliffe,18.7,United Kingdom
+59,2019,Alexey Mordashov,18.5,Russian Federation
+60,2019,Lukas Walton,18.5,United States
+61,2019,Gennady Timchenko,18.2,Russian Federation
+62,2019,Joseph Safra,18.1,Brazil
+63,2019,Steve Schwarzman,17.7,United States
+64,2019,Lee Kun Hee,17.7,"Korea, Republic of"
+65,2019,Ernesto Bertarelli,17.2,Switzerland
+66,2019,William Ding,17.1,China
+67,2019,Klaus-Michael Kuehne,16.9,Germany
+68,2019,Lui Che Woo,16.9,Hong Kong
+69,2019,Ray Dalio,16.6,United States
+70,2019,Abby Johnson,16.5,United States
+71,2019,John Menard Jr,16.5,United States
+72,2019,Heinz Hermann Thiele,16.5,Germany
+73,2019,Henry Cheng,16.4,Hong Kong
+74,2019,Stefan Quandt,16.3,Germany
+75,2019,Donald Bren,16.2,United States
+76,2019,Robert Kuok,16.2,Malaysia
+77,2019,Shiv Nadar,16.1,India
+78,2019,Lee Man Tat,15.9,Hong Kong
+79,2019,Carl Cook,15.9,United States
+80,2019,Gina Rinehart,15.8,Australia
+81,2019,Alisher Usmanov,15.8,Russian Federation
+82,2019,Budi Hartono,15.8,Indonesia
+83,2019,Charlene de Carvalho-Heineken,15.7,Netherlands
+84,2019,Thomas Peterffy,15.4,United States
+85,2019,Roman Abramovich,15.3,Russian Federation
+86,2019,Aliko Dangote,15.3,Nigeria
+87,2019,Donald Newhouse,15,United States
+88,2019,Iris Fontbona,15,Chile
+89,2019,Wang Jianlin,14.8,China
+90,2019,Hasso Plattner,14.8,Germany
+91,2019,Michael Hartono,14.8,Indonesia
+92,2019,Eric Schmidt,14.7,United States
+93,2019,Alwaleed Al Saud,14.5,Saudi Arabia
+94,2019,Andrey Melnichenko,14.5,Russian Federation
+95,2019,Viktor Vekselberg,14.2,Russian Federation
+96,2019,Ricardo Salinas,14,Mexico
+97,2019,Uday Kotak,13.9,India
+98,2019,Masayoshi Son,13.9,Japan
+99,2019,Zhang Zhidong,13.8,China
+100,2019,Sun Piaoyang,13.7,China
+1,2018,Jeff Bezos,112,United States
+2,2018,Bill Gates,90,United States
+3,2018,Warren Buffett,84,United States
+4,2018,Bernard Arnault,72,France
+5,2018,Mark Zuckerberg,71,United States
+6,2018,Amancio Ortega,70,Spain
+7,2018,Carlos Slim Helu,67.1,Mexico
+8,2018,Charles Koch,60,United States
+8,2018,David Koch,60,United States
+10,2018,Larry Ellison,58.5,United States
+11,2018,Michael Bloomberg,50,United States
+12,2018,Larry Page,48.8,United States
+13,2018,Sergey Brin,47.5,United States
+14,2018,Jim Walton,46.4,United States
+15,2018,S. Robson Walton,46.2,United States
+16,2018,Alice Walton,46,United States
+17,2018,Ma Huateng,45.3,China
+18,2018,Francoise Bettencourt,42.2,France
+19,2018,Mukesh Ambani,40.1,India
+20,2018,Jack Ma,39,China
+21,2018,Sheldon Adelson,38.5,United States
+22,2018,Steve Ballmer,38.4,United States
+23,2018,Li Ka-Shing,34.9,Hong Kong
+24,2018,Hui Ka Yan,30.3,China
+24,2018,Lee Shau Kee,30.3,Hong Kong
+26,2018,Wang Jianlin,30,China
+27,2018,Beate Heister & Karl Albrecht Jr.,29.8,Germany
+28,2018,Phil Knight,29.6,United States
+29,2018,Jorge Paulo Lemann,27.4,Brazil
+30,2018,Francois Pinault,27,France
+31,2018,Georg Schaeffler,25.3,Germany
+32,2018,Susanne Klatten,25,Germany
+32,2018,David Thomson,25,Canada
+34,2018,Jacqueline Mars,23.6,United States
+34,2018,John Mars,23.6,United States
+36,2018,Joseph Safra,23.5,Brazil
+37,2018,Giovanni Ferrero,23,Italy
+37,2018,Dietrich Mateschitz,23,Austria
+39,2018,Michael Dell,22.7,United States
+39,2018,Masayoshi Son,22.7,Japan
+41,2018,Serge Dassault,22.6,France
+42,2018,Stefan Quandt,22,Germany
+43,2018,Yang Huiyan,21.9,China
+44,2018,Paul Allen,21.7,United States
+45,2018,Leonardo Del Vecchio,21.2,Italy
+46,2018,Dieter Schwarz,20.9,Germany
+47,2018,Thomas Peterffy,20.3,United States
+48,2018,"Theo Albrecht, Jr.",20.2,Germany
+48,2018,Len Blavatnik,20.2,United States
+50,2018,He Xiangjian,20.1,China
+50,2018,Lui Che Woo,20.1,Hong Kong
+52,2018,James Simons,20,United States
+52,2018,Henry Sy,20,Philippines
+54,2018,Elon Musk,19.9,United States
+55,2018,Hinduja family,19.5,United Kingdom
+55,2018,Tadashi Yanai,19.5,Japan
+57,2018,Vladimir Lisin,19.1,Russia
+58,2018,Laurene Powell Jobs,18.8,United States
+58,2018,Azim Premji,18.8,India
+60,2018,Alexey Mordashov,18.7,Russia
+61,2018,Lee Kun-Hee,18.6,South Korea
+62,2018,Lakshmi Mittal,18.5,India
+63,2018,Wang Wei,18.2,China
+64,2018,Leonid Mikhelson,18,Russia
+65,2018,Charoen Sirivadhanabhakdi,17.9,Thailand
+66,2018,Pallonji Mistry,17.8,Ireland
+67,2018,Ray Dalio,17.7,United States
+68,2018,Takemitsu Takizaki,17.5,Japan
+69,2018,William Ding,17.4,China
+69,2018,R. Budi Hartono,17.4,Indonesia
+69,2018,Gina Rinehart,17.4,Australia
+72,2018,German Larrea Mota Velasco,17.3,Mexico
+73,2018,Carl Icahn,16.8,United States
+73,2018,Stefan Persson,16.8,Sweden
+75,2018,Michael Hartono,16.7,Indonesia
+75,2018,Joseph Lau,16.7,Hong Kong
+77,2018,Thomas & Raymond Kwok,16.5,Hong Kong
+78,2018,Vagit Alekperov,16.4,Russia
+78,2018,James Ratcliffe,16.4,United Kingdom
+80,2018,Donald Bren,16.3,United States
+80,2018,Iris Fontbona,16.3,Chile
+82,2018,Gennady Timchenko,16,Russia
+83,2018,Abigail Johnson,15.9,United States
+83,2018,Vladimir Potanin,15.9,Russia
+83,2018,Lukas Walton,15.9,United States
+86,2018,Charlene de Carvalho-Heineken,15.8,Netherlands
+87,2018,Zhang Zhidong,15.6,China
+88,2018,Petr Kellner,15.5,Czech Republic
+88,2018,Andrey Melnichenko,15.5,Russia
+88,2018,David & Simon Reuben,15.5,United Kingdom
+91,2018,Klaus-Michael Kuehne,15.3,Germany
+91,2018,Li Shufu,15.3,China
+93,2018,Mikhail Fridman,15.1,Russia
+94,2018,Rupert Murdoch,15,United States
+95,2018,Dhanin Chearavanont,14.9,Thailand
+96,2018,Robert Kuok,14.8,Malaysia
+97,2018,Emmanuel Besnier,14.7,France
+98,2018,Shiv Nadar,14.6,India
+99,2018,Viktor Vekselberg,14.4,Russia
+100,2018,Aliko Dangote,14.1,Nigeria
+1,2017,Bill Gates,86,United States
+2,2017,Warren Buffett,75.6,United States
+3,2017,Jeff Bezos,72.8,United States
+4,2017,Amancio Ortega,71.3,Spain
+5,2017,Mark Zuckerberg,56,United States
+6,2017,Carlos Slim Helu,54.5,Mexico
+7,2017,Larry Ellison,52.2,United States
+8,2017,Charles Koch,48.3,United States
+8,2017,David Koch,48.3,United States
+10,2017,Michael Bloomberg,47.5,United States
+11,2017,Bernard Arnault,41.5,France
+12,2017,Larry Page,40.7,United States
+13,2017,Sergey Brin,39.8,United States
+14,2017,Liliane Bettencourt,39.5,France
+15,2017,S. Robson Walton,34.1,United States
+16,2017,Jim Walton,34,United States
+17,2017,Alice Walton,33.8,United States
+18,2017,Wang Jianlin,31.3,China
+19,2017,Li Ka-Shing,31.2,Hong Kong
+20,2017,Sheldon Adelson,30.4,United States
+21,2017,Steve Ballmer,30,United States
+22,2017,Jorge Paulo Lemann,29.2,Brazil
+23,2017,Jack Ma,28.3,China
+24,2017,Beate Heister & Karl Albrecht Jr.,27.2,Germany
+24,2017,David Thomson,27.2,Canada
+26,2017,Jacqueline Mars,27,United States
+26,2017,John Mars,27,United States
+28,2017,Phil Knight,26.2,United States
+29,2017,Maria Franca Fissolo,25.2,Italy
+29,2017,George Soros,25.2,United States
+31,2017,Ma Huateng,24.9,China
+32,2017,Lee Shau Kee,24.4,Hong Kong
+33,2017,Mukesh Ambani,23.2,India
+34,2017,Masayoshi Son,21.2,Japan
+35,2017,Kjeld Kirk Kristiansen,21.1,Denmark
+36,2017,Georg Schaeffler,20.7,Germany
+37,2017,Joseph Safra,20.5,Brazil
+38,2017,Michael Dell,20.4,United States
+38,2017,Susanne Klatten,20.4,Germany
+40,2017,Len Blavatnik,20,United States
+40,2017,Laurene Powell Jobs,20,United States
+42,2017,Paul Allen,19.9,United States
+43,2017,Stefan Persson,19.6,Sweden
+44,2017,Theo Albrecht,18.8,Germany
+45,2017,Prince Alwaleed Bin Talal,18.7,Saudi Arabia
+46,2017,Leonid Mikhelson,18.4,Russia
+47,2017,Charles Ergen,18.3,United States
+47,2017,Stefan Quandt,18.3,Germany
+49,2017,James Simons,18,United States
+50,2017,Leonardo Del Vecchio,17.9,Italy
+51,2017,Alexey Mordashov,17.5,Russia
+52,2017,William Ding,17.3,China
+53,2017,Dieter Schwarz,17,Germany
+54,2017,Ray Dalio,16.8,United States
+55,2017,Carl Icahn,16.6,United States
+56,2017,Lakshmi Mittal,16.4,India
+57,2017,Serge Dassault,16.1,France
+57,2017,Vladimir Lisin,16.1,Russia
+59,2017,Gennady Timchenko,16,Russia
+60,2017,Wang Wei,15.9,China
+60,2017,Tadashi Yanai,15.9,Japan
+62,2017,Charoen Sirivadhanabhakdi,15.8,Thailand
+63,2017,Francois Pinault,15.7,France
+64,2017,Hinduja family,15.4,United Kingdom
+65,2017,David & Simon Reuben,15.3,United Kingdom
+66,2017,Donald Bren,15.2,United States
+66,2017,Alisher Usmanov,15.2,Russia
+68,2017,Lee Kun-Hee,15.1,South Korea
+69,2017,Thomas & Raymond Kwok,15,Hong Kong
+69,2017,Joseph Lau,15,Hong Kong
+69,2017,Gina Rinehart,15,Australia
+72,2017,Azim Premji,14.9,India
+73,2017,Marcel Herrmann Telles,14.8,Brazil
+74,2017,Vagit Alekperov,14.5,Russia
+75,2017,Mikhail Fridman,14.4,Russia
+75,2017,Abigail Johnson,14.4,United States
+77,2017,Pallonji Mistry,14.3,Ireland
+77,2017,Vladimir Potanin,14.3,Russia
+79,2017,Wang Wenyin,14,China
+80,2017,Elon Musk,13.9,United States
+80,2017,Stefano Pessina,13.9,Italy
+82,2017,German Larrea Mota Velasco,13.8,Mexico
+82,2017,Thomas Peterffy,13.8,United States
+84,2017,Iris Fontbona,13.7,Chile
+84,2017,Dilip Shanghvi,13.7,India
+86,2017,Dietrich Mateschitz,13.4,Austria
+87,2017,Harold Hamm,13.3,United States
+87,2017,Robin Li,13.3,China
+89,2017,Andrey Melnichenko,13.2,Russia
+90,2017,Rupert Murdoch,13.1,United States
+90,2017,Heinz Hermann Thiele,13.1,Germany
+92,2017,Steve Cohen,13,United States
+92,2017,Patrick Drahi,13,France
+94,2017,Henry Sy,12.7,Philippines
+95,2017,Charlene de Carvalho-Heineken,12.6,Netherlands
+96,2017,Philip Anschutz,12.5,United States
+96,2017,Ronald Perelman,12.5,United States
+96,2017,Hans Rausing,12.5,Sweden
+96,2017,Carlos Alberto Sicupira,12.5,Brazil
+100,2017,Klaus-Michael Kuehne,12.4,Germany
+1,2016,Bill Gates,75,United States
+2,2016,Amancio Ortega,67,Spain
+3,2016,Warren Buffett,60.8,United States
+4,2016,Carlos Slim Helu,50,Mexico
+5,2016,Jeff Bezos,45.2,United States
+6,2016,Mark Zuckerberg,44.6,United States
+7,2016,Larry Ellison,43.6,United States
+8,2016,Michael Bloomberg,40,United States
+9,2016,Charles Koch,39.6,United States
+9,2016,David Koch,39.6,United States
+11,2016,Liliane Bettencourt,36.1,France
+12,2016,Larry Page,35.2,United States
+13,2016,Sergey Brin,34.4,United States
+14,2016,Bernard Arnault,34,France
+15,2016,Jim Walton,33.6,United States
+16,2016,Alice Walton,32.3,United States
+17,2016,S. Robson Walton,31.9,United States
+18,2016,Wang Jianlin,28.7,China
+19,2016,Jorge Paulo Lemann,27.8,Brazil
+20,2016,Li Ka-Shing,27.1,Hong Kong
+21,2016,Beate Heister & Karl Albrecht Jr.,25.9,Germany
+22,2016,Sheldon Adelson,25.2,United States
+23,2016,George Soros,24.9,United States
+24,2016,Phil Knight,24.4,United States
+25,2016,David Thomson,23.8,Canada
+26,2016,Steve Ballmer,23.5,United States
+27,2016,Forrest Mars,23.4,United States
+27,2016,Jacqueline Mars,23.4,United States
+27,2016,John Mars,23.4,United States
+30,2016,Maria Franca Fissolo,22.1,Italy
+31,2016,Lee Shau Kee,21.5,Hong Kong
+32,2016,Stefan Persson,20.8,Sweden
+33,2016,Jack Ma,20.5,China
+34,2016,Theo Albrecht,20.3,Germany
+35,2016,Michael Dell,19.8,United States
+36,2016,Mukesh Ambani,19.3,India
+37,2016,Leonardo Del Vecchio,18.7,Italy
+38,2016,Susanne Klatten,18.5,Germany
+39,2016,Georg Schaeffler,18.1,Germany
+40,2016,Paul Allen,17.5,United States
+41,2016,Prince Alwaleed Bin Talal,17.3,Saudi Arabia
+42,2016,Joseph Safra,17.2,Brazil
+43,2016,Carl Icahn,17,United States
+44,2016,Laurene Powell Jobs,16.7,United States
+44,2016,Dilip Shanghvi,16.7,India
+46,2016,Ma Huateng,16.6,China
+47,2016,Dieter Schwarz,16.4,Germany
+48,2016,Ray Dalio,15.6,United States
+48,2016,Stefan Quandt,15.6,Germany
+50,2016,James Simons,15.5,United States
+51,2016,Aliko Dangote,15.4,Nigeria
+51,2016,Michael Otto,15.4,Germany
+53,2016,Len Blavatnik,15.3,United States
+54,2016,Donald Bren,15.1,United States
+55,2016,Azim Premji,15,India
+56,2016,Serge Dassault,14.7,France
+57,2016,Tadashi Yanai,14.6,Japan
+58,2016,Cheng Yu-tung,14.5,Hong Kong
+58,2016,Hinduja family,14.5,United Kingdom
+60,2016,Leonid Mikhelson,14.4,Russia
+60,2016,David & Simon Reuben,14.4,United Kingdom
+62,2016,Stefano Pessina,13.4,Italy
+63,2016,Mikhail Fridman,13.3,Russia
+64,2016,Dietrich Mateschitz,13.2,Austria
+65,2016,Abigail Johnson,13.1,United States
+65,2016,Kjeld Kirk Kristiansen,13.1,Denmark
+65,2016,Joseph Lau,13.1,Hong Kong
+68,2016,Gerald Cavendish Grosvenor,13,United Kingdom
+68,2016,Thomas & Raymond Kwok,13,Hong Kong
+68,2016,Marcel Herrmann Telles,13,Brazil
+71,2016,Henry Sy,12.9,Philippines
+72,2016,Steve Cohen,12.7,United States
+73,2016,Pallonji Mistry,12.5,Ireland
+73,2016,Hans Rausing,12.5,Sweden
+73,2016,Alisher Usmanov,12.5,Russia
+76,2016,Charlene de Carvalho-Heineken,12.3,Netherlands
+77,2016,Charles Ergen,12.2,United States
+78,2016,Ronald Perelman,12.1,United States
+78,2016,Vladimir Potanin,12.1,Russia
+80,2016,Stephen Ross,12,United States
+81,2016,Patrick Soon-Shiong,11.9,United States
+82,2016,Masayoshi Son,11.7,Japan
+82,2016,Heinz Hermann Thiele,11.7,Germany
+84,2016,Francois Pinault,11.5,France
+85,2016,David Tepper,11.4,United States
+85,2016,Gennady Timchenko,11.4,Russia
+87,2016,Carlos Alberto Sicupira,11.3,Brazil
+88,2016,Shiv Nadar,11.1,India
+88,2016,Thomas Peterffy,11.1,United States
+90,2016,Robin Li,11,China
+90,2016,Alain Wertheimer,11,France
+90,2016,Gerard Wertheimer,11,France
+93,2016,Alexey Mordashov,10.9,Russia
+94,2016,Elon Musk,10.7,United States
+94,2016,Charoen Sirivadhanabhakdi,10.7,Thailand
+96,2016,Petr Kellner,10.6,Czech Republic
+96,2016,Rupert Murdoch,10.6,United States
+98,2016,Viktor Vekselberg,10.5,Russia
+99,2016,Lukas Walton,10.4,United States
+100,2016,Eric Schmidt,10.2,United States
+1,2015,Bill Gates,79.2,United States
+2,2015,Carlos Slim Helu,77.1,Mexico
+3,2015,Warren Buffett,72.7,United States
+4,2015,Amancio Ortega,64.5,Spain
+5,2015,Larry Ellison,54.3,United States
+6,2015,Charles Koch,42.9,United States
+6,2015,David Koch,42.9,United States
+8,2015,Christy Walton,41.7,United States
+9,2015,Jim Walton,40.6,United States
+10,2015,Liliane Bettencourt,40.1,France
+11,2015,Alice Walton,39.4,United States
+12,2015,S. Robson Walton,39.1,United States
+13,2015,Bernard Arnault,37.2,France
+14,2015,Michael Bloomberg,35.5,United States
+15,2015,Jeff Bezos,34.8,United States
+16,2015,Mark Zuckerberg,33.4,United States
+17,2015,Li Ka-Shing,33.3,Hong Kong
+18,2015,Sheldon Adelson,31.4,United States
+19,2015,Larry Page,29.7,United States
+20,2015,Sergey Brin,29.2,United States
+21,2015,Georg Schaeffler,26.9,Germany
+22,2015,Forrest Mars,26.6,United States
+22,2015,Jacqueline Mars,26.6,United States
+22,2015,John Mars,26.6,United States
+25,2015,David Thomson,25.5,Canada
+26,2015,Jorge Paulo Lemann,25,Brazil
+27,2015,Lee Shau Kee,24.8,Hong Kong
+28,2015,Stefan Persson,24.5,Sweden
+29,2015,George Soros,24.2,United States
+29,2015,Wang Jianlin,24.2,China
+31,2015,Carl Icahn,23.5,United States
+32,2015,Maria Franca Fissolo,23.4,Italy
+33,2015,Jack Ma,22.7,China
+34,2015,Prince Alwaleed Bin Talal,22.6,Saudi Arabia
+35,2015,Steve Ballmer,21.5,United States
+35,2015,Phil Knight,21.5,United States
+37,2015,Beate Heister & Karl Albrecht Jr.,21.3,Germany
+38,2015,Li Hejun,21.1,China
+39,2015,Mukesh Ambani,21,India
+40,2015,Leonardo Del Vecchio,20.4,Italy
+41,2015,Len Blavatnik,20.2,United States
+41,2015,Tadashi Yanai,20.2,Japan
+43,2015,Charles Ergen,20.1,United States
+44,2015,Dilip Shanghvi,20,India
+45,2015,Laurene Powell Jobs,19.5,United States
+46,2015,Dieter Schwarz,19.4,Germany
+47,2015,Michael Dell,19.2,United States
+48,2015,Azim Premji,19.1,India
+49,2015,Theo Albrecht,19,Germany
+50,2015,Michael Otto,18.1,Germany
+51,2015,Paul Allen,17.5,United States
+52,2015,Joseph Safra,17.3,Brazil
+53,2015,Anne Cox Chambers,17,United States
+54,2015,Susanne Klatten,16.8,Germany
+55,2015,Pallonji Mistry,16.3,Ireland
+56,2015,Ma Huateng,16.1,China
+57,2015,Patrick Drahi,16,France
+58,2015,Thomas & Raymond Kwok,15.9,Hong Kong
+59,2015,Stefan Quandt,15.6,Germany
+60,2015,Ray Dalio,15.4,United States
+60,2015,Vladimir Potanin,15.4,Russia
+62,2015,Serge Dassault,15.3,France
+62,2015,Robin Li,15.3,China
+64,2015,Donald Bren,15.2,United States
+65,2015,Francois Pinault,14.9,France
+66,2015,Shiv Nadar,14.8,India
+67,2015,Aliko Dangote,14.7,Nigeria
+68,2015,Mikhail Fridman,14.6,Russia
+69,2015,Hinduja family,14.5,United Kingdom
+69,2015,Ronald Perelman,14.5,United States
+71,2015,Cheng Yu-tung,14.4,Hong Kong
+71,2015,Alisher Usmanov,14.4,Russia
+73,2015,Henry Sy,14.2,Philippines
+73,2015,Viktor Vekselberg,14.2,Russia
+75,2015,Masayoshi Son,14.1,Japan
+76,2015,James Simons,14,United States
+77,2015,German Larrea Mota Velasco,13.9,Mexico
+77,2015,Rupert Murdoch,13.9,United States
+77,2015,Johanna Quandt,13.9,Germany
+80,2015,David & Simon Reuben,13.7,United Kingdom
+81,2015,Dhanin Chearavanont,13.6,Thailand
+82,2015,Iris Fontbona,13.5,Chile
+82,2015,Lui Che Woo,13.5,Hong Kong
+82,2015,Lakshmi Mittal,13.5,India
+85,2015,Abigail Johnson,13.4,United States
+85,2015,Luis Carlos Sarmiento,13.4,Colombia
+87,2015,Lei Jun,13.2,China
+87,2015,Charoen Sirivadhanabhakdi,13.2,Thailand
+89,2015,Alexey Mordashov,13,Russia
+89,2015,Marcel Herrmann Telles,13,Brazil
+91,2015,Gerald Cavendish Grosvenor,12.6,United Kingdom
+92,2015,Hans Rausing,12.5,Sweden
+92,2015,Jack Taylor,12.5,United States
+94,2015,Charles Butt,12.3,United States
+94,2015,Gina Rinehart,12.3,Australia
+96,2015,Vagit Alekperov,12.2,Russia
+96,2015,Harold Hamm,12.2,United States
+96,2015,Patrick Soon-Shiong,12.2,United States
+99,2015,Stefano Pessina,12.1,Italy
+100,2015,Richard Kinder,12,United States
+1,2014,Bill Gates,76,United States
+2,2014,Carlos Slim Helu,72,Mexico
+3,2014,Amancio Ortega,64,Spain
+4,2014,Warren Buffett,58.2,United States
+5,2014,Larry Ellison,48,United States
+6,2014,Charles Koch,40,United States
+6,2014,David Koch,40,United States
+8,2014,Sheldon Adelson,38,United States
+9,2014,Christy Walton,36.7,United States
+10,2014,Jim Walton,34.7,United States
+11,2014,Liliane Bettencourt,34.5,France
+12,2014,Stefan Persson,34.4,Sweden
+13,2014,Alice Walton,34.3,United States
+14,2014,S. Robson Walton,34.2,United States
+15,2014,Bernard Arnault,33.5,France
+16,2014,Michael Bloomberg,33,United States
+17,2014,Larry Page,32.3,United States
+18,2014,Jeff Bezos,32,United States
+19,2014,Sergey Brin,31.8,United States
+20,2014,Li Ka-Shing,31,Hong Kong
+21,2014,Mark Zuckerberg,28.5,United States
+22,2014,Michele Ferrero,26.5,Italy
+23,2014,Karl Albrecht,25,Germany
+23,2014,Aliko Dangote,25,Nigeria
+25,2014,Carl Icahn,24.5,United States
+26,2014,George Soros,23,United States
+27,2014,David Thomson,22.6,Canada
+28,2014,Lui Che Woo,22,Hong Kong
+29,2014,Dieter Schwarz,21.1,Germany
+30,2014,Prince Alwaleed Bin Talal,20.4,Saudi Arabia
+31,2014,Forrest Mars,20,United States
+31,2014,Jacqueline Mars,20,United States
+31,2014,John Mars,20,United States
+34,2014,Jorge Paulo Lemann,19.7,Brazil
+35,2014,Lee Shau Kee,19.6,Hong Kong
+36,2014,Theo Albrecht,19.3,Germany
+36,2014,Steve Ballmer,19.3,United States
+38,2014,Leonardo Del Vecchio,19.2,Italy
+39,2014,Len Blavatnik,18.7,United States
+40,2014,Mukesh Ambani,18.6,India
+40,2014,Alisher Usmanov,18.6,Russia
+42,2014,Phil Knight,18.4,United States
+42,2014,Michael Otto,18.4,Germany
+42,2014,Masayoshi Son,18.4,Japan
+45,2014,Tadashi Yanai,17.9,Japan
+46,2014,Gina Rinehart,17.7,Australia
+47,2014,Mikhail Fridman,17.6,Russia
+48,2014,Michael Dell,17.5,United States
+49,2014,Susanne Klatten,17.4,Germany
+50,2014,Abigail Johnson,17.3,United States
+51,2014,Viktor Vekselberg,17.2,Russia
+52,2014,Lakshmi Mittal,16.7,India
+53,2014,Vladimir Lisin,16.6,Russia
+54,2014,Cheng Yu-tung,16.2,Hong Kong
+55,2014,Joseph Safra,16,Brazil
+56,2014,Paul Allen,15.9,United States
+57,2014,Leonid Mikhelson,15.6,Russia
+58,2014,Anne Cox Chambers,15.5,United States
+58,2014,Iris Fontbona,15.5,Chile
+58,2014,Francois Pinault,15.5,France
+61,2014,Mohammed Al Amoudi,15.3,Saudi Arabia
+61,2014,Azim Premji,15.3,India
+61,2014,Gennady Timchenko,15.3,Russia
+64,2014,Wang Jianlin,15.1,China
+65,2014,Charles Ergen,15,United States
+66,2014,Stefan Quandt,14.9,Germany
+67,2014,German Larrea Mota Velasco,14.7,Mexico
+68,2014,Harold Hamm,14.6,United States
+69,2014,Donald Bren,14.4,United States
+69,2014,Ray Dalio,14.4,United States
+71,2014,Georg Schaeffler,14.3,Germany
+72,2014,Luis Carlos Sarmiento,14.2,Colombia
+73,2014,Serge Dassault,14,France
+73,2014,Ronald Perelman,14,United States
+73,2014,Laurene Powell Jobs,14,United States
+76,2014,Vagit Alekperov,13.6,Russia
+76,2014,John Fredriksen,13.6,Cyprus
+78,2014,Rupert Murdoch,13.5,United States
+78,2014,John Paulson,13.5,United States
+80,2014,Ma Huateng,13.4,China
+81,2014,Gerald Cavendish Grosvenor,13,United Kingdom
+82,2014,Pallonji Mistry,12.8,Ireland
+82,2014,Johanna Quandt,12.8,Germany
+82,2014,Dilip Shanghvi,12.8,India
+82,2014,Jack Taylor,12.8,United States
+86,2014,Thomas & Raymond Kwok,12.6,Hong Kong
+86,2014,Vladimir Potanin,12.6,Russia
+88,2014,Rinat Akhmetov,12.5,Ukraine
+88,2014,James Simons,12.5,United States
+90,2014,Alberto Bailleres Gonzalez,12.4,Mexico
+91,2014,Robin Li,12.1,China
+92,2014,Ernesto Bertarelli,12,Switzerland
+92,2014,Hans Rausing,12,Sweden
+94,2014,Zong Qinghou,11.6,China
+95,2014,Robert Kuok,11.5,Malaysia
+95,2014,David & Simon Reuben,11.5,United Kingdom
+97,2014,Dhanin Chearavanont,11.4,Thailand
+97,2014,Andrey Melnichenko,11.4,Russia
+97,2014,Henry Sy,11.4,Philippines
+100,2014,German Khan,11.3,Russia
+1,2013,Carlos Slim Helu,73,Mexico
+2,2013,Bill Gates,67,United States
+3,2013,Amancio Ortega,57,Spain
+4,2013,Warren Buffett,53.5,United States
+5,2013,Larry Ellison,43,United States
+6,2013,Charles Koch,34,United States
+6,2013,David Koch,34,United States
+8,2013,Li Ka-Shing,31,Hong Kong
+9,2013,Liliane Bettencourt,30,France
+10,2013,Bernard Arnault,29,France
+11,2013,Christy Walton,28.2,United States
+12,2013,Stefan Persson,28,Sweden
+13,2013,Michael Bloomberg,27,United States
+14,2013,Jim Walton,26.7,United States
+15,2013,Sheldon Adelson,26.5,United States
+16,2013,Alice Walton,26.3,United States
+17,2013,S. Robson Walton,26.1,United States
+18,2013,Karl Albrecht,26,Germany
+19,2013,Jeff Bezos,25.2,United States
+20,2013,Larry Page,23,United States
+21,2013,Sergey Brin,22.8,United States
+22,2013,Mukesh Ambani,21.5,India
+23,2013,Michele Ferrero,20.4,Italy
+24,2013,Lee Shau Kee,20.3,Hong Kong
+24,2013,David Thomson,20.3,Canada
+26,2013,Prince Alwaleed Bin Talal,20,Saudi Arabia
+26,2013,Carl Icahn,20,United States
+26,2013,Thomas & Raymond Kwok,20,Hong Kong
+29,2013,Dieter Schwarz,19.5,Germany
+30,2013,George Soros,19.2,United States
+31,2013,Theo Albrecht,18.9,Germany
+32,2013,Alberto Bailleres Gonzalez,18.2,Mexico
+33,2013,Jorge Paulo Lemann,17.8,Brazil
+34,2013,Alisher Usmanov,17.6,Russia
+35,2013,Iris Fontbona,17.4,Chile
+36,2013,Forrest Mars,17,United States
+36,2013,Jacqueline Mars,17,United States
+36,2013,John Mars,17,United States
+36,2013,Georgina Rinehart,17,Australia
+40,2013,German Larrea Mota Velasco,16.7,Mexico
+41,2013,Mikhail Fridman,16.5,Russia
+41,2013,Lakshmi Mittal,16.5,India
+43,2013,Aliko Dangote,16.1,Nigeria
+44,2013,Len Blavatnik,16,United States
+44,2013,Cheng Yu-tung,16,Hong Kong
+46,2013,Joseph Safra,15.9,Brazil
+47,2013,Rinat Akhmetov,15.4,Ukraine
+47,2013,Leonid Mikhelson,15.4,Russia
+49,2013,Leonardo Del Vecchio,15.3,Italy
+49,2013,Michael Dell,15.3,United States
+51,2013,Steve Ballmer,15.2,United States
+52,2013,Viktor Vekselberg,15.1,Russia
+53,2013,Paul Allen,15,United States
+53,2013,Francois Pinault,15,France
+55,2013,Vagit Alekperov,14.8,Russia
+56,2013,Phil Knight,14.4,United States
+56,2013,Andrey Melnichenko,14.4,Russia
+58,2013,Dhanin Chearavanont,14.3,Thailand
+58,2013,Susanne Klatten,14.3,Germany
+58,2013,Vladimir Potanin,14.3,Russia
+61,2013,Michael Otto,14.2,Germany
+62,2013,Vladimir Lisin,14.1,Russia
+62,2013,Gennady Timchenko,14.1,Russia
+64,2013,Luis Carlos Sarmiento,13.9,Colombia
+65,2013,Mohammed Al Amoudi,13.5,Saudi Arabia
+66,2013,Tadashi Yanai,13.3,Japan
+66,2013,Mark Zuckerberg,13.3,United States
+68,2013,Henry Sy,13.2,Philippines
+69,2013,Donald Bren,13,United States
+69,2013,Serge Dassault,13,France
+69,2013,Lee Kun-Hee,13,South Korea
+69,2013,Mikhail Prokhorov,13,Russia
+73,2013,Alexey Mordashov,12.8,Russia
+74,2013,Antonio Ermirio de Moraes,12.7,Brazil
+74,2013,Abigail Johnson,12.7,United States
+76,2013,Ray Dalio,12.5,United States
+76,2013,Robert Kuok,12.5,Malaysia
+78,2013,Miuccia Prada,12.4,Italy
+79,2013,Ronald Perelman,12.2,United States
+80,2013,Anne Cox Chambers,12,United States
+81,2013,Stefan Quandt,11.9,Germany
+82,2013,Ananda Krishnan,11.7,Malaysia
+82,2013,Alejandro Santo Domingo Davila,11.7,Colombia
+82,2013,James Simons,11.7,United States
+82,2013,Charoen Sirivadhanabhakdi,11.7,Thailand
+86,2013,Zong Qinghou,11.6,China
+87,2013,Dirce Navarro De Camargo,11.5,Brazil
+87,2013,John Fredriksen,11.5,Cyprus
+89,2013,Gerald Cavendish Grosvenor,11.4,United Kingdom
+90,2013,Harold Hamm,11.3,United States
+91,2013,Rupert Murdoch,11.2,United States
+91,2013,John Paulson,11.2,United States
+91,2013,Azim Premji,11.2,India
+94,2013,Ernesto Bertarelli,11,Switzerland
+94,2013,Charlene de Carvalho-Heineken,11,Netherlands
+94,2013,Hans Rausing,11,Sweden
+94,2013,Jack Taylor,11,United States
+98,2013,Lui Che Woo,10.7,Hong Kong
+98,2013,Laurene Powell Jobs,10.7,United States
+100,2013,Eike Batista,10.6,Brazil
+1,2012,Carlos Slim Helu,69,Mexico
+2,2012,Bill Gates,61,United States
+3,2012,Warren Buffett,44,United States
+4,2012,Bernard Arnault,41,France
+5,2012,Amancio Ortega,37.5,Spain
+6,2012,Larry Ellison,36,United States
+7,2012,Eike Batista,30,Brazil
+8,2012,Stefan Persson,26,Sweden
+9,2012,Li Ka-Shing,25.5,Hong Kong
+10,2012,Karl Albrecht,25.4,Germany
+11,2012,Christy Walton,25.3,United States
+12,2012,Charles Koch,25,United States
+12,2012,David Koch,25,United States
+14,2012,Sheldon Adelson,24.9,United States
+15,2012,Liliane Bettencourt,24,France
+16,2012,Jim Walton,23.7,United States
+17,2012,Alice Walton,23.3,United States
+18,2012,S. Robson Walton,23.1,United States
+19,2012,Mukesh Ambani,22.3,India
+20,2012,Michael Bloomberg,22,United States
+21,2012,Lakshmi Mittal,20.7,India
+22,2012,George Soros,20,United States
+23,2012,Michele Ferrero,19,Italy
+24,2012,Sergey Brin,18.7,United States
+24,2012,Larry Page,18.7,United States
+26,2012,Jeff Bezos,18.4,United States
+27,2012,Thomas & Raymond Kwok,18.3,Hong Kong
+28,2012,Alisher Usmanov,18.1,Russia
+29,2012,Prince Alwaleed Bin Talal,18,Saudi Arabia
+29,2012,Lee Shau Kee,18,Hong Kong
+29,2012,Georgina Rinehart,18,Australia
+32,2012,Theo Albrecht,17.8,Germany
+32,2012,Iris Fontbona,17.8,Chile
+34,2012,Michael Otto,17.6,Germany
+35,2012,David Thomson,17.5,Canada
+35,2012,Mark Zuckerberg,17.5,United States
+37,2012,Ricardo Salinas Pliego,17.4,Mexico
+38,2012,Alberto Bailleres Gonzalez,16.5,Mexico
+39,2012,Rinat Akhmetov,16,Ukraine
+39,2012,Cheng Yu-tung,16,Hong Kong
+41,2012,Michael Dell,15.9,United States
+41,2012,Vladimir Lisin,15.9,Russia
+41,2012,Azim Premji,15.9,India
+44,2012,Steve Ballmer,15.7,United States
+45,2012,Alexey Mordashov,15.3,Russia
+46,2012,Vladimir Potanin,14.5,Russia
+47,2012,Phil Knight,14.4,United States
+48,2012,Paul Allen,14.2,United States
+48,2012,German Larrea Mota Velasco,14.2,Mexico
+50,2012,Carl Icahn,14,United States
+50,2012,Birgit Rausing,14,Sweden
+52,2012,Forrest Mars,13.8,United States
+52,2012,Jacqueline Mars,13.8,United States
+52,2012,John Mars,13.8,United States
+52,2012,Joseph Safra,13.8,Brazil
+56,2012,Vagit Alekperov,13.5,Russia
+57,2012,Mikhail Fridman,13.4,Russia
+58,2012,Mikhail Prokhorov,13.2,Russia
+59,2012,Susanne Klatten,13,Germany
+59,2012,Francois Pinault,13,France
+61,2012,Mohammed Al Amoudi,12.5,Saudi Arabia
+61,2012,Anne Cox Chambers,12.5,United States
+61,2012,John Paulson,12.5,United States
+64,2012,Robert Kuok,12.4,Malaysia
+64,2012,Luis Carlos Sarmiento,12.4,Colombia
+64,2012,Viktor Vekselberg,12.4,Russia
+67,2012,Antonio Ermirio de Moraes,12.2,Brazil
+68,2012,Roman Abramovich,12.1,Russia
+69,2012,Donald Bren,12,United States
+69,2012,Jorge Paulo Lemann,12,Brazil
+69,2012,Ronald Perelman,12,United States
+72,2012,Len Blavatnik,11.9,United States
+72,2012,Leonid Mikhelson,11.9,Russia
+74,2012,Leonardo Del Vecchio,11.5,Italy
+75,2012,John Fredriksen,11.3,Cyprus
+76,2012,Aliko Dangote,11.2,Nigeria
+76,2012,Stefan Quandt,11.2,Germany
+78,2012,Gerald Cavendish Grosvenor,11,United Kingdom
+78,2012,Harold Hamm,11,United States
+80,2012,Savitri Jindal,10.9,India
+81,2012,Andrey Melnichenko,10.8,Russia
+82,2012,James Simons,10.7,United States
+83,2012,Ernesto Bertarelli,10.6,Switzerland
+84,2012,Jack Taylor,10.4,United States
+85,2012,Abigail Johnson,10.3,United States
+86,2012,Robin Li,10.2,China
+86,2012,Eliodoro Matte,10.2,Chile
+88,2012,Ray Dalio,10,United States
+88,2012,George Kaiser,10,United States
+88,2012,Johanna Quandt,10,Germany
+88,2012,Hans Rausing,10,Sweden
+88,2012,Tadashi Yanai,10,Japan
+93,2012,Serge Dassault,9.9,France
+93,2012,Ananda Krishnan,9.9,Malaysia
+95,2012,Klaus-Michael Kuehne,9.8,Germany
+96,2012,Pallonji Mistry,9.7,Ireland
+97,2012,Alejandro Santo Domingo Davila,9.5,Colombia
+98,2012,Horst Paulmann,9.3,Chile
+99,2012,Gennady Timchenko,9.1,Russia
+100,2012,Laurene Powell Jobs,9,United States
+1,2011,Carlos Slim Helu,74,Mexico
+2,2011,Bill Gates,56,United States
+3,2011,Warren Buffett,50,United States
+4,2011,Bernard Arnault,41,France
+5,2011,Larry Ellison,39.5,United States
+6,2011,Lakshmi Mittal,31.1,India
+7,2011,Amancio Ortega,31,Spain
+8,2011,Eike Batista,30,Brazil
+9,2011,Mukesh Ambani,27,India
+10,2011,Christy Walton,26.5,United States
+11,2011,Li Ka-Shing,26,Hong Kong
+12,2011,Karl Albrecht,25.5,Germany
+13,2011,Stefan Persson,24.5,Sweden
+14,2011,Vladimir Lisin,24,Russia
+15,2011,Liliane Bettencourt,23.5,France
+16,2011,Sheldon Adelson,23.3,United States
+17,2011,David Thomson,23,Canada
+18,2011,Charles Koch,22,United States
+18,2011,David Koch,22,United States
+20,2011,Jim Walton,21.3,United States
+21,2011,Alice Walton,21.2,United States
+22,2011,S. Robson Walton,21,United States
+23,2011,Kwok Thomas & Raymond,20,Hong Kong
+24,2011,Sergey Brin,19.8,United States
+24,2011,Larry Page,19.8,United States
+26,2011,Prince Alwaleed Bin Talal,19.6,Saudi Arabia
+27,2011,Iris Fontbona,19.2,Chile
+28,2011,Lee Shau Kee,19,Hong Kong
+29,2011,Alexey Mordashov,18.5,Russia
+30,2011,Jeff Bezos,18.1,United States
+30,2011,Michael Bloomberg,18.1,United States
+32,2011,Michele Ferrero,18,Italy
+32,2011,Mikhail Prokhorov,18,Russia
+34,2011,Vladimir Potanin,17.8,Russia
+35,2011,Alisher Usmanov,17.7,Russia
+36,2011,Oleg Deripaska,16.8,Russia
+36,2011,Azim Premji,16.8,India
+38,2011,Michael Otto,16.6,Germany
+39,2011,John Paulson,16,United States
+39,2011,Rinat Akhmetov,16,Ukraine
+39,2011,German Larrea Mota Velasco,16,Mexico
+42,2011,Shashi & Ravi Ruia,15.8,India
+43,2011,Mikhail Fridman,15.1,Russia
+44,2011,Michael Dell,14.6,United States
+44,2011,Susanne Klatten,14.6,Germany
+46,2011,Steve Ballmer,14.5,United States
+46,2011,George Soros,14.5,United States
+48,2011,Berthold & Theo Jr. Albrecht,14.4,Germany
+49,2011,Birgit Rausing,14,Sweden
+50,2011,Vagit Alekperov,13.9,Russia
+51,2011,Aliko Dangote,13.8,Nigeria
+52,2011,Mark Zuckerberg,13.5,United States
+53,2011,Anne Cox Chambers,13.4,United States
+53,2011,Roman Abramovich,13.4,Russia
+55,2011,Jorge Paulo Lemann,13.3,Brazil
+56,2011,Savitri Jindal,13.2,India
+57,2011,Paul Allen,13,United States
+57,2011,Gerald Cavendish Grosvenor,13,United Kingdom
+57,2011,Viktor Vekselberg,13,Russia
+60,2011,Phil Knight,12.7,United States
+61,2011,Carl Icahn,12.5,United States
+61,2011,Robert Kuok,12.5,Malaysia
+63,2011,Mohammed Al Amoudi,12.3,Saudi Arabia
+64,2011,Donald Bren,12,United States
+64,2011,Ronald Perelman,12,United States
+66,2011,Alberto Bailleres Gonzalez,11.9,Mexico
+67,2011,Francois Pinault,11.5,France
+68,2011,Joseph Safra,11.4,Brazil
+69,2011,Abigail Johnson,11.3,United States
+70,2011,Viktor Rashnikov,11.2,Russia
+71,2011,Leonardo Del Vecchio,11,Italy
+72,2011,John Fredriksen,10.7,Cyprus
+72,2011,Stefan Quandt,10.7,Germany
+74,2011,James Simons,10.6,United States
+75,2011,Horst Paulmann,10.5,Chile
+75,2011,Luis Carlos Sarmiento,10.5,Colombia
+77,2011,Nasser Al-Kharafi,10.4,Kuwait
+77,2011,Eliodoro,10.4,Chile
+79,2011,Sammy Ofer,10.3,Israel
+80,2011,Len Blavatnik,10.1,United States
+81,2011,Forrest Mars,10,United States
+81,2011,Jacqueline Mars,10,United States
+81,2011,John Mars,10,United States
+81,2011,Gautam Adani,10,India
+81,2011,Ernesto Bertarelli,10,Switzerland
+81,2011,Klaus-Michael Kuhne,10,Germany
+81,2011,Hans Rausing,10,Sweden
+88,2011,Iskander Makhmudov,9.9,Russia
+89,2011,George Kaiser,9.8,United States
+89,2011,Johanna Quandt,9.8,Germany
+89,2011,Maria-Elisabeth & Georg Schaeffler,9.8,Germany
+92,2011,German Khan,9.6,Russia
+93,2011,Ananda Krishnan,9.5,Malaysia
+93,2011,Dmitry Rybolovlev,9.5,Russia
+95,2011,Robin Li,9.4,China
+96,2011,Serge Dassault,9.3,France
+97,2011,Kumar Birla,9.2,India
+97,2011,Petr Kellner,9.2,Czech Republic
+99,2011,Leonid Mikhelson,9.1,Russia
+100,2011,Georgina Rinehart,9,Australia
+1,2010,Carlos Slim Helu,53.5,Mexico
+2,2010,Bill Gates,53,United States
+3,2010,Warren Buffett,47,United States
+4,2010,Mukesh Ambani,29,India
+5,2010,Lakshmi Mittal,28.7,India
+6,2010,Larry Ellison,28,United States
+7,2010,Bernard Arnault,27.5,France
+8,2010,Eike Batista,27,Brazil
+9,2010,Amancio Ortega,25,Spain
+10,2010,Karl Albrecht,23.5,Germany
+11,2010,Ingvar Kamprad,23,Sweden
+12,2010,Christy Walton,22.5,United States
+13,2010,Stefan Persson,22.4,Sweden
+14,2010,Li Ka-Shing,21,Hong Kong
+15,2010,Jim Walton,20.7,United States
+16,2010,Alice Walton,20.6,United States
+17,2010,Liliane Bettencourt,20,France
+18,2010,S. Robson Walton,19.8,United States
+19,2010,Prince Alwaleed Bin Talal,19.4,Saudi Arabia
+20,2010,David Thomson,19,Canada
+21,2010,Michael Otto,18.7,Germany
+22,2010,Lee Shau Kee,18.5,Hong Kong
+23,2010,Michael Bloomberg,18,United States
+24,2010,Sergey Brin,17.5,United States
+24,2010,Charles Koch,17.5,United States
+24,2010,David Koch,17.5,United States
+24,2010,Larry Page,17.5,United States
+28,2010,Michele Ferrero,17,Italy
+28,2010,Kwok Thomas & Raymond,17,Hong Kong
+28,2010,Azim Premji,17,India
+31,2010,Theo Albrecht,16.7,Germany
+32,2010,Vladimir Lisin,15.8,Russia
+33,2010,Steve Ballmer,14.5,United States
+33,2010,Robert Kuok,14.5,Malaysia
+35,2010,George Soros,14,United States
+36,2010,Anil Ambani,13.7,India
+37,2010,Paul Allen,13.5,United States
+37,2010,Michael Dell,13.5,United States
+39,2010,Mikhail Prokhorov,13.4,Russia
+40,2010,Birgit Rausing,13,Sweden
+40,2010,Shashi & Ravi Ruia,13,India
+42,2010,Mikhail Fridman,12.7,Russia
+43,2010,Jeff Bezos,12.3,United States
+44,2010,Savitri Jindal,12.2,India
+45,2010,Donald Bren,12,United States
+45,2010,Gerald Cavendish Grosvenor,12,United Kingdom
+45,2010,John Paulson,12,United States
+48,2010,Abigail Johnson,11.5,United States
+48,2010,Jorge Paulo Lemann,11.5,Brazil
+50,2010,Roman Abramovich,11.2,Russia
+51,2010,Susanne Klatten,11.1,Germany
+52,2010,Iris Fontbona,11,Chile
+52,2010,Forrest Mars,11,United States
+52,2010,Jacqueline Mars,11,United States
+52,2010,John Mars,11,United States
+52,2010,Ronald Perelman,11,United States
+57,2010,Oleg Deripaska,10.7,Russia
+58,2010,Vagit Alekperov,10.6,Russia
+59,2010,Leonardo Del Vecchio,10.5,Italy
+59,2010,Carl Icahn,10.5,United States
+61,2010,Vladimir Potanin,10.3,Russia
+62,2010,Phil Knight,10.2,United States
+63,2010,Ricardo Salinas Pliego,10.1,Mexico
+64,2010,Mohammed Al Amoudi,10,Saudi Arabia
+64,2010,Ernesto Bertarelli,10,Switzerland
+64,2010,Anne Cox Chambers,10,United States
+64,2010,George Kaiser,10,United States
+64,2010,Hans Rausing,10,Sweden
+64,2010,Joseph Safra,10,Brazil
+70,2010,Alexey Mordashov,9.9,Russia
+71,2010,Viktor Rashnikov,9.8,Russia
+72,2010,German Larrea Mota Velasco,9.7,Mexico
+73,2010,Sheldon Adelson,9.3,United States
+74,2010,Silvio Berlusconi,9,Italy
+74,2010,Dan Duncan,9,United States
+74,2010,Kushal Pal Singh,9,India
+77,2010,Nasser Al-Kharafi,8.7,Kuwait
+77,2010,Francois Pinault,8.7,France
+79,2010,Dmitry Rybolovlev,8.6,Russia
+80,2010,Iskander Makhmudov,8.5,Russia
+80,2010,James Simons,8.5,United States
+82,2010,Alberto Bailleres Gonzalez,8.3,Mexico
+83,2010,German Khan,8.2,Russia
+84,2010,Eliodoro,8.1,Chile
+85,2010,Edward Johnson,8,United States
+86,2010,Kumar Birla,7.9,India
+87,2010,Sunil Mittal,7.8,India
+88,2010,John Fredriksen,7.7,Cyprus
+89,2010,Serge Dassault,7.6,France
+89,2010,Petr Kellner,7.6,Czech Republic
+89,2010,Ananda Krishnan,7.6,Malaysia
+89,2010,Tadashi Yanai,7.6,Japan
+93,2010,Mohamed Bin Issa Al Jaber,7.5,Saudi Arabia
+93,2010,Len Blavatnik,7.5,United States
+93,2010,David & Simon Reuben,7.5,United Kingdom
+93,2010,Nobutada Saji,7.5,Japan
+93,2010,Alain & Gerard Wertheimer,7.5,France
+93,2010,Vladimir Yevtushenkov,7.5,Russia
+99,2010,August von Finck,7.3,Germany
+100,2010,Lee Kun-Hee,7.2,South Korea
+1,2009,Bill Gates,40,United States
+2,2009,Warren Buffett,37,United States
+3,2009,Carlos Slim Helu,35,Mexico
+4,2009,Larry Ellison,22.5,United States
+5,2009,Ingvar Kamprad,22,Sweden
+6,2009,Karl Albrecht,21.5,Germany
+7,2009,Mukesh Ambani,19.5,India
+8,2009,Lakshmi Mittal,19.3,India
+10,2009,Amancio Ortega,18.3,Spain
+11,2009,Jim Walton,17.8,United States
+12,2009,Alice Walton,17.6,United States
+12,2009,Christy Walton,17.6,United States
+12,2009,S. Robson Walton,17.6,United States
+15,2009,Bernard Arnault,16.5,France
+16,2009,Li Ka-Shing,16.2,Hong Kong
+17,2009,Michael Bloomberg,16,United States
+18,2009,Stefan Persson,14.5,Sweden
+19,2009,Charles Koch,14,United States
+19,2009,David Koch,14,United States
+21,2009,Liliane Bettencourt,13.4,France
+22,2009,Prince Alwaleed Bin Talal,13.3,Saudi Arabia
+23,2009,Michael Otto,13.2,Germany
+24,2009,David Thomson,13,Canada
+25,2009,Michael Dell,12.3,United States
+26,2009,Donald Bren,12,United States
+26,2009,Sergey Brin,12,United States
+26,2009,Larry Page,12,United States
+29,2009,Steve Ballmer,11,United States
+29,2009,Gerald Cavendish Grosvenor,11,United Kingdom
+29,2009,George Soros,11,United States
+32,2009,Paul Allen,10.5,United States
+32,2009,Kwok family,10.5,Hong Kong
+34,2009,Anil Ambani,10.1,India
+35,2009,Abigail Johnson,10,United States
+35,2009,Susanne Klatten,10,Germany
+35,2009,Ronald Perelman,10,United States
+35,2009,Hans Rausing,10,Sweden
+39,2009,Birgit Rausing,9.9,Sweden
+40,2009,Michele Ferrero,9.5,Italy
+40,2009,Mikhail Prokhorov,9.5,Russia
+40,2009,Jack Taylor,9.5,United States
+43,2009,Mohammed Al Amoudi,9,Saudi Arabia
+43,2009,Anne Cox Chambers,9,United States
+43,2009,Carl Icahn,9,United States
+43,2009,George Kaiser,9,United States
+43,2009,Shau Kee Lee,9,Hong Kong
+43,2009,Forrest Mars,9,United States
+43,2009,Jacqueline Mars,9,United States
+43,2009,John Mars,9,United States
+51,2009,Roman Abramovich,8.5,Russia
+52,2009,Ernesto Bertarelli,8.2,Switzerland
+52,2009,Phil Knight,8.2,United States
+54,2009,Nasser Al-Kharafi,8.1,Kuwait
+55,2009,James Simons,8,United States
+55,2009,Alain &#38; Gerard Wertheimer,8,France
+57,2009,Abdul Aziz Al Ghurair,7.8,United Arab Emirates
+57,2009,Vagit Alekperov,7.8,Russia
+59,2009,Sunil Mittal,7.7,India
+60,2009,Francois Pinault,7.6,France
+61,2009,Eike Batista,7.5,Brazil
+62,2009,Mohamed Bin Issa Al Jaber,7,Saudi Arabia
+62,2009,Edward Johnson,7,United States
+62,2009,Ananda Krishnan,7,Malaysia
+62,2009,Robert Kuok,7,Malaysia
+62,2009,Joseph Safra,7,Brazil
+68,2009,Jeff Bezos,6.8,United States
+69,2009,August von Finck,6.7,Germany
+70,2009,Silvio Berlusconi,6.5,Italy
+71,2009,Leonardo Del Vecchio,6.3,Italy
+71,2009,Curt Engelhorn,6.3,Germany
+71,2009,Mikhail Fridman,6.3,Russia
+74,2009,Sulaiman Al Rajhi,6.2,Saudi Arabia
+75,2009,James Goodnight,6.1,United States
+76,2009,Iris Fontbona,6,Chile
+76,2009,Petr Kellner,6,Czech Republic
+76,2009,John Paulson,6,United States
+76,2009,Tadashi Yanai,6,Japan
+81,2009,Eliodoro Matte,5.9,Chile
+83,2009,Alberto Bailleres,5.7,Mexico
+83,2009,Azim Premji,5.7,India
+83,2009,Hansjorg Wyss,5.7,Switzerland
+86,2009,Shashi &#38; Ravi Ruia,5.6,India
+87,2009,Steve Cohen,5.5,United States
+87,2009,Patrick Soon-Shiong,5.5,United States
+90,2009,Serge Dassault,5.4,France
+90,2009,Erivan Haub,5.4,Germany
+92,2009,Jorge Paulo Lemann,5.3,Brazil
+93,2009,Eli Broad,5.2,United States
+93,2009,Kunio Busujima,5.2,Japan
+93,2009,Karl-Heinz Kipp,5.2,Germany
+93,2009,Vladimir Lisin,5.2,Russia
+93,2009,Reinhold Wurth,5.2,Germany
+98,2009,Philip Anschutz,5,United States
+98,2009,Kirk Kerkorian,5,United States
+98,2009,Nicky Oppenheimer,5,South Africa
+98,2009,David &#38; Simon Reuben,5,United Kingdom
+98,2009,Kushal Pal Singh,5,India
+98,2009,Galen Weston,5,Canada
+105,2009,Philip &#38; Cristina Green,4.8,United Kingdom
+105,2009,Antonia Johnson,4.8,Sweden
+1,2008,Warren Buffett,62,United States
+2,2008,Carlos Slim Helu,60,Mexico
+3,2008,Bill Gates,58,United States
+4,2008,Lakshmi Mittal,45,India
+5,2008,Mukesh Ambani,43,India
+6,2008,Anil Ambani,42,India
+7,2008,Ingvar Kamprad,31,Sweden
+8,2008,Kushal Pal Singh,30,India
+9,2008,Oleg Deripaska,28,Russia
+10,2008,Karl Albrecht,27,Germany
+11,2008,Li Ka-Shing,26.5,Hong Kong
+12,2008,Sheldon Adelson,26,United States
+13,2008,Bernard Arnault,25.5,France
+14,2008,Larry Ellison,25,United States
+15,2008,Roman Abramovich,23.5,Russia
+17,2008,Liliane Bettencourt,22.9,France
+18,2008,Alexey Mordashov,21.2,Russia
+19,2008,Prince Alwaleed Bin Talal,21,Saudi Arabia
+20,2008,Mikhail Fridman,20.8,Russia
+21,2008,Vladimir Lisin,20.3,Russia
+22,2008,Amancio Ortega,20.2,Spain
+23,2008,Kwok family,19.9,Hong Kong
+24,2008,Mikhail Prokhorov,19.5,Russia
+25,2008,Vladimir Potanin,19.3,Russia
+26,2008,Christy Walton,19.2,United States
+26,2008,Jim Walton,19.2,United States
+26,2008,S. Robson Walton,19.2,United States
+29,2008,Shau Kee Lee,19,Hong Kong
+29,2008,Alice Walton,19,United States
+31,2008,David Thomson,18.9,Canada
+32,2008,Sergey Brin,18.7,United States
+33,2008,Larry Page,18.6,United States
+34,2008,Michael Otto,18.2,Germany
+35,2008,Stefan Persson,17.7,Sweden
+36,2008,Suleiman Kerimov,17.5,Russia
+37,2008,Charles Koch,17,United States
+37,2008,David Koch,17,United States
+39,2008,Francois Pinault,16.9,France
+40,2008,Michael Dell,16.4,United States
+41,2008,Paul Allen,16,United States
+41,2008,Kirk Kerkorian,16,United States
+43,2008,Steve Ballmer,15,United States
+43,2008,Abigail Johnson,15,United States
+43,2008,Shashi &#38; Ravi Ruia,15,India
+46,2008,Nasser Al-Kharafi,14,Kuwait
+46,2008,Gerald Cavendish Grosvenor,14,United Kingdom
+46,2008,Carl Icahn,14,United States
+46,2008,Forrest Mars,14,United States
+46,2008,Jacqueline Mars,14,United States
+46,2008,John Mars,14,United States
+46,2008,Birgit Rausing,14,Sweden
+46,2008,Jack Taylor,14,United States
+54,2008,German Khan,13.9,Russia
+55,2008,Susanne Klatten,13.2,Germany
+56,2008,Vagit Alekperov,13,Russia
+56,2008,Donald Bren,13,United States
+58,2008,Alain &#38; Gerard Wertheimer,12.9,France
+59,2008,Dmitry Rybolovlev,12.8,Russia
+60,2008,Azim Premji,12.7,India
+60,2008,Naguib Sawiris,12.7,Egypt
+62,2008,Anne Cox Chambers,12.6,United States
+63,2008,Iskander Makhmudov,11.9,Russia
+64,2008,Sunil Mittal,11.8,India
+65,2008,Alexander Abramov,11.5,Russia
+65,2008,Michael Bloomberg,11.5,United States
+67,2008,Viktor Vekselberg,11.2,Russia
+68,2008,Michele Ferrero,11,Italy
+68,2008,George Kaiser,11,United States
+68,2008,Spiro Latsis,11,Greece
+68,2008,Nassef Sawiris,11,Egypt
+72,2008,Alexei Kuzmichev,10.8,Russia
+73,2008,Phil Knight,10.4,United States
+73,2008,Viktor Rashnikov,10.4,Russia
+75,2008,Ernesto Bertarelli,10.3,Switzerland
+76,2008,Kumar Birla,10.2,India
+77,2008,Leonardo Del Vecchio,10,Italy
+77,2008,Antonio Ermirio de Moraes,10,Brazil
+77,2008,Iris Fontbona,10,Chile
+77,2008,Edward Johnson,10,United States
+77,2008,Hans Rausing,10,Sweden
+77,2008,Vladimir Yevtushenkov,10,Russia
+77,2008,Igor Zyuzin,10,Russia
+84,2008,Serge Dassault,9.9,France
+85,2008,Alberto Bailleres,9.8,Mexico
+86,2008,Ramesh Chandra,9.6,India
+87,2008,Charles Ergen,9.5,United States
+87,2008,Ronald Perelman,9.5,United States
+90,2008,Silvio Berlusconi,9.4,Italy
+91,2008,Gautam Adani,9.3,India
+91,2008,Petr Kellner,9.3,Czech Republic
+91,2008,Alisher Usmanov,9.3,Russia
+94,2008,August von Finck,9.2,Germany
+96,2008,Onsi Sawiris,9.1,Egypt
+97,2008,Mohammed Al Amoudi,9,Saudi Arabia
+97,2008,Robert Kuok,9,Malaysia
+97,2008,George Soros,9,United States
+100,2008,Abdul Aziz Al Ghurair,8.9,United Arab Emirates
+101,2008,Joseph Safra,8.8,Brazil
+102,2008,James Goodnight,8.7,United States
+104,2008,Donald Newhouse,8.5,United States
+1,2007,Bill Gates,56,United States
+2,2007,Warren Buffett,52,United States
+3,2007,Carlos Slim Helu,49,Mexico
+4,2007,Ingvar Kamprad,33,Sweden
+5,2007,Lakshmi Mittal,32,India
+6,2007,Sheldon Adelson,26.5,United States
+7,2007,Bernard Arnault,26,France
+8,2007,Amancio Ortega,24,Spain
+9,2007,Li Ka-Shing,23,Hong Kong
+10,2007,David Thomson,22,Canada
+11,2007,Larry Ellison,21.5,United States
+12,2007,Liliane Bettencourt,20.7,France
+13,2007,Prince Alwaleed Bin Talal,20.3,Saudi Arabia
+14,2007,Mukesh Ambani,20.1,India
+15,2007,Karl Albrecht,20,Germany
+16,2007,Roman Abramovich,18.7,Russia
+17,2007,Stefan Persson,18.4,Sweden
+18,2007,Anil Ambani,18.2,India
+19,2007,Paul Allen,18,United States
+21,2007,Azim Premji,17.1,India
+22,2007,Shau Kee Lee,17,Hong Kong
+23,2007,Jim Walton,16.8,United States
+24,2007,Christy Walton,16.7,United States
+24,2007,S. Robson Walton,16.7,United States
+26,2007,Sergey Brin,16.6,United States
+26,2007,Larry Page,16.6,United States
+26,2007,Alice Walton,16.6,United States
+30,2007,Michael Dell,15.8,United States
+31,2007,Steve Ballmer,15,United States
+31,2007,Kirk Kerkorian,15,United States
+31,2007,Kwok family,15,Hong Kong
+34,2007,Francois Pinault,14.5,France
+35,2007,Suleiman Kerimov,14.4,Russia
+36,2007,Vladimir Lisin,14.3,Russia
+37,2007,Jack Taylor,13.9,United States
+38,2007,Vladimir Potanin,13.5,Russia
+38,2007,Mikhail Prokhorov,13.5,Russia
+40,2007,Oleg Deripaska,13.3,Russia
+40,2007,Michael Otto,13.3,Germany
+42,2007,Carl Icahn,13,United States
+42,2007,Abigail Johnson,13,United States
+45,2007,Anne Cox Chambers,12.6,United States
+45,2007,Mikhail Fridman,12.6,Russia
+48,2007,Vagit Alekperov,12.4,Russia
+49,2007,Charles Koch,12,United States
+49,2007,David Koch,12,United States
+51,2007,Silvio Berlusconi,11.8,Italy
+52,2007,Nasser Al-Kharafi,11.5,Kuwait
+52,2007,Leonardo Del Vecchio,11.5,Italy
+54,2007,Alexey Mordashov,11.2,Russia
+55,2007,Gerald Cavendish Grosvenor,11,United Kingdom
+55,2007,Spiro Latsis,11,Greece
+55,2007,Birgit Rausing,11,Sweden
+58,2007,Forrest Mars,10.5,United States
+58,2007,Jacqueline Mars,10.5,United States
+58,2007,John Mars,10.5,United States
+61,2007,Viktor Vekselberg,10.4,Russia
+62,2007,Serge Dassault,10,France
+62,2007,Charles Ergen,10,United States
+62,2007,Michele Ferrero,10,Italy
+62,2007,Naguib Sawiris,10,Egypt
+62,2007,Kushal Pal Singh,10,India
+62,2007,Alain &#38; Gerard Wertheimer,10,France
+68,2007,Susanne Klatten,9.6,Germany
+69,2007,Phil Knight,9.5,United States
+69,2007,Sunil Mittal,9.5,India
+71,2007,Vladimir Yevtushenkov,9.1,Russia
+73,2007,Rupert Murdoch,9,United States
+73,2007,Hans Rausing,9,Sweden
+73,2007,Reinhold Wurth,9,Germany
+76,2007,Ernesto Bertarelli,8.8,Switzerland
+76,2007,Pierre Omidyar,8.8,United States
+78,2007,Maria-Elisabeth &#38; Georg Schaeffler,8.7,Germany
+80,2007,Donald Bren,8.5,United States
+80,2007,George Kaiser,8.5,United States
+80,2007,George Soros,8.5,United States
+83,2007,Nikolai Tsvetkov,8.4,Russia
+83,2007,August von Finck,8.4,Germany
+86,2007,Mohammed Al Amoudi,8,Saudi Arabia
+86,2007,Abdul Aziz Al Ghurair,8,United Arab Emirates
+86,2007,Kumar Birla,8,India
+86,2007,German Khan,8,Russia
+86,2007,Iskander Makhmudov,8,Russia
+86,2007,Sumner Redstone,8,United States
+86,2007,Shashi &#38; Ravi Ruia,8,India
+93,2007,Philip Anschutz,7.9,United States
+93,2007,Galen Weston,7.9,Canada
+95,2007,Enrique Banuelos,7.7,Spain
+96,2007,Stefan Quandt,7.6,Germany
+97,2007,Edward Johnson,7.5,United States
+99,2007,Sulaiman Al Rajhi,7.4,Saudi Arabia
+100,2007,Donald Newhouse,7.3,United States
+100,2007,Samuel Newhouse,7.3,United States
+102,2007,Leonard Blavatnik,7.2,United States
+102,2007,Charlene de Carvalho-Heineken,7.2,Netherlands
+104,2007,John Fredriksen,7,Cyprus
+104,2007,Philip &#38; Cristina Green,7,United Kingdom
+104,2007,Robert Kuok,7,Malaysia
+104,2007,Ronald Perelman,7,United States
+104,2007,Viktor Rashnikov,7,Russia
+1,2006,Bill Gates,50,United States
+2,2006,Warren Buffett,42,United States
+3,2006,Carlos Slim Helu,30,Mexico
+4,2006,Ingvar Kamprad,28,Sweden
+5,2006,Lakshmi Mittal,23.5,India
+6,2006,Paul Allen,22,United States
+7,2006,Bernard Arnault,21.5,France
+8,2006,Prince Alwaleed Bin Talal,20,Saudi Arabia
+10,2006,Li Ka-Shing,18.8,Hong Kong
+11,2006,Roman Abramovich,18.2,Russia
+12,2006,Michael Dell,17.1,United States
+13,2006,Karl Albrecht,17,Germany
+14,2006,Sheldon Adelson,16.1,United States
+15,2006,Liliane Bettencourt,16,France
+15,2006,Larry Ellison,16,United States
+17,2006,Christy Walton,15.9,United States
+17,2006,Jim Walton,15.9,United States
+19,2006,S. Robson Walton,15.8,United States
+20,2006,Alice Walton,15.7,United States
+23,2006,Amancio Ortega,14.8,Spain
+24,2006,Steve Ballmer,13.6,United States
+25,2006,Azim Premji,13.3,India
+26,2006,Sergey Brin,12.9,United States
+27,2006,Larry Page,12.8,United States
+28,2006,Abigail Johnson,12.5,United States
+29,2006,Nasser Al-Kharafi,12.4,Kuwait
+29,2006,Anne Cox Chambers,12.4,United States
+32,2006,Stefan Persson,12.3,Sweden
+33,2006,Charles Koch,12,United States
+33,2006,David Koch,12,United States
+35,2006,Kwok family,11.6,Hong Kong
+37,2006,Sulaiman Al Rajhi,11,Saudi Arabia
+37,2006,Vagit Alekperov,11,Russia
+37,2006,Silvio Berlusconi,11,Italy
+37,2006,Shau Kee Lee,11,Hong Kong
+41,2006,Vladimir Lisin,10.7,Russia
+42,2006,Michael Otto,10.4,Germany
+43,2006,Pierre Omidyar,10.1,United States
+44,2006,Leonardo Del Vecchio,10,Italy
+44,2006,Michele Ferrero,10,Italy
+44,2006,Forrest Mars,10,United States
+44,2006,Jacqueline Mars,10,United States
+44,2006,John Mars,10,United States
+44,2006,Viktor Vekselberg,10,Russia
+50,2006,Mikhail Fridman,9.7,Russia
+51,2006,Spiro Latsis,9.1,Greece
+53,2006,Carl Icahn,8.7,United States
+53,2006,Kirk Kerkorian,8.7,United States
+55,2006,Birgit Rausing,8.6,Sweden
+56,2006,Mukesh Ambani,8.5,India
+56,2006,Serge Dassault,8.5,France
+56,2006,Hans Rausing,8.5,Sweden
+59,2006,Galen Weston,8.4,Canada
+60,2006,Susanne Klatten,8.1,Germany
+62,2006,Oleg Deripaska,7.8,Russia
+63,2006,Sumner Redstone,7.7,United States
+64,2006,Alexey Mordashov,7.6,Russia
+65,2006,Donald Newhouse,7.5,United States
+65,2006,Samuel Newhouse,7.5,United States
+65,2006,Alain &#38; Gerard Wertheimer,7.5,France
+65,2006,Reinhold Wurth,7.5,Germany
+70,2006,Phil Knight,7.3,United States
+71,2006,George Soros,7.2,United States
+72,2006,Ernesto Bertarelli,7.1,Switzerland
+72,2006,Suleiman Kerimov,7.1,Russia
+74,2006,Philip &#38; Cristina Green,7,United Kingdom
+74,2006,Francois Pinault,7,France
+74,2006,August von Finck,7,Germany
+77,2006,Mohammed Al Amoudi,6.9,Saudi Arabia
+77,2006,Abdul Aziz Al Ghurair,6.9,United Arab Emirates
+79,2006,Maria-Elisabeth &#38; Georg Schaeffler,6.8,Germany
+80,2006,Charles Ergen,6.7,United States
+80,2006,Edward Johnson,6.7,United States
+82,2006,Kun-Hee Lee,6.6,South Korea
+82,2006,Stefan Quandt,6.6,Germany
+84,2006,Rupert Murdoch,6.5,United States
+89,2006,Philip Anschutz,6.4,United States
+89,2006,Hasso Plattner,6.4,Germany
+89,2006,Vladimir Potanin,6.4,Russia
+89,2006,Mikhail Prokhorov,6.4,Russia
+93,2006,Vladimir Yevtushenkov,6.3,Russia
+94,2006,Micky Arison,6.1,United States
+94,2006,Curt Engelhorn,6.1,Germany
+94,2006,German Khan,6.1,Russia
+94,2006,Ronald Perelman,6.1,United States
+94,2006,Johanna Quandt,6.1,Germany
+100,2006,Gerald Cavendish Grosvenor,6,United Kingdom
+100,2006,Jack Taylor,6,United States
+103,2006,Eli Broad,5.9,United States
+104,2006,Anil Ambani,5.7,India
+104,2006,Donald Bren,5.7,United States
+106,2006,James,5.5,Canada
+109,2006,Shari Arison,5.2,Israel
+109,2006,Kunio Busujima,5.2,Japan
+109,2006,Nikolai Tsvetkov,5.2,Russia
+112,2006,Michael Bloomberg,5.1,United States
+112,2006,Yu-tung Cheng,5.1,Hong Kong
+114,2006,Leonard Blavatnik,5,United States
+114,2006,Gustavo Cisneros,5,Venezuela
+114,2006,Charlene de Carvalho-Heineken,5,Netherlands
+1,2005,Bill Gates,46.5,United States
+2,2005,Warren Buffett,44,United States
+3,2005,Lakshmi Mittal,25,India
+4,2005,Carlos Slim Helu,23.8,Mexico
+5,2005,Prince Alwaleed Bin Talal,23.7,Saudi Arabia
+6,2005,Ingvar Kamprad,23,Sweden
+7,2005,Paul Allen,21,United States
+8,2005,Karl Albrecht,18.5,Germany
+9,2005,Larry Ellison,18.4,United States
+10,2005,S. Robson Walton,18.3,United States
+11,2005,Jim Walton,18.2,United States
+13,2005,Alice Walton,18,United States
+16,2005,Liliane Bettencourt,17.2,France
+17,2005,Bernard Arnault,17,France
+18,2005,Michael Dell,16,United States
+19,2005,Sheldon Adelson,15.6,United States
+21,2005,Roman Abramovich,13.3,Russia
+22,2005,Li Ka-Shing,13,Hong Kong
+23,2005,Amancio Ortega,12.6,Spain
+24,2005,Steve Ballmer,12.1,United States
+25,2005,Silvio Berlusconi,12,Italy
+25,2005,Abigail Johnson,12,United States
+27,2005,Anne Cox Chambers,11.7,United States
+29,2005,Stefan Persson,11.2,Sweden
+31,2005,Kwok family,10.9,Hong Kong
+32,2005,Forrest Mars,10.4,United States
+32,2005,Jacqueline Mars,10.4,United States
+32,2005,John Mars,10.4,United States
+35,2005,Luciano Benetton,9.9,Italy
+35,2005,Pierre Omidyar,9.9,United States
+35,2005,Galen Weston,9.9,Canada
+38,2005,Shau Kee Lee,9.3,Hong Kong
+38,2005,Azim Premji,9.3,India
+40,2005,Nasser Al-Kharafi,9,Kuwait
+41,2005,Kirk Kerkorian,8.9,United States
+42,2005,Sumner Redstone,8.8,United States
+43,2005,Leonardo Del Vecchio,8.5,Italy
+43,2005,Michele Ferrero,8.5,Italy
+45,2005,Michael Otto,8.3,Germany
+46,2005,Susanne Klatten,8.2,Germany
+46,2005,Phil Knight,8.2,United States
+46,2005,Hans Rausing,8.2,Sweden
+49,2005,Serge Dassault,7.8,France
+49,2005,Carl Icahn,7.8,United States
+49,2005,Rupert Murdoch,7.8,United States
+53,2005,Birgit Rausing,7.6,Sweden
+54,2005,Spiro Latsis,7.5,Greece
+55,2005,Sergey Brin,7.2,United States
+55,2005,Charles Ergen,7.2,United States
+55,2005,Larry Page,7.2,United States
+55,2005,George Soros,7.2,United States
+55,2005,Reinhold Wurth,7.2,Germany
+60,2005,Mukesh Ambani,7,India
+60,2005,Mikhail Fridman,7,Russia
+60,2005,Vladimir Lisin,7,Russia
+60,2005,Donald Newhouse,7,United States
+60,2005,Samuel Newhouse,7,United States
+66,2005,Stefan Quandt,6.7,Germany
+67,2005,Micky Arison,6.5,United States
+68,2005,Philip &#38; Cristina Green,6.3,United Kingdom
+68,2005,Maria-Elisabeth &#38; Georg Schaeffler,6.3,Germany
+68,2005,August von Finck,6.3,Germany
+71,2005,Eli Broad,6.1,United States
+72,2005,Curt Engelhorn,6,Germany
+72,2005,Edward Johnson,6,United States
+72,2005,Nicky Oppenheimer,6,South Africa
+76,2005,Francois Pinault,5.9,France
+77,2005,Philip Anschutz,5.8,United States
+77,2005,Ernesto Bertarelli,5.8,Switzerland
+80,2005,Sulaiman Al Rajhi,5.6,Saudi Arabia
+80,2005,Yoshitaka Fukuda,5.6,Japan
+80,2005,Gerald Cavendish Grosvenor,5.6,United Kingdom
+84,2005,Shari Arison,5.5,Israel
+84,2005,Oleg Deripaska,5.5,Russia
+87,2005,Jean-Claude Decaux,5.4,France
+87,2005,Antonia Johnson,5.4,Sweden
+87,2005,Johanna Quandt,5.4,Germany
+91,2005,Onsi Sawiris,5.2,Egypt
+94,2005,Michael Bloomberg,5,United States
+94,2005,Gustavo Cisneros,5,Venezuela
+94,2005,Robert Kuok,5,Malaysia
+94,2005,Hasso Plattner,5,Germany
+94,2005,Jeffrey Skoll,5,Canada
+94,2005,Viktor Vekselberg,5,Russia
+94,2005,Ty Warner,5,United States
+103,2005,Charlene de Carvalho-Heineken,4.9,Netherlands
+103,2005,Eitaro Itoyama,4.9,Japan
+103,2005,Rahmi Koc,4.9,Turkey
+103,2005,Ronald Perelman,4.9,United States
+107,2005,Karl-Heinz Kipp,4.8,Germany
+107,2005,Alexey Mordashov,4.8,Russia
+107,2005,Jim Pattison,4.8,Canada
+107,2005,Alain &#38; Gerard Wertheimer,4.8,France
+111,2005,Kunio Busujima,4.7,Japan
+111,2005,Michael Kadoorie,4.7,Hong Kong
+111,2005,Ferit Sahenk,4.7,Turkey
+116,2005,Giorgio Armani,4.5,Italy
+117,2005,David Geffen,4.4,United States
+117,2005,James,4.4,Canada
+117,2005,Vladimir Potanin,4.4,Russia
+1,2004,Bill Gates,46.6,United States
+2,2004,Warren Buffett,42.9,United States
+3,2004,Karl Albrecht,23,Germany
+4,2004,Prince Alwaleed Bin Talal,21.5,Saudi Arabia
+5,2004,Paul Allen,21,United States
+6,2004,Alice Walton,20,United States
+6,2004,Jim Walton,20,United States
+6,2004,S. Robson Walton,20,United States
+11,2004,Liliane Bettencourt,18.8,France
+12,2004,Larry Ellison,18.7,United States
+13,2004,Ingvar Kamprad,18.5,Sweden
+17,2004,Carlos Slim Helu,13.9,Mexico
+18,2004,Michael Dell,13,United States
+19,2004,Steve Ballmer,12.4,United States
+19,2004,Li Ka-Shing,12.4,Hong Kong
+21,2004,Bernard Arnault,12.2,France
+22,2004,Kwok family,11.4,Hong Kong
+23,2004,Anne Cox Chambers,11.2,United States
+25,2004,Roman Abramovich,10.6,Russia
+27,2004,Forrest Mars,10.4,United States
+27,2004,Jacqueline Mars,10.4,United States
+27,2004,John Mars,10.4,United States
+30,2004,Silvio Berlusconi,10,Italy
+31,2004,Abigail Johnson,9.8,United States
+32,2004,Birgit Rausing,9.3,Sweden
+33,2004,Amancio Ortega,9.2,Spain
+34,2004,Charles Ergen,9.1,United States
+35,2004,Sumner Redstone,8.9,United States
+36,2004,Gerald Cavendish Grosvenor,8.7,United Kingdom
+37,2004,Stefan Persson,8.6,Sweden
+38,2004,Pierre Omidyar,8.5,United States
+39,2004,Nasser Al-Kharafi,8.4,Kuwait
+40,2004,Susanne Klatten,8.1,Germany
+41,2004,Michael Otto,8,Germany
+41,2004,Hans Rausing,8,Sweden
+43,2004,Rupert Murdoch,7.8,United States
+44,2004,Donald Newhouse,7.7,United States
+44,2004,Samuel Newhouse,7.7,United States
+44,2004,Galen Weston,7.7,Canada
+47,2004,Carl Icahn,7.6,United States
+47,2004,Thomas Pritzker,7.6,United States
+51,2004,Ernesto Bertarelli,7.4,Switzerland
+53,2004,Phil Knight,7.1,United States
+54,2004,George Soros,7,United States
+55,2004,Leonardo Del Vecchio,6.9,Italy
+57,2004,August von Finck,6.8,Germany
+58,2004,Azim Premji,6.7,India
+59,2004,Stefan Quandt,6.5,Germany
+60,2004,Serge Dassault,6.4,France
+61,2004,Shau Kee Lee,6.3,Hong Kong
+62,2004,Lakshmi Mittal,6.2,India
+64,2004,Maria-Elisabeth &#38; Georg Schaeffler,6.1,Germany
+65,2004,Mukesh Ambani,6,India
+65,2004,Kirk Kerkorian,6,United States
+65,2004,Ty Warner,6,United States
+68,2004,Micky Arison,5.9,n/a
+68,2004,Curt Engelhorn,5.9,Germany
+70,2004,Eli Broad,5.8,United States
+73,2004,Mikhail Fridman,5.6,Russia
+73,2004,Alain &#38; Gerard Wertheimer,5.6,France
+75,2004,Gordon Moore,5.5,United States
+76,2004,Hasso Plattner,5.4,Germany
+78,2004,Johanna Quandt,5.3,Germany
+80,2004,Philip Anschutz,5.2,United States
+80,2004,Antonia Johnson,5.2,Sweden
+82,2004,Jeff Bezos,5.1,United States
+84,2004,Philip &#38; Cristina Green,5,United Kingdom
+85,2004,Michael Bloomberg,4.9,United States
+85,2004,Eitaro Itoyama,4.9,Japan
+85,2004,Edward Johnson,4.9,United States
+85,2004,Vladimir Potanin,4.9,Russia
+90,2004,Mikhail Prokhorov,4.8,Russia
+91,2004,Francois Pinault,4.7,France
+94,2004,Shari Arison,4.6,Israel
+94,2004,Gustavo Cisneros,4.6,Venezuela
+94,2004,Charlene de Carvalho-Heineken,4.6,Netherlands
+94,2004,Karl-Heinz Kipp,4.6,Germany
+94,2004,Jim Pattison,4.6,Canada
+100,2004,Luciano Benetton,4.5,Italy
+100,2004,Walter Haefner,4.5,Switzerland
+100,2004,Erivan Haub,4.5,Germany
+103,2004,Yoshitaka Fukuda,4.4,Japan
+103,2004,Spiro Latsis,4.4,Greece
+103,2004,Nicky Oppenheimer,4.4,South Africa
+103,2004,Jeffrey Skoll,4.4,Canada
+103,2004,Reinhold Wurth,4.4,Germany
+111,2004,Kunio Busujima,4.2,Japan
+111,2004,Robert Kuok,4.2,Malaysia
+115,2004,Lorenzo Mendoza,4.1,Venezuela
+116,2004,Jeronimo Arango,4,Mexico
+116,2004,Donald Bren,4,United States
+116,2004,David Geffen,4,United States
+116,2004,Charles Koch,4,United States
+116,2004,David Koch,4,United States
+116,2004,David Sainsbury,4,United Kingdom
+122,2004,Michael Kadoorie,3.9,Hong Kong
+124,2004,James,3.8,Canada
+124,2004,Vladimir Lisin,3.8,Russia
+124,2004,Ronald Perelman,3.8,United States
+124,2004,Henry Ross Perot Sr,3.8,United States
+1,2003,Bill Gates,40.7,United States
+2,2003,Warren Buffett,30.5,United States
+4,2003,Paul Allen,20.1,United States
+5,2003,Prince Alwaleed Bin Talal,17.7,Saudi Arabia
+6,2003,Larry Ellison,16.6,United States
+7,2003,Alice Walton,16.5,United States
+7,2003,Jim Walton,16.5,United States
+7,2003,S. Robson Walton,16.5,United States
+12,2003,Liliane Bettencourt,14.5,France
+14,2003,Ingvar Kamprad,13,Sweden
+15,2003,Birgit Rausing,12.9,Sweden
+16,2003,Steve Ballmer,11.1,United States
+18,2003,Anne Cox Chambers,10.3,United States
+18,2003,Amancio Ortega,10.3,Spain
+21,2003,Forrest Mars,10,United States
+21,2003,Jacqueline Mars,10,United States
+21,2003,John Mars,10,United States
+24,2003,Michael Dell,9.8,United States
+25,2003,Abigail Johnson,8.2,United States
+26,2003,Sumner Redstone,8,United States
+28,2003,Li Ka-Shing,7.8,Hong Kong
+29,2003,Donald Newhouse,7.7,United States
+29,2003,Samuel Newhouse,7.7,United States
+29,2003,Hans Rausing,7.7,Sweden
+32,2003,Thomas Pritzker,7.6,United States
+34,2003,Gerald Cavendish Grosvenor,7.5,United Kingdom
+35,2003,Carlos Slim Helu,7.4,Mexico
+38,2003,George Soros,7,United States
+40,2003,Bernard Arnault,6.7,France
+40,2003,Stefan Persson,6.7,Sweden
+42,2003,Kwok family,6.6,Hong Kong
+43,2003,Galen Weston,6.2,Canada
+44,2003,Ty Warner,6,United States
+45,2003,Silvio Berlusconi,5.9,Italy
+45,2003,Charles Ergen,5.9,United States
+45,2003,Azim Premji,5.9,India
+48,2003,Carl Icahn,5.8,United States
+49,2003,Roman Abramovich,5.7,Russia
+49,2003,Curt Engelhorn,5.7,Germany
+52,2003,Leonardo Del Vecchio,5.6,Italy
+52,2003,August von Finck,5.6,Germany
+54,2003,Rupert Murdoch,5.5,United States
+54,2003,Michael Otto,5.5,Germany
+57,2003,Susanne Klatten,5.3,Germany
+58,2003,Nasser Al-Kharafi,5.1,Kuwait
+59,2003,Pierre Omidyar,5,United States
+62,2003,Philip Anschutz,4.9,United States
+63,2003,Michael Bloomberg,4.8,United States
+64,2003,Ernesto Bertarelli,4.7,Switzerland
+65,2003,Luciano Benetton,4.6,Italy
+67,2003,Alain &#38; Gerard Wertheimer,4.5,France
+68,2003,Mikhail Fridman,4.3,Russia
+68,2003,Lorenzo Mendoza,4.3,Venezuela
+68,2003,Stefan Quandt,4.3,Germany
+71,2003,Phil Knight,4.2,United States
+72,2003,Eitaro Itoyama,4.1,Japan
+72,2003,Edward Johnson,4.1,United States
+72,2003,Karl-Heinz Kipp,4.1,Germany
+72,2003,Akira Mori,4.1,Japan
+78,2003,Donald Bren,4,United States
+78,2003,Gustavo Cisneros,4,Venezuela
+78,2003,Charles Koch,4,United States
+78,2003,David Koch,4,United States
+82,2003,Eli Broad,3.9,United States
+83,2003,David Geffen,3.8,United States
+83,2003,Erivan Haub,3.8,Germany
+83,2003,Maria-Elisabeth &#38; Georg Schaeffler,3.8,Germany
+88,2003,Charlene de Carvalho-Heineken,3.7,Netherlands
+88,2003,Shau Kee Lee,3.7,Hong Kong
+88,2003,Henry Ross Perot Sr,3.7,United States
+92,2003,Antonia Johnson,3.6,Sweden
+94,2003,Michele Ferrero,3.5,Italy
+94,2003,James,3.5,Canada
+94,2003,William Wrigley,3.5,United States
+97,2003,Jeronimo Arango,3.4,Mexico
+97,2003,Kirk Kerkorian,3.4,United States
+97,2003,Robert Kuok,3.4,Malaysia
+97,2003,Johanna Quandt,3.4,Germany
+101,2003,Michael Kadoorie,3.3,Hong Kong
+101,2003,Spiro Latsis,3.3,Greece
+104,2003,Micky Arison,3.2,United States
+104,2003,Yang Huiyan,12.608092,China
+104,2003,Riley Bechtel,3.2,United States
+104,2003,Stephen Bechtel,3.2,United States
+104,2003,William Cook,3.2,United States
+104,2003,Serge Dassault,3.2,France
+104,2003,Bernard Ecclestone,3.2,United Kingdom
+104,2003,Nicky Oppenheimer,3.2,South Africa
+112,2003,James Goodnight,3.1,United States
+113,2003,Rolf Gerling,3,Germany
+113,2003,George Lucas,3,United States
+113,2003,David Sainsbury,3,United Kingdom
+113,2003,Jack Taylor,3,United States
+118,2003,Hubert Burda,2.9,Germany
+118,2003,Henry Hillman,2.9,United States
+118,2003,Hasso Plattner,2.9,Germany
+123,2003,Mukesh Ambani,2.8,India
+123,2003,Lester Crown,2.8,United States
+123,2003,Kun-Hee Lee,2.8,South Korea
+123,2003,Francois Pinault,2.8,France
+1,2002,Bill Gates,52.8,United States
+2,2002,Warren Buffett,35,United States
+4,2002,Paul Allen,25.2,United States
+5,2002,Larry Ellison,23.5,United States
+6,2002,Jim Walton,20.8,United States
+8,2002,Alice Walton,20.5,United States
+8,2002,S. Robson Walton,20.5,United States
+11,2002,Prince Alwaleed Bin Talal,20,Saudi Arabia
+12,2002,Johanna Quandt,18.4,Germany
+13,2002,Liliane Bettencourt,14.9,France
+15,2002,Steve Ballmer,14.8,United States
+16,2002,Ingvar Kamprad,13.4,Sweden
+17,2002,Carlos Slim Helu,11.5,Mexico
+18,2002,Michael Dell,11.1,United States
+19,2002,Birgit Rausing,10.7,Sweden
+21,2002,Anne Cox Chambers,10.1,United States
+23,2002,Li Ka-Shing,10,Hong Kong
+24,2002,Kwok family,9.2,Hong Kong
+25,2002,Amancio Ortega,9.1,Spain
+26,2002,Forrest Mars,9,United States
+26,2002,Jacqueline Mars,9,United States
+26,2002,John Mars,9,United States
+29,2002,Abigail Johnson,8.6,United States
+31,2002,Ernesto Bertarelli,8.4,Switzerland
+32,2002,Sumner Redstone,8.1,United States
+33,2002,Hans Rausing,7.7,Sweden
+35,2002,Silvio Berlusconi,7.2,Italy
+36,2002,Bernard Arnault,7,France
+37,2002,George Soros,6.9,United States
+38,2002,Gerald Cavendish Grosvenor,6.7,United Kingdom
+39,2002,Leonardo Del Vecchio,6.6,Italy
+40,2002,Michael Otto,6.5,Germany
+41,2002,Azim Premji,6.4,India
+42,2002,Charles Ergen,6.2,United States
+43,2002,Gordon Moore,6.1,United States
+44,2002,Kirk Kerkorian,5.8,United States
+45,2002,Nasser Al-Kharafi,5.7,Kuwait
+45,2002,Phil Knight,5.7,United States
+45,2002,Rupert Murdoch,5.7,United States
+48,2002,Curt Engelhorn,5.6,Germany
+48,2002,Stefan Persson,5.6,Sweden
+51,2002,Eli Broad,5.2,United States
+51,2002,Shau Kee Lee,5.2,Hong Kong
+54,2002,Philip Anschutz,5.1,United States
+55,2002,Gustavo Cisneros,5,Venezuela
+55,2002,Walter Haefner,5,Switzerland
+55,2002,Carl Icahn,5,United States
+55,2002,Donald Newhouse,5,United States
+55,2002,Samuel Newhouse,5,United States
+55,2002,Thomas Pritzker,5,United States
+62,2002,Luciano Benetton,4.9,Italy
+62,2002,Serge Dassault,4.9,France
+64,2002,James Goodnight,4.8,United States
+64,2002,August von Finck,4.8,Germany
+68,2002,Pierre Omidyar,4.6,United States
+72,2002,Michael Bloomberg,4.4,United States
+72,2002,Lorenzo Mendoza,4.4,Venezuela
+72,2002,Hasso Plattner,4.4,Germany
+76,2002,Charlene de Carvalho-Heineken,4.3,Netherlands
+76,2002,Rolf Gerling,4.3,Germany
+76,2002,Edward Johnson,4.3,United States
+76,2002,David Sainsbury,4.3,United Kingdom
+76,2002,Alain &#38; Gerard Wertheimer,4.3,France
+82,2002,Galen Weston,4.2,Canada
+84,2002,James,4.1,Canada
+84,2002,Robert Kuok,4.1,Malaysia
+84,2002,Charles Schwab,4.1,United States
+87,2002,Donald Bren,4,United States
+87,2002,David Geffen,4,United States
+87,2002,Mehmet Emin Karamehmet,4,Turkey
+87,2002,Ty Warner,4,United States
+96,2002,Henry Ross Perot Sr,3.9,United States
+97,2002,Erivan Haub,3.8,Germany
+97,2002,Jon Huntsman,3.8,United States
+97,2002,Robert E \Ted\ Turner,3.8,United States
+101,2002,Jeronimo Arango,3.7,Mexico
+103,2002,Micky Arison,3.6,United States
+103,2002,Antonio Ermirio de Moraes,3.6,Brazil
+106,2002,Lester Crown,3.4,United States
+106,2002,Karl-Heinz Kipp,3.4,Germany
+106,2002,Spiro Latsis,3.4,Greece
+106,2002,Akira Mori,3.4,Japan
+106,2002,William Wrigley,3.4,United States
+112,2002,Shari Arison,3.3,Israel
+112,2002,Nicky Oppenheimer,3.3,South Africa
+118,2002,Eitaro Itoyama,3.1,Japan
+118,2002,Michael Kadoorie,3.1,Hong Kong
+118,2002,Charles Koch,3.1,United States
+118,2002,David Koch,3.1,United States
+118,2002,Francois Pinault,3.1,France
+118,2002,Stephan Schmidheiny,3.1,Switzerland
+118,2002,Reinhold Wurth,3.1,Germany
+127,2002,Roman Abramovich,3,Russia
+127,2002,Riley Bechtel,3,United States
+127,2002,Stephen Bechtel,3,United States
+127,2002,Edgar Bronfman,3,United States
+127,2002,Bernard Ecclestone,3,United Kingdom
+127,2002,Henry Hillman,3,United States
+127,2002,George Lucas,3,United States
+127,2002,Bernard Marcus,3,United States
+1,2001,Bill Gates,58.7,United States
+2,2001,Warren Buffett,32.3,United States
+3,2001,Paul Allen,30.4,United States
+4,2001,Larry Ellison,26,United States
+5,2001,Christoph Henkel,5.6,Germany
+6,2001,Prince Alwaleed Bin Talal,20,Saudi Arabia
+7,2001,Jim Walton,18.8,United States
+8,2001,David Sainsbury,4.7,United Kingdom
+9,2001,S. Robson Walton,18.6,United States
+10,2001,Alice Walton,18.5,United States
+12,2001,Johanna Quandt,17.8,Germany
+13,2001,Steve Ballmer,16.6,United States
+13,2001,Michael Kadoorie,3.4,Hong Kong
+15,2001,Liliane Bettencourt,15.6,France
+16,2001,Philip Anschutz,15.3,United States
+17,2001,Ingvar Kamprad,13,Sweden
+18,2001,Li Ka-Shing,12.6,Hong Kong
+18,2001,Sumner Redstone,12.6,United States
+21,2001,Anne Cox Chambers,11.7,United States
+23,2001,Kwok family,11.5,Hong Kong
+25,2001,Carlos Slim Helu,10.8,Mexico
+26,2001,Bernard Arnault,10.7,France
+27,2001,Ernesto Bertarelli,10.5,Switzerland
+27,2001,Michael Dell,10.5,United States
+29,2001,Silvio Berlusconi,10.3,Italy
+30,2001,Abigail Johnson,9.1,United States
+31,2001,Forrest Mars,9,United States
+31,2001,Jacqueline Mars,9,United States
+31,2001,John Mars,9,United States
+31,2001,Birgit Rausing,9,Sweden
+35,2001,Charles Ergen,8.8,United States
+35,2001,Robert E \Ted\ Turner,8.8,United States
+39,2001,Rupert Murdoch,7.8,United States
+40,2001,Hans Rausing,7.7,Sweden
+42,2001,Azim Premji,6.9,India
+43,2001,Leonardo Del Vecchio,6.6,Italy
+43,2001,Amancio Ortega,6.6,Spain
+45,2001,Gerald Cavendish Grosvenor,6.5,United Kingdom
+46,2001,Kirk Kerkorian,6.4,United States
+47,2001,Francois Pinault,6.3,France
+47,2001,Charles Schwab,6.3,United States
+50,2001,Nasser Al-Kharafi,6,Kuwait
+50,2001,George Soros,6,United States
+52,2001,Shau Kee Lee,5.9,Hong Kong
+53,2001,Eli Broad,5.8,United States
+54,2001,James Goodnight,5.7,United States
+55,2001,Masayoshi Son,5.6,Japan
+57,2001,Luciano Benetton,5.5,Italy
+57,2001,Thomas Pritzker,5.5,United States
+60,2001,Curt Engelhorn,5.4,Germany
+60,2001,Gordon Moore,5.4,United States
+60,2001,Hasso Plattner,5.4,Germany
+64,2001,Gustavo Cisneros,5.3,Venezuela
+64,2001,Walter Haefner,5.3,Switzerland
+64,2001,Stefan Persson,5.3,Sweden
+70,2001,Donald Newhouse,5,United States
+70,2001,Samuel Newhouse,5,United States
+70,2001,Michael Otto,5,Germany
+70,2001,August von Finck,5,Germany
+70,2001,Alain &#38; Gerard Wertheimer,5,France
+75,2001,Serge Dassault,4.9,France
+76,2001,Gunter Herz,4.8,Germany
+76,2001,Tadashi Yanai,4.8,Japan
+78,2001,Rolf Gerling,4.7,Germany
+79,2001,Edward Johnson,4.6,United States
+79,2001,Spiro Latsis,4.6,Greece
+82,2001,Michael Bloomberg,4.5,United States
+82,2001,Masatoshi Ito,4.5,Japan
+82,2001,Lorenzo Mendoza,4.5,Venezuela
+82,2001,Pierre Omidyar,4.5,United States
+82,2001,Nicky Oppenheimer,4.5,South Africa
+90,2001,James,4.4,Canada
+92,2001,Lee Bass,4.3,United States
+92,2001,Phil Knight,4.3,United States
+96,2001,Micky Arison,4.1,United States
+98,2001,Donald Bren,4,United States
+98,2001,Erivan Haub,4,Germany
+98,2001,Ty Warner,4,United States
+98,2001,Galen Weston,4,Canada
+104,2001,Yang Huiyan,12.608092,China
+104,2001,Sid Bass,3.8,United States
+104,2001,Jon Huntsman,3.8,United States
+104,2001,Leonard Lauder,3.8,United States
+104,2001,Henry Ross Perot Sr,3.8,United States
+109,2001,Shari Arison,3.7,Israel
+109,2001,Carl Icahn,3.7,United States
+109,2001,Mehmet Emin Karamehmet,3.7,Turkey
+109,2001,Robert Kuok,3.7,Malaysia
+116,2001,Antonio Ermirio de Moraes,3.5,Brazil
+116,2001,Craig McCaw,3.5,United States
+116,2001,Kazuo Okada,3.5,Japan
+116,2001,Stephan Schmidheiny,3.5,Switzerland
+116,2001,Reinhold Wurth,3.5,Germany
+124,2001,Charles Bronfman,3.4,Canada
+124,2001,David Geffen,3.4,United States
+124,2001,Ann Walton Kroenke,3.4,United States
+130,2001,Edgar Bronfman,3.3,United States
+130,2001,Martin Ebner,3.3,Switzerland
+130,2001,Amos Hostetter,3.3,United States
+130,2001,Eitaro Itoyama,3.3,Japan

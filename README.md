@@ -117,3 +117,4 @@ dataShinobi108@gmail.com
 - 211: Coronavirus pandemic: Tests performed per thousand by country
 - 212: Coronavirus pandemic: Daily hospitalizations by country
 - 213: Top global brands (2000-2020)
+- 214: World's richest people (2010-2021)
