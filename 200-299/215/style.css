@@ -1,0 +1,106 @@
+/* Color 1 */
+body {
+  background: #FFFFFF
+}
+
+text.subTitle,
+text.caption,
+.tick text,
+text.timeText {
+  fill: #777777;
+}
+
+.tick line {
+  stroke: #dddddd;
+}
+
+.tick line.origin {
+  stroke: #aaaaaa;
+}
+
+/* Color 2 */
+/* body {
+  background: #112D31
+}
+
+text.title,
+text.subTitle,
+text.caption,
+.tick text,
+text.valueLabel,
+text.timeText {
+  fill: #88BDBC;
+}
+
+text.label {
+  fill: #000000;
+}
+
+.tick line {
+  stroke: #112D32;
+}
+
+.tick line.origin {
+  stroke: #aaaaaa;
+} */
+
+text {
+  font-size: 16px;
+  font-family: monospace;
+}
+
+text.title{
+  font-size: 40px;
+  font-weight: 500;
+}
+
+text.subTitle{
+  font-size: 22px;
+  font-weight: 500;
+}
+
+text.caption{
+  font-weight: 400;
+  font-size: 24px;
+}
+
+text.label{
+  font-weight: 600;
+  font-size: 34px;
+}
+
+text.valueLabel{
+ font-weight: 300;
+ font-size: 32px;
+}
+
+text.dateText{
+  font-size: 64px;
+  font-weight: 700;
+  opacity: 0.25;
+}
+
+text.timeText {
+  font-size: 150px;
+  font-weight: 700;
+}
+
+.xAxis .tick:nth-child(2) text {
+  text-anchor: start;
+}
+
+.tick line {
+  shape-rendering: CrispEdges;
+}
+
+path.domain{
+  display: none;
+}
+
+.bar {
+  rx: 8px;
+}
+
+image.image {
+  border-radius: 8px;
+}

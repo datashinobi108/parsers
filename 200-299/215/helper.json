@@ -1,0 +1,20 @@
+{
+  "partner": {
+    "url": "http://localhost:8888/assets/couple.svg"
+  },
+  "alone": {
+    "url": "http://localhost:8888/assets/alone.svg"
+  },
+  "children": {
+    "url": "http://localhost:8888/assets/children.svg"
+  },
+  "co-workers": {
+    "url": "http://localhost:8888/assets/coworkers.svg"
+  },
+  "parents, siblings & other family": {
+    "url": "http://localhost:8888/assets/family.svg"
+  },
+  "friends": {
+    "url": "http://localhost:8888/assets/friends.svg"
+  }
+}
