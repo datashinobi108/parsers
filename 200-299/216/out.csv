@@ -1,0 +1,5491 @@
+date,name,category,value,lastValue
+1,Lower Respiratory,,7232,7232
+1,Diarrhea,,5378,5378
+1,Tuberculosis,,2986,2986
+1,HIV/AIDS,,2654,2654
+1,Malaria,,3120,3120
+1,Typhoid,,202,202
+1,Whooping cough,,306,306
+1,Encephalitis(brain inflammation),,290,290
+1,STI(not including HIV),,242,242
+1,Measles,,357,357
+1,Hepatitis,,211,211
+1,Salmonella,,236,236
+1,Dengue,,114,114
+1,Tetanus,,92,92
+1,COVID-19,,0,0
+2,Lower Respiratory,,13570,7232
+2,Diarrhea,,8947,5378
+2,Tuberculosis,,6404,2986
+2,HIV/AIDS,,4954,2654
+2,Malaria,,5820,3120
+2,Typhoid,,422,202
+2,Whooping cough,,820,306
+2,Encephalitis(brain inflammation),,586,290
+2,STI(not including HIV),,592,242
+2,Measles,,644,357
+2,Hepatitis,,410,211
+2,Salmonella,,355,236
+2,Dengue,,190,114
+2,Tetanus,,169,92
+2,COVID-19,,0,0
+3,Lower Respiratory,,20639,13570
+3,Diarrhea,,14432,8947
+3,Tuberculosis,,9609,6404
+3,HIV/AIDS,,7506,4954
+3,Malaria,,7767,5820
+3,Typhoid,,766,422
+3,Whooping cough,,1134,820
+3,Encephalitis(brain inflammation),,861,586
+3,STI(not including HIV),,874,592
+3,Measles,,982,644
+3,Hepatitis,,624,410
+3,Salmonella,,548,355
+3,Dengue,,242,190
+3,Tetanus,,262,169
+3,COVID-19,,0,0
+4,Lower Respiratory,,27281,20639
+4,Diarrhea,,17664,14432
+4,Tuberculosis,,12845,9609
+4,HIV/AIDS,,9815,7506
+4,Malaria,,10223,7767
+4,Typhoid,,1022,766
+4,Whooping cough,,1306,1134
+4,Encephalitis(brain inflammation),,1177,861
+4,STI(not including HIV),,1339,874
+4,Measles,,1330,982
+4,Hepatitis,,826,624
+4,Salmonella,,768,548
+4,Dengue,,319,242
+4,Tetanus,,390,262
+4,COVID-19,,0,0
+5,Lower Respiratory,,34716,27281
+5,Diarrhea,,21315,17664
+5,Tuberculosis,,16247,12845
+5,HIV/AIDS,,12244,9815
+5,Malaria,,11512,10223
+5,Typhoid,,1417,1022
+5,Whooping cough,,1791,1306
+5,Encephalitis(brain inflammation),,1486,1177
+5,STI(not including HIV),,1777,1339
+5,Measles,,1692,1330
+5,Hepatitis,,1018,826
+5,Salmonella,,996,768
+5,Dengue,,434,319
+5,Tetanus,,492,390
+5,COVID-19,,0,0
+6,Lower Respiratory,,42086,34716
+6,Diarrhea,,25874,21315
+6,Tuberculosis,,19775,16247
+6,HIV/AIDS,,14450,12244
+6,Malaria,,13166,11512
+6,Typhoid,,1758,1417
+6,Whooping cough,,2364,1791
+6,Encephalitis(brain inflammation),,1820,1486
+6,STI(not including HIV),,2205,1777
+6,Measles,,1976,1692
+6,Hepatitis,,1274,1018
+6,Salmonella,,1193,996
+6,Dengue,,471,434
+6,Tetanus,,579,492
+6,COVID-19,,0,0
+7,Lower Respiratory,,49008,42086
+7,Diarrhea,,30685,25874
+7,Tuberculosis,,23073,19775
+7,HIV/AIDS,,16641,14450
+7,Malaria,,15855,13166
+7,Typhoid,,2035,1758
+7,Whooping cough,,2641,2364
+7,Encephalitis(brain inflammation),,2134,1820
+7,STI(not including HIV),,2499,2205
+7,Measles,,2239,1976
+7,Hepatitis,,1527,1274
+7,Salmonella,,1460,1193
+7,Dengue,,523,471
+7,Tetanus,,652,579
+7,COVID-19,,0,0
+8,Lower Respiratory,,56267,49008
+8,Diarrhea,,34269,30685
+8,Tuberculosis,,26058,23073
+8,HIV/AIDS,,19214,16641
+8,Malaria,,17510,15855
+8,Typhoid,,2298,2035
+8,Whooping cough,,2932,2641
+8,Encephalitis(brain inflammation),,2421,2134
+8,STI(not including HIV),,2902,2499
+8,Measles,,2412,2239
+8,Hepatitis,,1720,1527
+8,Salmonella,,1642,1460
+8,Dengue,,553,523
+8,Tetanus,,781,652
+8,COVID-19,,0,0
+9,Lower Respiratory,,62646,56267
+9,Diarrhea,,39141,34269
+9,Tuberculosis,,29536,26058
+9,HIV/AIDS,,21545,19214
+9,Malaria,,19817,17510
+9,Typhoid,,2924,2298
+9,Whooping cough,,3425,2932
+9,Encephalitis(brain inflammation),,2641,2421
+9,STI(not including HIV),,3314,2902
+9,Measles,,2570,2412
+9,Hepatitis,,1958,1720
+9,Salmonella,,1899,1642
+9,Dengue,,628,553
+9,Tetanus,,882,781
+9,COVID-19,,0,0
+10,Lower Respiratory,,69015,62646
+10,Diarrhea,,43644,39141
+10,Tuberculosis,,32910,29536
+10,HIV/AIDS,,24163,21545
+10,Malaria,,21342,19817
+10,Typhoid,,3550,2924
+10,Whooping cough,,3886,3425
+10,Encephalitis(brain inflammation),,2889,2641
+10,STI(not including HIV),,3745,3314
+10,Measles,,2733,2570
+10,Hepatitis,,2213,1958
+10,Salmonella,,2145,1899
+10,Dengue,,727,628
+10,Tetanus,,983,882
+10,COVID-19,,0,0
+11,Lower Respiratory,,75771,69015
+11,Diarrhea,,48087,43644
+11,Tuberculosis,,35949,32910
+11,HIV/AIDS,,26478,24163
+11,Malaria,,22727,21342
+11,Typhoid,,4029,3550
+11,Whooping cough,,4190,3886
+11,Encephalitis(brain inflammation),,3147,2889
+11,STI(not including HIV),,3848,3745
+11,Measles,,2900,2733
+11,Hepatitis,,2394,2213
+11,Salmonella,,2391,2145
+11,Dengue,,834,727
+11,Tetanus,,1062,983
+11,COVID-19,,0,0
+12,Lower Respiratory,,82880,75771
+12,Diarrhea,,52879,48087
+12,Tuberculosis,,39150,35949
+12,HIV/AIDS,,28734,26478
+12,Malaria,,23841,22727
+12,Typhoid,,4637,4029
+12,Whooping cough,,4493,4190
+12,Encephalitis(brain inflammation),,3421,3147
+12,STI(not including HIV),,4061,3848
+12,Measles,,3226,2900
+12,Hepatitis,,2650,2394
+12,Salmonella,,2639,2391
+12,Dengue,,886,834
+12,Tetanus,,1187,1062
+12,COVID-19,,0,0
+13,Lower Respiratory,,89950,82880
+13,Diarrhea,,58907,52879
+13,Tuberculosis,,42209,39150
+13,HIV/AIDS,,31429,28734
+13,Malaria,,25762,23841
+13,Typhoid,,5122,4637
+13,Whooping cough,,4884,4493
+13,Encephalitis(brain inflammation),,3711,3421
+13,STI(not including HIV),,4194,4061
+13,Measles,,3494,3226
+13,Hepatitis,,2845,2650
+13,Salmonella,,2932,2639
+13,Dengue,,966,886
+13,Tetanus,,1292,1187
+13,COVID-19,,0,0
+14,Lower Respiratory,,97284,89950
+14,Diarrhea,,62282,58907
+14,Tuberculosis,,45232,42209
+14,HIV/AIDS,,34035,31429
+14,Malaria,,28156,25762
+14,Typhoid,,5426,5122
+14,Whooping cough,,5068,4884
+14,Encephalitis(brain inflammation),,4038,3711
+14,STI(not including HIV),,4677,4194
+14,Measles,,3831,3494
+14,Hepatitis,,3089,2845
+14,Salmonella,,3125,2932
+14,Dengue,,1018,966
+14,Tetanus,,1393,1292
+14,COVID-19,,0,0
+15,Lower Respiratory,,103936,97284
+15,Diarrhea,,65667,62282
+15,Tuberculosis,,48746,45232
+15,HIV/AIDS,,36626,34035
+15,Malaria,,30293,28156
+15,Typhoid,,5784,5426
+15,Whooping cough,,5481,5068
+15,Encephalitis(brain inflammation),,4300,4038
+15,STI(not including HIV),,4894,4677
+15,Measles,,4182,3831
+15,Hepatitis,,3326,3089
+15,Salmonella,,3390,3125
+15,Dengue,,1077,1018
+15,Tetanus,,1475,1393
+15,COVID-19,,0,0
+16,Lower Respiratory,,111142,103936
+16,Diarrhea,,69918,65667
+16,Tuberculosis,,51854,48746
+16,HIV/AIDS,,39330,36626
+16,Malaria,,32274,30293
+16,Typhoid,,6383,5784
+16,Whooping cough,,5712,5481
+16,Encephalitis(brain inflammation),,4562,4300
+16,STI(not including HIV),,5359,4894
+16,Measles,,4439,4182
+16,Hepatitis,,3564,3326
+16,Salmonella,,3613,3390
+16,Dengue,,1170,1077
+16,Tetanus,,1554,1475
+16,COVID-19,,0,0
+17,Lower Respiratory,,117404,111142
+17,Diarrhea,,74037,69918
+17,Tuberculosis,,54861,51854
+17,HIV/AIDS,,41913,39330
+17,Malaria,,35258,32274
+17,Typhoid,,6680,6383
+17,Whooping cough,,6246,5712
+17,Encephalitis(brain inflammation),,4892,4562
+17,STI(not including HIV),,5628,5359
+17,Measles,,4670,4439
+17,Hepatitis,,3824,3564
+17,Salmonella,,3833,3613
+17,Dengue,,1259,1170
+17,Tetanus,,1673,1554
+17,COVID-19,,0,0
+18,Lower Respiratory,,123803,117404
+18,Diarrhea,,78745,74037
+18,Tuberculosis,,58304,54861
+18,HIV/AIDS,,44528,41913
+18,Malaria,,36116,35258
+18,Typhoid,,7086,6680
+18,Whooping cough,,6569,6246
+18,Encephalitis(brain inflammation),,5200,4892
+18,STI(not including HIV),,6070,5628
+18,Measles,,4869,4670
+18,Hepatitis,,4062,3824
+18,Salmonella,,3997,3833
+18,Dengue,,1295,1259
+18,Tetanus,,1776,1673
+18,COVID-19,,0,0
+19,Lower Respiratory,,131217,123803
+19,Diarrhea,,82832,78745
+19,Tuberculosis,,61747,58304
+19,HIV/AIDS,,46725,44528
+19,Malaria,,37064,36116
+19,Typhoid,,7518,7086
+19,Whooping cough,,6926,6569
+19,Encephalitis(brain inflammation),,5516,5200
+19,STI(not including HIV),,6275,6070
+19,Measles,,5193,4869
+19,Hepatitis,,4316,4062
+19,Salmonella,,4228,3997
+19,Dengue,,1353,1295
+19,Tetanus,,1885,1776
+19,COVID-19,,0,0
+20,Lower Respiratory,,137588,131217
+20,Diarrhea,,87934,82832
+20,Tuberculosis,,65073,61747
+20,HIV/AIDS,,49452,46725
+20,Malaria,,38641,37064
+20,Typhoid,,8096,7518
+20,Whooping cough,,7258,6926
+20,Encephalitis(brain inflammation),,5817,5516
+20,STI(not including HIV),,6384,6275
+20,Measles,,5609,5193
+20,Hepatitis,,4522,4316
+20,Salmonella,,4548,4228
+20,Dengue,,1421,1353
+20,Tetanus,,1965,1885
+20,COVID-19,,0,0
+21,Lower Respiratory,,144770,137588
+21,Diarrhea,,91986,87934
+21,Tuberculosis,,68434,65073
+21,HIV/AIDS,,52128,49452
+21,Malaria,,41426,38641
+21,Typhoid,,8358,8096
+21,Whooping cough,,7578,7258
+21,Encephalitis(brain inflammation),,6030,5817
+21,STI(not including HIV),,6745,6384
+21,Measles,,5694,5609
+21,Hepatitis,,4735,4522
+21,Salmonella,,4824,4548
+21,Dengue,,1494,1421
+21,Tetanus,,2066,1965
+21,COVID-19,,0,0
+22,Lower Respiratory,,151671,144770
+22,Diarrhea,,95259,91986
+22,Tuberculosis,,71865,68434
+22,HIV/AIDS,,54608,52128
+22,Malaria,,44149,41426
+22,Typhoid,,8942,8358
+22,Whooping cough,,7784,7578
+22,Encephalitis(brain inflammation),,6303,6030
+22,STI(not including HIV),,6913,6745
+22,Measles,,6161,5694
+22,Hepatitis,,4947,4735
+22,Salmonella,,5007,4824
+22,Dengue,,1615,1494
+22,Tetanus,,2185,2066
+22,COVID-19,,17,0
+23,Lower Respiratory,,158630,151671
+23,Diarrhea,,100294,95259
+23,Tuberculosis,,74899,71865
+23,HIV/AIDS,,56818,54608
+23,Malaria,,47201,44149
+23,Typhoid,,9380,8942
+23,Whooping cough,,8205,7784
+23,Encephalitis(brain inflammation),,6609,6303
+23,STI(not including HIV),,7235,6913
+23,Measles,,6258,6161
+23,Hepatitis,,5165,4947
+23,Salmonella,,5241,5007
+23,Dengue,,1684,1615
+23,Tetanus,,2258,2185
+23,COVID-19,,18,17
+24,Lower Respiratory,,164951,158630
+24,Diarrhea,,105309,100294
+24,Tuberculosis,,78026,74899
+24,HIV/AIDS,,59153,56818
+24,Malaria,,48390,47201
+24,Typhoid,,9823,9380
+24,Whooping cough,,8575,8205
+24,Encephalitis(brain inflammation),,6860,6609
+24,STI(not including HIV),,7432,7235
+24,Measles,,6421,6258
+24,Hepatitis,,5352,5165
+24,Salmonella,,5377,5241
+24,Dengue,,1711,1684
+24,Tetanus,,2341,2258
+24,COVID-19,,26,18
+25,Lower Respiratory,,171600,164951
+25,Diarrhea,,109103,105309
+25,Tuberculosis,,81417,78026
+25,HIV/AIDS,,61891,59153
+25,Malaria,,50699,48390
+25,Typhoid,,10021,9823
+25,Whooping cough,,9016,8575
+25,Encephalitis(brain inflammation),,7153,6860
+25,STI(not including HIV),,7741,7432
+25,Measles,,6570,6421
+25,Hepatitis,,5551,5352
+25,Salmonella,,5496,5377
+25,Dengue,,1778,1711
+25,Tetanus,,2436,2341
+25,COVID-19,,42,26
+26,Lower Respiratory,,178726,171600
+26,Diarrhea,,114452,109103
+26,Tuberculosis,,84557,81417
+26,HIV/AIDS,,64430,61891
+26,Malaria,,52884,50699
+26,Typhoid,,10639,10021
+26,Whooping cough,,9436,9016
+26,Encephalitis(brain inflammation),,7452,7153
+26,STI(not including HIV),,8179,7741
+26,Measles,,6927,6570
+26,Hepatitis,,5771,5551
+26,Salmonella,,5746,5496
+26,Dengue,,1847,1778
+26,Tetanus,,2518,2436
+26,COVID-19,,56,42
+27,Lower Respiratory,,185582,178726
+27,Diarrhea,,119808,114452
+27,Tuberculosis,,87816,84557
+27,HIV/AIDS,,66944,64430
+27,Malaria,,53755,52884
+27,Typhoid,,10917,10639
+27,Whooping cough,,9848,9436
+27,Encephalitis(brain inflammation),,7662,7452
+27,STI(not including HIV),,8414,8179
+27,Measles,,7317,6927
+27,Hepatitis,,6023,5771
+27,Salmonella,,5875,5746
+27,Dengue,,1884,1847
+27,Tetanus,,2649,2518
+27,COVID-19,,82,56
+28,Lower Respiratory,,192705,185582
+28,Diarrhea,,123209,119808
+28,Tuberculosis,,91327,87816
+28,HIV/AIDS,,69545,66944
+28,Malaria,,56015,53755
+28,Typhoid,,11100,10917
+28,Whooping cough,,10001,9848
+28,Encephalitis(brain inflammation),,7949,7662
+28,STI(not including HIV),,8878,8414
+28,Measles,,7590,7317
+28,Hepatitis,,6251,6023
+28,Salmonella,,6046,5875
+28,Dengue,,1976,1884
+28,Tetanus,,2760,2649
+28,COVID-19,,131,82
+29,Lower Respiratory,,199429,192705
+29,Diarrhea,,128391,123209
+29,Tuberculosis,,94482,91327
+29,HIV/AIDS,,71853,69545
+29,Malaria,,57963,56015
+29,Typhoid,,11566,11100
+29,Whooping cough,,10519,10001
+29,Encephalitis(brain inflammation),,8232,7949
+29,STI(not including HIV),,9118,8878
+29,Measles,,7703,7590
+29,Hepatitis,,6484,6251
+29,Salmonella,,6193,6046
+29,Dengue,,2087,1976
+29,Tetanus,,2854,2760
+29,COVID-19,,133,131
+30,Lower Respiratory,,206099,199429
+30,Diarrhea,,133910,128391
+30,Tuberculosis,,97458,94482
+30,HIV/AIDS,,74149,71853
+30,Malaria,,59159,57963
+30,Typhoid,,11866,11566
+30,Whooping cough,,11041,10519
+30,Encephalitis(brain inflammation),,8495,8232
+30,STI(not including HIV),,9410,9118
+30,Measles,,7994,7703
+30,Hepatitis,,6719,6484
+30,Salmonella,,6366,6193
+30,Dengue,,2158,2087
+30,Tetanus,,2974,2854
+30,COVID-19,,171,133
+31,Lower Respiratory,,212356,206099
+31,Diarrhea,,138649,133910
+31,Tuberculosis,,100533,97458
+31,HIV/AIDS,,76418,74149
+31,Malaria,,60283,59159
+31,Typhoid,,12149,11866
+31,Whooping cough,,11460,11041
+31,Encephalitis(brain inflammation),,8826,8495
+31,STI(not including HIV),,9618,9410
+31,Measles,,8489,7994
+31,Hepatitis,,6901,6719
+31,Salmonella,,6677,6366
+31,Dengue,,2230,2158
+31,Tetanus,,3093,2974
+31,COVID-19,,213,171
+32,Lower Respiratory,,219332,212356
+32,Diarrhea,,144163,138649
+32,Tuberculosis,,103617,100533
+32,HIV/AIDS,,78687,76418
+32,Malaria,,62777,60283
+32,Typhoid,,12719,12149
+32,Whooping cough,,12012,11460
+32,Encephalitis(brain inflammation),,9094,8826
+32,STI(not including HIV),,9788,9618
+32,Measles,,8983,8489
+32,Hepatitis,,7116,6901
+32,Salmonella,,6904,6677
+32,Dengue,,2286,2230
+32,Tetanus,,3206,3093
+32,COVID-19,,259,213
+33,Lower Respiratory,,225715,219332
+33,Diarrhea,,148205,144163
+33,Tuberculosis,,106934,103617
+33,HIV/AIDS,,81406,78687
+33,Malaria,,65434,62777
+33,Typhoid,,13182,12719
+33,Whooping cough,,12407,12012
+33,Encephalitis(brain inflammation),,9391,9094
+33,STI(not including HIV),,10186,9788
+33,Measles,,9407,8983
+33,Hepatitis,,7303,7116
+33,Salmonella,,7180,6904
+33,Dengue,,2402,2286
+33,Tetanus,,3285,3206
+33,COVID-19,,362,259
+34,Lower Respiratory,,232900,225715
+34,Diarrhea,,153469,148205
+34,Tuberculosis,,110037,106934
+34,HIV/AIDS,,83821,81406
+34,Malaria,,68218,65434
+34,Typhoid,,13617,13182
+34,Whooping cough,,12749,12407
+34,Encephalitis(brain inflammation),,9717,9391
+34,STI(not including HIV),,10538,10186
+34,Measles,,9603,9407
+34,Hepatitis,,7492,7303
+34,Salmonella,,7471,7180
+34,Dengue,,2476,2402
+34,Tetanus,,3413,3285
+34,COVID-19,,426,362
+35,Lower Respiratory,,240313,232900
+35,Diarrhea,,158494,153469
+35,Tuberculosis,,113244,110037
+35,HIV/AIDS,,86041,83821
+35,Malaria,,69814,68218
+35,Typhoid,,14209,13617
+35,Whooping cough,,13139,12749
+35,Encephalitis(brain inflammation),,10040,9717
+35,STI(not including HIV),,10835,10538
+35,Measles,,10035,9603
+35,Hepatitis,,7699,7492
+35,Salmonella,,7652,7471
+35,Dengue,,2590,2476
+35,Tetanus,,3514,3413
+35,COVID-19,,492,426
+36,Lower Respiratory,,246830,240313
+36,Diarrhea,,163683,158494
+36,Tuberculosis,,116483,113244
+36,HIV/AIDS,,88748,86041
+36,Malaria,,70727,69814
+36,Typhoid,,14754,14209
+36,Whooping cough,,13503,13139
+36,Encephalitis(brain inflammation),,10261,10040
+36,STI(not including HIV),,11070,10835
+36,Measles,,10259,10035
+36,Hepatitis,,7910,7699
+36,Salmonella,,7803,7652
+36,Dengue,,2625,2590
+36,Tetanus,,3601,3514
+36,COVID-19,,564,492
+37,Lower Respiratory,,253892,246830
+37,Diarrhea,,167173,163683
+37,Tuberculosis,,119775,116483
+37,HIV/AIDS,,91309,88748
+37,Malaria,,71902,70727
+37,Typhoid,,15071,14754
+37,Whooping cough,,14084,13503
+37,Encephalitis(brain inflammation),,10518,10261
+37,STI(not including HIV),,11208,11070
+37,Measles,,10654,10259
+37,Hepatitis,,8118,7910
+37,Salmonella,,8140,7803
+37,Dengue,,2681,2625
+37,Tetanus,,3724,3601
+37,COVID-19,,634,564
+38,Lower Respiratory,,261344,253892
+38,Diarrhea,,172023,167173
+38,Tuberculosis,,122876,119775
+38,HIV/AIDS,,93745,91309
+38,Malaria,,73758,71902
+38,Typhoid,,15475,15071
+38,Whooping cough,,14367,14084
+38,Encephalitis(brain inflammation),,10771,10518
+38,STI(not including HIV),,11385,11208
+38,Measles,,10759,10654
+38,Hepatitis,,8379,8118
+38,Salmonella,,8280,8140
+38,Dengue,,2792,2681
+38,Tetanus,,3853,3724
+38,COVID-19,,719,634
+39,Lower Respiratory,,268318,261344
+39,Diarrhea,,176532,172023
+39,Tuberculosis,,126039,122876
+39,HIV/AIDS,,96446,93745
+39,Malaria,,74653,73758
+39,Typhoid,,15859,15475
+39,Whooping cough,,14833,14367
+39,Encephalitis(brain inflammation),,11050,10771
+39,STI(not including HIV),,11511,11385
+39,Measles,,10932,10759
+39,Hepatitis,,8616,8379
+39,Salmonella,,8402,8280
+39,Dengue,,2822,2792
+39,Tetanus,,3967,3853
+39,COVID-19,,806,719
+40,Lower Respiratory,,274812,268318
+40,Diarrhea,,180222,176532
+40,Tuberculosis,,129563,126039
+40,HIV/AIDS,,98945,96446
+40,Malaria,,77456,74653
+40,Typhoid,,16375,15859
+40,Whooping cough,,15387,14833
+40,Encephalitis(brain inflammation),,11300,11050
+40,STI(not including HIV),,11724,11511
+40,Measles,,11036,10932
+40,Hepatitis,,8840,8616
+40,Salmonella,,8597,8402
+40,Dengue,,2848,2822
+40,Tetanus,,4090,3967
+40,COVID-19,,906,806
+41,Lower Respiratory,,281789,274812
+41,Diarrhea,,183987,180222
+41,Tuberculosis,,132893,129563
+41,HIV/AIDS,,101636,98945
+41,Malaria,,78973,77456
+41,Typhoid,,16569,16375
+41,Whooping cough,,15759,15387
+41,Encephalitis(brain inflammation),,11599,11300
+41,STI(not including HIV),,12051,11724
+41,Measles,,11225,11036
+41,Hepatitis,,9064,8840
+41,Salmonella,,8885,8597
+41,Dengue,,2956,2848
+41,Tetanus,,4172,4090
+41,COVID-19,,1013,906
+42,Lower Respiratory,,288897,281789
+42,Diarrhea,,188093,183987
+42,Tuberculosis,,136368,132893
+42,HIV/AIDS,,104069,101636
+42,Malaria,,79870,78973
+42,Typhoid,,16940,16569
+42,Whooping cough,,16084,15759
+42,Encephalitis(brain inflammation),,11903,11599
+42,STI(not including HIV),,12313,12051
+42,Measles,,11344,11225
+42,Hepatitis,,9304,9064
+42,Salmonella,,9169,8885
+42,Dengue,,2984,2956
+42,Tetanus,,4270,4172
+42,COVID-19,,1113,1013
+43,Lower Respiratory,,295483,288897
+43,Diarrhea,,192826,188093
+43,Tuberculosis,,139795,136368
+43,HIV/AIDS,,106483,104069
+43,Malaria,,82834,79870
+43,Typhoid,,17373,16940
+43,Whooping cough,,16540,16084
+43,Encephalitis(brain inflammation),,12134,11903
+43,STI(not including HIV),,12689,12313
+43,Measles,,11456,11344
+43,Hepatitis,,9539,9304
+43,Salmonella,,9333,9169
+43,Dengue,,3053,2984
+43,Tetanus,,4349,4270
+43,COVID-19,,1118,1113
+44,Lower Respiratory,,302880,295483
+44,Diarrhea,,195998,192826
+44,Tuberculosis,,143151,139795
+44,HIV/AIDS,,109041,106483
+44,Malaria,,85331,82834
+44,Typhoid,,17812,17373
+44,Whooping cough,,16973,16540
+44,Encephalitis(brain inflammation),,12381,12134
+44,STI(not including HIV),,13026,12689
+44,Measles,,11549,11456
+44,Hepatitis,,9724,9539
+44,Salmonella,,9657,9333
+44,Dengue,,3168,3053
+44,Tetanus,,4436,4349
+44,COVID-19,,1371,1118
+45,Lower Respiratory,,309172,302880
+45,Diarrhea,,198995,195998
+45,Tuberculosis,,146392,143151
+45,HIV/AIDS,,111282,109041
+45,Malaria,,86882,85331
+45,Typhoid,,18180,17812
+45,Whooping cough,,17405,16973
+45,Encephalitis(brain inflammation),,12619,12381
+45,STI(not including HIV),,13173,13026
+45,Measles,,12017,11549
+45,Hepatitis,,9905,9724
+45,Salmonella,,9906,9657
+45,Dengue,,3278,3168
+45,Tetanus,,4551,4436
+45,COVID-19,,1523,1371
+46,Lower Respiratory,,315588,309172
+46,Diarrhea,,203612,198995
+46,Tuberculosis,,149394,146392
+46,HIV/AIDS,,113983,111282
+46,Malaria,,88360,86882
+46,Typhoid,,18443,18180
+46,Whooping cough,,17751,17405
+46,Encephalitis(brain inflammation),,12909,12619
+46,STI(not including HIV),,13483,13173
+46,Measles,,12177,12017
+46,Hepatitis,,10100,9905
+46,Salmonella,,10219,9906
+46,Dengue,,3394,3278
+46,Tetanus,,4667,4551
+46,COVID-19,,1666,1523
+47,Lower Respiratory,,322263,315588
+47,Diarrhea,,208655,203612
+47,Tuberculosis,,152876,149394
+47,HIV/AIDS,,116245,113983
+47,Malaria,,90325,88360
+47,Typhoid,,18789,18443
+47,Whooping cough,,17984,17751
+47,Encephalitis(brain inflammation),,13186,12909
+47,STI(not including HIV),,13958,13483
+47,Measles,,12409,12177
+47,Hepatitis,,10295,10100
+47,Salmonella,,10554,10219
+47,Dengue,,3502,3394
+47,Tetanus,,4757,4667
+47,COVID-19,,1770,1666
+48,Lower Respiratory,,328892,322263
+48,Diarrhea,,211808,208655
+48,Tuberculosis,,155950,152876
+48,HIV/AIDS,,118523,116245
+48,Malaria,,93355,90325
+48,Typhoid,,19299,18789
+48,Whooping cough,,18295,17984
+48,Encephalitis(brain inflammation),,13417,13186
+48,STI(not including HIV),,14316,13958
+48,Measles,,12539,12409
+48,Hepatitis,,10555,10295
+48,Salmonella,,10750,10554
+48,Dengue,,3548,3502
+48,Tetanus,,4835,4757
+48,COVID-19,,1868,1770
+49,Lower Respiratory,,335754,328892
+49,Diarrhea,,215510,211808
+49,Tuberculosis,,159398,155950
+49,HIV/AIDS,,120999,118523
+49,Malaria,,95493,93355
+49,Typhoid,,19704,19299
+49,Whooping cough,,18583,18295
+49,Encephalitis(brain inflammation),,13712,13417
+49,STI(not including HIV),,14479,14316
+49,Measles,,12846,12539
+49,Hepatitis,,10799,10555
+49,Salmonella,,10978,10750
+49,Dengue,,3669,3548
+49,Tetanus,,4937,4835
+49,COVID-19,,2008,1868
+50,Lower Respiratory,,342454,335754
+50,Diarrhea,,221351,215510
+50,Tuberculosis,,162602,159398
+50,HIV/AIDS,,123333,120999
+50,Malaria,,97075,95493
+50,Typhoid,,20083,19704
+50,Whooping cough,,18774,18583
+50,Encephalitis(brain inflammation),,14023,13712
+50,STI(not including HIV),,14723,14479
+50,Measles,,13120,12846
+50,Hepatitis,,11034,10799
+50,Salmonella,,11252,10978
+50,Dengue,,3790,3669
+50,Tetanus,,5009,4937
+50,COVID-19,,2123,2008
+51,Lower Respiratory,,349480,342454
+51,Diarrhea,,226249,221351
+51,Tuberculosis,,165731,162602
+51,HIV/AIDS,,125607,123333
+51,Malaria,,99678,97075
+51,Typhoid,,20686,20083
+51,Whooping cough,,18995,18774
+51,Encephalitis(brain inflammation),,14310,14023
+51,STI(not including HIV),,15185,14723
+51,Measles,,13275,13120
+51,Hepatitis,,11249,11034
+51,Salmonella,,11591,11252
+51,Dengue,,3834,3790
+51,Tetanus,,5093,5009
+51,COVID-19,,2248,2123
+52,Lower Respiratory,,356368,349480
+52,Diarrhea,,229768,226249
+52,Tuberculosis,,169282,165731
+52,HIV/AIDS,,127847,125607
+52,Malaria,,102748,99678
+52,Typhoid,,20996,20686
+52,Whooping cough,,19156,18995
+52,Encephalitis(brain inflammation),,14619,14310
+52,STI(not including HIV),,15602,15185
+52,Measles,,13510,13275
+52,Hepatitis,,11483,11249
+52,Salmonella,,11745,11591
+52,Dengue,,3877,3834
+52,Tetanus,,5171,5093
+52,COVID-19,,2252,2248
+53,Lower Respiratory,,363153,356368
+53,Diarrhea,,232951,229768
+53,Tuberculosis,,172838,169282
+53,HIV/AIDS,,130342,127847
+53,Malaria,,105171,102748
+53,Typhoid,,21512,20996
+53,Whooping cough,,19725,19156
+53,Encephalitis(brain inflammation),,14830,14619
+53,STI(not including HIV),,15913,15602
+53,Measles,,13605,13510
+53,Hepatitis,,11703,11483
+53,Salmonella,,11889,11745
+53,Dengue,,3989,3877
+53,Tetanus,,5276,5171
+53,COVID-19,,2459,2252
+54,Lower Respiratory,,369506,363153
+54,Diarrhea,,238221,232951
+54,Tuberculosis,,176294,172838
+54,HIV/AIDS,,132900,130342
+54,Malaria,,107654,105171
+54,Typhoid,,21941,21512
+54,Whooping cough,,20135,19725
+54,Encephalitis(brain inflammation),,15079,14830
+54,STI(not including HIV),,16367,15913
+54,Measles,,14032,13605
+54,Hepatitis,,11960,11703
+54,Salmonella,,12058,11889
+54,Dengue,,4048,3989
+54,Tetanus,,5401,5276
+54,COVID-19,,2470,2459
+55,Lower Respiratory,,376667,369506
+55,Diarrhea,,244130,238221
+55,Tuberculosis,,179511,176294
+55,HIV/AIDS,,135151,132900
+55,Malaria,,108582,107654
+55,Typhoid,,22525,21941
+55,Whooping cough,,20300,20135
+55,Encephalitis(brain inflammation),,15316,15079
+55,STI(not including HIV),,16689,16367
+55,Measles,,14285,14032
+55,Hepatitis,,12209,11960
+55,Salmonella,,12260,12058
+55,Dengue,,4074,4048
+55,Tetanus,,5480,5401
+55,COVID-19,,2630,2470
+56,Lower Respiratory,,382989,376667
+56,Diarrhea,,249865,244130
+56,Tuberculosis,,182747,179511
+56,HIV/AIDS,,137519,135151
+56,Malaria,,109621,108582
+56,Typhoid,,23141,22525
+56,Whooping cough,,20868,20300
+56,Encephalitis(brain inflammation),,15542,15316
+56,STI(not including HIV),,17113,16689
+56,Measles,,14750,14285
+56,Hepatitis,,12390,12209
+56,Salmonella,,12595,12260
+56,Dengue,,4108,4074
+56,Tetanus,,5607,5480
+56,COVID-19,,2710,2630
+57,Lower Respiratory,,389998,382989
+57,Diarrhea,,255938,249865
+57,Tuberculosis,,186063,182747
+57,HIV/AIDS,,139967,137519
+57,Malaria,,110736,109621
+57,Typhoid,,23491,23141
+57,Whooping cough,,21387,20868
+57,Encephalitis(brain inflammation),,15807,15542
+57,STI(not including HIV),,17579,17113
+57,Measles,,14968,14750
+57,Hepatitis,,12643,12390
+57,Salmonella,,12747,12595
+57,Dengue,,4161,4108
+57,Tetanus,,5686,5607
+57,COVID-19,,2771,2710
+58,Lower Respiratory,,396763,389998
+58,Diarrhea,,260757,255938
+58,Tuberculosis,,189469,186063
+58,HIV/AIDS,,142306,139967
+58,Malaria,,111567,110736
+58,Typhoid,,24038,23491
+58,Whooping cough,,21695,21387
+58,Encephalitis(brain inflammation),,16095,15807
+58,STI(not including HIV),,17744,17579
+58,Measles,,15166,14968
+58,Hepatitis,,12849,12643
+58,Salmonella,,12972,12747
+58,Dengue,,4255,4161
+58,Tetanus,,5795,5686
+58,COVID-19,,2814,2771
+59,Lower Respiratory,,403432,396763
+59,Diarrhea,,265414,260757
+59,Tuberculosis,,192956,189469
+59,HIV/AIDS,,144583,142306
+59,Malaria,,112798,111567
+59,Typhoid,,24425,24038
+59,Whooping cough,,22136,21695
+59,Encephalitis(brain inflammation),,16430,16095
+59,STI(not including HIV),,18180,17744
+59,Measles,,15292,15166
+59,Hepatitis,,13057,12849
+59,Salmonella,,13219,12972
+59,Dengue,,4372,4255
+59,Tetanus,,5886,5795
+59,COVID-19,,2873,2814
+60,Lower Respiratory,,410311,403432
+60,Diarrhea,,269940,265414
+60,Tuberculosis,,196213,192956
+60,HIV/AIDS,,146776,144583
+60,Malaria,,113811,112798
+60,Typhoid,,24889,24425
+60,Whooping cough,,22297,22136
+60,Encephalitis(brain inflammation),,16686,16430
+60,STI(not including HIV),,18310,18180
+60,Measles,,15731,15292
+60,Hepatitis,,13271,13057
+60,Salmonella,,13448,13219
+60,Dengue,,4487,4372
+60,Tetanus,,5969,5886
+60,COVID-19,,2942,2873
+61,Lower Respiratory,,417103,410311
+61,Diarrhea,,273012,269940
+61,Tuberculosis,,199678,196213
+61,HIV/AIDS,,149208,146776
+61,Malaria,,115049,113811
+61,Typhoid,,25180,24889
+61,Whooping cough,,22478,22297
+61,Encephalitis(brain inflammation),,16908,16686
+61,STI(not including HIV),,18419,18310
+61,Measles,,16003,15731
+61,Hepatitis,,13484,13271
+61,Salmonella,,13617,13448
+61,Dengue,,4569,4487
+61,Tetanus,,6072,5969
+61,COVID-19,,2996,2942
+62,Lower Respiratory,,423450,417103
+62,Diarrhea,,276346,273012
+62,Tuberculosis,,202883,199678
+62,HIV/AIDS,,151398,149208
+62,Malaria,,116862,115049
+62,Typhoid,,25713,25180
+62,Whooping cough,,22950,22478
+62,Encephalitis(brain inflammation),,17158,16908
+62,STI(not including HIV),,18672,18419
+62,Measles,,16134,16003
+62,Hepatitis,,13697,13484
+62,Salmonella,,13794,13617
+62,Dengue,,4617,4569
+62,Tetanus,,6170,6072
+62,COVID-19,,3085,2996
+63,Lower Respiratory,,429734,423450
+63,Diarrhea,,282300,276346
+63,Tuberculosis,,206038,202883
+63,HIV/AIDS,,154130,151398
+63,Malaria,,119111,116862
+63,Typhoid,,26236,25713
+63,Whooping cough,,23273,22950
+63,Encephalitis(brain inflammation),,17462,17158
+63,STI(not including HIV),,19074,18672
+63,Measles,,16391,16134
+63,Hepatitis,,13928,13697
+63,Salmonella,,14083,13794
+63,Dengue,,4729,4617
+63,Tetanus,,6243,6170
+63,COVID-19,,3160,3085
+64,Lower Respiratory,,437005,429734
+64,Diarrhea,,286050,282300
+64,Tuberculosis,,209330,206038
+64,HIV/AIDS,,156543,154130
+64,Malaria,,120208,119111
+64,Typhoid,,26450,26236
+64,Whooping cough,,23435,23273
+64,Encephalitis(brain inflammation),,17705,17462
+64,STI(not including HIV),,19499,19074
+64,Measles,,16707,16391
+64,Hepatitis,,14145,13928
+64,Salmonella,,14271,14083
+64,Dengue,,4774,4729
+64,Tetanus,,6344,6243
+64,COVID-19,,3255,3160
+65,Lower Respiratory,,444200,437005
+65,Diarrhea,,290540,286050
+65,Tuberculosis,,212552,209330
+65,HIV/AIDS,,159161,156543
+65,Malaria,,122233,120208
+65,Typhoid,,26990,26450
+65,Whooping cough,,23848,23435
+65,Encephalitis(brain inflammation),,17925,17705
+65,STI(not including HIV),,19945,19499
+65,Measles,,16904,16707
+65,Hepatitis,,14349,14145
+65,Salmonella,,14440,14271
+65,Dengue,,4859,4774
+65,Tetanus,,6431,6344
+65,COVID-19,,3349,3255
+66,Lower Respiratory,,450779,444200
+66,Diarrhea,,294368,290540
+66,Tuberculosis,,215596,212552
+66,HIV/AIDS,,161699,159161
+66,Malaria,,124879,122233
+66,Typhoid,,27282,26990
+66,Whooping cough,,24410,23848
+66,Encephalitis(brain inflammation),,18216,17925
+66,STI(not including HIV),,20049,19945
+66,Measles,,17156,16904
+66,Hepatitis,,14580,14349
+66,Salmonella,,14749,14440
+66,Dengue,,4970,4859
+66,Tetanus,,6526,6431
+66,COVID-19,,3460,3349
+67,Lower Respiratory,,457828,450779
+67,Diarrhea,,297903,294368
+67,Tuberculosis,,218949,215596
+67,HIV/AIDS,,164362,161699
+67,Malaria,,126128,124879
+67,Typhoid,,27895,27282
+67,Whooping cough,,24591,24410
+67,Encephalitis(brain inflammation),,18503,18216
+67,STI(not including HIV),,20213,20049
+67,Measles,,17365,17156
+67,Hepatitis,,14827,14580
+67,Salmonella,,14890,14749
+67,Dengue,,5003,4970
+67,Tetanus,,6658,6526
+67,COVID-19,,3564,3460
+68,Lower Respiratory,,464889,457828
+68,Diarrhea,,303874,297903
+68,Tuberculosis,,222025,218949
+68,HIV/AIDS,,166870,164362
+68,Malaria,,129023,126128
+68,Typhoid,,28381,27895
+68,Whooping cough,,25121,24591
+68,Encephalitis(brain inflammation),,18729,18503
+68,STI(not including HIV),,20577,20213
+68,Measles,,17675,17365
+68,Hepatitis,,15020,14827
+68,Salmonella,,15117,14890
+68,Dengue,,5052,5003
+68,Tetanus,,6770,6658
+68,COVID-19,,3803,3564
+69,Lower Respiratory,,472316,464889
+69,Diarrhea,,308844,303874
+69,Tuberculosis,,225328,222025
+69,HIV/AIDS,,169415,166870
+69,Malaria,,131207,129023
+69,Typhoid,,28782,28381
+69,Whooping cough,,25544,25121
+69,Encephalitis(brain inflammation),,19042,18729
+69,STI(not including HIV),,21028,20577
+69,Measles,,17782,17675
+69,Hepatitis,,15206,15020
+69,Salmonella,,15387,15117
+69,Dengue,,5104,5052
+69,Tetanus,,6899,6770
+69,COVID-19,,3993,3803
+70,Lower Respiratory,,478901,472316
+70,Diarrhea,,312366,308844
+70,Tuberculosis,,228424,225328
+70,HIV/AIDS,,172054,169415
+70,Malaria,,134166,131207
+70,Typhoid,,29373,28782
+70,Whooping cough,,25749,25544
+70,Encephalitis(brain inflammation),,19274,19042
+70,STI(not including HIV),,21408,21028
+70,Measles,,18162,17782
+70,Hepatitis,,15434,15206
+70,Salmonella,,15584,15387
+70,Dengue,,5178,5104
+70,Tetanus,,7019,6899
+70,COVID-19,,4267,3993
+71,Lower Respiratory,,485869,478901
+71,Diarrhea,,315674,312366
+71,Tuberculosis,,231815,228424
+71,HIV/AIDS,,174356,172054
+71,Malaria,,136829,134166
+71,Typhoid,,29630,29373
+71,Whooping cough,,26184,25749
+71,Encephalitis(brain inflammation),,19544,19274
+71,STI(not including HIV),,21662,21408
+71,Measles,,18429,18162
+71,Hepatitis,,15663,15434
+71,Salmonella,,15768,15584
+71,Dengue,,5274,5178
+71,Tetanus,,7092,7019
+71,COVID-19,,4611,4267
+72,Lower Respiratory,,492389,485869
+72,Diarrhea,,319944,315674
+72,Tuberculosis,,234854,231815
+72,HIV/AIDS,,176732,174356
+72,Malaria,,139485,136829
+72,Typhoid,,29831,29630
+72,Whooping cough,,26397,26184
+72,Encephalitis(brain inflammation),,19818,19544
+72,STI(not including HIV),,22034,21662
+72,Measles,,18563,18429
+72,Hepatitis,,15913,15663
+72,Salmonella,,15921,15768
+72,Dengue,,5366,5274
+72,Tetanus,,7164,7092
+72,COVID-19,,4917,4611
+73,Lower Respiratory,,498781,492389
+73,Diarrhea,,324437,319944
+73,Tuberculosis,,238281,234854
+73,HIV/AIDS,,179107,176732
+73,Malaria,,140625,139485
+73,Typhoid,,30024,29831
+73,Whooping cough,,26554,26397
+73,Encephalitis(brain inflammation),,20030,19818
+73,STI(not including HIV),,22307,22034
+73,Measles,,19032,18563
+73,Hepatitis,,16148,15913
+73,Salmonella,,16113,15921
+73,Dengue,,5461,5366
+73,Tetanus,,7275,7164
+73,COVID-19,,5414,4917
+74,Lower Respiratory,,505105,498781
+74,Diarrhea,,329788,324437
+74,Tuberculosis,,241726,238281
+74,HIV/AIDS,,181712,179107
+74,Malaria,,142205,140625
+74,Typhoid,,30494,30024
+74,Whooping cough,,26729,26554
+74,Encephalitis(brain inflammation),,20244,20030
+74,STI(not including HIV),,22755,22307
+74,Measles,,19450,19032
+74,Hepatitis,,16397,16148
+74,Salmonella,,16439,16113
+74,Dengue,,5509,5461
+74,Tetanus,,7380,7275
+74,COVID-19,,5834,5414
+75,Lower Respiratory,,511637,505105
+75,Diarrhea,,335128,329788
+75,Tuberculosis,,245196,241726
+75,HIV/AIDS,,184304,181712
+75,Malaria,,143645,142205
+75,Typhoid,,30707,30494
+75,Whooping cough,,27082,26729
+75,Encephalitis(brain inflammation),,20551,20244
+75,STI(not including HIV),,23170,22755
+75,Measles,,19898,19450
+75,Hepatitis,,16617,16397
+75,Salmonella,,16777,16439
+75,Dengue,,5539,5509
+75,Tetanus,,7496,7380
+75,COVID-19,,6475,5834
+76,Lower Respiratory,,518860,511637
+76,Diarrhea,,341108,335128
+76,Tuberculosis,,248575,245196
+76,HIV/AIDS,,186524,184304
+76,Malaria,,144910,143645
+76,Typhoid,,31006,30707
+76,Whooping cough,,27349,27082
+76,Encephalitis(brain inflammation),,20853,20551
+76,STI(not including HIV),,23323,23170
+76,Measles,,20116,19898
+76,Hepatitis,,16820,16617
+76,Salmonella,,16994,16777
+76,Dengue,,5568,5539
+76,Tetanus,,7580,7496
+76,COVID-19,,7153,6475
+77,Lower Respiratory,,525456,518860
+77,Diarrhea,,345745,341108
+77,Tuberculosis,,251659,248575
+77,HIV/AIDS,,189090,186524
+77,Malaria,,146678,144910
+77,Typhoid,,31305,31006
+77,Whooping cough,,27739,27349
+77,Encephalitis(brain inflammation),,21077,20853
+77,STI(not including HIV),,23461,23323
+77,Measles,,20418,20116
+77,Hepatitis,,17013,16820
+77,Salmonella,,17331,16994
+77,Dengue,,5682,5568
+77,Tetanus,,7712,7580
+77,COVID-19,,7965,7153
+78,Lower Respiratory,,532853,525456
+78,Diarrhea,,351330,345745
+78,Tuberculosis,,254857,251659
+78,HIV/AIDS,,191742,189090
+78,Malaria,,148294,146678
+78,Typhoid,,31567,31305
+78,Whooping cough,,28113,27739
+78,Encephalitis(brain inflammation),,21321,21077
+78,STI(not including HIV),,23702,23461
+78,Measles,,20584,20418
+78,Hepatitis,,17223,17013
+78,Salmonella,,17610,17331
+78,Dengue,,5787,5682
+78,Tetanus,,7791,7712
+78,COVID-19,,8868,7965
+79,Lower Respiratory,,540310,532853
+79,Diarrhea,,355388,351330
+79,Tuberculosis,,258095,254857
+79,HIV/AIDS,,193999,191742
+79,Malaria,,149287,148294
+79,Typhoid,,31804,31567
+79,Whooping cough,,28607,28113
+79,Encephalitis(brain inflammation),,21631,21321
+79,STI(not including HIV),,24071,23702
+79,Measles,,21060,20584
+79,Hepatitis,,17434,17223
+79,Salmonella,,17808,17610
+79,Dengue,,5848,5787
+79,Tetanus,,7872,7791
+79,COVID-19,,9980,8868
+80,Lower Respiratory,,547046,540310
+80,Diarrhea,,359436,355388
+80,Tuberculosis,,261212,258095
+80,HIV/AIDS,,196535,193999
+80,Malaria,,151582,149287
+80,Typhoid,,32331,31804
+80,Whooping cough,,28780,28607
+80,Encephalitis(brain inflammation),,21869,21631
+80,STI(not including HIV),,24197,24071
+80,Measles,,21451,21060
+80,Hepatitis,,17642,17434
+80,Salmonella,,18135,17808
+80,Dengue,,5901,5848
+80,Tetanus,,7978,7872
+80,COVID-19,,11461,9980
+81,Lower Respiratory,,553573,547046
+81,Diarrhea,,363500,359436
+81,Tuberculosis,,264541,261212
+81,HIV/AIDS,,199228,196535
+81,Malaria,,153347,151582
+81,Typhoid,,32533,32331
+81,Whooping cough,,29035,28780
+81,Encephalitis(brain inflammation),,22139,21869
+81,STI(not including HIV),,24582,24197
+81,Measles,,21844,21451
+81,Hepatitis,,17828,17642
+81,Salmonella,,18261,18135
+81,Dengue,,5954,5901
+81,Tetanus,,8062,7978
+81,COVID-19,,13183,11461
+82,Lower Respiratory,,560558,553573
+82,Diarrhea,,366653,363500
+82,Tuberculosis,,267562,264541
+82,HIV/AIDS,,201804,199228
+82,Malaria,,156395,153347
+82,Typhoid,,32812,32533
+82,Whooping cough,,29475,29035
+82,Encephalitis(brain inflammation),,22379,22139
+82,STI(not including HIV),,24815,24582
+82,Measles,,22048,21844
+82,Hepatitis,,18010,17828
+82,Salmonella,,18429,18261
+82,Dengue,,6052,5954
+82,Tetanus,,8135,8062
+82,COVID-19,,14857,13183
+83,Lower Respiratory,,567458,560558
+83,Diarrhea,,372418,366653
+83,Tuberculosis,,270718,267562
+83,HIV/AIDS,,204203,201804
+83,Malaria,,157819,156395
+83,Typhoid,,33202,32812
+83,Whooping cough,,30000,29475
+83,Encephalitis(brain inflammation),,22635,22379
+83,STI(not including HIV),,25171,24815
+83,Measles,,22161,22048
+83,Hepatitis,,18198,18010
+83,Salmonella,,18685,18429
+83,Dengue,,6110,6052
+83,Tetanus,,8225,8135
+83,COVID-19,,16798,14857
+84,Lower Respiratory,,574430,567458
+84,Diarrhea,,375698,372418
+84,Tuberculosis,,273792,270718
+84,HIV/AIDS,,206378,204203
+84,Malaria,,159793,157819
+84,Typhoid,,33553,33202
+84,Whooping cough,,30242,30000
+84,Encephalitis(brain inflammation),,22852,22635
+84,STI(not including HIV),,25545,25171
+84,Measles,,22571,22161
+84,Hepatitis,,18406,18198
+84,Salmonella,,18813,18685
+84,Dengue,,6218,6110
+84,Tetanus,,8351,8225
+84,COVID-19,,19083,16798
+85,Lower Respiratory,,581509,574430
+85,Diarrhea,,379443,375698
+85,Tuberculosis,,277186,273792
+85,HIV/AIDS,,208624,206378
+85,Malaria,,160687,159793
+85,Typhoid,,33940,33553
+85,Whooping cough,,30813,30242
+85,Encephalitis(brain inflammation),,23075,22852
+85,STI(not including HIV),,25785,25545
+85,Measles,,22805,22571
+85,Hepatitis,,18644,18406
+85,Salmonella,,19025,18813
+85,Dengue,,6301,6218
+85,Tetanus,,8453,8351
+85,COVID-19,,21882,19083
+86,Lower Respiratory,,588481,581509
+86,Diarrhea,,383052,379443
+86,Tuberculosis,,280554,277186
+86,HIV/AIDS,,211052,208624
+86,Malaria,,163827,160687
+86,Typhoid,,34419,33940
+86,Whooping cough,,31040,30813
+86,Encephalitis(brain inflammation),,23365,23075
+86,STI(not including HIV),,26094,25785
+86,Measles,,23222,22805
+86,Hepatitis,,18881,18644
+86,Salmonella,,19227,19025
+86,Dengue,,6377,6301
+86,Tetanus,,8528,8453
+86,COVID-19,,24902,21882
+87,Lower Respiratory,,595410,588481
+87,Diarrhea,,387697,383052
+87,Tuberculosis,,283760,280554
+87,HIV/AIDS,,213458,211052
+87,Malaria,,165531,163827
+87,Typhoid,,35037,34419
+87,Whooping cough,,31571,31040
+87,Encephalitis(brain inflammation),,23614,23365
+87,STI(not including HIV),,26553,26094
+87,Measles,,23611,23222
+87,Hepatitis,,19117,18881
+87,Salmonella,,19470,19227
+87,Dengue,,6480,6377
+87,Tetanus,,8635,8528
+87,COVID-19,,28396,24902
+88,Lower Respiratory,,602379,595410
+88,Diarrhea,,393432,387697
+88,Tuberculosis,,286911,283760
+88,HIV/AIDS,,216188,213458
+88,Malaria,,167946,165531
+88,Typhoid,,35612,35037
+88,Whooping cough,,31948,31571
+88,Encephalitis(brain inflammation),,23878,23614
+88,STI(not including HIV),,26795,26553
+88,Measles,,23969,23611
+88,Hepatitis,,19348,19117
+88,Salmonella,,19640,19470
+88,Dengue,,6558,6480
+88,Tetanus,,8741,8635
+88,COVID-19,,32112,28396
+89,Lower Respiratory,,608651,602379
+89,Diarrhea,,398715,393432
+89,Tuberculosis,,290306,286911
+89,HIV/AIDS,,218676,216188
+89,Malaria,,169805,167946
+89,Typhoid,,35846,35612
+89,Whooping cough,,32146,31948
+89,Encephalitis(brain inflammation),,24182,23878
+89,STI(not including HIV),,27008,26795
+89,Measles,,24080,23969
+89,Hepatitis,,19603,19348
+89,Salmonella,,19904,19640
+89,Dengue,,6644,6558
+89,Tetanus,,8857,8741
+89,COVID-19,,35588,32112
+90,Lower Respiratory,,615531,608651
+90,Diarrhea,,404594,398715
+90,Tuberculosis,,293722,290306
+90,HIV/AIDS,,221208,218676
+90,Malaria,,170774,169805
+90,Typhoid,,36257,35846
+90,Whooping cough,,32458,32146
+90,Encephalitis(brain inflammation),,24463,24182
+90,STI(not including HIV),,27483,27008
+90,Measles,,24423,24080
+90,Hepatitis,,19790,19603
+90,Salmonella,,20030,19904
+90,Dengue,,6741,6644
+90,Tetanus,,8989,8857
+90,COVID-19,,39640,35588
+91,Lower Respiratory,,621873,615531
+91,Diarrhea,,409007,404594
+91,Tuberculosis,,296864,293722
+91,HIV/AIDS,,223663,221208
+91,Malaria,,173304,170774
+91,Typhoid,,36634,36257
+91,Whooping cough,,32740,32458
+91,Encephalitis(brain inflammation),,24700,24463
+91,STI(not including HIV),,27919,27483
+91,Measles,,24770,24423
+91,Hepatitis,,20010,19790
+91,Salmonella,,20301,20030
+91,Dengue,,6799,6741
+91,Tetanus,,9077,8989
+91,COVID-19,,44389,39640
+92,Lower Respiratory,,628267,621873
+92,Diarrhea,,414534,409007
+92,Tuberculosis,,300261,296864
+92,HIV/AIDS,,226265,223663
+92,Malaria,,175952,173304
+92,Typhoid,,37234,36634
+92,Whooping cough,,33070,32740
+92,Encephalitis(brain inflammation),,24995,24700
+92,STI(not including HIV),,28059,27919
+92,Measles,,25132,24770
+92,Hepatitis,,20215,20010
+92,Salmonella,,20575,20301
+92,Dengue,,6869,6799
+92,Tetanus,,9168,9077
+92,COVID-19,,50344,44389
+93,Lower Respiratory,,634650,628267
+93,Diarrhea,,417847,414534
+93,Tuberculosis,,303804,300261
+93,HIV/AIDS,,228516,226265
+93,Malaria,,178979,175952
+93,Typhoid,,37693,37234
+93,Whooping cough,,33450,33070
+93,Encephalitis(brain inflammation),,25299,24995
+93,STI(not including HIV),,28517,28059
+93,Measles,,25573,25132
+93,Hepatitis,,20441,20215
+93,Salmonella,,20794,20575
+93,Dengue,,6903,6869
+93,Tetanus,,9273,9168
+93,COVID-19,,56197,50344
+94,Lower Respiratory,,641171,634650
+94,Diarrhea,,422207,417847
+94,Tuberculosis,,307161,303804
+94,HIV/AIDS,,230721,228516
+94,Malaria,,180882,178979
+94,Typhoid,,38159,37693
+94,Whooping cough,,33704,33450
+94,Encephalitis(brain inflammation),,25575,25299
+94,STI(not including HIV),,28800,28517
+94,Measles,,25961,25573
+94,Hepatitis,,20671,20441
+94,Salmonella,,21005,20794
+94,Dengue,,7014,6903
+94,Tetanus,,9373,9273
+94,COVID-19,,62319,56197
+95,Lower Respiratory,,647905,641171
+95,Diarrhea,,425714,422207
+95,Tuberculosis,,310291,307161
+95,HIV/AIDS,,233050,230721
+95,Malaria,,182183,180882
+95,Typhoid,,38530,38159
+95,Whooping cough,,33907,33704
+95,Encephalitis(brain inflammation),,25820,25575
+95,STI(not including HIV),,29088,28800
+95,Measles,,26417,25961
+95,Hepatitis,,20886,20671
+95,Salmonella,,21131,21005
+95,Dengue,,7120,7014
+95,Tetanus,,9487,9373
+95,COVID-19,,68490,62319
+96,Lower Respiratory,,654273,647905
+96,Diarrhea,,431701,425714
+96,Tuberculosis,,313408,310291
+96,HIV/AIDS,,235581,233050
+96,Malaria,,183071,182183
+96,Typhoid,,38739,38530
+96,Whooping cough,,34193,33907
+96,Encephalitis(brain inflammation),,26078,25820
+96,STI(not including HIV),,29550,29088
+96,Measles,,26718,26417
+96,Hepatitis,,21102,20886
+96,Salmonella,,21411,21131
+96,Dengue,,7191,7120
+96,Tetanus,,9585,9487
+96,COVID-19,,73673,68490
+97,Lower Respiratory,,660869,654273
+97,Diarrhea,,436943,431701
+97,Tuberculosis,,316801,313408
+97,HIV/AIDS,,238164,235581
+97,Malaria,,185136,183071
+97,Typhoid,,39231,38739
+97,Whooping cough,,34452,34193
+97,Encephalitis(brain inflammation),,26342,26078
+97,STI(not including HIV),,29993,29550
+97,Measles,,27056,26718
+97,Hepatitis,,21300,21102
+97,Salmonella,,21691,21411
+97,Dengue,,7311,7191
+97,Tetanus,,9674,9585
+97,COVID-19,,79599,73673
+98,Lower Respiratory,,668264,660869
+98,Diarrhea,,440497,436943
+98,Tuberculosis,,319779,316801
+98,HIV/AIDS,,240428,238164
+98,Malaria,,186545,185136
+98,Typhoid,,39469,39231
+98,Whooping cough,,34743,34452
+98,Encephalitis(brain inflammation),,26666,26342
+98,STI(not including HIV),,30320,29993
+98,Measles,,27252,27056
+98,Hepatitis,,21533,21300
+98,Salmonella,,21911,21691
+98,Dengue,,7381,7311
+98,Tetanus,,9798,9674
+98,COVID-19,,87833,79599
+99,Lower Respiratory,,674803,668264
+99,Diarrhea,,443538,440497
+99,Tuberculosis,,322764,319779
+99,HIV/AIDS,,242914,240428
+99,Malaria,,187778,186545
+99,Typhoid,,39884,39469
+99,Whooping cough,,35127,34743
+99,Encephalitis(brain inflammation),,26956,26666
+99,STI(not including HIV),,30443,30320
+99,Measles,,27566,27252
+99,Hepatitis,,21717,21533
+99,Salmonella,,22248,21911
+99,Dengue,,7498,7381
+99,Tetanus,,9895,9798
+99,COVID-19,,94581,87833
+100,Lower Respiratory,,682185,674803
+100,Diarrhea,,447237,443538
+100,Tuberculosis,,326228,322764
+100,HIV/AIDS,,245251,242914
+100,Malaria,,190758,187778
+100,Typhoid,,40433,39884
+100,Whooping cough,,35329,35127
+100,Encephalitis(brain inflammation),,27259,26956
+100,STI(not including HIV),,30814,30443
+100,Measles,,28044,27566
+100,Hepatitis,,21967,21717
+100,Salmonella,,22540,22248
+100,Dengue,,7591,7498
+100,Tetanus,,10014,9895
+100,COVID-19,,102328,94581
+101,Lower Respiratory,,689143,682185
+101,Diarrhea,,452659,447237
+101,Tuberculosis,,329550,326228
+101,HIV/AIDS,,247960,245251
+101,Malaria,,191780,190758
+101,Typhoid,,40959,40433
+101,Whooping cough,,35830,35329
+101,Encephalitis(brain inflammation),,27483,27259
+101,STI(not including HIV),,30934,30814
+101,Measles,,28453,28044
+101,Hepatitis,,22208,21967
+101,Salmonella,,22713,22540
+101,Dengue,,7709,7591
+101,Tetanus,,10095,10014
+101,COVID-19,,109717,102328
+102,Lower Respiratory,,695501,689143
+102,Diarrhea,,458303,452659
+102,Tuberculosis,,333047,329550
+102,HIV/AIDS,,250365,247960
+102,Malaria,,194013,191780
+102,Typhoid,,41549,40959
+102,Whooping cough,,36400,35830
+102,Encephalitis(brain inflammation),,27820,27483
+102,STI(not including HIV),,31415,30934
+102,Measles,,28704,28453
+102,Hepatitis,,22445,22208
+102,Salmonella,,22861,22713
+102,Dengue,,7825,7709
+102,Tetanus,,10185,10095
+102,COVID-19,,115956,109717
+103,Lower Respiratory,,702875,695501
+103,Diarrhea,,461492,458303
+103,Tuberculosis,,336205,333047
+103,HIV/AIDS,,253029,250365
+103,Malaria,,195987,194013
+103,Typhoid,,41918,41549
+103,Whooping cough,,36745,36400
+103,Encephalitis(brain inflammation),,28144,27820
+103,STI(not including HIV),,31897,31415
+103,Measles,,29035,28704
+103,Hepatitis,,22628,22445
+103,Salmonella,,23185,22861
+103,Dengue,,7872,7825
+103,Tetanus,,10301,10185
+103,COVID-19,,121783,115956
+104,Lower Respiratory,,709660,702875
+104,Diarrhea,,465018,461492
+104,Tuberculosis,,339466,336205
+104,HIV/AIDS,,255205,253029
+104,Malaria,,197775,195987
+104,Typhoid,,42271,41918
+104,Whooping cough,,37039,36745
+104,Encephalitis(brain inflammation),,28359,28144
+104,STI(not including HIV),,32165,31897
+104,Measles,,29296,29035
+104,Hepatitis,,22874,22628
+104,Salmonella,,23322,23185
+104,Dengue,,7974,7872
+104,Tetanus,,10397,10301
+104,COVID-19,,127705,121783
+105,Lower Respiratory,,716162,709660
+105,Diarrhea,,470476,465018
+105,Tuberculosis,,342487,339466
+105,HIV/AIDS,,257440,255205
+105,Malaria,,199332,197775
+105,Typhoid,,42454,42271
+105,Whooping cough,,37615,37039
+105,Encephalitis(brain inflammation),,28693,28359
+105,STI(not including HIV),,32521,32165
+105,Measles,,29453,29296
+105,Hepatitis,,23117,22874
+105,Salmonella,,23487,23322
+105,Dengue,,8074,7974
+105,Tetanus,,10500,10397
+105,COVID-19,,134675,127705
+106,Lower Respiratory,,722590,716162
+106,Diarrhea,,475166,470476
+106,Tuberculosis,,346017,342487
+106,HIV/AIDS,,260121,257440
+106,Malaria,,200841,199332
+106,Typhoid,,43015,42454
+106,Whooping cough,,38072,37615
+106,Encephalitis(brain inflammation),,28906,28693
+106,STI(not including HIV),,33009,32521
+106,Measles,,29702,29453
+106,Hepatitis,,23315,23117
+106,Salmonella,,23806,23487
+106,Dengue,,8176,8074
+106,Tetanus,,10613,10500
+106,COVID-19,,143023,134675
+107,Lower Respiratory,,729388,722590
+107,Diarrhea,,480156,475166
+107,Tuberculosis,,348997,346017
+107,HIV/AIDS,,262713,260121
+107,Malaria,,203085,200841
+107,Typhoid,,43627,43015
+107,Whooping cough,,38319,38072
+107,Encephalitis(brain inflammation),,29161,28906
+107,STI(not including HIV),,33359,33009
+107,Measles,,29841,29702
+107,Hepatitis,,23539,23315
+107,Salmonella,,24033,23806
+107,Dengue,,8282,8176
+107,Tetanus,,10718,10613
+107,COVID-19,,150302,143023
+108,Lower Respiratory,,736353,729388
+108,Diarrhea,,484974,480156
+108,Tuberculosis,,351994,348997
+108,HIV/AIDS,,265388,262713
+108,Malaria,,205263,203085
+108,Typhoid,,44187,43627
+108,Whooping cough,,38551,38319
+108,Encephalitis(brain inflammation),,29478,29161
+108,STI(not including HIV),,33766,33359
+108,Measles,,30142,29841
+108,Hepatitis,,23730,23539
+108,Salmonella,,24168,24033
+108,Dengue,,8354,8282
+108,Tetanus,,10800,10718
+108,COVID-19,,158662,150302
+109,Lower Respiratory,,743570,736353
+109,Diarrhea,,490809,484974
+109,Tuberculosis,,355195,351994
+109,HIV/AIDS,,267843,265388
+109,Malaria,,206989,205263
+109,Typhoid,,44533,44187
+109,Whooping cough,,38842,38551
+109,Encephalitis(brain inflammation),,29697,29478
+109,STI(not including HIV),,34203,33766
+109,Measles,,30508,30142
+109,Hepatitis,,23991,23730
+109,Salmonella,,24442,24168
+109,Dengue,,8379,8354
+109,Tetanus,,10910,10800
+109,COVID-19,,164686,158662
+110,Lower Respiratory,,750611,743570
+110,Diarrhea,,495013,490809
+110,Tuberculosis,,358593,355195
+110,HIV/AIDS,,270191,267843
+110,Malaria,,208893,206989
+110,Typhoid,,44861,44533
+110,Whooping cough,,39092,38842
+110,Encephalitis(brain inflammation),,29967,29697
+110,STI(not including HIV),,34397,34203
+110,Measles,,30682,30508
+110,Hepatitis,,24172,23991
+110,Salmonella,,24769,24442
+110,Dengue,,8449,8379
+110,Tetanus,,10987,10910
+110,COVID-19,,169946,164686
+111,Lower Respiratory,,758077,750611
+111,Diarrhea,,500143,495013
+111,Tuberculosis,,361814,358593
+111,HIV/AIDS,,272815,270191
+111,Malaria,,210113,208893
+111,Typhoid,,45304,44861
+111,Whooping cough,,39343,39092
+111,Encephalitis(brain inflammation),,30246,29967
+111,STI(not including HIV),,34676,34397
+111,Measles,,30847,30682
+111,Hepatitis,,24367,24172
+111,Salmonella,,25074,24769
+111,Dengue,,8491,8449
+111,Tetanus,,11078,10987
+111,COVID-19,,175822,169946
+112,Lower Respiratory,,764693,758077
+112,Diarrhea,,505607,500143
+112,Tuberculosis,,365009,361814
+112,HIV/AIDS,,275242,272815
+112,Malaria,,211703,210113
+112,Typhoid,,45505,45304
+112,Whooping cough,,39572,39343
+112,Encephalitis(brain inflammation),,30521,30246
+112,STI(not including HIV),,35127,34676
+112,Measles,,31325,30847
+112,Hepatitis,,24616,24367
+112,Salmonella,,25394,25074
+112,Dengue,,8608,8491
+112,Tetanus,,11192,11078
+112,COVID-19,,183003,175822
+113,Lower Respiratory,,772052,764693
+113,Diarrhea,,510552,505607
+113,Tuberculosis,,368426,365009
+113,HIV/AIDS,,277648,275242
+113,Malaria,,212646,211703
+113,Typhoid,,45727,45505
+113,Whooping cough,,39934,39572
+113,Encephalitis(brain inflammation),,30810,30521
+113,STI(not including HIV),,35234,35127
+113,Measles,,31784,31325
+113,Hepatitis,,24819,24616
+113,Salmonella,,25733,25394
+113,Dengue,,8696,8608
+113,Tetanus,,11301,11192
+113,COVID-19,,189721,183003
+114,Lower Respiratory,,778474,772052
+114,Diarrhea,,514067,510552
+114,Tuberculosis,,371485,368426
+114,HIV/AIDS,,279928,277648
+114,Malaria,,215300,212646
+114,Typhoid,,46003,45727
+114,Whooping cough,,40282,39934
+114,Encephalitis(brain inflammation),,31050,30810
+114,STI(not including HIV),,35720,35234
+114,Measles,,32242,31784
+114,Hepatitis,,25063,24819
+114,Salmonella,,25959,25733
+114,Dengue,,8738,8696
+114,Tetanus,,11381,11301
+114,COVID-19,,196546,189721
+115,Lower Respiratory,,785518,778474
+115,Diarrhea,,517190,514067
+115,Tuberculosis,,375007,371485
+115,HIV/AIDS,,282435,279928
+115,Malaria,,217266,215300
+115,Typhoid,,46569,46003
+115,Whooping cough,,40475,40282
+115,Encephalitis(brain inflammation),,31385,31050
+115,STI(not including HIV),,36173,35720
+115,Measles,,32377,32242
+115,Hepatitis,,25267,25063
+115,Salmonella,,26237,25959
+115,Dengue,,8808,8738
+115,Tetanus,,11470,11381
+115,COVID-19,,203214,196546
+116,Lower Respiratory,,793029,785518
+116,Diarrhea,,520189,517190
+116,Tuberculosis,,378550,375007
+116,HIV/AIDS,,284683,282435
+116,Malaria,,219501,217266
+116,Typhoid,,46788,46569
+116,Whooping cough,,40960,40475
+116,Encephalitis(brain inflammation),,31647,31385
+116,STI(not including HIV),,36594,36173
+116,Measles,,32764,32377
+116,Hepatitis,,25462,25267
+116,Salmonella,,26397,26237
+116,Dengue,,8920,8808
+116,Tetanus,,11542,11470
+116,COVID-19,,208851,203214
+117,Lower Respiratory,,799872,793029
+117,Diarrhea,,524542,520189
+117,Tuberculosis,,381947,378550
+117,HIV/AIDS,,287299,284683
+117,Malaria,,222586,219501
+117,Typhoid,,47119,46788
+117,Whooping cough,,41387,40960
+117,Encephalitis(brain inflammation),,31898,31647
+117,STI(not including HIV),,37079,36594
+117,Measles,,33140,32764
+117,Hepatitis,,25648,25462
+117,Salmonella,,26597,26397
+117,Dengue,,9008,8920
+117,Tetanus,,11621,11542
+117,COVID-19,,212802,208851
+118,Lower Respiratory,,807002,799872
+118,Diarrhea,,529058,524542
+118,Tuberculosis,,385386,381947
+118,HIV/AIDS,,289472,287299
+118,Malaria,,223861,222586
+118,Typhoid,,47455,47119
+118,Whooping cough,,41899,41387
+118,Encephalitis(brain inflammation),,32198,31898
+118,STI(not including HIV),,37313,37079
+118,Measles,,33585,33140
+118,Hepatitis,,25840,25648
+118,Salmonella,,26725,26597
+118,Dengue,,9128,9008
+118,Tetanus,,11726,11621
+118,COVID-19,,217472,212802
+119,Lower Respiratory,,814070,807002
+119,Diarrhea,,534694,529058
+119,Tuberculosis,,388540,385386
+119,HIV/AIDS,,292017,289472
+119,Malaria,,226014,223861
+119,Typhoid,,47929,47455
+119,Whooping cough,,42113,41899
+119,Encephalitis(brain inflammation),,32452,32198
+119,STI(not including HIV),,37662,37313
+119,Measles,,34078,33585
+119,Hepatitis,,26025,25840
+119,Salmonella,,26871,26725
+119,Dengue,,9200,9128
+119,Tetanus,,11852,11726
+119,COVID-19,,224001,217472
+120,Lower Respiratory,,820504,814070
+120,Diarrhea,,537736,534694
+120,Tuberculosis,,391857,388540
+120,HIV/AIDS,,294452,292017
+120,Malaria,,226952,226014
+120,Typhoid,,48437,47929
+120,Whooping cough,,42413,42113
+120,Encephalitis(brain inflammation),,32777,32452
+120,STI(not including HIV),,37923,37662
+120,Measles,,34469,34078
+120,Hepatitis,,26220,26025
+120,Salmonella,,27183,26871
+120,Dengue,,9236,9200
+120,Tetanus,,11955,11852
+120,COVID-19,,230727,224001
+121,Lower Respiratory,,827223,820504
+121,Diarrhea,,542874,537736
+121,Tuberculosis,,395410,391857
+121,HIV/AIDS,,296860,294452
+121,Malaria,,229110,226952
+121,Typhoid,,48965,48437
+121,Whooping cough,,42816,42413
+121,Encephalitis(brain inflammation),,33092,32777
+121,STI(not including HIV),,38130,37923
+121,Measles,,34623,34469
+121,Hepatitis,,26403,26220
+121,Salmonella,,27342,27183
+121,Dengue,,9296,9236
+121,Tetanus,,12038,11955
+121,COVID-19,,236716,230727
+122,Lower Respiratory,,834645,827223
+122,Diarrhea,,546584,542874
+122,Tuberculosis,,398579,395410
+122,HIV/AIDS,,299160,296860
+122,Malaria,,230960,229110
+122,Typhoid,,49339,48965
+122,Whooping cough,,43137,42816
+122,Encephalitis(brain inflammation),,33348,33092
+122,STI(not including HIV),,38607,38130
+122,Measles,,35040,34623
+122,Hepatitis,,26600,26403
+122,Salmonella,,27464,27342
+122,Dengue,,9333,9296
+122,Tetanus,,12139,12038
+122,COVID-19,,241871,236716
+123,Lower Respiratory,,841556,834645
+123,Diarrhea,,552321,546584
+123,Tuberculosis,,401982,398579
+123,HIV/AIDS,,301588,299160
+123,Malaria,,232841,230960
+123,Typhoid,,49549,49339
+123,Whooping cough,,43321,43137
+123,Encephalitis(brain inflammation),,33674,33348
+123,STI(not including HIV),,38709,38607
+123,Measles,,35429,35040
+123,Hepatitis,,26853,26600
+123,Salmonella,,27623,27464
+123,Dengue,,9406,9333
+123,Tetanus,,12236,12139
+123,COVID-19,,247384,241871
+124,Lower Respiratory,,848901,841556
+124,Diarrhea,,556068,552321
+124,Tuberculosis,,404962,401982
+124,HIV/AIDS,,303880,301588
+124,Malaria,,235140,232841
+124,Typhoid,,49866,49549
+124,Whooping cough,,43603,43321
+124,Encephalitis(brain inflammation),,33903,33674
+124,STI(not including HIV),,39195,38709
+124,Measles,,35635,35429
+124,Hepatitis,,27041,26853
+124,Salmonella,,27840,27623
+124,Dengue,,9445,9406
+124,Tetanus,,12327,12236
+124,COVID-19,,250868,247384
+125,Lower Respiratory,,856187,848901
+125,Diarrhea,,560234,556068
+125,Tuberculosis,,408322,404962
+125,HIV/AIDS,,306079,303880
+125,Malaria,,236596,235140
+125,Typhoid,,50143,49866
+125,Whooping cough,,44092,43603
+125,Encephalitis(brain inflammation),,34133,33903
+125,STI(not including HIV),,39535,39195
+125,Measles,,35890,35635
+125,Hepatitis,,27277,27041
+125,Salmonella,,28020,27840
+125,Dengue,,9477,9445
+125,Tetanus,,12422,12327
+125,COVID-19,,254974,250868
+126,Lower Respiratory,,863581,856187
+126,Diarrhea,,565558,560234
+126,Tuberculosis,,411628,408322
+126,HIV/AIDS,,308740,306079
+126,Malaria,,237989,236596
+126,Typhoid,,50364,50143
+126,Whooping cough,,44410,44092
+126,Encephalitis(brain inflammation),,34356,34133
+126,STI(not including HIV),,39977,39535
+126,Measles,,36152,35890
+126,Hepatitis,,27470,27277
+126,Salmonella,,28196,28020
+126,Dengue,,9598,9477
+126,Tetanus,,12527,12422
+126,COVID-19,,260846,254974
+127,Lower Respiratory,,870707,863581
+127,Diarrhea,,569517,565558
+127,Tuberculosis,,415007,411628
+127,HIV/AIDS,,311081,308740
+127,Malaria,,241148,237989
+127,Typhoid,,50869,50364
+127,Whooping cough,,44874,44410
+127,Encephalitis(brain inflammation),,34690,34356
+127,STI(not including HIV),,40406,39977
+127,Measles,,36483,36152
+127,Hepatitis,,27656,27470
+127,Salmonella,,28519,28196
+127,Dengue,,9656,9598
+127,Tetanus,,12603,12527
+127,COVID-19,,267394,260846
+128,Lower Respiratory,,877010,870707
+128,Diarrhea,,574033,569517
+128,Tuberculosis,,418060,415007
+128,HIV/AIDS,,313640,311081
+128,Malaria,,243847,241148
+128,Typhoid,,51159,50869
+128,Whooping cough,,45076,44874
+128,Encephalitis(brain inflammation),,34929,34690
+128,STI(not including HIV),,40768,40406
+128,Measles,,36939,36483
+128,Hepatitis,,27893,27656
+128,Salmonella,,28659,28519
+128,Dengue,,9717,9656
+128,Tetanus,,12722,12603
+128,COVID-19,,272685,267394
+129,Lower Respiratory,,884012,877010
+129,Diarrhea,,577931,574033
+129,Tuberculosis,,421134,418060
+129,HIV/AIDS,,315992,313640
+129,Malaria,,244736,243847
+129,Typhoid,,51689,51159
+129,Whooping cough,,45379,45076
+129,Encephalitis(brain inflammation),,35167,34929
+129,STI(not including HIV),,40905,40768
+129,Measles,,37185,36939
+129,Hepatitis,,28092,27893
+129,Salmonella,,28946,28659
+129,Dengue,,9744,9717
+129,Tetanus,,12829,12722
+129,COVID-19,,278158,272685
+130,Lower Respiratory,,890472,884012
+130,Diarrhea,,581676,577931
+130,Tuberculosis,,424378,421134
+130,HIV/AIDS,,318290,315992
+130,Malaria,,246187,244736
+130,Typhoid,,51954,51689
+130,Whooping cough,,45946,45379
+130,Encephalitis(brain inflammation),,35478,35167
+130,STI(not including HIV),,41052,40905
+130,Measles,,37558,37185
+130,Hepatitis,,28352,28092
+130,Salmonella,,29233,28946
+130,Dengue,,9829,9744
+130,Tetanus,,12960,12829
+130,COVID-19,,282439,278158
+131,Lower Respiratory,,897568,890472
+131,Diarrhea,,586422,581676
+131,Tuberculosis,,427928,424378
+131,HIV/AIDS,,320694,318290
+131,Malaria,,247707,246187
+131,Typhoid,,52539,51954
+131,Whooping cough,,46281,45946
+131,Encephalitis(brain inflammation),,35776,35478
+131,STI(not including HIV),,41537,41052
+131,Measles,,37919,37558
+131,Hepatitis,,28587,28352
+131,Salmonella,,29481,29233
+131,Dengue,,9884,9829
+131,Tetanus,,13078,12960
+131,COVID-19,,286043,282439
+132,Lower Respiratory,,904589,897568
+132,Diarrhea,,590244,586422
+132,Tuberculosis,,430990,427928
+132,HIV/AIDS,,323010,320694
+132,Malaria,,249212,247707
+132,Typhoid,,52940,52539
+132,Whooping cough,,46661,46281
+132,Encephalitis(brain inflammation),,36113,35776
+132,STI(not including HIV),,41908,41537
+132,Measles,,38209,37919
+132,Hepatitis,,28805,28587
+132,Salmonella,,29619,29481
+132,Dengue,,9992,9884
+132,Tetanus,,13186,13078
+132,COVID-19,,289506,286043
+133,Lower Respiratory,,910984,904589
+133,Diarrhea,,595376,590244
+133,Tuberculosis,,434519,430990
+133,HIV/AIDS,,325548,323010
+133,Malaria,,252094,249212
+133,Typhoid,,53182,52940
+133,Whooping cough,,47132,46661
+133,Encephalitis(brain inflammation),,36328,36113
+133,STI(not including HIV),,42282,41908
+133,Measles,,38485,38209
+133,Hepatitis,,29043,28805
+133,Salmonella,,29794,29619
+133,Dengue,,10021,9992
+133,Tetanus,,13306,13186
+133,COVID-19,,295031,289506
+134,Lower Respiratory,,917480,910984
+134,Diarrhea,,601156,595376
+134,Tuberculosis,,437888,434519
+134,HIV/AIDS,,327973,325548
+134,Malaria,,254532,252094
+134,Typhoid,,53499,53182
+134,Whooping cough,,47482,47132
+134,Encephalitis(brain inflammation),,36557,36328
+134,STI(not including HIV),,42535,42282
+134,Measles,,38583,38485
+134,Hepatitis,,29299,29043
+134,Salmonella,,29987,29794
+134,Dengue,,10138,10021
+134,Tetanus,,13428,13306
+134,COVID-19,,300101,295031
+135,Lower Respiratory,,923734,917480
+135,Diarrhea,,607178,601156
+135,Tuberculosis,,441046,437888
+135,HIV/AIDS,,330213,327973
+135,Malaria,,256987,254532
+135,Typhoid,,53772,53499
+135,Whooping cough,,47784,47482
+135,Encephalitis(brain inflammation),,36869,36557
+135,STI(not including HIV),,42649,42535
+135,Measles,,38851,38583
+135,Hepatitis,,29497,29299
+135,Salmonella,,30208,29987
+135,Dengue,,10237,10138
+135,Tetanus,,13507,13428
+135,COVID-19,,305291,300101
+136,Lower Respiratory,,930395,923734
+136,Diarrhea,,612621,607178
+136,Tuberculosis,,444554,441046
+136,HIV/AIDS,,332606,330213
+136,Malaria,,258070,256987
+136,Typhoid,,53979,53772
+136,Whooping cough,,48051,47784
+136,Encephalitis(brain inflammation),,37087,36869
+136,STI(not including HIV),,42961,42649
+136,Measles,,39028,38851
+136,Hepatitis,,29738,29497
+136,Salmonella,,30327,30208
+136,Dengue,,10322,10237
+136,Tetanus,,13631,13507
+136,COVID-19,,310409,305291
+137,Lower Respiratory,,937119,930395
+137,Diarrhea,,618386,612621
+137,Tuberculosis,,447598,444554
+137,HIV/AIDS,,334939,332606
+137,Malaria,,259831,258070
+137,Typhoid,,54290,53979
+137,Whooping cough,,48605,48051
+137,Encephalitis(brain inflammation),,37323,37087
+137,STI(not including HIV),,43194,42961
+137,Measles,,39341,39028
+137,Hepatitis,,29974,29738
+137,Salmonella,,30454,30327
+137,Dengue,,10428,10322
+137,Tetanus,,13703,13631
+137,COVID-19,,314683,310409
+138,Lower Respiratory,,943646,937119
+138,Diarrhea,,622283,618386
+138,Tuberculosis,,451001,447598
+138,HIV/AIDS,,337467,334939
+138,Malaria,,261334,259831
+138,Typhoid,,54628,54290
+138,Whooping cough,,49156,48605
+138,Encephalitis(brain inflammation),,37616,37323
+138,STI(not including HIV),,43588,43194
+138,Measles,,39589,39341
+138,Hepatitis,,30173,29974
+138,Salmonella,,30761,30454
+138,Dengue,,10457,10428
+138,Tetanus,,13831,13703
+138,COVID-19,,317880,314683
+139,Lower Respiratory,,950103,943646
+139,Diarrhea,,627881,622283
+139,Tuberculosis,,454301,451001
+139,HIV/AIDS,,340004,337467
+139,Malaria,,262407,261334
+139,Typhoid,,55185,54628
+139,Whooping cough,,49389,49156
+139,Encephalitis(brain inflammation),,37907,37616
+139,STI(not including HIV),,43816,43588
+139,Measles,,39704,39589
+139,Hepatitis,,30378,30173
+139,Salmonella,,30971,30761
+139,Dengue,,10570,10457
+139,Tetanus,,13939,13831
+139,COVID-19,,321581,317880
+140,Lower Respiratory,,956937,950103
+140,Diarrhea,,633830,627881
+140,Tuberculosis,,457280,454301
+140,HIV/AIDS,,342280,340004
+140,Malaria,,264638,262407
+140,Typhoid,,55773,55185
+140,Whooping cough,,49567,49389
+140,Encephalitis(brain inflammation),,38212,37907
+140,STI(not including HIV),,44097,43816
+140,Measles,,39847,39704
+140,Hepatitis,,30591,30378
+140,Salmonella,,31281,30971
+140,Dengue,,10691,10570
+140,Tetanus,,14024,13939
+140,COVID-19,,326272,321581
+141,Lower Respiratory,,964309,956937
+141,Diarrhea,,638400,633830
+141,Tuberculosis,,460702,457280
+141,HIV/AIDS,,344747,342280
+141,Malaria,,267338,264638
+141,Typhoid,,56386,55773
+141,Whooping cough,,50028,49567
+141,Encephalitis(brain inflammation),,38496,38212
+141,STI(not including HIV),,44217,44097
+141,Measles,,40175,39847
+141,Hepatitis,,30776,30591
+141,Salmonella,,31593,31281
+141,Dengue,,10754,10691
+141,Tetanus,,14117,14024
+141,COVID-19,,331032,326272
+142,Lower Respiratory,,971557,964309
+142,Diarrhea,,642031,638400
+142,Tuberculosis,,464250,460702
+142,HIV/AIDS,,347303,344747
+142,Malaria,,268719,267338
+142,Typhoid,,56628,56386
+142,Whooping cough,,50424,50028
+142,Encephalitis(brain inflammation),,38776,38496
+142,STI(not including HIV),,44595,44217
+142,Measles,,40483,40175
+142,Hepatitis,,31031,30776
+142,Salmonella,,31844,31593
+142,Dengue,,10788,10754
+142,Tetanus,,14208,14117
+142,COVID-19,,335751,331032
+143,Lower Respiratory,,978317,971557
+143,Diarrhea,,647575,642031
+143,Tuberculosis,,467330,464250
+143,HIV/AIDS,,349876,347303
+143,Malaria,,270396,268719
+143,Typhoid,,57196,56628
+143,Whooping cough,,50873,50424
+143,Encephalitis(brain inflammation),,39031,38776
+143,STI(not including HIV),,44814,44595
+143,Measles,,40885,40483
+143,Hepatitis,,31244,31031
+143,Salmonella,,32048,31844
+143,Dengue,,10850,10788
+143,Tetanus,,14306,14208
+143,COVID-19,,341018,335751
+144,Lower Respiratory,,985697,978317
+144,Diarrhea,,651321,647575
+144,Tuberculosis,,470485,467330
+144,HIV/AIDS,,352328,349876
+144,Malaria,,271503,270396
+144,Typhoid,,57535,57196
+144,Whooping cough,,51392,50873
+144,Encephalitis(brain inflammation),,39259,39031
+144,STI(not including HIV),,44959,44814
+144,Measles,,41028,40885
+144,Hepatitis,,31491,31244
+144,Salmonella,,32252,32048
+144,Dengue,,10936,10850
+144,Tetanus,,14413,14306
+144,COVID-19,,344986,341018
+145,Lower Respiratory,,992869,985697
+145,Diarrhea,,656411,651321
+145,Tuberculosis,,473792,470485
+145,HIV/AIDS,,354650,352328
+145,Malaria,,274551,271503
+145,Typhoid,,57990,57535
+145,Whooping cough,,51539,51392
+145,Encephalitis(brain inflammation),,39556,39259
+145,STI(not including HIV),,45445,44959
+145,Measles,,41164,41028
+145,Hepatitis,,31738,31491
+145,Salmonella,,32478,32252
+145,Dengue,,11028,10936
+145,Tetanus,,14503,14413
+145,COVID-19,,347995,344986
+146,Lower Respiratory,,999556,992869
+146,Diarrhea,,660931,656411
+146,Tuberculosis,,476817,473792
+146,HIV/AIDS,,357119,354650
+146,Malaria,,276785,274551
+146,Typhoid,,58257,57990
+146,Whooping cough,,51716,51539
+146,Encephalitis(brain inflammation),,39783,39556
+146,STI(not including HIV),,45876,45445
+146,Measles,,41305,41164
+146,Hepatitis,,31977,31738
+146,Salmonella,,32772,32478
+146,Dengue,,11066,11028
+146,Tetanus,,14600,14503
+146,COVID-19,,349194,347995
+147,Lower Respiratory,,1006186,999556
+147,Diarrhea,,666424,660931
+147,Tuberculosis,,479902,476817
+147,HIV/AIDS,,359306,357119
+147,Malaria,,279324,276785
+147,Typhoid,,58538,58257
+147,Whooping cough,,52075,51716
+147,Encephalitis(brain inflammation),,40104,39783
+147,STI(not including HIV),,46077,45876
+147,Measles,,41589,41305
+147,Hepatitis,,32167,31977
+147,Salmonella,,32976,32772
+147,Dengue,,11177,11066
+147,Tetanus,,14682,14600
+147,COVID-19,,353374,349194
+148,Lower Respiratory,,1012650,1006186
+148,Diarrhea,,671989,666424
+148,Tuberculosis,,482941,479902
+148,HIV/AIDS,,361713,359306
+148,Malaria,,280280,279324
+148,Typhoid,,58999,58538
+148,Whooping cough,,52555,52075
+148,Encephalitis(brain inflammation),,40379,40104
+148,STI(not including HIV),,46178,46077
+148,Measles,,42081,41589
+148,Hepatitis,,32356,32167
+148,Salmonella,,33310,32976
+148,Dengue,,11291,11177
+148,Tetanus,,14757,14682
+148,COVID-19,,358437,353374
+149,Lower Respiratory,,1018983,1012650
+149,Diarrhea,,676701,671989
+149,Tuberculosis,,486190,482941
+149,HIV/AIDS,,364086,361713
+149,Malaria,,281529,280280
+149,Typhoid,,59353,58999
+149,Whooping cough,,52905,52555
+149,Encephalitis(brain inflammation),,40663,40379
+149,STI(not including HIV),,46528,46178
+149,Measles,,42204,42081
+149,Hepatitis,,32542,32356
+149,Salmonella,,33584,33310
+149,Dengue,,11355,11291
+149,Tetanus,,14873,14757
+149,COVID-19,,363053,358437
+150,Lower Respiratory,,1025923,1018983
+150,Diarrhea,,680848,676701
+150,Tuberculosis,,489352,486190
+150,HIV/AIDS,,366450,364086
+150,Malaria,,284037,281529
+150,Typhoid,,59789,59353
+150,Whooping cough,,53419,52905
+150,Encephalitis(brain inflammation),,41000,40663
+150,STI(not including HIV),,46635,46528
+150,Measles,,42422,42204
+150,Hepatitis,,32758,32542
+150,Salmonella,,33726,33584
+150,Dengue,,11472,11355
+150,Tetanus,,14978,14873
+150,COVID-19,,367647,363053
+151,Lower Respiratory,,1033297,1025923
+151,Diarrhea,,684363,680848
+151,Tuberculosis,,492568,489352
+151,HIV/AIDS,,368738,366450
+151,Malaria,,284942,284037
+151,Typhoid,,60174,59789
+151,Whooping cough,,53867,53419
+151,Encephalitis(brain inflammation),,41234,41000
+151,STI(not including HIV),,46940,46635
+151,Measles,,42895,42422
+151,Hepatitis,,33005,32758
+151,Salmonella,,34040,33726
+151,Dengue,,11500,11472
+151,Tetanus,,15061,14978
+151,COVID-19,,371709,367647
+152,Lower Respiratory,,1039687,1033297
+152,Diarrhea,,688989,684363
+152,Tuberculosis,,496003,492568
+152,HIV/AIDS,,371360,368738
+152,Malaria,,287690,284942
+152,Typhoid,,60585,60174
+152,Whooping cough,,54162,53867
+152,Encephalitis(brain inflammation),,41474,41234
+152,STI(not including HIV),,47120,46940
+152,Measles,,43284,42895
+152,Hepatitis,,33188,33005
+152,Salmonella,,34236,34040
+152,Dengue,,11619,11500
+152,Tetanus,,15166,15061
+152,COVID-19,,374692,371709
+153,Lower Respiratory,,1046086,1039687
+153,Diarrhea,,692151,688989
+153,Tuberculosis,,499318,496003
+153,HIV/AIDS,,374074,371360
+153,Malaria,,289641,287690
+153,Typhoid,,60767,60585
+153,Whooping cough,,54657,54162
+153,Encephalitis(brain inflammation),,41727,41474
+153,STI(not including HIV),,47352,47120
+153,Measles,,43732,43284
+153,Hepatitis,,33395,33188
+153,Salmonella,,34403,34236
+153,Dengue,,11703,11619
+153,Tetanus,,15265,15166
+153,COVID-19,,377777,374692
+154,Lower Respiratory,,1052486,1046086
+154,Diarrhea,,698108,692151
+154,Tuberculosis,,502312,499318
+154,HIV/AIDS,,376695,374074
+154,Malaria,,291283,289641
+154,Typhoid,,61144,60767
+154,Whooping cough,,55211,54657
+154,Encephalitis(brain inflammation),,41978,41727
+154,STI(not including HIV),,47748,47352
+154,Measles,,44083,43732
+154,Hepatitis,,33598,33395
+154,Salmonella,,34533,34403
+154,Dengue,,11782,11703
+154,Tetanus,,15367,15265
+154,COVID-19,,382489,377777
+155,Lower Respiratory,,1059155,1052486
+155,Diarrhea,,701207,698108
+155,Tuberculosis,,505751,502312
+155,HIV/AIDS,,379373,376695
+155,Malaria,,292523,291283
+155,Typhoid,,61438,61144
+155,Whooping cough,,55589,55211
+155,Encephalitis(brain inflammation),,42283,41978
+155,STI(not including HIV),,47992,47748
+155,Measles,,44241,44083
+155,Hepatitis,,33799,33598
+155,Salmonella,,34873,34533
+155,Dengue,,11823,11782
+155,Tetanus,,15446,15367
+155,COVID-19,,387924,382489
+156,Lower Respiratory,,1066595,1059155
+156,Diarrhea,,706601,701207
+156,Tuberculosis,,508966,505751
+156,HIV/AIDS,,381949,379373
+156,Malaria,,295694,292523
+156,Typhoid,,61648,61438
+156,Whooping cough,,56029,55589
+156,Encephalitis(brain inflammation),,42555,42283
+156,STI(not including HIV),,48373,47992
+156,Measles,,44422,44241
+156,Hepatitis,,34004,33799
+156,Salmonella,,35187,34873
+156,Dengue,,11866,11823
+156,Tetanus,,15525,15446
+156,COVID-19,,393050,387924
+157,Lower Respiratory,,1073493,1066595
+157,Diarrhea,,709919,706601
+157,Tuberculosis,,512483,508966
+157,HIV/AIDS,,384499,381949
+157,Malaria,,298450,295694
+157,Typhoid,,61915,61648
+157,Whooping cough,,56577,56029
+157,Encephalitis(brain inflammation),,42871,42555
+157,STI(not including HIV),,48638,48373
+157,Measles,,44809,44422
+157,Hepatitis,,34246,34004
+157,Salmonella,,35486,35187
+157,Dengue,,11982,11866
+157,Tetanus,,15655,15525
+157,COVID-19,,397602,393050
+158,Lower Respiratory,,1080473,1073493
+158,Diarrhea,,715873,709919
+158,Tuberculosis,,515939,512483
+158,HIV/AIDS,,386785,384499
+158,Malaria,,300316,298450
+158,Typhoid,,62299,61915
+158,Whooping cough,,56903,56577
+158,Encephalitis(brain inflammation),,43093,42871
+158,STI(not including HIV),,48755,48638
+158,Measles,,45286,44809
+158,Hepatitis,,34471,34246
+158,Salmonella,,35611,35486
+158,Dengue,,12038,11982
+158,Tetanus,,15736,15655
+158,COVID-19,,401455,397602
+159,Lower Respiratory,,1087714,1080473
+159,Diarrhea,,720573,715873
+159,Tuberculosis,,519187,515939
+159,HIV/AIDS,,388975,386785
+159,Malaria,,302543,300316
+159,Typhoid,,62805,62299
+159,Whooping cough,,57279,56903
+159,Encephalitis(brain inflammation),,43391,43093
+159,STI(not including HIV),,48984,48755
+159,Measles,,45484,45286
+159,Hepatitis,,34655,34471
+159,Salmonella,,35843,35611
+159,Dengue,,12150,12038
+159,Tetanus,,15840,15736
+159,COVID-19,,404207,401455
+160,Lower Respiratory,,1094943,1087714
+160,Diarrhea,,725848,720573
+160,Tuberculosis,,522742,519187
+160,HIV/AIDS,,391323,388975
+160,Malaria,,303961,302543
+160,Typhoid,,63073,62805
+160,Whooping cough,,57828,57279
+160,Encephalitis(brain inflammation),,43665,43391
+160,STI(not including HIV),,49366,48984
+160,Measles,,45612,45484
+160,Hepatitis,,34886,34655
+160,Salmonella,,36061,35843
+160,Dengue,,12239,12150
+160,Tetanus,,15963,15840
+160,COVID-19,,407895,404207
+161,Lower Respiratory,,1101229,1094943
+161,Diarrhea,,730355,725848
+161,Tuberculosis,,526116,522742
+161,HIV/AIDS,,393507,391323
+161,Malaria,,305388,303961
+161,Typhoid,,63356,63073
+161,Whooping cough,,58180,57828
+161,Encephalitis(brain inflammation),,43996,43665
+161,STI(not including HIV),,49848,49366
+161,Measles,,45714,45612
+161,Hepatitis,,35110,34886
+161,Salmonella,,36239,36061
+161,Dengue,,12345,12239
+161,Tetanus,,16041,15963
+161,COVID-19,,412720,407895
+162,Lower Respiratory,,1107834,1101229
+162,Diarrhea,,734980,730355
+162,Tuberculosis,,529308,526116
+162,HIV/AIDS,,395713,393507
+162,Malaria,,308315,305388
+162,Typhoid,,63808,63356
+162,Whooping cough,,58759,58180
+162,Encephalitis(brain inflammation),,44209,43996
+162,STI(not including HIV),,50125,49848
+162,Measles,,46068,45714
+162,Hepatitis,,35340,35110
+162,Salmonella,,36516,36239
+162,Dengue,,12401,12345
+162,Tetanus,,16167,16041
+162,COVID-19,,417778,412720
+163,Lower Respiratory,,1114543,1107834
+163,Diarrhea,,739688,734980
+163,Tuberculosis,,532521,529308
+163,HIV/AIDS,,398277,395713
+163,Malaria,,311419,308315
+163,Typhoid,,64014,63808
+163,Whooping cough,,59114,58759
+163,Encephalitis(brain inflammation),,44475,44209
+163,STI(not including HIV),,50507,50125
+163,Measles,,46253,46068
+163,Hepatitis,,35594,35340
+163,Salmonella,,36739,36516
+163,Dengue,,12482,12401
+163,Tetanus,,16248,16167
+163,COVID-19,,422455,417778
+164,Lower Respiratory,,1121322,1114543
+164,Diarrhea,,743477,739688
+164,Tuberculosis,,535923,532521
+164,HIV/AIDS,,400691,398277
+164,Malaria,,314475,311419
+164,Typhoid,,64218,64014
+164,Whooping cough,,59501,59114
+164,Encephalitis(brain inflammation),,44770,44475
+164,STI(not including HIV),,50943,50507
+164,Measles,,46574,46253
+164,Hepatitis,,35851,35594
+164,Salmonella,,36954,36739
+164,Dengue,,12547,12482
+164,Tetanus,,16344,16248
+164,COVID-19,,426668,422455
+165,Lower Respiratory,,1127932,1121322
+165,Diarrhea,,749548,743477
+165,Tuberculosis,,539190,535923
+165,HIV/AIDS,,403015,400691
+165,Malaria,,317229,314475
+165,Typhoid,,64809,64218
+165,Whooping cough,,59693,59501
+165,Encephalitis(brain inflammation),,45057,44770
+165,STI(not including HIV),,51135,50943
+165,Measles,,46680,46574
+165,Hepatitis,,36102,35851
+165,Salmonella,,37108,36954
+165,Dengue,,12619,12547
+165,Tetanus,,16464,16344
+165,COVID-19,,430856,426668
+166,Lower Respiratory,,1134876,1127932
+166,Diarrhea,,754541,749548
+166,Tuberculosis,,542232,539190
+166,HIV/AIDS,,405366,403015
+166,Malaria,,320305,317229
+166,Typhoid,,65264,64809
+166,Whooping cough,,60041,59693
+166,Encephalitis(brain inflammation),,45337,45057
+166,STI(not including HIV),,51269,51135
+166,Measles,,46768,46680
+166,Hepatitis,,36302,36102
+166,Salmonella,,37275,37108
+166,Dengue,,12727,12619
+166,Tetanus,,16579,16464
+166,COVID-19,,434273,430856
+167,Lower Respiratory,,1141807,1134876
+167,Diarrhea,,759839,754541
+167,Tuberculosis,,545498,542232
+167,HIV/AIDS,,408046,405366
+167,Malaria,,322900,320305
+167,Typhoid,,65506,65264
+167,Whooping cough,,60442,60041
+167,Encephalitis(brain inflammation),,45571,45337
+167,STI(not including HIV),,51578,51269
+167,Measles,,46894,46768
+167,Hepatitis,,36506,36302
+167,Salmonella,,37461,37275
+167,Dengue,,12820,12727
+167,Tetanus,,16651,16579
+167,COVID-19,,437692,434273
+168,Lower Respiratory,,1148369,1141807
+168,Diarrhea,,764713,759839
+168,Tuberculosis,,548759,545498
+168,HIV/AIDS,,410727,408046
+168,Malaria,,324411,322900
+168,Typhoid,,65966,65506
+168,Whooping cough,,60941,60442
+168,Encephalitis(brain inflammation),,45806,45571
+168,STI(not including HIV),,52002,51578
+168,Measles,,47171,46894
+168,Hepatitis,,36759,36506
+168,Salmonella,,37730,37461
+168,Dengue,,12865,12820
+168,Tetanus,,16775,16651
+168,COVID-19,,444413,437692
+169,Lower Respiratory,,1154895,1148369
+169,Diarrhea,,770552,764713
+169,Tuberculosis,,551852,548759
+169,HIV/AIDS,,413169,410727
+169,Malaria,,325335,324411
+169,Typhoid,,66268,65966
+169,Whooping cough,,61252,60941
+169,Encephalitis(brain inflammation),,46068,45806
+169,STI(not including HIV),,52471,52002
+169,Measles,,47626,47171
+169,Hepatitis,,36989,36759
+169,Salmonella,,37968,37730
+169,Dengue,,12928,12865
+169,Tetanus,,16865,16775
+169,COVID-19,,449506,444413
+170,Lower Respiratory,,1162415,1154895
+170,Diarrhea,,775350,770552
+170,Tuberculosis,,555051,551852
+170,HIV/AIDS,,415802,413169
+170,Malaria,,327931,325335
+170,Typhoid,,66811,66268
+170,Whooping cough,,61404,61252
+170,Encephalitis(brain inflammation),,46330,46068
+170,STI(not including HIV),,52664,52471
+170,Measles,,47865,47626
+170,Hepatitis,,37228,36989
+170,Salmonella,,38088,37968
+170,Dengue,,12960,12928
+170,Tetanus,,16946,16865
+170,COVID-19,,454471,449506
+171,Lower Respiratory,,1169383,1162415
+171,Diarrhea,,780829,775350
+171,Tuberculosis,,558532,555051
+171,HIV/AIDS,,418497,415802
+171,Malaria,,331048,327931
+171,Typhoid,,67101,66811
+171,Whooping cough,,61653,61404
+171,Encephalitis(brain inflammation),,46634,46330
+171,STI(not including HIV),,52885,52664
+171,Measles,,48336,47865
+171,Hepatitis,,37462,37228
+171,Salmonella,,38263,38088
+171,Dengue,,13022,12960
+171,Tetanus,,17075,16946
+171,COVID-19,,460619,454471
+172,Lower Respiratory,,1175803,1169383
+172,Diarrhea,,784033,780829
+172,Tuberculosis,,561603,558532
+172,HIV/AIDS,,420741,418497
+172,Malaria,,334095,331048
+172,Typhoid,,67357,67101
+172,Whooping cough,,62030,61653
+172,Encephalitis(brain inflammation),,46909,46634
+172,STI(not including HIV),,53122,52885
+172,Measles,,48795,48336
+172,Hepatitis,,37678,37462
+172,Salmonella,,38482,38263
+172,Dengue,,13051,13022
+172,Tetanus,,17181,17075
+172,COVID-19,,464821,460619
+173,Lower Respiratory,,1182292,1175803
+173,Diarrhea,,790067,784033
+173,Tuberculosis,,564908,561603
+173,HIV/AIDS,,423153,420741
+173,Malaria,,335603,334095
+173,Typhoid,,67577,67357
+173,Whooping cough,,62588,62030
+173,Encephalitis(brain inflammation),,47121,46909
+173,STI(not including HIV),,53311,53122
+173,Measles,,48921,48795
+173,Hepatitis,,37900,37678
+173,Salmonella,,38629,38482
+173,Dengue,,13121,13051
+173,Tetanus,,17253,17181
+173,COVID-19,,468831,464821
+174,Lower Respiratory,,1188650,1182292
+174,Diarrhea,,794932,790067
+174,Tuberculosis,,567989,564908
+174,HIV/AIDS,,425527,423153
+174,Malaria,,338551,335603
+174,Typhoid,,67969,67577
+174,Whooping cough,,63111,62588
+174,Encephalitis(brain inflammation),,47348,47121
+174,STI(not including HIV),,53798,53311
+174,Measles,,49347,48921
+174,Hepatitis,,38117,37900
+174,Salmonella,,38780,38629
+174,Dengue,,13227,13121
+174,Tetanus,,17331,17253
+174,COVID-19,,472390,468831
+175,Lower Respiratory,,1195254,1188650
+175,Diarrhea,,799098,794932
+175,Tuberculosis,,571531,567989
+175,HIV/AIDS,,428247,425527
+175,Malaria,,340127,338551
+175,Typhoid,,68471,67969
+175,Whooping cough,,63635,63111
+175,Encephalitis(brain inflammation),,47580,47348
+175,STI(not including HIV),,53965,53798
+175,Measles,,49578,49347
+175,Hepatitis,,38303,38117
+175,Salmonella,,39044,38780
+175,Dengue,,13263,13227
+175,Tetanus,,17438,17331
+175,COVID-19,,477609,472390
+176,Lower Respiratory,,1202664,1195254
+176,Diarrhea,,804404,799098
+176,Tuberculosis,,574820,571531
+176,HIV/AIDS,,430610,428247
+176,Malaria,,342011,340127
+176,Typhoid,,68723,68471
+176,Whooping cough,,63836,63635
+176,Encephalitis(brain inflammation),,47915,47580
+176,STI(not including HIV),,54376,53965
+176,Measles,,49947,49578
+176,Hepatitis,,38504,38303
+176,Salmonella,,39245,39044
+176,Dengue,,13334,13263
+176,Tetanus,,17511,17438
+176,COVID-19,,482785,477609
+177,Lower Respiratory,,1209489,1202664
+177,Diarrhea,,809754,804404
+177,Tuberculosis,,577876,574820
+177,HIV/AIDS,,433269,430610
+177,Malaria,,344828,342011
+177,Typhoid,,69287,68723
+177,Whooping cough,,64302,63836
+177,Encephalitis(brain inflammation),,48219,47915
+177,STI(not including HIV),,54660,54376
+177,Measles,,50157,49947
+177,Hepatitis,,38717,38504
+177,Salmonella,,39381,39245
+177,Dengue,,13455,13334
+177,Tetanus,,17597,17511
+177,COVID-19,,487479,482785
+178,Lower Respiratory,,1216589,1209489
+178,Diarrhea,,813755,809754
+178,Tuberculosis,,580978,577876
+178,HIV/AIDS,,436005,433269
+178,Malaria,,346756,344828
+178,Typhoid,,69528,69287
+178,Whooping cough,,64702,64302
+178,Encephalitis(brain inflammation),,48542,48219
+178,STI(not including HIV),,54808,54660
+178,Measles,,50535,50157
+178,Hepatitis,,38909,38717
+178,Salmonella,,39607,39381
+178,Dengue,,13536,13455
+178,Tetanus,,17669,17597
+178,COVID-19,,492189,487479
+179,Lower Respiratory,,1223424,1216589
+179,Diarrhea,,818712,813755
+179,Tuberculosis,,584200,580978
+179,HIV/AIDS,,438606,436005
+179,Malaria,,347830,346756
+179,Typhoid,,70119,69528
+179,Whooping cough,,65197,64702
+179,Encephalitis(brain inflammation),,48783,48542
+179,STI(not including HIV),,55147,54808
+179,Measles,,50896,50535
+179,Hepatitis,,39109,38909
+179,Salmonella,,39870,39607
+179,Dengue,,13580,13536
+179,Tetanus,,17795,17669
+179,COVID-19,,496669,492189
+180,Lower Respiratory,,1230040,1223424
+180,Diarrhea,,822550,818712
+180,Tuberculosis,,587468,584200
+180,HIV/AIDS,,441188,438606
+180,Malaria,,348919,347830
+180,Typhoid,,70699,70119
+180,Whooping cough,,65415,65197
+180,Encephalitis(brain inflammation),,49013,48783
+180,STI(not including HIV),,55442,55147
+180,Measles,,51377,50896
+180,Hepatitis,,39365,39109
+180,Salmonella,,39999,39870
+180,Dengue,,13700,13580
+180,Tetanus,,17921,17795
+180,COVID-19,,499818,496669
+181,Lower Respiratory,,1236616,1230040
+181,Diarrhea,,826360,822550
+181,Tuberculosis,,590464,587468
+181,HIV/AIDS,,443556,441188
+181,Malaria,,351179,348919
+181,Typhoid,,71196,70699
+181,Whooping cough,,65707,65415
+181,Encephalitis(brain inflammation),,49336,49013
+181,STI(not including HIV),,55852,55442
+181,Measles,,51739,51377
+181,Hepatitis,,39566,39365
+181,Salmonella,,40155,39999
+181,Dengue,,13793,13700
+181,Tetanus,,18012,17921
+181,COVID-19,,503548,499818
+182,Lower Respiratory,,1243318,1236616
+182,Diarrhea,,829765,826360
+182,Tuberculosis,,593528,590464
+182,HIV/AIDS,,446108,443556
+182,Malaria,,353654,351179
+182,Typhoid,,71790,71196
+182,Whooping cough,,66145,65707
+182,Encephalitis(brain inflammation),,49582,49336
+182,STI(not including HIV),,56028,55852
+182,Measles,,51890,51739
+182,Hepatitis,,39819,39566
+182,Salmonella,,40451,40155
+182,Dengue,,13861,13793
+182,Tetanus,,18094,18012
+182,COVID-19,,508481,503548
+183,Lower Respiratory,,1250616,1243318
+183,Diarrhea,,834361,829765
+183,Tuberculosis,,597050,593528
+183,HIV/AIDS,,448527,446108
+183,Malaria,,355500,353654
+183,Typhoid,,71981,71790
+183,Whooping cough,,66302,66145
+183,Encephalitis(brain inflammation),,49917,49582
+183,STI(not including HIV),,56334,56028
+183,Measles,,52358,51890
+183,Hepatitis,,40042,39819
+183,Salmonella,,40786,40451
+183,Dengue,,13966,13861
+183,Tetanus,,18184,18094
+183,COVID-19,,513409,508481
+184,Lower Respiratory,,1257306,1250616
+184,Diarrhea,,837752,834361
+184,Tuberculosis,,600036,597050
+184,HIV/AIDS,,451031,448527
+184,Malaria,,357777,355500
+184,Typhoid,,72297,71981
+184,Whooping cough,,66795,66302
+184,Encephalitis(brain inflammation),,50196,49917
+184,STI(not including HIV),,56780,56334
+184,Measles,,52820,52358
+184,Hepatitis,,40233,40042
+184,Salmonella,,40961,40786
+184,Dengue,,14037,13966
+184,Tetanus,,18267,18184
+184,COVID-19,,518475,513409
+185,Lower Respiratory,,1264179,1257306
+185,Diarrhea,,840916,837752
+185,Tuberculosis,,603201,600036
+185,HIV/AIDS,,453467,451031
+185,Malaria,,358771,357777
+185,Typhoid,,72606,72297
+185,Whooping cough,,67080,66795
+185,Encephalitis(brain inflammation),,50409,50196
+185,STI(not including HIV),,57128,56780
+185,Measles,,52995,52820
+185,Hepatitis,,40441,40233
+185,Salmonella,,41164,40961
+185,Dengue,,14074,14037
+185,Tetanus,,18386,18267
+185,COVID-19,,523410,518475
+186,Lower Respiratory,,1271148,1264179
+186,Diarrhea,,846756,840916
+186,Tuberculosis,,606557,603201
+186,HIV/AIDS,,455744,453467
+186,Malaria,,361867,358771
+186,Typhoid,,72921,72606
+186,Whooping cough,,67290,67080
+186,Encephalitis(brain inflammation),,50631,50409
+186,STI(not including HIV),,57231,57128
+186,Measles,,53120,52995
+186,Hepatitis,,40690,40441
+186,Salmonella,,41426,41164
+186,Dengue,,14135,14074
+186,Tetanus,,18477,18386
+186,COVID-19,,527795,523410
+187,Lower Respiratory,,1278483,1271148
+187,Diarrhea,,850904,846756
+187,Tuberculosis,,609535,606557
+187,HIV/AIDS,,458288,455744
+187,Malaria,,364746,361867
+187,Typhoid,,73240,72921
+187,Whooping cough,,67636,67290
+187,Encephalitis(brain inflammation),,50907,50631
+187,STI(not including HIV),,57492,57231
+187,Measles,,53549,53120
+187,Hepatitis,,40895,40690
+187,Salmonella,,41619,41426
+187,Dengue,,14206,14135
+187,Tetanus,,18563,18477
+187,COVID-19,,531278,527795
+188,Lower Respiratory,,1285452,1278483
+188,Diarrhea,,856153,850904
+188,Tuberculosis,,612595,609535
+188,HIV/AIDS,,460492,458288
+188,Malaria,,366504,364746
+188,Typhoid,,73755,73240
+188,Whooping cough,,68028,67636
+188,Encephalitis(brain inflammation),,51131,50907
+188,STI(not including HIV),,57900,57492
+188,Measles,,53692,53549
+188,Hepatitis,,41133,40895
+188,Salmonella,,41930,41619
+188,Dengue,,14284,14206
+188,Tetanus,,18683,18563
+188,COVID-19,,535115,531278
+189,Lower Respiratory,,1292782,1285452
+189,Diarrhea,,860552,856153
+189,Tuberculosis,,615846,612595
+189,HIV/AIDS,,463216,460492
+189,Malaria,,367982,366504
+189,Typhoid,,74138,73755
+189,Whooping cough,,68261,68028
+189,Encephalitis(brain inflammation),,51390,51131
+189,STI(not including HIV),,58299,57900
+189,Measles,,54186,53692
+189,Hepatitis,,41376,41133
+189,Salmonella,,42057,41930
+189,Dengue,,14331,14284
+189,Tetanus,,18792,18683
+189,COVID-19,,541122,535115
+190,Lower Respiratory,,1299421,1292782
+190,Diarrhea,,865832,860552
+190,Tuberculosis,,619403,615846
+190,HIV/AIDS,,465628,463216
+190,Malaria,,370949,367982
+190,Typhoid,,74691,74138
+190,Whooping cough,,68494,68261
+190,Encephalitis(brain inflammation),,51673,51390
+190,STI(not including HIV),,58444,58299
+190,Measles,,54312,54186
+190,Hepatitis,,41600,41376
+190,Salmonella,,42220,42057
+190,Dengue,,14382,14331
+190,Tetanus,,18921,18792
+190,COVID-19,,546420,541122
+191,Lower Respiratory,,1306419,1299421
+191,Diarrhea,,871426,865832
+191,Tuberculosis,,622629,619403
+191,HIV/AIDS,,468229,465628
+191,Malaria,,372771,370949
+191,Typhoid,,74910,74691
+191,Whooping cough,,68737,68494
+191,Encephalitis(brain inflammation),,51886,51673
+191,STI(not including HIV),,58591,58444
+191,Measles,,54455,54312
+191,Hepatitis,,41862,41600
+191,Salmonella,,42549,42220
+191,Dengue,,14409,14382
+191,Tetanus,,19044,18921
+191,COVID-19,,551800,546420
+192,Lower Respiratory,,1313636,1306419
+192,Diarrhea,,874512,871426
+192,Tuberculosis,,625705,622629
+192,HIV/AIDS,,470742,468229
+192,Malaria,,373685,372771
+192,Typhoid,,75345,74910
+192,Whooping cough,,69137,68737
+192,Encephalitis(brain inflammation),,52214,51886
+192,STI(not including HIV),,58986,58591
+192,Measles,,54914,54455
+192,Hepatitis,,42056,41862
+192,Salmonella,,42795,42549
+192,Dengue,,14531,14409
+192,Tetanus,,19163,19044
+192,COVID-19,,557086,551800
+193,Lower Respiratory,,1320050,1313636
+193,Diarrhea,,879665,874512
+193,Tuberculosis,,628680,625705
+193,HIV/AIDS,,473009,470742
+193,Malaria,,375289,373685
+193,Typhoid,,75550,75345
+193,Whooping cough,,69390,69137
+193,Encephalitis(brain inflammation),,52501,52214
+193,STI(not including HIV),,59285,58986
+193,Measles,,55040,54914
+193,Hepatitis,,42281,42056
+193,Salmonella,,43061,42795
+193,Dengue,,14642,14531
+193,Tetanus,,19266,19163
+193,COVID-19,,561896,557086
+194,Lower Respiratory,,1326471,1320050
+194,Diarrhea,,884920,879665
+194,Tuberculosis,,631658,628680
+194,HIV/AIDS,,475695,473009
+194,Malaria,,376284,375289
+194,Typhoid,,76159,75550
+194,Whooping cough,,69832,69390
+194,Encephalitis(brain inflammation),,52829,52501
+194,STI(not including HIV),,59629,59285
+194,Measles,,55448,55040
+194,Hepatitis,,42496,42281
+194,Salmonella,,43237,43061
+194,Dengue,,14730,14642
+194,Tetanus,,19379,19266
+194,COVID-19,,565887,561896
+195,Lower Respiratory,,1333098,1326471
+195,Diarrhea,,888889,884920
+195,Tuberculosis,,634628,631658
+195,HIV/AIDS,,478423,475695
+195,Malaria,,377489,376284
+195,Typhoid,,76630,76159
+195,Whooping cough,,70256,69832
+195,Encephalitis(brain inflammation),,53082,52829
+195,STI(not including HIV),,59779,59629
+195,Measles,,55885,55448
+195,Hepatitis,,42718,42496
+195,Salmonella,,43497,43237
+195,Dengue,,14764,14730
+195,Tetanus,,19474,19379
+195,COVID-19,,569780,565887
+196,Lower Respiratory,,1339756,1333098
+196,Diarrhea,,893185,888889
+196,Tuberculosis,,638052,634628
+196,HIV/AIDS,,480897,478423
+196,Malaria,,379840,377489
+196,Typhoid,,77154,76630
+196,Whooping cough,,70594,70256
+196,Encephalitis(brain inflammation),,53299,53082
+196,STI(not including HIV),,60200,59779
+196,Measles,,56062,55885
+196,Hepatitis,,42921,42718
+196,Salmonella,,43732,43497
+196,Dengue,,14883,14764
+196,Tetanus,,19595,19474
+196,COVID-19,,575359,569780
+197,Lower Respiratory,,1346290,1339756
+197,Diarrhea,,896309,893185
+197,Tuberculosis,,641248,638052
+197,HIV/AIDS,,483546,480897
+197,Malaria,,381843,379840
+197,Typhoid,,77751,77154
+197,Whooping cough,,70849,70594
+197,Encephalitis(brain inflammation),,53588,53299
+197,STI(not including HIV),,60596,60200
+197,Measles,,56534,56062
+197,Hepatitis,,43117,42921
+197,Salmonella,,43892,43732
+197,Dengue,,14974,14883
+197,Tetanus,,19691,19595
+197,COVID-19,,580768,575359
+198,Lower Respiratory,,1353125,1346290
+198,Diarrhea,,899911,896309
+198,Tuberculosis,,644289,641248
+198,HIV/AIDS,,486048,483546
+198,Malaria,,383867,381843
+198,Typhoid,,78195,77751
+198,Whooping cough,,71175,70849
+198,Encephalitis(brain inflammation),,53856,53588
+198,STI(not including HIV),,60756,60596
+198,Measles,,56879,56534
+198,Hepatitis,,43367,43117
+198,Salmonella,,44144,43892
+198,Dengue,,15008,14974
+198,Tetanus,,19768,19691
+198,COVID-19,,586540,580768
+199,Lower Respiratory,,1359849,1353125
+199,Diarrhea,,903484,899911
+199,Tuberculosis,,647427,644289
+199,HIV/AIDS,,488434,486048
+199,Malaria,,386671,383867
+199,Typhoid,,78599,78195
+199,Whooping cough,,71516,71175
+199,Encephalitis(brain inflammation),,54136,53856
+199,STI(not including HIV),,61135,60756
+199,Measles,,57142,56879
+199,Hepatitis,,43560,43367
+199,Salmonella,,44377,44144
+199,Dengue,,15063,15008
+199,Tetanus,,19854,19768
+199,COVID-19,,593183,586540
+200,Lower Respiratory,,1366460,1359849
+200,Diarrhea,,908009,903484
+200,Tuberculosis,,650657,647427
+200,HIV/AIDS,,490680,488434
+200,Malaria,,387700,386671
+200,Typhoid,,79117,78599
+200,Whooping cough,,71705,71516
+200,Encephalitis(brain inflammation),,54430,54136
+200,STI(not including HIV),,61335,61135
+200,Measles,,57398,57142
+200,Hepatitis,,43768,43560
+200,Salmonella,,44699,44377
+200,Dengue,,15151,15063
+200,Tetanus,,19955,19854
+200,COVID-19,,598802,593183
+201,Lower Respiratory,,1373390,1366460
+201,Diarrhea,,911534,908009
+201,Tuberculosis,,654039,650657
+201,HIV/AIDS,,493081,490680
+201,Malaria,,389168,387700
+201,Typhoid,,79601,79117
+201,Whooping cough,,71980,71705
+201,Encephalitis(brain inflammation),,54701,54430
+201,STI(not including HIV),,61578,61335
+201,Measles,,57884,57398
+201,Hepatitis,,44004,43768
+201,Salmonella,,44975,44699
+201,Dengue,,15240,15151
+201,Tetanus,,20079,19955
+201,COVID-19,,602877,598802
+202,Lower Respiratory,,1380232,1373390
+202,Diarrhea,,917097,911534
+202,Tuberculosis,,657367,654039
+202,HIV/AIDS,,495793,493081
+202,Malaria,,390071,389168
+202,Typhoid,,79954,79601
+202,Whooping cough,,72395,71980
+202,Encephalitis(brain inflammation),,54923,54701
+202,STI(not including HIV),,61753,61578
+202,Measles,,58217,57884
+202,Hepatitis,,44199,44004
+202,Salmonella,,45311,44975
+202,Dengue,,15349,15240
+202,Tetanus,,20175,20079
+202,COVID-19,,607074,602877
+203,Lower Respiratory,,1387485,1380232
+203,Diarrhea,,922821,917097
+203,Tuberculosis,,660558,657367
+203,HIV/AIDS,,498299,495793
+203,Malaria,,392636,390071
+203,Typhoid,,80317,79954
+203,Whooping cough,,72561,72395
+203,Encephalitis(brain inflammation),,55251,54923
+203,STI(not including HIV),,62062,61753
+203,Measles,,58537,58217
+203,Hepatitis,,44456,44199
+203,Salmonella,,45437,45311
+203,Dengue,,15468,15349
+203,Tetanus,,20281,20175
+203,COVID-19,,613243,607074
+204,Lower Respiratory,,1394739,1387485
+204,Diarrhea,,926465,922821
+204,Tuberculosis,,663708,660558
+204,HIV/AIDS,,500525,498299
+204,Malaria,,395359,392636
+204,Typhoid,,80581,80317
+204,Whooping cough,,72819,72561
+204,Encephalitis(brain inflammation),,55479,55251
+204,STI(not including HIV),,62508,62062
+204,Measles,,58691,58537
+204,Hepatitis,,44671,44456
+204,Salmonella,,45688,45437
+204,Dengue,,15547,15468
+204,Tetanus,,20355,20281
+204,COVID-19,,620161,613243
+205,Lower Respiratory,,1401206,1394739
+205,Diarrhea,,929568,926465
+205,Tuberculosis,,667053,663708
+205,HIV/AIDS,,502955,500525
+205,Malaria,,396999,395359
+205,Typhoid,,81205,80581
+205,Whooping cough,,73077,72819
+205,Encephalitis(brain inflammation),,55751,55479
+205,STI(not including HIV),,62916,62508
+205,Measles,,58961,58691
+205,Hepatitis,,44893,44671
+205,Salmonella,,45936,45688
+205,Dengue,,15587,15547
+205,Tetanus,,20484,20355
+205,COVID-19,,630062,620161
+206,Lower Respiratory,,1407755,1401206
+206,Diarrhea,,932740,929568
+206,Tuberculosis,,670472,667053
+206,HIV/AIDS,,505498,502955
+206,Malaria,,399560,396999
+206,Typhoid,,81488,81205
+206,Whooping cough,,73407,73077
+206,Encephalitis(brain inflammation),,56072,55751
+206,STI(not including HIV),,63093,62916
+206,Measles,,59186,58961
+206,Hepatitis,,45138,44893
+206,Salmonella,,46178,45936
+206,Dengue,,15650,15587
+206,Tetanus,,20588,20484
+206,COVID-19,,636115,630062
+207,Lower Respiratory,,1414100,1407755
+207,Diarrhea,,937935,932740
+207,Tuberculosis,,673874,670472
+207,HIV/AIDS,,507668,505498
+207,Malaria,,401170,399560
+207,Typhoid,,82008,81488
+207,Whooping cough,,73651,73407
+207,Encephalitis(brain inflammation),,56356,56072
+207,STI(not including HIV),,63513,63093
+207,Measles,,59600,59186
+207,Hepatitis,,45325,45138
+207,Salmonella,,46363,46178
+207,Dengue,,15688,15650
+207,Tetanus,,20694,20588
+207,COVID-19,,641645,636115
+208,Lower Respiratory,,1420682,1414100
+208,Diarrhea,,943059,937935
+208,Tuberculosis,,677368,673874
+208,HIV/AIDS,,510055,507668
+208,Malaria,,402338,401170
+208,Typhoid,,82290,82008
+208,Whooping cough,,73877,73651
+208,Encephalitis(brain inflammation),,56584,56356
+208,STI(not including HIV),,63745,63513
+208,Measles,,59972,59600
+208,Hepatitis,,45558,45325
+208,Salmonella,,46565,46363
+208,Dengue,,15762,15688
+208,Tetanus,,20805,20694
+208,COVID-19,,645339,641645
+209,Lower Respiratory,,1427191,1420682
+209,Diarrhea,,948511,943059
+209,Tuberculosis,,680782,677368
+209,HIV/AIDS,,512619,510055
+209,Malaria,,403194,402338
+209,Typhoid,,82739,82290
+209,Whooping cough,,74356,73877
+209,Encephalitis(brain inflammation),,56856,56584
+209,STI(not including HIV),,63961,63745
+209,Measles,,60072,59972
+209,Hepatitis,,45782,45558
+209,Salmonella,,46889,46565
+209,Dengue,,15878,15762
+209,Tetanus,,20886,20805
+209,COVID-19,,650519,645339
+210,Lower Respiratory,,1433541,1427191
+210,Diarrhea,,953543,948511
+210,Tuberculosis,,683763,680782
+210,HIV/AIDS,,515249,512619
+210,Malaria,,404716,403194
+210,Typhoid,,83297,82739
+210,Whooping cough,,74668,74356
+210,Encephalitis(brain inflammation),,57187,56856
+210,STI(not including HIV),,64195,63961
+210,Measles,,60252,60072
+210,Hepatitis,,46030,45782
+210,Salmonella,,47060,46889
+210,Dengue,,15964,15878
+210,Tetanus,,21016,20886
+210,COVID-19,,656806,650519
+211,Lower Respiratory,,1440721,1433541
+211,Diarrhea,,958544,953543
+211,Tuberculosis,,687000,683763
+211,HIV/AIDS,,517892,515249
+211,Malaria,,406051,404716
+211,Typhoid,,83533,83297
+211,Whooping cough,,75018,74668
+211,Encephalitis(brain inflammation),,57480,57187
+211,STI(not including HIV),,64431,64195
+211,Measles,,60489,60252
+211,Hepatitis,,46240,46030
+211,Salmonella,,47182,47060
+211,Dengue,,16049,15964
+211,Tetanus,,21128,21016
+211,COVID-19,,663393,656806
+212,Lower Respiratory,,1448175,1440721
+212,Diarrhea,,963623,958544
+212,Tuberculosis,,690081,687000
+212,HIV/AIDS,,520594,517892
+212,Malaria,,407713,406051
+212,Typhoid,,83755,83533
+212,Whooping cough,,75331,75018
+212,Encephalitis(brain inflammation),,57807,57480
+212,STI(not including HIV),,64570,64431
+212,Measles,,60764,60489
+212,Hepatitis,,46454,46240
+212,Salmonella,,47479,47182
+212,Dengue,,16090,16049
+212,Tetanus,,21202,21128
+212,COVID-19,,669427,663393
+213,Lower Respiratory,,1454504,1448175
+213,Diarrhea,,968807,963623
+213,Tuberculosis,,693434,690081
+213,HIV/AIDS,,523171,520594
+213,Malaria,,409585,407713
+213,Typhoid,,84156,83755
+213,Whooping cough,,75866,75331
+213,Encephalitis(brain inflammation),,58142,57807
+213,STI(not including HIV),,64809,64570
+213,Measles,,61028,60764
+213,Hepatitis,,46658,46454
+213,Salmonella,,47678,47479
+213,Dengue,,16176,16090
+213,Tetanus,,21287,21202
+213,COVID-19,,675634,669427
+214,Lower Respiratory,,1462016,1454504
+214,Diarrhea,,973135,968807
+214,Tuberculosis,,696986,693434
+214,HIV/AIDS,,525898,523171
+214,Malaria,,410953,409585
+214,Typhoid,,84695,84156
+214,Whooping cough,,76171,75866
+214,Encephalitis(brain inflammation),,58352,58142
+214,STI(not including HIV),,65009,64809
+214,Measles,,61191,61028
+214,Hepatitis,,46862,46658
+214,Salmonella,,47842,47678
+214,Dengue,,16291,16176
+214,Tetanus,,21404,21287
+214,COVID-19,,681100,675634
+215,Lower Respiratory,,1468813,1462016
+215,Diarrhea,,978323,973135
+215,Tuberculosis,,700262,696986
+215,HIV/AIDS,,528267,525898
+215,Malaria,,412764,410953
+215,Typhoid,,85290,84695
+215,Whooping cough,,76424,76171
+215,Encephalitis(brain inflammation),,58662,58352
+215,STI(not including HIV),,65370,65009
+215,Measles,,61558,61191
+215,Hepatitis,,47124,46862
+215,Salmonella,,48151,47842
+215,Dengue,,16317,16291
+215,Tetanus,,21524,21404
+215,COVID-19,,685412,681100
+216,Lower Respiratory,,1475065,1468813
+216,Diarrhea,,983881,978323
+216,Tuberculosis,,703745,700262
+216,HIV/AIDS,,530588,528267
+216,Malaria,,414976,412764
+216,Typhoid,,85471,85290
+216,Whooping cough,,76785,76424
+216,Encephalitis(brain inflammation),,58977,58662
+216,STI(not including HIV),,65604,65370
+216,Measles,,61684,61558
+216,Hepatitis,,47386,47124
+216,Salmonella,,48386,48151
+216,Dengue,,16404,16317
+216,Tetanus,,21607,21524
+216,COVID-19,,690075,685412
+217,Lower Respiratory,,1482513,1475065
+217,Diarrhea,,988079,983881
+217,Tuberculosis,,707143,703745
+217,HIV/AIDS,,532944,530588
+217,Malaria,,416297,414976
+217,Typhoid,,86094,85471
+217,Whooping cough,,77153,76785
+217,Encephalitis(brain inflammation),,59292,58977
+217,STI(not including HIV),,66065,65604
+217,Measles,,61773,61684
+217,Hepatitis,,47606,47386
+217,Salmonella,,48669,48386
+217,Dengue,,16478,16404
+217,Tetanus,,21728,21607
+217,COVID-19,,696677,690075
+218,Lower Respiratory,,1489656,1482513
+218,Diarrhea,,993902,988079
+218,Tuberculosis,,710132,707143
+218,HIV/AIDS,,535290,532944
+218,Malaria,,418386,416297
+218,Typhoid,,86658,86094
+218,Whooping cough,,77561,77153
+218,Encephalitis(brain inflammation),,59524,59292
+218,STI(not including HIV),,66526,66065
+218,Measles,,62010,61773
+218,Hepatitis,,47831,47606
+218,Salmonella,,48859,48669
+218,Dengue,,16563,16478
+218,Tetanus,,21849,21728
+218,COVID-19,,703683,696677
+219,Lower Respiratory,,1496530,1489656
+219,Diarrhea,,998269,993902
+219,Tuberculosis,,713492,710132
+219,HIV/AIDS,,537716,535290
+219,Malaria,,421316,418386
+219,Typhoid,,87238,86658
+219,Whooping cough,,78028,77561
+219,Encephalitis(brain inflammation),,59743,59524
+219,STI(not including HIV),,66701,66526
+219,Measles,,62290,62010
+219,Hepatitis,,48040,47831
+219,Salmonella,,49123,48859
+219,Dengue,,16669,16563
+219,Tetanus,,21922,21849
+219,COVID-19,,710145,703683
+220,Lower Respiratory,,1503642,1496530
+220,Diarrhea,,1003010,998269
+220,Tuberculosis,,716840,713492
+220,HIV/AIDS,,540244,537716
+220,Malaria,,423482,421316
+220,Typhoid,,87670,87238
+220,Whooping cough,,78383,78028
+220,Encephalitis(brain inflammation),,59962,59743
+220,STI(not including HIV),,67067,66701
+220,Measles,,62454,62290
+220,Hepatitis,,48241,48040
+220,Salmonella,,49448,49123
+220,Dengue,,16694,16669
+220,Tetanus,,22035,21922
+220,COVID-19,,716440,710145
+221,Lower Respiratory,,1510606,1503642
+221,Diarrhea,,1008182,1003010
+221,Tuberculosis,,720346,716840
+221,HIV/AIDS,,542806,540244
+221,Malaria,,425481,423482
+221,Typhoid,,88160,87670
+221,Whooping cough,,78678,78383
+221,Encephalitis(brain inflammation),,60272,59962
+221,STI(not including HIV),,67276,67067
+221,Measles,,62844,62454
+221,Hepatitis,,48484,48241
+221,Salmonella,,49756,49448
+221,Dengue,,16778,16694
+221,Tetanus,,22129,22035
+221,COVID-19,,721870,716440
+222,Lower Respiratory,,1517116,1510606
+222,Diarrhea,,1013157,1008182
+222,Tuberculosis,,723836,720346
+222,HIV/AIDS,,545393,542806
+222,Malaria,,428377,425481
+222,Typhoid,,88645,88160
+222,Whooping cough,,79082,78678
+222,Encephalitis(brain inflammation),,60567,60272
+222,STI(not including HIV),,67395,67276
+222,Measles,,63096,62844
+222,Hepatitis,,48721,48484
+222,Salmonella,,50003,49756
+222,Dengue,,16819,16778
+222,Tetanus,,22216,22129
+222,COVID-19,,726447,721870
+223,Lower Respiratory,,1524451,1517116
+223,Diarrhea,,1017224,1013157
+223,Tuberculosis,,727252,723836
+223,HIV/AIDS,,547994,545393
+223,Malaria,,430824,428377
+223,Typhoid,,89215,88645
+223,Whooping cough,,79552,79082
+223,Encephalitis(brain inflammation),,60901,60567
+223,STI(not including HIV),,67722,67395
+223,Measles,,63244,63096
+223,Hepatitis,,48935,48721
+223,Salmonella,,50151,50003
+223,Dengue,,16849,16819
+223,Tetanus,,22297,22216
+223,COVID-19,,731706,726447
+224,Lower Respiratory,,1531145,1524451
+224,Diarrhea,,1021673,1017224
+224,Tuberculosis,,730714,727252
+224,HIV/AIDS,,550524,547994
+224,Malaria,,432891,430824
+224,Typhoid,,89707,89215
+224,Whooping cough,,79784,79552
+224,Encephalitis(brain inflammation),,61231,60901
+224,STI(not including HIV),,67875,67722
+224,Measles,,63486,63244
+224,Hepatitis,,49177,48935
+224,Salmonella,,50369,50151
+224,Dengue,,16943,16849
+224,Tetanus,,22390,22297
+224,COVID-19,,737916,731706
+225,Lower Respiratory,,1538096,1531145
+225,Diarrhea,,1026995,1021673
+225,Tuberculosis,,733707,730714
+225,HIV/AIDS,,552789,550524
+225,Malaria,,435129,432891
+225,Typhoid,,89934,89707
+225,Whooping cough,,80128,79784
+225,Encephalitis(brain inflammation),,61495,61231
+225,STI(not including HIV),,68292,67875
+225,Measles,,63953,63486
+225,Hepatitis,,49408,49177
+225,Salmonella,,50593,50369
+225,Dengue,,17024,16943
+225,Tetanus,,22508,22390
+225,COVID-19,,744515,737916
+226,Lower Respiratory,,1544584,1538096
+226,Diarrhea,,1031667,1026995
+226,Tuberculosis,,737043,733707
+226,HIV/AIDS,,555520,552789
+226,Malaria,,437433,435129
+226,Typhoid,,90343,89934
+226,Whooping cough,,80552,80128
+226,Encephalitis(brain inflammation),,61767,61495
+226,STI(not including HIV),,68412,68292
+226,Measles,,64149,63953
+226,Hepatitis,,49651,49408
+226,Salmonella,,50722,50593
+226,Dengue,,17071,17024
+226,Tetanus,,22636,22508
+226,COVID-19,,750724,744515
+227,Lower Respiratory,,1551246,1544584
+227,Diarrhea,,1034788,1031667
+227,Tuberculosis,,740277,737043
+227,HIV/AIDS,,557794,555520
+227,Malaria,,439990,437433
+227,Typhoid,,90753,90343
+227,Whooping cough,,80961,80552
+227,Encephalitis(brain inflammation),,62010,61767
+227,STI(not including HIV),,68695,68412
+227,Measles,,64379,64149
+227,Hepatitis,,49908,49651
+227,Salmonella,,50852,50722
+227,Dengue,,17175,17071
+227,Tetanus,,22743,22636
+227,COVID-19,,760852,750724
+228,Lower Respiratory,,1557559,1551246
+228,Diarrhea,,1038245,1034788
+228,Tuberculosis,,743441,740277
+228,HIV/AIDS,,560467,557794
+228,Malaria,,443087,439990
+228,Typhoid,,90980,90753
+228,Whooping cough,,81411,80961
+228,Encephalitis(brain inflammation),,62304,62010
+228,STI(not including HIV),,69027,68695
+228,Measles,,64471,64379
+228,Hepatitis,,50152,49908
+228,Salmonella,,51140,50852
+228,Dengue,,17228,17175
+228,Tetanus,,22831,22743
+228,COVID-19,,766240,760852
+229,Lower Respiratory,,1563897,1557559
+229,Diarrhea,,1041735,1038245
+229,Tuberculosis,,746752,743441
+229,HIV/AIDS,,562976,560467
+229,Malaria,,444730,443087
+229,Typhoid,,91387,90980
+229,Whooping cough,,81841,81411
+229,Encephalitis(brain inflammation),,62597,62304
+229,STI(not including HIV),,69187,69027
+229,Measles,,64570,64471
+229,Hepatitis,,50395,50152
+229,Salmonella,,51314,51140
+229,Dengue,,17325,17228
+229,Tetanus,,22952,22831
+229,COVID-19,,770458,766240
+230,Lower Respiratory,,1570372,1563897
+230,Diarrhea,,1046318,1041735
+230,Tuberculosis,,750285,746752
+230,HIV/AIDS,,565661,562976
+230,Malaria,,446122,444730
+230,Typhoid,,91748,91387
+230,Whooping cough,,82145,81841
+230,Encephalitis(brain inflammation),,62931,62597
+230,STI(not including HIV),,69326,69187
+230,Measles,,64678,64570
+230,Hepatitis,,50633,50395
+230,Salmonella,,51455,51314
+230,Dengue,,17392,17325
+230,Tetanus,,23077,22952
+230,COVID-19,,774602,770458
+231,Lower Respiratory,,1577763,1570372
+231,Diarrhea,,1050610,1046318
+231,Tuberculosis,,753308,750285
+231,HIV/AIDS,,568374,565661
+231,Malaria,,448733,446122
+231,Typhoid,,92091,91748
+231,Whooping cough,,82325,82145
+231,Encephalitis(brain inflammation),,63183,62931
+231,STI(not including HIV),,69592,69326
+231,Measles,,64914,64678
+231,Hepatitis,,50857,50633
+231,Salmonella,,51668,51455
+231,Dengue,,17490,17392
+231,Tetanus,,23165,23077
+231,COVID-19,,781489,774602
+232,Lower Respiratory,,1585135,1577763
+232,Diarrhea,,1055151,1050610
+232,Tuberculosis,,756419,753308
+232,HIV/AIDS,,570621,568374
+232,Malaria,,450101,448733
+232,Typhoid,,92439,92091
+232,Whooping cough,,82815,82325
+232,Encephalitis(brain inflammation),,63400,63183
+232,STI(not including HIV),,69835,69592
+232,Measles,,65303,64914
+232,Hepatitis,,51092,50857
+232,Salmonella,,51971,51668
+232,Dengue,,17610,17490
+232,Tetanus,,23243,23165
+232,COVID-19,,788193,781489
+233,Lower Respiratory,,1592537,1585135
+233,Diarrhea,,1060611,1055151
+233,Tuberculosis,,759415,756419
+233,HIV/AIDS,,572953,570621
+233,Malaria,,453075,450101
+233,Typhoid,,92671,92439
+233,Whooping cough,,83068,82815
+233,Encephalitis(brain inflammation),,63713,63400
+233,STI(not including HIV),,70165,69835
+233,Measles,,65661,65303
+233,Hepatitis,,51337,51092
+233,Salmonella,,52209,51971
+233,Dengue,,17687,17610
+233,Tetanus,,23335,23243
+233,COVID-19,,794239,788193
+234,Lower Respiratory,,1599739,1592537
+234,Diarrhea,,1064433,1060611
+234,Tuberculosis,,762604,759415
+234,HIV/AIDS,,575422,572953
+234,Malaria,,454009,453075
+234,Typhoid,,92949,92671
+234,Whooping cough,,83413,83068
+234,Encephalitis(brain inflammation),,64023,63713
+234,STI(not including HIV),,70584,70165
+234,Measles,,66053,65661
+234,Hepatitis,,51573,51337
+234,Salmonella,,52433,52209
+234,Dengue,,17757,17687
+234,Tetanus,,23409,23335
+234,COVID-19,,799675,794239
+235,Lower Respiratory,,1606913,1599739
+235,Diarrhea,,1068879,1064433
+235,Tuberculosis,,765985,762604
+235,HIV/AIDS,,577624,575422
+235,Malaria,,455243,454009
+235,Typhoid,,93259,92949
+235,Whooping cough,,83947,83413
+235,Encephalitis(brain inflammation),,64343,64023
+235,STI(not including HIV),,70714,70584
+235,Measles,,66345,66053
+235,Hepatitis,,51824,51573
+235,Salmonella,,52672,52433
+235,Dengue,,17807,17757
+235,Tetanus,,23486,23409
+235,COVID-19,,805248,799675
+236,Lower Respiratory,,1614182,1606913
+236,Diarrhea,,1073530,1068879
+236,Tuberculosis,,769222,765985
+236,HIV/AIDS,,580327,577624
+236,Malaria,,458393,455243
+236,Typhoid,,93594,93259
+236,Whooping cough,,84272,83947
+236,Encephalitis(brain inflammation),,64641,64343
+236,STI(not including HIV),,70883,70714
+236,Measles,,66583,66345
+236,Hepatitis,,52033,51824
+236,Salmonella,,52845,52672
+236,Dengue,,17863,17807
+236,Tetanus,,23614,23486
+236,COVID-19,,809114,805248
+237,Lower Respiratory,,1621074,1614182
+237,Diarrhea,,1079617,1073530
+237,Tuberculosis,,772475,769222
+237,HIV/AIDS,,582975,580327
+237,Malaria,,461465,458393
+237,Typhoid,,93913,93594
+237,Whooping cough,,84741,84272
+237,Encephalitis(brain inflammation),,64967,64641
+237,STI(not including HIV),,71346,70883
+237,Measles,,66757,66583
+237,Hepatitis,,52238,52033
+237,Salmonella,,52992,52845
+237,Dengue,,17956,17863
+237,Tetanus,,23699,23614
+237,COVID-19,,813597,809114
+238,Lower Respiratory,,1627972,1621074
+238,Diarrhea,,1083914,1079617
+238,Tuberculosis,,775530,772475
+238,HIV/AIDS,,585160,582975
+238,Malaria,,462655,461465
+238,Typhoid,,94499,93913
+238,Whooping cough,,85025,84741
+238,Encephalitis(brain inflammation),,65192,64967
+238,STI(not including HIV),,71482,71346
+238,Measles,,66879,66757
+238,Hepatitis,,52480,52238
+238,Salmonella,,53246,52992
+238,Dengue,,17982,17956
+238,Tetanus,,23778,23699
+238,COVID-19,,819861,813597
+239,Lower Respiratory,,1635371,1627972
+239,Diarrhea,,1088021,1083914
+239,Tuberculosis,,778759,775530
+239,HIV/AIDS,,587346,585160
+239,Malaria,,464541,462655
+239,Typhoid,,94768,94499
+239,Whooping cough,,85258,85025
+239,Encephalitis(brain inflammation),,65522,65192
+239,STI(not including HIV),,71600,71482
+239,Measles,,67213,66879
+239,Hepatitis,,52662,52480
+239,Salmonella,,53528,53246
+239,Dengue,,18063,17982
+239,Tetanus,,23897,23778
+239,COVID-19,,826152,819861
+240,Lower Respiratory,,1641975,1635371
+240,Diarrhea,,1091223,1088021
+240,Tuberculosis,,782283,778759
+240,HIV/AIDS,,589661,587346
+240,Malaria,,466301,464541
+240,Typhoid,,95340,94768
+240,Whooping cough,,85460,85258
+240,Encephalitis(brain inflammation),,65773,65522
+240,STI(not including HIV),,71727,71600
+240,Measles,,67705,67213
+240,Hepatitis,,52894,52662
+240,Salmonella,,53818,53528
+240,Dengue,,18174,18063
+240,Tetanus,,23987,23897
+240,COVID-19,,832035,826152
+241,Lower Respiratory,,1648660,1641975
+241,Diarrhea,,1096633,1091223
+241,Tuberculosis,,785803,782283
+241,HIV/AIDS,,592156,589661
+241,Malaria,,468470,466301
+241,Typhoid,,95522,95340
+241,Whooping cough,,85926,85460
+241,Encephalitis(brain inflammation),,66096,65773
+241,STI(not including HIV),,72074,71727
+241,Measles,,67946,67705
+241,Hepatitis,,53087,52894
+241,Salmonella,,53965,53818
+241,Dengue,,18237,18174
+241,Tetanus,,24118,23987
+241,COVID-19,,837541,832035
+242,Lower Respiratory,,1655031,1648660
+242,Diarrhea,,1100474,1096633
+242,Tuberculosis,,789122,785803
+242,HIV/AIDS,,594537,592156
+242,Malaria,,471162,468470
+242,Typhoid,,96008,95522
+242,Whooping cough,,86278,85926
+242,Encephalitis(brain inflammation),,66426,66096
+242,STI(not including HIV),,72252,72074
+242,Measles,,68397,67946
+242,Hepatitis,,53308,53087
+242,Salmonella,,54296,53965
+242,Dengue,,18287,18237
+242,Tetanus,,24248,24118
+242,COVID-19,,842810,837541
+243,Lower Respiratory,,1662153,1655031
+243,Diarrhea,,1105039,1100474
+243,Tuberculosis,,792357,789122
+243,HIV/AIDS,,596904,594537
+243,Malaria,,472293,471162
+243,Typhoid,,96554,96008
+243,Whooping cough,,86719,86278
+243,Encephalitis(brain inflammation),,66728,66426
+243,STI(not including HIV),,72530,72252
+243,Measles,,68631,68397
+243,Hepatitis,,53503,53308
+243,Salmonella,,54556,54296
+243,Dengue,,18379,18287
+243,Tetanus,,24371,24248
+243,COVID-19,,846844,842810
+244,Lower Respiratory,,1668754,1662153
+244,Diarrhea,,1111051,1105039
+244,Tuberculosis,,795599,792357
+244,HIV/AIDS,,599135,596904
+244,Malaria,,474597,472293
+244,Typhoid,,97102,96554
+244,Whooping cough,,86987,86719
+244,Encephalitis(brain inflammation),,66980,66728
+244,STI(not including HIV),,72670,72530
+244,Measles,,68816,68631
+244,Hepatitis,,53706,53503
+244,Salmonella,,54813,54556
+244,Dengue,,18428,18379
+244,Tetanus,,24468,24371
+244,COVID-19,,851062,846844
+245,Lower Respiratory,,1676063,1668754
+245,Diarrhea,,1115727,1111051
+245,Tuberculosis,,799004,795599
+245,HIV/AIDS,,601588,599135
+245,Malaria,,476674,474597
+245,Typhoid,,97508,97102
+245,Whooping cough,,87433,86987
+245,Encephalitis(brain inflammation),,67196,66980
+245,STI(not including HIV),,73112,72670
+245,Measles,,69270,68816
+245,Hepatitis,,53906,53706
+245,Salmonella,,54964,54813
+245,Dengue,,18537,18428
+245,Tetanus,,24590,24468
+245,COVID-19,,857499,851062
+246,Lower Respiratory,,1683058,1676063
+246,Diarrhea,,1120453,1115727
+246,Tuberculosis,,802509,799004
+246,HIV/AIDS,,604067,601588
+246,Malaria,,479478,476674
+246,Typhoid,,97938,97508
+246,Whooping cough,,87911,87433
+246,Encephalitis(brain inflammation),,67511,67196
+246,STI(not including HIV),,73341,73112
+246,Measles,,69645,69270
+246,Hepatitis,,54093,53906
+246,Salmonella,,55098,54964
+246,Dengue,,18629,18537
+246,Tetanus,,24703,24590
+246,COVID-19,,863577,857499
+247,Lower Respiratory,,1690198,1683058
+247,Diarrhea,,1124900,1120453
+247,Tuberculosis,,805809,802509
+247,HIV/AIDS,,606788,604067
+247,Malaria,,480620,479478
+247,Typhoid,,98530,97938
+247,Whooping cough,,88208,87911
+247,Encephalitis(brain inflammation),,67846,67511
+247,STI(not including HIV),,73749,73341
+247,Measles,,69953,69645
+247,Hepatitis,,54341,54093
+247,Salmonella,,55380,55098
+247,Dengue,,18703,18629
+247,Tetanus,,24788,24703
+247,COVID-19,,869282,863577
+248,Lower Respiratory,,1696643,1690198
+248,Diarrhea,,1130597,1124900
+248,Tuberculosis,,808882,805809
+248,HIV/AIDS,,609220,606788
+248,Malaria,,482001,480620
+248,Typhoid,,99022,98530
+248,Whooping cough,,88694,88208
+248,Encephalitis(brain inflammation),,68172,67846
+248,STI(not including HIV),,74122,73749
+248,Measles,,70056,69953
+248,Hepatitis,,54538,54341
+248,Salmonella,,55686,55380
+248,Dengue,,18729,18703
+248,Tetanus,,24873,24788
+248,COVID-19,,875156,869282
+249,Lower Respiratory,,1703838,1696643
+249,Diarrhea,,1134034,1130597
+249,Tuberculosis,,812207,808882
+249,HIV/AIDS,,611778,609220
+249,Malaria,,482899,482001
+249,Typhoid,,99483,99022
+249,Whooping cough,,88881,88694
+249,Encephalitis(brain inflammation),,68485,68172
+249,STI(not including HIV),,74439,74122
+249,Measles,,70460,70056
+249,Hepatitis,,54736,54538
+249,Salmonella,,55886,55686
+249,Dengue,,18776,18729
+249,Tetanus,,24981,24873
+249,COVID-19,,880106,875156
+250,Lower Respiratory,,1710898,1703838
+250,Diarrhea,,1139939,1134034
+250,Tuberculosis,,815653,812207
+250,HIV/AIDS,,614395,611778
+250,Malaria,,483777,482899
+250,Typhoid,,100035,99483
+250,Whooping cough,,89275,88881
+250,Encephalitis(brain inflammation),,68782,68485
+250,STI(not including HIV),,74847,74439
+250,Measles,,70553,70460
+250,Hepatitis,,54966,54736
+250,Salmonella,,56161,55886
+250,Dengue,,18886,18776
+250,Tetanus,,25071,24981
+250,COVID-19,,883895,880106
+251,Lower Respiratory,,1718404,1710898
+251,Diarrhea,,1145259,1139939
+251,Tuberculosis,,819139,815653
+251,HIV/AIDS,,617063,614395
+251,Malaria,,486676,483777
+251,Typhoid,,100330,100035
+251,Whooping cough,,89703,89275
+251,Encephalitis(brain inflammation),,69051,68782
+251,STI(not including HIV),,75280,74847
+251,Measles,,70671,70553
+251,Hepatitis,,55210,54966
+251,Salmonella,,56384,56161
+251,Dengue,,18941,18886
+251,Tetanus,,25200,25071
+251,COVID-19,,893253,883895
+252,Lower Respiratory,,1725097,1718404
+252,Diarrhea,,1148744,1145259
+252,Tuberculosis,,822450,819139
+252,HIV/AIDS,,619629,617063
+252,Malaria,,488598,486676
+252,Typhoid,,100902,100330
+252,Whooping cough,,90220,89703
+252,Encephalitis(brain inflammation),,69377,69051
+252,STI(not including HIV),,75502,75280
+252,Measles,,71012,70671
+252,Hepatitis,,55425,55210
+252,Salmonella,,56513,56384
+252,Dengue,,19031,18941
+252,Tetanus,,25308,25200
+252,COVID-19,,898164,893253
+253,Lower Respiratory,,1731462,1725097
+253,Diarrhea,,1154694,1148744
+253,Tuberculosis,,825529,822450
+253,HIV/AIDS,,621901,619629
+253,Malaria,,491773,488598
+253,Typhoid,,101249,100902
+253,Whooping cough,,90493,90220
+253,Encephalitis(brain inflammation),,69654,69377
+253,STI(not including HIV),,75903,75502
+253,Measles,,71388,71012
+253,Hepatitis,,55620,55425
+253,Salmonella,,56694,56513
+253,Dengue,,19146,19031
+253,Tetanus,,25383,25308
+253,COVID-19,,904263,898164
+254,Lower Respiratory,,1738065,1731462
+254,Diarrhea,,1159485,1154694
+254,Tuberculosis,,829018,825529
+254,HIV/AIDS,,624066,621901
+254,Malaria,,492951,491773
+254,Typhoid,,101750,101249
+254,Whooping cough,,90877,90493
+254,Encephalitis(brain inflammation),,69875,69654
+254,STI(not including HIV),,76231,75903
+254,Measles,,71881,71388
+254,Hepatitis,,55880,55620
+254,Salmonella,,57018,56694
+254,Dengue,,19182,19146
+254,Tetanus,,25466,25383
+254,COVID-19,,910065,904263
+255,Lower Respiratory,,1745522,1738065
+255,Diarrhea,,1164533,1159485
+255,Tuberculosis,,832465,829018
+255,HIV/AIDS,,626512,624066
+255,Malaria,,494128,492951
+255,Typhoid,,102322,101750
+255,Whooping cough,,91202,90877
+255,Encephalitis(brain inflammation),,70097,69875
+255,STI(not including HIV),,76349,76231
+255,Measles,,72027,71881
+255,Hepatitis,,56083,55880
+255,Salmonella,,57303,57018
+255,Dengue,,19246,19182
+255,Tetanus,,25592,25466
+255,COVID-19,,915946,910065
+256,Lower Respiratory,,1752512,1745522
+256,Diarrhea,,1168740,1164533
+256,Tuberculosis,,835487,832465
+256,HIV/AIDS,,628904,626512
+256,Malaria,,495806,494128
+256,Typhoid,,102810,102322
+256,Whooping cough,,91691,91202
+256,Encephalitis(brain inflammation),,70317,70097
+256,STI(not including HIV),,76751,76349
+256,Measles,,72292,72027
+256,Hepatitis,,56331,56083
+256,Salmonella,,57477,57303
+256,Dengue,,19277,19246
+256,Tetanus,,25708,25592
+256,COVID-19,,920846,915946
+257,Lower Respiratory,,1759453,1752512
+257,Diarrhea,,1174262,1168740
+257,Tuberculosis,,838592,835487
+257,HIV/AIDS,,631573,628904
+257,Malaria,,497510,495806
+257,Typhoid,,103190,102810
+257,Whooping cough,,92012,91691
+257,Encephalitis(brain inflammation),,70621,70317
+257,STI(not including HIV),,76956,76751
+257,Measles,,72664,72292
+257,Hepatitis,,56538,56331
+257,Salmonella,,57618,57477
+257,Dengue,,19385,19277
+257,Tetanus,,25834,25708
+257,COVID-19,,924517,920846
+258,Lower Respiratory,,1766686,1759453
+258,Diarrhea,,1178699,1174262
+258,Tuberculosis,,841619,838592
+258,HIV/AIDS,,633767,631573
+258,Malaria,,499875,497510
+258,Typhoid,,103405,103190
+258,Whooping cough,,92549,92012
+258,Encephalitis(brain inflammation),,70868,70621
+258,STI(not including HIV),,77227,76956
+258,Measles,,72854,72664
+258,Hepatitis,,56768,56538
+258,Salmonella,,57782,57618
+258,Dengue,,19428,19385
+258,Tetanus,,25952,25834
+258,COVID-19,,928933,924517
+259,Lower Respiratory,,1773497,1766686
+259,Diarrhea,,1184522,1178699
+259,Tuberculosis,,845028,841619
+259,HIV/AIDS,,636020,633767
+259,Malaria,,500992,499875
+259,Typhoid,,103765,103405
+259,Whooping cough,,92932,92549
+259,Encephalitis(brain inflammation),,71138,70868
+259,STI(not including HIV),,77475,77227
+259,Measles,,73022,72854
+259,Hepatitis,,56979,56768
+259,Salmonella,,58030,57782
+259,Dengue,,19528,19428
+259,Tetanus,,26035,25952
+259,COVID-19,,935455,928933
+260,Lower Respiratory,,1780191,1773497
+260,Diarrhea,,1188578,1184522
+260,Tuberculosis,,848000,845028
+260,HIV/AIDS,,638318,636020
+260,Malaria,,502455,500992
+260,Typhoid,,103976,103765
+260,Whooping cough,,93374,92932
+260,Encephalitis(brain inflammation),,71384,71138
+260,STI(not including HIV),,77752,77475
+260,Measles,,73445,73022
+260,Hepatitis,,57241,56979
+260,Salmonella,,58248,58030
+260,Dengue,,19600,19528
+260,Tetanus,,26157,26035
+260,COVID-19,,941261,935455
+261,Lower Respiratory,,1786909,1780191
+261,Diarrhea,,1194120,1188578
+261,Tuberculosis,,851273,848000
+261,HIV/AIDS,,640921,638318
+261,Malaria,,505575,502455
+261,Typhoid,,104199,103976
+261,Whooping cough,,93696,93374
+261,Encephalitis(brain inflammation),,71687,71384
+261,STI(not including HIV),,78126,77752
+261,Measles,,73647,73445
+261,Hepatitis,,57423,57241
+261,Salmonella,,58547,58248
+261,Dengue,,19708,19600
+261,Tetanus,,26258,26157
+261,COVID-19,,946732,941261
+262,Lower Respiratory,,1793465,1786909
+262,Diarrhea,,1199091,1194120
+262,Tuberculosis,,854418,851273
+262,HIV/AIDS,,643348,640921
+262,Malaria,,506682,505575
+262,Typhoid,,104650,104199
+262,Whooping cough,,94036,93696
+262,Encephalitis(brain inflammation),,71996,71687
+262,STI(not including HIV),,78245,78126
+262,Measles,,73831,73647
+262,Hepatitis,,57675,57423
+262,Salmonella,,58769,58547
+262,Dengue,,19769,19708
+262,Tetanus,,26359,26258
+262,COVID-19,,952422,946732
+263,Lower Respiratory,,1799732,1793465
+263,Diarrhea,,1202260,1199091
+263,Tuberculosis,,857595,854418
+263,HIV/AIDS,,645588,643348
+263,Malaria,,509821,506682
+263,Typhoid,,105182,104650
+263,Whooping cough,,94366,94036
+263,Encephalitis(brain inflammation),,72315,71996
+263,STI(not including HIV),,78422,78245
+263,Measles,,74309,73831
+263,Hepatitis,,57879,57675
+263,Salmonella,,59017,58769
+263,Dengue,,19890,19769
+263,Tetanus,,26448,26359
+263,COVID-19,,957683,952422
+264,Lower Respiratory,,1807219,1799732
+264,Diarrhea,,1205935,1202260
+264,Tuberculosis,,860895,857595
+264,HIV/AIDS,,647817,645588
+264,Malaria,,511061,509821
+264,Typhoid,,105592,105182
+264,Whooping cough,,94920,94366
+264,Encephalitis(brain inflammation),,72624,72315
+264,STI(not including HIV),,78835,78422
+264,Measles,,74516,74309
+264,Hepatitis,,58102,57879
+264,Salmonella,,59330,59017
+264,Dengue,,19924,19890
+264,Tetanus,,26554,26448
+264,COVID-19,,961408,957683
+265,Lower Respiratory,,1814740,1807219
+265,Diarrhea,,1209156,1205935
+265,Tuberculosis,,864226,860895
+265,HIV/AIDS,,650335,647817
+265,Malaria,,513108,511061
+265,Typhoid,,106059,105592
+265,Whooping cough,,95359,94920
+265,Encephalitis(brain inflammation),,72956,72624
+265,STI(not including HIV),,79184,78835
+265,Measles,,74970,74516
+265,Hepatitis,,58355,58102
+265,Salmonella,,59557,59330
+265,Dengue,,19995,19924
+265,Tetanus,,26670,26554
+265,COVID-19,,965503,961408
+266,Lower Respiratory,,1821107,1814740
+266,Diarrhea,,1212970,1209156
+266,Tuberculosis,,867490,864226
+266,HIV/AIDS,,652741,650335
+266,Malaria,,514653,513108
+266,Typhoid,,106352,106059
+266,Whooping cough,,95687,95359
+266,Encephalitis(brain inflammation),,73237,72956
+266,STI(not including HIV),,79557,79184
+266,Measles,,75194,74970
+266,Hepatitis,,58550,58355
+266,Salmonella,,59765,59557
+266,Dengue,,20090,19995
+266,Tetanus,,26789,26670
+266,COVID-19,,971459,965503
+267,Lower Respiratory,,1828201,1821107
+267,Diarrhea,,1216475,1212970
+267,Tuberculosis,,871020,867490
+267,HIV/AIDS,,655383,652741
+267,Malaria,,517765,514653
+267,Typhoid,,106924,106352
+267,Whooping cough,,96124,95687
+267,Encephalitis(brain inflammation),,73496,73237
+267,STI(not including HIV),,79680,79557
+267,Measles,,75568,75194
+267,Hepatitis,,58754,58550
+267,Salmonella,,60044,59765
+267,Dengue,,20186,20090
+267,Tetanus,,26908,26789
+267,COVID-19,,977093,971459
+268,Lower Respiratory,,1834830,1828201
+268,Diarrhea,,1220260,1216475
+268,Tuberculosis,,874012,871020
+268,HIV/AIDS,,657568,655383
+268,Malaria,,519191,517765
+268,Typhoid,,107549,106924
+268,Whooping cough,,96518,96124
+268,Encephalitis(brain inflammation),,73755,73496
+268,STI(not including HIV),,79917,79680
+268,Measles,,75875,75568
+268,Hepatitis,,58951,58754
+268,Salmonella,,60275,60044
+268,Dengue,,20230,20186
+268,Tetanus,,26985,26908
+268,COVID-19,,983764,977093
+269,Lower Respiratory,,1841116,1834830
+269,Diarrhea,,1224925,1220260
+269,Tuberculosis,,877003,874012
+269,HIV/AIDS,,660058,657568
+269,Malaria,,521964,519191
+269,Typhoid,,108166,107549
+269,Whooping cough,,96929,96518
+269,Encephalitis(brain inflammation),,74080,73755
+269,STI(not including HIV),,80035,79917
+269,Measles,,76203,75875
+269,Hepatitis,,59193,58951
+269,Salmonella,,60537,60275
+269,Dengue,,20323,20230
+269,Tetanus,,27112,26985
+269,COVID-19,,989651,983764
+270,Lower Respiratory,,1848465,1841116
+270,Diarrhea,,1230180,1224925
+270,Tuberculosis,,879993,877003
+270,HIV/AIDS,,662486,660058
+270,Malaria,,524966,521964
+270,Typhoid,,108422,108166
+270,Whooping cough,,97209,96929
+270,Encephalitis(brain inflammation),,74392,74080
+270,STI(not including HIV),,80202,80035
+270,Measles,,76300,76203
+270,Hepatitis,,59382,59193
+270,Salmonella,,60816,60537
+270,Dengue,,20415,20323
+270,Tetanus,,27230,27112
+270,COVID-19,,994981,989651
+271,Lower Respiratory,,1855291,1848465
+271,Diarrhea,,1235960,1230180
+271,Tuberculosis,,883205,879993
+271,HIV/AIDS,,664927,662486
+271,Malaria,,527754,524966
+271,Typhoid,,108829,108422
+271,Whooping cough,,97488,97209
+271,Encephalitis(brain inflammation),,74723,74392
+271,STI(not including HIV),,80368,80202
+271,Measles,,76541,76300
+271,Hepatitis,,59563,59382
+271,Salmonella,,60959,60816
+271,Dengue,,20496,20415
+271,Tetanus,,27334,27230
+271,COVID-19,,998642,994981
+272,Lower Respiratory,,1862393,1855291
+272,Diarrhea,,1241559,1235960
+272,Tuberculosis,,886582,883205
+272,HIV/AIDS,,667190,664927
+272,Malaria,,529866,527754
+272,Typhoid,,109425,108829
+272,Whooping cough,,97918,97488
+272,Encephalitis(brain inflammation),,75005,74723
+272,STI(not including HIV),,80506,80368
+272,Measles,,76962,76541
+272,Hepatitis,,59753,59563
+272,Salmonella,,61091,60959
+272,Dengue,,20609,20496
+272,Tetanus,,27414,27334
+272,COVID-19,,1002584,998642
+273,Lower Respiratory,,1869549,1862393
+273,Diarrhea,,1244665,1241559
+273,Tuberculosis,,889631,886582
+273,HIV/AIDS,,669914,667190
+273,Malaria,,531745,529866
+273,Typhoid,,109894,109425
+273,Whooping cough,,98096,97918
+273,Encephalitis(brain inflammation),,75307,75005
+273,STI(not including HIV),,80779,80506
+273,Measles,,77420,76962
+273,Hepatitis,,59971,59753
+273,Salmonella,,61331,61091
+273,Dengue,,20706,20609
+273,Tetanus,,27540,27414
+273,COVID-19,,1008546,1002584
+274,Lower Respiratory,,1876095,1869549
+274,Diarrhea,,1249740,1244665
+274,Tuberculosis,,893026,889631
+274,HIV/AIDS,,672270,669914
+274,Malaria,,532905,531745
+274,Typhoid,,110084,109894
+274,Whooping cough,,98244,98096
+274,Encephalitis(brain inflammation),,75553,75307
+274,STI(not including HIV),,81195,80779
+274,Measles,,77784,77420
+274,Hepatitis,,60219,59971
+274,Salmonella,,61540,61331
+274,Dengue,,20815,20706
+274,Tetanus,,27665,27540
+274,COVID-19,,1014974,1008546
+275,Lower Respiratory,,1882813,1876095
+275,Diarrhea,,1254323,1249740
+275,Tuberculosis,,896504,893026
+275,HIV/AIDS,,674665,672270
+275,Malaria,,535743,532905
+275,Typhoid,,110570,110084
+275,Whooping cough,,98754,98244
+275,Encephalitis(brain inflammation),,75777,75553
+275,STI(not including HIV),,81569,81195
+275,Measles,,78159,77784
+275,Hepatitis,,60401,60219
+275,Salmonella,,61694,61540
+275,Dengue,,20876,20815
+275,Tetanus,,27766,27665
+275,COVID-19,,1023674,1014974
+276,Lower Respiratory,,1890245,1882813
+276,Diarrhea,,1259356,1254323
+276,Tuberculosis,,899691,896504
+276,HIV/AIDS,,677140,674665
+276,Malaria,,536938,535743
+276,Typhoid,,110806,110570
+276,Whooping cough,,99053,98754
+276,Encephalitis(brain inflammation),,76011,75777
+276,STI(not including HIV),,81858,81569
+276,Measles,,78487,78159
+276,Hepatitis,,60630,60401
+276,Salmonella,,61917,61694
+276,Dengue,,20916,20876
+276,Tetanus,,27864,27766
+276,COVID-19,,1028677,1023674
+277,Lower Respiratory,,1897703,1890245
+277,Diarrhea,,1263228,1259356
+277,Tuberculosis,,903158,899691
+277,HIV/AIDS,,679697,677140
+277,Malaria,,539871,536938
+277,Typhoid,,111362,110806
+277,Whooping cough,,99237,99053
+277,Encephalitis(brain inflammation),,76224,76011
+277,STI(not including HIV),,82127,81858
+277,Measles,,78874,78487
+277,Hepatitis,,60815,60630
+277,Salmonella,,62119,61917
+277,Dengue,,20958,20916
+277,Tetanus,,27937,27864
+277,COVID-19,,1034044,1028677
+278,Lower Respiratory,,1904702,1897703
+278,Diarrhea,,1268133,1263228
+278,Tuberculosis,,906677,903158
+278,HIV/AIDS,,682057,679697
+278,Malaria,,540729,539871
+278,Typhoid,,111681,111362
+278,Whooping cough,,99643,99237
+278,Encephalitis(brain inflammation),,76460,76224
+278,STI(not including HIV),,82482,82127
+278,Measles,,79359,78874
+278,Hepatitis,,61036,60815
+278,Salmonella,,62367,62119
+278,Dengue,,21068,20958
+278,Tetanus,,28042,27937
+278,COVID-19,,1037856,1034044
+279,Lower Respiratory,,1911214,1904702
+279,Diarrhea,,1272935,1268133
+279,Tuberculosis,,909792,906677
+279,HIV/AIDS,,684760,682057
+279,Malaria,,541954,540729
+279,Typhoid,,111934,111681
+279,Whooping cough,,100212,99643
+279,Encephalitis(brain inflammation),,76719,76460
+279,STI(not including HIV),,82893,82482
+279,Measles,,79575,79359
+279,Hepatitis,,61252,61036
+279,Salmonella,,62616,62367
+279,Dengue,,21120,21068
+279,Tetanus,,28172,28042
+279,COVID-19,,1044776,1037856
+280,Lower Respiratory,,1917571,1911214
+280,Diarrhea,,1278681,1272935
+280,Tuberculosis,,912778,909792
+280,HIV/AIDS,,687177,684760
+280,Malaria,,544169,541954
+280,Typhoid,,112136,111934
+280,Whooping cough,,100668,100212
+280,Encephalitis(brain inflammation),,76942,76719
+280,STI(not including HIV),,83154,82893
+280,Measles,,80013,79575
+280,Hepatitis,,61509,61252
+280,Salmonella,,62753,62616
+280,Dengue,,21156,21120
+280,Tetanus,,28263,28172
+280,COVID-19,,1050567,1044776
+281,Lower Respiratory,,1924396,1917571
+281,Diarrhea,,1282574,1278681
+281,Tuberculosis,,916239,912778
+281,HIV/AIDS,,689815,687177
+281,Malaria,,546954,544169
+281,Typhoid,,112682,112136
+281,Whooping cough,,101023,100668
+281,Encephalitis(brain inflammation),,77232,76942
+281,STI(not including HIV),,83520,83154
+281,Measles,,80294,80013
+281,Hepatitis,,61725,61509
+281,Salmonella,,62995,62753
+281,Dengue,,21235,21156
+281,Tetanus,,28335,28263
+281,COVID-19,,1056399,1050567
+282,Lower Respiratory,,1930662,1924396
+282,Diarrhea,,1288613,1282574
+282,Tuberculosis,,919263,916239
+282,HIV/AIDS,,692173,689815
+282,Malaria,,548785,546954
+282,Typhoid,,113237,112682
+282,Whooping cough,,101188,101023
+282,Encephalitis(brain inflammation),,77524,77232
+282,STI(not including HIV),,83974,83520
+282,Measles,,80642,80294
+282,Hepatitis,,61941,61725
+282,Salmonella,,63147,62995
+282,Dengue,,21329,21235
+282,Tetanus,,28412,28335
+282,COVID-19,,1062656,1056399
+283,Lower Respiratory,,1938123,1930662
+283,Diarrhea,,1291881,1288613
+283,Tuberculosis,,922275,919263
+283,HIV/AIDS,,694555,692173
+283,Malaria,,550941,548785
+283,Typhoid,,113768,113237
+283,Whooping cough,,101351,101188
+283,Encephalitis(brain inflammation),,77784,77524
+283,STI(not including HIV),,84140,83974
+283,Measles,,80939,80642
+283,Hepatitis,,62144,61941
+283,Salmonella,,63385,63147
+283,Dengue,,21357,21329
+283,Tetanus,,28534,28412
+283,COVID-19,,1068813,1062656
+284,Lower Respiratory,,1945568,1938123
+284,Diarrhea,,1296050,1291881
+284,Tuberculosis,,925711,922275
+284,HIV/AIDS,,697112,694555
+284,Malaria,,551853,550941
+284,Typhoid,,114155,113768
+284,Whooping cough,,101588,101351
+284,Encephalitis(brain inflammation),,78066,77784
+284,STI(not including HIV),,84473,84140
+284,Measles,,81313,80939
+284,Hepatitis,,62391,62144
+284,Salmonella,,63536,63385
+284,Dengue,,21454,21357
+284,Tetanus,,28651,28534
+284,COVID-19,,1073669,1068813
+285,Lower Respiratory,,1952952,1945568
+285,Diarrhea,,1301504,1296050
+285,Tuberculosis,,929251,925711
+285,HIV/AIDS,,699400,697112
+285,Malaria,,553885,551853
+285,Typhoid,,114754,114155
+285,Whooping cough,,101884,101588
+285,Encephalitis(brain inflammation),,78382,78066
+285,STI(not including HIV),,84873,84473
+285,Measles,,81618,81313
+285,Hepatitis,,62620,62391
+285,Salmonella,,63761,63536
+285,Dengue,,21564,21454
+285,Tetanus,,28770,28651
+285,COVID-19,,1077647,1073669
+286,Lower Respiratory,,1959366,1952952
+286,Diarrhea,,1305798,1301504
+286,Tuberculosis,,932439,929251
+286,HIV/AIDS,,701616,699400
+286,Malaria,,555370,553885
+286,Typhoid,,115228,114754
+286,Whooping cough,,102170,101884
+286,Encephalitis(brain inflammation),,78717,78382
+286,STI(not including HIV),,85003,84873
+286,Measles,,82059,81618
+286,Hepatitis,,62878,62620
+286,Salmonella,,63936,63761
+286,Dengue,,21631,21564
+286,Tetanus,,28891,28770
+286,COVID-19,,1081588,1077647
+287,Lower Respiratory,,1965872,1959366
+287,Diarrhea,,1311650,1305798
+287,Tuberculosis,,935462,932439
+287,HIV/AIDS,,704095,701616
+287,Malaria,,558097,555370
+287,Typhoid,,115681,115228
+287,Whooping cough,,102563,102170
+287,Encephalitis(brain inflammation),,78965,78717
+287,STI(not including HIV),,85213,85003
+287,Measles,,82173,82059
+287,Hepatitis,,63081,62878
+287,Salmonella,,64118,63936
+287,Dengue,,21707,21631
+287,Tetanus,,29004,28891
+287,COVID-19,,1086862,1081588
+288,Lower Respiratory,,1972816,1965872
+288,Diarrhea,,1316642,1311650
+288,Tuberculosis,,938517,935462
+288,HIV/AIDS,,706292,704095
+288,Malaria,,560071,558097
+288,Typhoid,,115958,115681
+288,Whooping cough,,103119,102563
+288,Encephalitis(brain inflammation),,79295,78965
+288,STI(not including HIV),,85477,85213
+288,Measles,,82632,82173
+288,Hepatitis,,63283,63081
+288,Salmonella,,64400,64118
+288,Dengue,,21803,21707
+288,Tetanus,,29076,29004
+288,COVID-19,,1092921,1086862
+289,Lower Respiratory,,1979417,1972816
+289,Diarrhea,,1321834,1316642
+289,Tuberculosis,,941819,938517
+289,HIV/AIDS,,708600,706292
+289,Malaria,,561848,560071
+289,Typhoid,,116500,115958
+289,Whooping cough,,103308,103119
+289,Encephalitis(brain inflammation),,79561,79295
+289,STI(not including HIV),,85583,85477
+289,Measles,,83044,82632
+289,Hepatitis,,63544,63283
+289,Salmonella,,64719,64400
+289,Dengue,,21852,21803
+289,Tetanus,,29201,29076
+289,COVID-19,,1099017,1092921
+290,Lower Respiratory,,1986463,1979417
+290,Diarrhea,,1325645,1321834
+290,Tuberculosis,,945030,941819
+290,HIV/AIDS,,711055,708600
+290,Malaria,,563541,561848
+290,Typhoid,,116947,116500
+290,Whooping cough,,103783,103308
+290,Encephalitis(brain inflammation),,79772,79561
+290,STI(not including HIV),,85922,85583
+290,Measles,,83393,83044
+290,Hepatitis,,63756,63544
+290,Salmonella,,65000,64719
+290,Dengue,,21958,21852
+290,Tetanus,,29314,29201
+290,COVID-19,,1105159,1099017
+291,Lower Respiratory,,1993130,1986463
+291,Diarrhea,,1330995,1325645
+291,Tuberculosis,,948255,945030
+291,HIV/AIDS,,713704,711055
+291,Malaria,,565506,563541
+291,Typhoid,,117411,116947
+291,Whooping cough,,104111,103783
+291,Encephalitis(brain inflammation),,80094,79772
+291,STI(not including HIV),,86351,85922
+291,Measles,,83612,83393
+291,Hepatitis,,63971,63756
+291,Salmonella,,65313,65000
+291,Dengue,,22056,21958
+291,Tetanus,,29438,29314
+291,COVID-19,,1110742,1105159
+292,Lower Respiratory,,1999471,1993130
+292,Diarrhea,,1335044,1330995
+292,Tuberculosis,,951693,948255
+292,HIV/AIDS,,716071,713704
+292,Malaria,,566975,565506
+292,Typhoid,,117672,117411
+292,Whooping cough,,104572,104111
+292,Encephalitis(brain inflammation),,80390,80094
+292,STI(not including HIV),,86756,86351
+292,Measles,,83844,83612
+292,Hepatitis,,64160,63971
+292,Salmonella,,65517,65313
+292,Dengue,,22110,22056
+292,Tetanus,,29569,29438
+292,COVID-19,,1114244,1110742
+293,Lower Respiratory,,2006544,1999471
+293,Diarrhea,,1339314,1335044
+293,Tuberculosis,,954925,951693
+293,HIV/AIDS,,718577,716071
+293,Malaria,,568624,566975
+293,Typhoid,,118043,117672
+293,Whooping cough,,104761,104572
+293,Encephalitis(brain inflammation),,80621,80390
+293,STI(not including HIV),,87172,86756
+293,Measles,,83971,83844
+293,Hepatitis,,64360,64160
+293,Salmonella,,65767,65517
+293,Dengue,,22166,22110
+293,Tetanus,,29646,29569
+293,COVID-19,,1119042,1114244
+294,Lower Respiratory,,2013046,2006544
+294,Diarrhea,,1344523,1339314
+294,Tuberculosis,,958014,954925
+294,HIV/AIDS,,721194,718577
+294,Malaria,,570544,568624
+294,Typhoid,,118365,118043
+294,Whooping cough,,105220,104761
+294,Encephalitis(brain inflammation),,80932,80621
+294,STI(not including HIV),,87471,87172
+294,Measles,,84065,83971
+294,Hepatitis,,64593,64360
+294,Salmonella,,66061,65767
+294,Dengue,,22256,22166
+294,Tetanus,,29726,29646
+294,COVID-19,,1125593,1119042
+295,Lower Respiratory,,2019527,2013046
+295,Diarrhea,,1349027,1344523
+295,Tuberculosis,,961285,958014
+295,HIV/AIDS,,723756,721194
+295,Malaria,,572561,570544
+295,Typhoid,,118556,118365
+295,Whooping cough,,105384,105220
+295,Encephalitis(brain inflammation),,81266,80932
+295,STI(not including HIV),,87645,87471
+295,Measles,,84178,84065
+295,Hepatitis,,64786,64593
+295,Salmonella,,66283,66061
+295,Dengue,,22300,22256
+295,Tetanus,,29857,29726
+295,COVID-19,,1132261,1125593
+296,Lower Respiratory,,2026889,2019527
+296,Diarrhea,,1354866,1349027
+296,Tuberculosis,,964277,961285
+296,HIV/AIDS,,725957,723756
+296,Malaria,,573836,572561
+296,Typhoid,,119068,118556
+296,Whooping cough,,105710,105384
+296,Encephalitis(brain inflammation),,81497,81266
+296,STI(not including HIV),,87868,87645
+296,Measles,,84267,84178
+296,Hepatitis,,65002,64786
+296,Salmonella,,66436,66283
+296,Dengue,,22326,22300
+296,Tetanus,,29953,29857
+296,COVID-19,,1138148,1132261
+297,Lower Respiratory,,2034065,2026889
+297,Diarrhea,,1360085,1354866
+297,Tuberculosis,,967435,964277
+297,HIV/AIDS,,728643,725957
+297,Malaria,,576019,573836
+297,Typhoid,,119338,119068
+297,Whooping cough,,105859,105710
+297,Encephalitis(brain inflammation),,81799,81497
+297,STI(not including HIV),,88219,87868
+297,Measles,,84656,84267
+297,Hepatitis,,65198,65002
+297,Salmonella,,66600,66436
+297,Dengue,,22390,22326
+297,Tetanus,,30080,29953
+297,COVID-19,,1145099,1138148
+298,Lower Respiratory,,2040409,2034065
+298,Diarrhea,,1363178,1360085
+298,Tuberculosis,,970903,967435
+298,HIV/AIDS,,731342,728643
+298,Malaria,,578429,576019
+298,Typhoid,,119526,119338
+298,Whooping cough,,106195,105859
+298,Encephalitis(brain inflammation),,82085,81799
+298,STI(not including HIV),,88637,88219
+298,Measles,,84747,84656
+298,Hepatitis,,65433,65198
+298,Salmonella,,66846,66600
+298,Dengue,,22472,22390
+298,Tetanus,,30195,30080
+298,COVID-19,,1150925,1145099
+299,Lower Respiratory,,2047507,2040409
+299,Diarrhea,,1367865,1363178
+299,Tuberculosis,,974111,970903
+299,HIV/AIDS,,733946,731342
+299,Malaria,,580040,578429
+299,Typhoid,,120000,119526
+299,Whooping cough,,106763,106195
+299,Encephalitis(brain inflammation),,82330,82085
+299,STI(not including HIV),,88942,88637
+299,Measles,,85053,84747
+299,Hepatitis,,65665,65433
+299,Salmonella,,67056,66846
+299,Dengue,,22569,22472
+299,Tetanus,,30327,30195
+299,COVID-19,,1155065,1150925
+300,Lower Respiratory,,2054349,2047507
+300,Diarrhea,,1372781,1367865
+300,Tuberculosis,,977321,974111
+300,HIV/AIDS,,736651,733946
+300,Malaria,,583104,580040
+300,Typhoid,,120195,120000
+300,Whooping cough,,107302,106763
+300,Encephalitis(brain inflammation),,82612,82330
+300,STI(not including HIV),,89146,88942
+300,Measles,,85422,85053
+300,Hepatitis,,65915,65665
+300,Salmonella,,67324,67056
+300,Dengue,,22662,22569
+300,Tetanus,,30453,30327
+300,COVID-19,,1160533,1155065
+301,Lower Respiratory,,2060688,2054349
+301,Diarrhea,,1377351,1372781
+301,Tuberculosis,,980485,977321
+301,HIV/AIDS,,738885,736651
+301,Malaria,,586226,583104
+301,Typhoid,,120610,120195
+301,Whooping cough,,107694,107302
+301,Encephalitis(brain inflammation),,82882,82612
+301,STI(not including HIV),,89439,89146
+301,Measles,,85787,85422
+301,Hepatitis,,66152,65915
+301,Salmonella,,67621,67324
+301,Dengue,,22772,22662
+301,Tetanus,,30559,30453
+301,COVID-19,,1167903,1160533
+302,Lower Respiratory,,2068188,2060688
+302,Diarrhea,,1382544,1377351
+302,Tuberculosis,,983536,980485
+302,HIV/AIDS,,741060,738885
+302,Malaria,,587502,586226
+302,Typhoid,,121052,120610
+302,Whooping cough,,108199,107694
+302,Encephalitis(brain inflammation),,83186,82882
+302,STI(not including HIV),,89599,89439
+302,Measles,,86261,85787
+302,Hepatitis,,66406,66152
+302,Salmonella,,67825,67621
+302,Dengue,,22838,22772
+302,Tetanus,,30635,30559
+302,COVID-19,,1175040,1167903
+303,Lower Respiratory,,2074637,2068188
+303,Diarrhea,,1386494,1382544
+303,Tuberculosis,,986655,983536
+303,HIV/AIDS,,743581,741060
+303,Malaria,,589151,587502
+303,Typhoid,,121237,121052
+303,Whooping cough,,108769,108199
+303,Encephalitis(brain inflammation),,83490,83186
+303,STI(not including HIV),,89944,89599
+303,Measles,,86512,86261
+303,Hepatitis,,66636,66406
+303,Salmonella,,68095,67825
+303,Dengue,,22869,22838
+303,Tetanus,,30720,30635
+303,COVID-19,,1182095,1175040
+304,Lower Respiratory,,2081837,2074637
+304,Diarrhea,,1390413,1386494
+304,Tuberculosis,,989655,986655
+304,HIV/AIDS,,745853,743581
+304,Malaria,,591062,589151
+304,Typhoid,,121728,121237
+304,Whooping cough,,109037,108769
+304,Encephalitis(brain inflammation),,83760,83490
+304,STI(not including HIV),,90107,89944
+304,Measles,,86932,86512
+304,Hepatitis,,66888,66636
+304,Salmonella,,68425,68095
+304,Dengue,,22966,22869
+304,Tetanus,,30852,30720
+304,COVID-19,,1189658,1182095
+305,Lower Respiratory,,2089197,2081837
+305,Diarrhea,,1395913,1390413
+305,Tuberculosis,,993188,989655
+305,HIV/AIDS,,748208,745853
+305,Malaria,,593891,591062
+305,Typhoid,,122091,121728
+305,Whooping cough,,109560,109037
+305,Encephalitis(brain inflammation),,83996,83760
+305,STI(not including HIV),,90270,90107
+305,Measles,,87280,86932
+305,Hepatitis,,67146,66888
+305,Salmonella,,68577,68425
+305,Dengue,,23028,22966
+305,Tetanus,,30970,30852
+305,COVID-19,,1196209,1189658
+306,Lower Respiratory,,2095903,2089197
+306,Diarrhea,,1398952,1395913
+306,Tuberculosis,,996387,993188
+306,HIV/AIDS,,750896,748208
+306,Malaria,,595058,593891
+306,Typhoid,,122275,122091
+306,Whooping cough,,109946,109560
+306,Encephalitis(brain inflammation),,84315,83996
+306,STI(not including HIV),,90459,90270
+306,Measles,,87748,87280
+306,Hepatitis,,67355,67146
+306,Salmonella,,68792,68577
+306,Dengue,,23083,23028
+306,Tetanus,,31065,30970
+306,COVID-19,,1201152,1196209
+307,Lower Respiratory,,2103293,2095903
+307,Diarrhea,,1403679,1398952
+307,Tuberculosis,,999476,996387
+307,HIV/AIDS,,753211,750896
+307,Malaria,,597466,595058
+307,Typhoid,,122843,122275
+307,Whooping cough,,110145,109946
+307,Encephalitis(brain inflammation),,84566,84315
+307,STI(not including HIV),,90714,90459
+307,Measles,,88172,87748
+307,Hepatitis,,67567,67355
+307,Salmonella,,68928,68792
+307,Dengue,,23181,23083
+307,Tetanus,,31178,31065
+307,COVID-19,,1207222,1201152
+308,Lower Respiratory,,2109563,2103293
+308,Diarrhea,,1408755,1403679
+308,Tuberculosis,,1002884,999476
+308,HIV/AIDS,,755596,753211
+308,Malaria,,599724,597466
+308,Typhoid,,123144,122843
+308,Whooping cough,,110505,110145
+308,Encephalitis(brain inflammation),,84859,84566
+308,STI(not including HIV),,90821,90714
+308,Measles,,88441,88172
+308,Hepatitis,,67815,67567
+308,Salmonella,,69152,68928
+308,Dengue,,23286,23181
+308,Tetanus,,31264,31178
+308,COVID-19,,1216564,1207222
+309,Lower Respiratory,,2115925,2109563
+309,Diarrhea,,1412194,1408755
+309,Tuberculosis,,1005976,1002884
+309,HIV/AIDS,,757983,755596
+309,Malaria,,602412,599724
+309,Typhoid,,123666,123144
+309,Whooping cough,,110789,110505
+309,Encephalitis(brain inflammation),,85109,84859
+309,STI(not including HIV),,91192,90821
+309,Measles,,88693,88441
+309,Hepatitis,,68014,67815
+309,Salmonella,,69294,69152
+309,Dengue,,23343,23286
+309,Tetanus,,31359,31264
+309,COVID-19,,1226752,1216564
+310,Lower Respiratory,,2122397,2115925
+310,Diarrhea,,1416372,1412194
+310,Tuberculosis,,1009333,1005976
+310,HIV/AIDS,,760630,757983
+310,Malaria,,604305,602412
+310,Typhoid,,123860,123666
+310,Whooping cough,,111358,110789
+310,Encephalitis(brain inflammation),,85341,85109
+310,STI(not including HIV),,91518,91192
+310,Measles,,89073,88693
+310,Hepatitis,,68244,68014
+310,Salmonella,,69591,69294
+310,Dengue,,23432,23343
+310,Tetanus,,31457,31359
+310,COVID-19,,1234763,1226752
+311,Lower Respiratory,,2128708,2122397
+311,Diarrhea,,1421541,1416372
+311,Tuberculosis,,1012407,1009333
+311,HIV/AIDS,,763117,760630
+311,Malaria,,605663,604305
+311,Typhoid,,124459,123860
+311,Whooping cough,,111639,111358
+311,Encephalitis(brain inflammation),,85648,85341
+311,STI(not including HIV),,91707,91518
+311,Measles,,89552,89073
+311,Hepatitis,,68473,68244
+311,Salmonella,,69908,69591
+311,Dengue,,23548,23432
+311,Tetanus,,31573,31457
+311,COVID-19,,1244381,1234763
+312,Lower Respiratory,,2135589,2128708
+312,Diarrhea,,1426006,1421541
+312,Tuberculosis,,1015828,1012407
+312,HIV/AIDS,,765591,763117
+312,Malaria,,607937,605663
+312,Typhoid,,124935,124459
+312,Whooping cough,,112148,111639
+312,Encephalitis(brain inflammation),,85909,85648
+312,STI(not including HIV),,92136,91707
+312,Measles,,89934,89552
+312,Hepatitis,,68723,68473
+312,Salmonella,,70181,69908
+312,Dengue,,23576,23548
+312,Tetanus,,31663,31573
+312,COVID-19,,1251920,1244381
+313,Lower Respiratory,,2142534,2135589
+313,Diarrhea,,1430119,1426006
+313,Tuberculosis,,1019026,1015828
+313,HIV/AIDS,,767960,765591
+313,Malaria,,610739,607937
+313,Typhoid,,125394,124935
+313,Whooping cough,,112565,112148
+313,Encephalitis(brain inflammation),,86219,85909
+313,STI(not including HIV),,92546,92136
+313,Measles,,90390,89934
+313,Hepatitis,,68935,68723
+313,Salmonella,,70330,70181
+313,Dengue,,23656,23576
+313,Tetanus,,31779,31663
+313,COVID-19,,1257688,1251920
+314,Lower Respiratory,,2149750,2142534
+314,Diarrhea,,1434773,1430119
+314,Tuberculosis,,1022386,1019026
+314,HIV/AIDS,,770433,767960
+314,Malaria,,611894,610739
+314,Typhoid,,125631,125394
+314,Whooping cough,,112776,112565
+314,Encephalitis(brain inflammation),,86498,86219
+314,STI(not including HIV),,92957,92546
+314,Measles,,90493,90390
+314,Hepatitis,,69126,68935
+314,Salmonella,,70483,70330
+314,Dengue,,23748,23656
+314,Tetanus,,31869,31779
+314,COVID-19,,1264797,1257688
+315,Lower Respiratory,,2156352,2149750
+315,Diarrhea,,1439935,1434773
+315,Tuberculosis,,1025429,1022386
+315,HIV/AIDS,,772728,770433
+315,Malaria,,613701,611894
+315,Typhoid,,126027,125631
+315,Whooping cough,,113334,112776
+315,Encephalitis(brain inflammation),,86826,86498
+315,STI(not including HIV),,93108,92957
+315,Measles,,90793,90493
+315,Hepatitis,,69364,69126
+315,Salmonella,,70765,70483
+315,Dengue,,23783,23748
+315,Tetanus,,31999,31869
+315,COVID-19,,1274783,1264797
+316,Lower Respiratory,,2163111,2156352
+316,Diarrhea,,1445893,1439935
+316,Tuberculosis,,1028651,1025429
+316,HIV/AIDS,,774941,772728
+316,Malaria,,615593,613701
+316,Typhoid,,126607,126027
+316,Whooping cough,,113586,113334
+316,Encephalitis(brain inflammation),,87088,86826
+316,STI(not including HIV),,93388,93108
+316,Measles,,91032,90793
+316,Hepatitis,,69564,69364
+316,Salmonella,,70929,70765
+316,Dengue,,23889,23783
+316,Tetanus,,32119,31999
+316,COVID-19,,1285187,1274783
+317,Lower Respiratory,,2170340,2163111
+317,Diarrhea,,1451371,1445893
+317,Tuberculosis,,1031736,1028651
+317,HIV/AIDS,,777591,774941
+317,Malaria,,617820,615593
+317,Typhoid,,126810,126607
+317,Whooping cough,,114108,113586
+317,Encephalitis(brain inflammation),,87310,87088
+317,STI(not including HIV),,93537,93388
+317,Measles,,91412,91032
+317,Hepatitis,,69794,69564
+317,Salmonella,,71152,70929
+317,Dengue,,23935,23889
+317,Tetanus,,32238,32119
+317,COVID-19,,1294946,1285187
+318,Lower Respiratory,,2177855,2170340
+318,Diarrhea,,1456651,1451371
+318,Tuberculosis,,1035105,1031736
+318,HIV/AIDS,,779812,777591
+318,Malaria,,619123,617820
+318,Typhoid,,127356,126810
+318,Whooping cough,,114311,114108
+318,Encephalitis(brain inflammation),,87549,87310
+318,STI(not including HIV),,93844,93537
+318,Measles,,91824,91412
+318,Hepatitis,,70000,69794
+318,Salmonella,,71295,71152
+318,Dengue,,24020,23935
+318,Tetanus,,32330,32238
+318,COVID-19,,1304504,1294946
+319,Lower Respiratory,,2184659,2177855
+319,Diarrhea,,1460268,1456651
+319,Tuberculosis,,1038166,1035105
+319,HIV/AIDS,,782261,779812
+319,Malaria,,620976,619123
+319,Typhoid,,127643,127356
+319,Whooping cough,,114773,114311
+319,Encephalitis(brain inflammation),,87859,87549
+319,STI(not including HIV),,94046,93844
+319,Measles,,92085,91824
+319,Hepatitis,,70239,70000
+319,Salmonella,,71586,71295
+319,Dengue,,24102,24020
+319,Tetanus,,32457,32330
+319,COVID-19,,1313512,1304504
+320,Lower Respiratory,,2191015,2184659
+320,Diarrhea,,1465390,1460268
+320,Tuberculosis,,1041147,1038166
+320,HIV/AIDS,,784677,782261
+320,Malaria,,621828,620976
+320,Typhoid,,128222,127643
+320,Whooping cough,,115071,114773
+320,Encephalitis(brain inflammation),,88166,87859
+320,STI(not including HIV),,94396,94046
+320,Measles,,92434,92085
+320,Hepatitis,,70468,70239
+320,Salmonella,,71790,71586
+320,Dengue,,24223,24102
+320,Tetanus,,32543,32457
+320,COVID-19,,1319790,1313512
+321,Lower Respiratory,,2197668,2191015
+321,Diarrhea,,1470469,1465390
+321,Tuberculosis,,1044679,1041147
+321,HIV/AIDS,,786918,784677
+321,Malaria,,623300,621828
+321,Typhoid,,128579,128222
+321,Whooping cough,,115292,115071
+321,Encephalitis(brain inflammation),,88498,88166
+321,STI(not including HIV),,94781,94396
+321,Measles,,92521,92434
+321,Hepatitis,,70678,70468
+321,Salmonella,,71976,71790
+321,Dengue,,24325,24223
+321,Tetanus,,32638,32543
+321,COVID-19,,1327640,1319790
+322,Lower Respiratory,,2204350,2197668
+322,Diarrhea,,1474013,1470469
+322,Tuberculosis,,1048075,1044679
+322,HIV/AIDS,,789182,786918
+322,Malaria,,624628,623300
+322,Typhoid,,128998,128579
+322,Whooping cough,,115492,115292
+322,Encephalitis(brain inflammation),,88713,88498
+322,STI(not including HIV),,94908,94781
+322,Measles,,92975,92521
+322,Hepatitis,,70917,70678
+322,Salmonella,,72177,71976
+322,Dengue,,24435,24325
+322,Tetanus,,32743,32638
+322,COVID-19,,1338726,1327640
+323,Lower Respiratory,,2211270,2204350
+323,Diarrhea,,1477450,1474013
+323,Tuberculosis,,1051214,1048075
+323,HIV/AIDS,,791648,789182
+323,Malaria,,625588,624628
+323,Typhoid,,129465,128998
+323,Whooping cough,,115643,115492
+323,Encephalitis(brain inflammation),,89032,88713
+323,STI(not including HIV),,95020,94908
+323,Measles,,93219,92975
+323,Hepatitis,,71171,70917
+323,Salmonella,,72500,72177
+323,Dengue,,24548,24435
+323,Tetanus,,32864,32743
+323,COVID-19,,1350039,1338726
+324,Lower Respiratory,,2218314,2211270
+324,Diarrhea,,1482403,1477450
+324,Tuberculosis,,1054608,1051214
+324,HIV/AIDS,,794343,791648
+324,Malaria,,626638,625588
+324,Typhoid,,129753,129465
+324,Whooping cough,,116158,115643
+324,Encephalitis(brain inflammation),,89249,89032
+324,STI(not including HIV),,95321,95020
+324,Measles,,93455,93219
+324,Hepatitis,,71419,71171
+324,Salmonella,,72772,72500
+324,Dengue,,24667,24548
+324,Tetanus,,32937,32864
+324,COVID-19,,1360998,1350039
+325,Lower Respiratory,,2225234,2218314
+325,Diarrhea,,1486425,1482403
+325,Tuberculosis,,1057760,1054608
+325,HIV/AIDS,,796959,794343
+325,Malaria,,629536,626638
+325,Typhoid,,130177,129753
+325,Whooping cough,,116528,116158
+325,Encephalitis(brain inflammation),,89501,89249
+325,STI(not including HIV),,95478,95321
+325,Measles,,93731,93455
+325,Hepatitis,,71669,71419
+325,Salmonella,,73013,72772
+325,Dengue,,24698,24667
+325,Tetanus,,33034,32937
+325,COVID-19,,1372825,1360998
+326,Lower Respiratory,,2232078,2225234
+326,Diarrhea,,1492365,1486425
+326,Tuberculosis,,1060750,1057760
+326,HIV/AIDS,,799413,796959
+326,Malaria,,632711,629536
+326,Typhoid,,130505,130177
+326,Whooping cough,,116913,116528
+326,Encephalitis(brain inflammation),,89807,89501
+326,STI(not including HIV),,95661,95478
+326,Measles,,94114,93731
+326,Hepatitis,,71912,71669
+326,Salmonella,,73167,73013
+326,Dengue,,24742,24698
+326,Tetanus,,33158,33034
+326,COVID-19,,1381629,1372825
+327,Lower Respiratory,,2239510,2232078
+327,Diarrhea,,1497077,1492365
+327,Tuberculosis,,1063724,1060750
+327,HIV/AIDS,,801723,799413
+327,Malaria,,634257,632711
+327,Typhoid,,131061,130505
+327,Whooping cough,,117149,116913
+327,Encephalitis(brain inflammation),,90117,89807
+327,STI(not including HIV),,95984,95661
+327,Measles,,94240,94114
+327,Hepatitis,,72158,71912
+327,Salmonella,,73497,73167
+327,Dengue,,24860,24742
+327,Tetanus,,33282,33158
+327,COVID-19,,1388685,1381629
+328,Lower Respiratory,,2246449,2239510
+328,Diarrhea,,1501418,1497077
+328,Tuberculosis,,1066855,1063724
+328,HIV/AIDS,,804047,801723
+328,Malaria,,635422,634257
+328,Typhoid,,131410,131061
+328,Whooping cough,,117535,117149
+328,Encephalitis(brain inflammation),,90386,90117
+328,STI(not including HIV),,96393,95984
+328,Measles,,94711,94240
+328,Hepatitis,,72378,72158
+328,Salmonella,,73718,73497
+328,Dengue,,24959,24860
+328,Tetanus,,33357,33282
+328,COVID-19,,1397003,1388685
+329,Lower Respiratory,,2252949,2246449
+329,Diarrhea,,1507172,1501418
+329,Tuberculosis,,1070390,1066855
+329,HIV/AIDS,,806369,804047
+329,Malaria,,637082,635422
+329,Typhoid,,132030,131410
+329,Whooping cough,,117978,117535
+329,Encephalitis(brain inflammation),,90698,90386
+329,STI(not including HIV),,96709,96393
+329,Measles,,95186,94711
+329,Hepatitis,,72587,72378
+329,Salmonella,,74017,73718
+329,Dengue,,25034,24959
+329,Tetanus,,33450,33357
+329,COVID-19,,1409759,1397003
+330,Lower Respiratory,,2259231,2252949
+330,Diarrhea,,1511424,1507172
+330,Tuberculosis,,1073610,1070390
+330,HIV/AIDS,,808936,806369
+330,Malaria,,639269,637082
+330,Typhoid,,132440,132030
+330,Whooping cough,,118248,117978
+330,Encephalitis(brain inflammation),,91008,90698
+330,STI(not including HIV),,97051,96709
+330,Measles,,95515,95186
+330,Hepatitis,,72771,72587
+330,Salmonella,,74321,74017
+330,Dengue,,25066,25034
+330,Tetanus,,33541,33450
+330,COVID-19,,1421822,1409759
+331,Lower Respiratory,,2266619,2259231
+331,Diarrhea,,1516860,1511424
+331,Tuberculosis,,1076899,1073610
+331,HIV/AIDS,,811416,808936
+331,Malaria,,640284,639269
+331,Typhoid,,132824,132440
+331,Whooping cough,,118725,118248
+331,Encephalitis(brain inflammation),,91229,91008
+331,STI(not including HIV),,97201,97051
+331,Measles,,95857,95515
+331,Hepatitis,,72983,72771
+331,Salmonella,,74539,74321
+331,Dengue,,25182,25066
+331,Tetanus,,33620,33541
+331,COVID-19,,1432564,1421822
+332,Lower Respiratory,,2273342,2266619
+332,Diarrhea,,1522349,1516860
+332,Tuberculosis,,1080135,1076899
+332,HIV/AIDS,,813938,811416
+332,Malaria,,642307,640284
+332,Typhoid,,133248,132824
+332,Whooping cough,,118904,118725
+332,Encephalitis(brain inflammation),,91487,91229
+332,STI(not including HIV),,97415,97201
+332,Measles,,96092,95857
+332,Hepatitis,,73187,72983
+332,Salmonella,,74802,74539
+332,Dengue,,25285,25182
+332,Tetanus,,33750,33620
+332,COVID-19,,1443210,1432564
+333,Lower Respiratory,,2280564,2273342
+333,Diarrhea,,1526507,1522349
+333,Tuberculosis,,1083122,1080135
+333,HIV/AIDS,,816178,813938
+333,Malaria,,645326,642307
+333,Typhoid,,133608,133248
+333,Whooping cough,,119121,118904
+333,Encephalitis(brain inflammation),,91761,91487
+333,STI(not including HIV),,97532,97415
+333,Measles,,96222,96092
+333,Hepatitis,,73391,73187
+333,Salmonella,,75061,74802
+333,Dengue,,25398,25285
+333,Tetanus,,33880,33750
+333,COVID-19,,1452974,1443210
+334,Lower Respiratory,,2287739,2280564
+334,Diarrhea,,1532082,1526507
+334,Tuberculosis,,1086298,1083122
+334,HIV/AIDS,,818404,816178
+334,Malaria,,647806,645326
+334,Typhoid,,134014,133608
+334,Whooping cough,,119623,119121
+334,Encephalitis(brain inflammation),,91989,91761
+334,STI(not including HIV),,97657,97532
+334,Measles,,96338,96222
+334,Hepatitis,,73621,73391
+334,Salmonella,,75181,75061
+334,Dengue,,25478,25398
+334,Tetanus,,34003,33880
+334,COVID-19,,1459909,1452974
+335,Lower Respiratory,,2294019,2287739
+335,Diarrhea,,1537269,1532082
+335,Tuberculosis,,1089602,1086298
+335,HIV/AIDS,,820751,818404
+335,Malaria,,650481,647806
+335,Typhoid,,134476,134014
+335,Whooping cough,,119971,119623
+335,Encephalitis(brain inflammation),,92296,91989
+335,STI(not including HIV),,97805,97657
+335,Measles,,96585,96338
+335,Hepatitis,,73872,73621
+335,Salmonella,,75376,75181
+335,Dengue,,25597,25478
+335,Tetanus,,34102,34003
+335,COVID-19,,1468577,1459909
+336,Lower Respiratory,,2300883,2294019
+336,Diarrhea,,1542347,1537269
+336,Tuberculosis,,1093076,1089602
+336,HIV/AIDS,,822952,820751
+336,Malaria,,651810,650481
+336,Typhoid,,134868,134476
+336,Whooping cough,,120318,119971
+336,Encephalitis(brain inflammation),,92556,92296
+336,STI(not including HIV),,97934,97805
+336,Measles,,96862,96585
+336,Hepatitis,,74089,73872
+336,Salmonella,,75695,75376
+336,Dengue,,25635,25597
+336,Tetanus,,34213,34102
+336,COVID-19,,1481417,1468577
+337,Lower Respiratory,,2308261,2300883
+337,Diarrhea,,1546397,1542347
+337,Tuberculosis,,1096255,1093076
+337,HIV/AIDS,,825235,822952
+337,Malaria,,654337,651810
+337,Typhoid,,135332,134868
+337,Whooping cough,,120540,120318
+337,Encephalitis(brain inflammation),,92812,92556
+337,STI(not including HIV),,98113,97934
+337,Measles,,97246,96862
+337,Hepatitis,,74342,74089
+337,Salmonella,,75987,75695
+337,Dengue,,25688,25635
+337,Tetanus,,34284,34213
+337,COVID-19,,1493824,1481417
+338,Lower Respiratory,,2315178,2308261
+338,Diarrhea,,1551338,1546397
+338,Tuberculosis,,1099224,1096255
+338,HIV/AIDS,,827838,825235
+338,Malaria,,655615,654337
+338,Typhoid,,135595,135332
+338,Whooping cough,,120889,120540
+338,Encephalitis(brain inflammation),,93146,92812
+338,STI(not including HIV),,98493,98113
+338,Measles,,97454,97246
+338,Hepatitis,,74562,74342
+338,Salmonella,,76196,75987
+338,Dengue,,25792,25688
+338,Tetanus,,34374,34284
+338,COVID-19,,1506305,1493824
+339,Lower Respiratory,,2321749,2315178
+339,Diarrhea,,1554901,1551338
+339,Tuberculosis,,1102430,1099224
+339,HIV/AIDS,,830236,827838
+339,Malaria,,657967,655615
+339,Typhoid,,135884,135595
+339,Whooping cough,,121452,120889
+339,Encephalitis(brain inflammation),,93400,93146
+339,STI(not including HIV),,98877,98493
+339,Measles,,97674,97454
+339,Hepatitis,,74792,74562
+339,Salmonella,,76364,76196
+339,Dengue,,25823,25792
+339,Tetanus,,34477,34374
+339,COVID-19,,1518704,1506305
+340,Lower Respiratory,,2329186,2321749
+340,Diarrhea,,1559675,1554901
+340,Tuberculosis,,1105790,1102430
+340,HIV/AIDS,,832466,830236
+340,Malaria,,659223,657967
+340,Typhoid,,136506,135884
+340,Whooping cough,,121930,121452
+340,Encephalitis(brain inflammation),,93618,93400
+340,STI(not including HIV),,99303,98877
+340,Measles,,98075,97674
+340,Hepatitis,,75015,74792
+340,Salmonella,,76494,76364
+340,Dengue,,25924,25823
+340,Tetanus,,34582,34477
+340,COVID-19,,1528903,1518704
+341,Lower Respiratory,,2335829,2329186
+341,Diarrhea,,1564834,1559675
+341,Tuberculosis,,1109271,1105790
+341,HIV/AIDS,,835051,832466
+341,Malaria,,661361,659223
+341,Typhoid,,136856,136506
+341,Whooping cough,,122319,121930
+341,Encephalitis(brain inflammation),,93851,93618
+341,STI(not including HIV),,99481,99303
+341,Measles,,98401,98075
+341,Hepatitis,,75248,75015
+341,Salmonella,,76631,76494
+341,Dengue,,25949,25924
+341,Tetanus,,34653,34582
+341,COVID-19,,1536100,1528903
+342,Lower Respiratory,,2342816,2335829
+342,Diarrhea,,1569811,1564834
+342,Tuberculosis,,1112762,1109271
+342,HIV/AIDS,,837663,835051
+342,Malaria,,662804,661361
+342,Typhoid,,137386,136856
+342,Whooping cough,,122856,122319
+342,Encephalitis(brain inflammation),,94068,93851
+342,STI(not including HIV),,99953,99481
+342,Measles,,98705,98401
+342,Hepatitis,,75475,75248
+342,Salmonella,,76876,76631
+342,Dengue,,25997,25949
+342,Tetanus,,34778,34653
+342,COVID-19,,1544592,1536100
+343,Lower Respiratory,,2349487,2342816
+343,Diarrhea,,1574349,1569811
+343,Tuberculosis,,1115812,1112762
+343,HIV/AIDS,,840248,837663
+343,Malaria,,664624,662804
+343,Typhoid,,137751,137386
+343,Whooping cough,,123364,122856
+343,Encephalitis(brain inflammation),,94357,94068
+343,STI(not including HIV),,100273,99953
+343,Measles,,99027,98705
+343,Hepatitis,,75728,75475
+343,Salmonella,,76994,76876
+343,Dengue,,26024,25997
+343,Tetanus,,34854,34778
+343,COVID-19,,1556866,1544592
+344,Lower Respiratory,,2356797,2349487
+344,Diarrhea,,1577993,1574349
+344,Tuberculosis,,1119288,1115812
+344,HIV/AIDS,,842930,840248
+344,Malaria,,665915,664624
+344,Typhoid,,138280,137751
+344,Whooping cough,,123894,123364
+344,Encephalitis(brain inflammation),,94588,94357
+344,STI(not including HIV),,100716,100273
+344,Measles,,99474,99027
+344,Hepatitis,,75961,75728
+344,Salmonella,,77134,76994
+344,Dengue,,26110,26024
+344,Tetanus,,34974,34854
+344,COVID-19,,1569344,1556866
+345,Lower Respiratory,,2363104,2356797
+345,Diarrhea,,1582370,1577993
+345,Tuberculosis,,1122833,1119288
+345,HIV/AIDS,,845206,842930
+345,Malaria,,668741,665915
+345,Typhoid,,138480,138280
+345,Whooping cough,,124227,123894
+345,Encephalitis(brain inflammation),,94921,94588
+345,STI(not including HIV),,101158,100716
+345,Measles,,99781,99474
+345,Hepatitis,,76197,75961
+345,Salmonella,,77405,77134
+345,Dengue,,26137,26110
+345,Tetanus,,35083,34974
+345,COVID-19,,1581982,1569344
+346,Lower Respiratory,,2370152,2363104
+346,Diarrhea,,1588159,1582370
+346,Tuberculosis,,1126211,1122833
+346,HIV/AIDS,,847930,845206
+346,Malaria,,670062,668741
+346,Typhoid,,138707,138480
+346,Whooping cough,,124443,124227
+346,Encephalitis(brain inflammation),,95151,94921
+346,STI(not including HIV),,101576,101158
+346,Measles,,99976,99781
+346,Hepatitis,,76415,76197
+346,Salmonella,,77726,77405
+346,Dengue,,26174,26137
+346,Tetanus,,35168,35083
+346,COVID-19,,1594878,1581982
+347,Lower Respiratory,,2377560,2370152
+347,Diarrhea,,1591722,1588159
+347,Tuberculosis,,1129203,1126211
+347,HIV/AIDS,,850183,847930
+347,Malaria,,673165,670062
+347,Typhoid,,138987,138707
+347,Whooping cough,,124767,124443
+347,Encephalitis(brain inflammation),,95460,95151
+347,STI(not including HIV),,101835,101576
+347,Measles,,100419,99976
+347,Hepatitis,,76623,76415
+347,Salmonella,,77933,77726
+347,Dengue,,26261,26174
+347,Tetanus,,35246,35168
+347,COVID-19,,1605103,1594878
+348,Lower Respiratory,,2383809,2377560
+348,Diarrhea,,1596994,1591722
+348,Tuberculosis,,1132243,1129203
+348,HIV/AIDS,,852723,850183
+348,Malaria,,674729,673165
+348,Typhoid,,139605,138987
+348,Whooping cough,,125064,124767
+348,Encephalitis(brain inflammation),,95778,95460
+348,STI(not including HIV),,102317,101835
+348,Measles,,100597,100419
+348,Hepatitis,,76853,76623
+348,Salmonella,,78178,77933
+348,Dengue,,26355,26261
+348,Tetanus,,35354,35246
+348,COVID-19,,1612487,1605103
+349,Lower Respiratory,,2390830,2383809
+349,Diarrhea,,1602383,1596994
+349,Tuberculosis,,1135406,1132243
+349,HIV/AIDS,,855014,852723
+349,Malaria,,676428,674729
+349,Typhoid,,140107,139605
+349,Whooping cough,,125606,125064
+349,Encephalitis(brain inflammation),,96101,95778
+349,STI(not including HIV),,102494,102317
+349,Measles,,100839,100597
+349,Hepatitis,,77052,76853
+349,Salmonella,,78374,78178
+349,Dengue,,26415,26355
+349,Tetanus,,35427,35354
+349,COVID-19,,1621452,1612487
+350,Lower Respiratory,,2397195,2390830
+350,Diarrhea,,1606693,1602383
+350,Tuberculosis,,1138656,1135406
+350,HIV/AIDS,,857617,855014
+350,Malaria,,678101,676428
+350,Typhoid,,140697,140107
+350,Whooping cough,,125920,125606
+350,Encephalitis(brain inflammation),,96437,96101
+350,STI(not including HIV),,102850,102494
+350,Measles,,100987,100839
+350,Hepatitis,,77252,77052
+350,Salmonella,,78641,78374
+350,Dengue,,26505,26415
+350,Tetanus,,35518,35427
+350,COVID-19,,1635415,1621452
+351,Lower Respiratory,,2404463,2397195
+351,Diarrhea,,1612505,1606693
+351,Tuberculosis,,1141651,1138656
+351,HIV/AIDS,,859827,857617
+351,Malaria,,680969,678101
+351,Typhoid,,141135,140697
+351,Whooping cough,,126131,125920
+351,Encephalitis(brain inflammation),,96695,96437
+351,STI(not including HIV),,103313,102850
+351,Measles,,101251,100987
+351,Hepatitis,,77434,77252
+351,Salmonella,,78880,78641
+351,Dengue,,26609,26505
+351,Tetanus,,35648,35518
+351,COVID-19,,1648970,1635415
+352,Lower Respiratory,,2410824,2404463
+352,Diarrhea,,1616081,1612505
+352,Tuberculosis,,1144933,1141651
+352,HIV/AIDS,,862012,859827
+352,Malaria,,682428,680969
+352,Typhoid,,141422,141135
+352,Whooping cough,,126508,126131
+352,Encephalitis(brain inflammation),,97021,96695
+352,STI(not including HIV),,103630,103313
+352,Measles,,101392,101251
+352,Hepatitis,,77632,77434
+352,Salmonella,,79119,78880
+352,Dengue,,26638,26609
+352,Tetanus,,35776,35648
+352,COVID-19,,1662217,1648970
+353,Lower Respiratory,,2417126,2410824
+353,Diarrhea,,1619827,1616081
+353,Tuberculosis,,1148396,1144933
+353,HIV/AIDS,,864247,862012
+353,Malaria,,683989,682428
+353,Typhoid,,141882,141422
+353,Whooping cough,,126871,126508
+353,Encephalitis(brain inflammation),,97261,97021
+353,STI(not including HIV),,103981,103630
+353,Measles,,101584,101392
+353,Hepatitis,,77825,77632
+353,Salmonella,,79291,79119
+353,Dengue,,26743,26638
+353,Tetanus,,35851,35776
+353,COVID-19,,1674862,1662217
+354,Lower Respiratory,,2424562,2417126
+354,Diarrhea,,1623140,1619827
+354,Tuberculosis,,1151497,1148396
+354,HIV/AIDS,,866528,864247
+354,Malaria,,686965,683989
+354,Typhoid,,142095,141882
+354,Whooping cough,,127351,126871
+354,Encephalitis(brain inflammation),,97486,97261
+354,STI(not including HIV),,104295,103981
+354,Measles,,101796,101584
+354,Hepatitis,,78019,77825
+354,Salmonella,,79594,79291
+354,Dengue,,26775,26743
+354,Tetanus,,35958,35851
+354,COVID-19,,1685526,1674862
+355,Lower Respiratory,,2431168,2424562
+355,Diarrhea,,1627490,1623140
+355,Tuberculosis,,1154626,1151497
+355,HIV/AIDS,,869070,866528
+355,Malaria,,688937,686965
+355,Typhoid,,142674,142095
+355,Whooping cough,,127763,127351
+355,Encephalitis(brain inflammation),,97750,97486
+355,STI(not including HIV),,104437,104295
+355,Measles,,102011,101796
+355,Hepatitis,,78206,78019
+355,Salmonella,,79914,79594
+355,Dengue,,26812,26775
+355,Tetanus,,36074,35958
+355,COVID-19,,1693205,1685526
+356,Lower Respiratory,,2437503,2431168
+356,Diarrhea,,1630513,1627490
+356,Tuberculosis,,1157958,1154626
+356,HIV/AIDS,,871730,869070
+356,Malaria,,690978,688937
+356,Typhoid,,143174,142674
+356,Whooping cough,,128205,127763
+356,Encephalitis(brain inflammation),,97978,97750
+356,STI(not including HIV),,104881,104437
+356,Measles,,102368,102011
+356,Hepatitis,,78413,78206
+356,Salmonella,,80096,79914
+356,Dengue,,26850,26812
+356,Tetanus,,36185,36074
+356,COVID-19,,1702596,1693205
+357,Lower Respiratory,,2444437,2437503
+357,Diarrhea,,1636129,1630513
+357,Tuberculosis,,1161236,1157958
+357,HIV/AIDS,,874467,871730
+357,Malaria,,692849,690978
+357,Typhoid,,143393,143174
+357,Whooping cough,,128476,128205
+357,Encephalitis(brain inflammation),,98249,97978
+357,STI(not including HIV),,105207,104881
+357,Measles,,102709,102368
+357,Hepatitis,,78669,78413
+357,Salmonella,,80318,80096
+357,Dengue,,26879,26850
+357,Tetanus,,36305,36185
+357,COVID-19,,1717055,1702596
+358,Lower Respiratory,,2451544,2444437
+358,Diarrhea,,1639282,1636129
+358,Tuberculosis,,1164300,1161236
+358,HIV/AIDS,,876668,874467
+358,Malaria,,694871,692849
+358,Typhoid,,143633,143393
+358,Whooping cough,,128837,128476
+358,Encephalitis(brain inflammation),,98459,98249
+358,STI(not including HIV),,105473,105207
+358,Measles,,103121,102709
+358,Hepatitis,,78922,78669
+358,Salmonella,,80478,80318
+358,Dengue,,26938,26879
+358,Tetanus,,36426,36305
+358,COVID-19,,1730663,1717055
+359,Lower Respiratory,,2458562,2451544
+359,Diarrhea,,1643512,1639282
+359,Tuberculosis,,1167623,1164300
+359,HIV/AIDS,,878885,876668
+359,Malaria,,696063,694871
+359,Typhoid,,144149,143633
+359,Whooping cough,,129419,128837
+359,Encephalitis(brain inflammation),,98725,98459
+359,STI(not including HIV),,105697,105473
+359,Measles,,103617,103121
+359,Hepatitis,,79145,78922
+359,Salmonella,,80761,80478
+359,Dengue,,27045,26938
+359,Tetanus,,36508,36426
+359,COVID-19,,1742301,1730663
+360,Lower Respiratory,,2465981,2458562
+360,Diarrhea,,1647073,1643512
+360,Tuberculosis,,1170999,1167623
+360,HIV/AIDS,,881057,878885
+360,Malaria,,697234,696063
+360,Typhoid,,144742,144149
+360,Whooping cough,,129611,129419
+360,Encephalitis(brain inflammation),,98970,98725
+360,STI(not including HIV),,105898,105697
+360,Measles,,103983,103617
+360,Hepatitis,,79404,79145
+360,Salmonella,,81016,80761
+360,Dengue,,27160,27045
+360,Tetanus,,36591,36508
+360,COVID-19,,1750628,1742301
+361,Lower Respiratory,,2472553,2465981
+361,Diarrhea,,1651640,1647073
+361,Tuberculosis,,1174020,1170999
+361,HIV/AIDS,,883485,881057
+361,Malaria,,699002,697234
+361,Typhoid,,145354,144742
+361,Whooping cough,,129903,129611
+361,Encephalitis(brain inflammation),,99204,98970
+361,STI(not including HIV),,106331,105898
+361,Measles,,104180,103983
+361,Hepatitis,,79610,79404
+361,Salmonella,,81345,81016
+361,Dengue,,27187,27160
+361,Tetanus,,36676,36591
+361,COVID-19,,1757722,1750628
+362,Lower Respiratory,,2478869,2472553
+362,Diarrhea,,1656513,1651640
+362,Tuberculosis,,1177517,1174020
+362,HIV/AIDS,,886016,883485
+362,Malaria,,701282,699002
+362,Typhoid,,145793,145354
+362,Whooping cough,,130484,129903
+362,Encephalitis(brain inflammation),,99465,99204
+362,STI(not including HIV),,106670,106331
+362,Measles,,104566,104180
+362,Hepatitis,,79826,79610
+362,Salmonella,,81651,81345
+362,Dengue,,27302,27187
+362,Tetanus,,36805,36676
+362,COVID-19,,1764955,1757722
+363,Lower Respiratory,,2485654,2478869
+363,Diarrhea,,1662589,1656513
+363,Tuberculosis,,1180939,1177517
+363,HIV/AIDS,,888560,886016
+363,Malaria,,702922,701282
+363,Typhoid,,146369,145793
+363,Whooping cough,,130975,130484
+363,Encephalitis(brain inflammation),,99752,99465
+363,STI(not including HIV),,107136,106670
+363,Measles,,104866,104566
+363,Hepatitis,,80059,79826
+363,Salmonella,,81866,81651
+363,Dengue,,27391,27302
+363,Tetanus,,36914,36805
+363,COVID-19,,1774390,1764955
+364,Lower Respiratory,,2492948,2485654
+364,Diarrhea,,1668635,1662589
+364,Tuberculosis,,1184377,1180939
+364,HIV/AIDS,,890798,888560
+364,Malaria,,703909,702922
+364,Typhoid,,146795,146369
+364,Whooping cough,,131344,130975
+364,Encephalitis(brain inflammation),,100048,99752
+364,STI(not including HIV),,107265,107136
+364,Measles,,105302,104866
+364,Hepatitis,,80276,80059
+364,Salmonella,,82185,81866
+364,Dengue,,27416,27391
+364,Tetanus,,37025,36914
+364,COVID-19,,1789915,1774390
+365,Lower Respiratory,,2500328,2492948
+365,Diarrhea,,1672751,1668635
+365,Tuberculosis,,1187397,1184377
+365,HIV/AIDS,,893375,890798
+365,Malaria,,706074,703909
+365,Typhoid,,147278,146795
+365,Whooping cough,,131715,131344
+365,Encephalitis(brain inflammation),,100348,100048
+365,STI(not including HIV),,107664,107265
+365,Measles,,105683,105302
+365,Hepatitis,,80513,80276
+365,Salmonella,,82447,82185
+365,Dengue,,27531,27416
+365,Tetanus,,37138,37025
+365,COVID-19,,1805008,1789915
+366,Lower Respiratory,,2507142,2500328
+366,Diarrhea,,1678272,1672751
+366,Tuberculosis,,1190764,1187397
+366,HIV/AIDS,,895956,893375
+366,Malaria,,707949,706074
+366,Typhoid,,147726,147278
+366,Whooping cough,,132046,131715
+366,Encephalitis(brain inflammation),,100647,100348
+366,STI(not including HIV),,108091,107664
+366,Measles,,105792,105683
+366,Hepatitis,,80747,80513
+366,Salmonella,,82777,82447
+366,Dengue,,27580,27531
+366,Tetanus,,37226,37138
+366,COVID-19,,1818116,1805008

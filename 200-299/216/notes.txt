@@ -1,0 +1,30 @@
+COVID-19 global deaths in 2020 vs other communicable diseases
+
+In this video, we look at the total number deaths worldwide caused by COVID-19 and other communicable diseases. A communicable disease is any disease that passes between people or animals and can be caused by pathogens including viruses, bacteria and fungi. I thought it would be interesting to show how COVID-19 ranked among other communicable diseases.
+
+Source:
+- Global Burden of Disease Study (for other communicable diseases)
+- John Hopkins University (for COVID data)
+
+#coronavirus, #disease, #2020
+
+coronavirus, covid-19, 2020, lower respiratory, pneumonia, diarrhea, tuberculosis, hiv, aids, malaria, typhoid, cough, sti, measles, disease
+
+
+R
+[OC] Comparing COVID-19 global deaths in 2020 vs other communicable diseases
+
+Data is measured in total number of global deaths
+
+In this visualization, I look at the total number of deaths in the world in 2020 caused by COVID-19 and compare that to other communicable diseases. A communicable disease is any disease that passes between people or animals and can be caused by pathogens including viruses, bacteria and fungi.
+
+Data for the other communicable diseases was taken from the Global Burden of Disease Study(which has this data up until 2019) and adjusted for 2020 population.
+
+Enjoy my visualizations? You can follow me on YouTube: StatPanda
+
+Sources
+- Global Burden of Disease Study (http://ghdx.healthdata.org/gbd-results-tool)
+- John Hopkins University Github (https://github.com/CSSEGISandData/COVID-19)
+
+Tools used
+- D3.js (https://d3js.org/)

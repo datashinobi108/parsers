@@ -1,0 +1,47 @@
+{
+  "Lower Respiratory": {
+    "url": "http://localhost:8888/assets/resp.svg"
+  },
+  "Diarrhea": {
+    "url": "http://localhost:8888/assets/diarrhea.svg"
+  },
+  "Tuberculosis": {
+    "url": "http://localhost:8888/assets/tuberculosis.svg"
+  },
+  "HIV/AIDS": {
+    "url": "http://localhost:8888/assets/HIV.svg"
+  },
+  "Malaria": {
+    "url": "http://localhost:8888/assets/malaria.svg"
+  },
+  "Typhoid": {
+    "url": "http://localhost:8888/assets/typhoid.svg"
+  },
+  "Whooping cough": {
+    "url": "http://localhost:8888/assets/pertussis.svg"
+  },
+  "Encephalitis(brain inflammation)": {
+    "url": "http://localhost:8888/assets/encephalitis.svg"
+  },
+  "STI(not including HIV)": {
+    "url": "http://localhost:8888/assets/STI.svg"
+  },
+  "Measles": {
+    "url": "http://localhost:8888/assets/measles.svg"
+  },
+  "Hepatitis": {
+    "url": "http://localhost:8888/assets/"
+  },
+  "Salmonella": {
+    "url": "http://localhost:8888/assets/salmonella.svg"
+  },
+  "Dengue": {
+    "url": "http://localhost:8888/assets/"
+  },
+  "Tetanus": {
+    "url": "http://localhost:8888/assets/"
+  },
+  "COVID-19": {
+    "url": "http://localhost:8888/assets/covid.svg"
+  }
+}
