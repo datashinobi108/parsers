@@ -120,3 +120,4 @@ dataShinobi108@gmail.com
 - 214: World's richest people (2010-2021)
 - 215: Who we spend our time with by age
 - 216: Coronavirus vs other communicable diseases (2020)
+- 217: Coronavirus: Vaccinations per 100 people
