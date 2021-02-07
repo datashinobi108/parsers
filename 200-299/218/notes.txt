@@ -1,0 +1,26 @@
+What are the most popular programming languages?
+
+In this video, we look at the most popular programming languages from July 2004 to February 2021. The data here is based off of PYPL(PopularitY of Programming Language) index. The PYPL index is created by analyzing how often language tutorials are searched on Google: the more a language tutorial is searched, the more popular the language is assumed to be.
+
+Source:
+https://pypl.github.io/PYPL.html
+
+#programming #languages #2021
+
+programming, computers, developer, code, language, tech, internet, google, google trends, data
+
+
+R
+[OC] What are the most popular programming languages?
+
+Data is measured using the PYPL(PopularitY of Programming Language) index.
+
+In this visualization, I look at most popular programming languages from Jul 2004 to Feb 2021. The PYPL index is created by analyzing how often programming language tutorials are searched for on Google; the more a certain programming language is searched for, the more popular it is assumed to be.
+
+Enjoy my visualizations? You can follow me on YouTube: StatPanda
+
+Sources
+https://pypl.github.io/PYPL.html
+
+Tools used
+- D3.js (https://d3js.org/)

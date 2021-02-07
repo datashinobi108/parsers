@@ -1,0 +1,114 @@
+{
+  "Abap": {
+    "url": "",
+    "color": ""
+  },
+  "Ada": {
+    "url": "",
+    "color": ""
+  },
+  "C/C++": {
+    "url": "http://localhost:8888/assets/c.png",
+    "color": "#01589D"
+  },
+  "C#": {
+    "url": "http://localhost:8888/assets/c_sharp.png",
+    "color": "#390098"
+  },
+  "Cobol": {
+    "url": "",
+    "color": ""
+  },
+  "Dart": {
+    "url": "",
+    "color": ""
+  },
+  "Delphi": {
+    "url": "http://localhost:8888/assets/delphi.png",
+    "color": "#DB2426"
+  },
+  "Go": {
+    "url": "",
+    "color": ""
+  },
+  "Groovy": {
+    "url": "",
+    "color": ""
+  },
+  "Haskell": {
+    "url": "",
+    "color": ""
+  },
+  "Java": {
+    "url": "http://localhost:8888/assets/java.svg",
+    "color": "#74A1FB"
+  },
+  "JavaScript": {
+    "url": "http://localhost:8888/assets/javascript.svg",
+    "color": "#D4B830"
+  },
+  "Julia": {
+    "url": "",
+    "color": ""
+  },
+  "Kotlin": {
+    "url": "",
+    "color": ""
+  },
+  "Lua": {
+    "url": "",
+    "color": ""
+  },
+  "Matlab": {
+    "url": "http://localhost:8888/assets/matlab.png",
+    "color": "#D16431"
+  },
+  "Objective-C": {
+    "url": "http://localhost:8888/assets/obj_c.png",
+    "color": "#AAAAAA"
+  },
+  "Perl": {
+    "url": "http://localhost:8888/assets/perl.svg",
+    "color": "#014065"
+  },
+  "PHP": {
+    "url": "http://localhost:8888/assets/php.png",
+    "color": "#8993BE"
+  },
+  "Python": {
+    "url": "http://localhost:8888/assets/python.png",
+    "color": "#3773A6"
+  },
+  "R": {
+    "url": "http://localhost:8888/assets/r.png",
+    "color": "#2166B9"
+  },
+  "Ruby": {
+    "url": "http://localhost:8888/assets/ruby.png",
+    "color": "#C5292A"
+  },
+  "Rust": {
+    "url": "",
+    "color": ""
+  },
+  "Scala": {
+    "url": "",
+    "color": ""
+  },
+  "Swift": {
+    "url": "http://localhost:8888/assets/swift.png",
+    "color": "#F05238"
+  },
+  "TypeScript": {
+    "url": "http://localhost:8888/assets/typescript.png",
+    "color": "#007ACC"
+  },
+  "VBA": {
+    "url": "http://localhost:8888/assets/vba.svg",
+    "color": "#FD5050"
+  },
+  "Visual Basic": {
+    "url": "http://localhost:8888/assets/visual_b.svg",
+    "color": "#662E91"
+  }
+}
