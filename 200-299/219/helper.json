@@ -1,0 +1,86 @@
+{
+  "Samsung": {
+    "url": "http://localhost:8888/assets/samsung.png",
+    "color": "#0550A8"
+  },
+  "Apple": {
+    "url": "http://localhost:8888/assets/apple.png",
+    "color": "#AAAAAA"
+  },
+  "Nokia": {
+    "url": "http://localhost:8888/assets/nokia.png",
+    "color": "#1D4598"
+  },
+  "Huawei": {
+    "url": "http://localhost:8888/assets/huawei.png",
+    "color": "#D00328"
+  },
+  "LG": {
+    "url": "http://localhost:8888/assets/lg.png",
+    "color": "#C4094F"
+  },
+  "Xiaomi": {
+    "url": "http://localhost:8888/assets/xiaomi.png",
+    "color": "#FF6701"
+  },
+  "Sony": {
+    "url": "http://localhost:8888/assets/sony.png",
+    "color": "#000000"
+  },
+  "Motorola": {
+    "url": "http://localhost:8888/assets/motorola.png",
+    "color": "#01BBD2"
+  },
+  "Oppo": {
+    "url": "http://localhost:8888/assets/oppo.svg",
+    "color": "#006B33"
+  },
+  "HTC": {
+    "url": "http://localhost:8888/assets/htc.svg",
+    "color": "#69B410"
+  },
+  "Lenovo": {
+    "url": "http://localhost:8888/assets/lenovo.png",
+    "color": "#E2241A"
+  },
+  "RIM": {
+    "url": "http://localhost:8888/assets/rim.png",
+    "color": "#0278A9"
+  },
+  "Micromax": {
+    "url": "http://localhost:8888/assets/micromax.png",
+    "color": "#F36F21"
+  },
+  "Mobicel": {
+    "url": "http://localhost:8888/assets/mobicel.png",
+    "color": "#902375"
+  },
+  "Google": {
+    "url": "http://localhost:8888/assets/google.png",
+    "color": "#4082EC"
+  },
+  "OnePlus": {
+    "url": "http://localhost:8888/assets/oneplus.png",
+    "color": "#EB002B"
+  },
+  "Realme": {
+    "url": "http://localhost:8888/assets/realme.png",
+    "color": "#FFC914"
+  },
+  "Vivo": {
+    "url": "http://localhost:8888/assets/vivo.png",
+    "color": "#0069B4"
+  },
+  "Nintendo": {
+    "url": "http://localhost:8888/assets/nintendo.png",
+    "color": "#D80301"
+  },
+  "T-Mobile": {
+    "url": "http://localhost:8888/assets/t-mobile.png",
+    "color": "#E2027A"
+  },
+  "Other": {
+    "url": "http://localhost:8888/assets/other.png",
+    "color": "#31373E"
+  }
+}
