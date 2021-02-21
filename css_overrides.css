@@ -6,7 +6,7 @@ div.flourish-footer-text {
 }
 
 rect {
-  rx: 8px;
+  rx: 16px;
 }
 
 g.tick line {
