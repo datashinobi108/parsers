@@ -1,0 +1,2611 @@
+date,name,category,value,lastValue
+0,Windows,,94.8,94.8
+0,Android,,0,0
+0,iOS,,0.24,0.24
+0,OS X,,3.66,3.66
+0,Linux,,0.64,0.64
+0,SymbianOS,,0.26,0.26
+0,BlackBerry OS,,0.01,0.01
+0,Samsung,,0,0
+0,Nokia,,0,0
+0,Chrome OS,,0,0
+0,Playstation,,0.1,0.1
+0,Sony Ericsson,,0,0
+0,KaiOS,,0,0
+0,bada,,0,0
+0,Tizen,,0,0
+0,LG,,0,0
+0,Xbox,,0,0
+0,Nintendo,,0.01,0.01
+1,Windows,,94.74,94.8
+1,Android,,0.01,0
+1,iOS,,0.25,0.24
+1,OS X,,3.73,3.66
+1,Linux,,0.61,0.64
+1,SymbianOS,,0.26,0.26
+1,BlackBerry OS,,0.04,0.01
+1,Samsung,,0,0
+1,Nokia,,0,0
+1,Chrome OS,,0,0
+1,Playstation,,0.1,0.1
+1,Sony Ericsson,,0,0
+1,KaiOS,,0,0
+1,bada,,0,0
+1,Tizen,,0,0
+1,LG,,0,0
+1,Xbox,,0,0
+1,Nintendo,,0.01,0.01
+2,Windows,,94.48,94.74
+2,Android,,0.02,0.01
+2,iOS,,0.32,0.25
+2,OS X,,3.84,3.73
+2,Linux,,0.64,0.61
+2,SymbianOS,,0.28,0.26
+2,BlackBerry OS,,0.05,0.04
+2,Samsung,,0,0
+2,Nokia,,0,0
+2,Chrome OS,,0,0
+2,Playstation,,0.11,0.1
+2,Sony Ericsson,,0,0
+2,KaiOS,,0,0
+2,bada,,0,0
+2,Tizen,,0,0
+2,LG,,0,0
+2,Xbox,,0,0
+2,Nintendo,,0.01,0.01
+3,Windows,,94.32,94.48
+3,Android,,0.02,0.02
+3,iOS,,0.36,0.32
+3,OS X,,3.89,3.84
+3,Linux,,0.66,0.64
+3,SymbianOS,,0.3,0.28
+3,BlackBerry OS,,0.06,0.05
+3,Samsung,,0,0
+3,Nokia,,0,0
+3,Chrome OS,,0,0
+3,Playstation,,0.12,0.11
+3,Sony Ericsson,,0,0
+3,KaiOS,,0,0
+3,bada,,0,0
+3,Tizen,,0,0
+3,LG,,0,0
+3,Xbox,,0,0
+3,Nintendo,,0.01,0.01
+4,Windows,,94.44,94.32
+4,Android,,0.02,0.02
+4,iOS,,0.32,0.36
+4,OS X,,3.72,3.89
+4,Linux,,0.64,0.66
+4,SymbianOS,,0.34,0.3
+4,BlackBerry OS,,0.06,0.06
+4,Samsung,,0,0
+4,Nokia,,0,0
+4,Chrome OS,,0,0
+4,Playstation,,0.12,0.12
+4,Sony Ericsson,,0,0
+4,KaiOS,,0,0
+4,bada,,0,0
+4,Tizen,,0,0
+4,LG,,0,0
+4,Xbox,,0,0
+4,Nintendo,,0.01,0.01
+5,Windows,,93.89,94.44
+5,Android,,0,0.02
+5,iOS,,0.34,0.32
+5,OS X,,4.04,3.72
+5,Linux,,0.74,0.64
+5,SymbianOS,,0.38,0.34
+5,BlackBerry OS,,0.07,0.06
+5,Samsung,,0,0
+5,Nokia,,0,0
+5,Chrome OS,,0,0
+5,Playstation,,0.14,0.12
+5,Sony Ericsson,,0,0
+5,KaiOS,,0,0
+5,bada,,0,0
+5,Tizen,,0,0
+5,LG,,0,0
+5,Xbox,,0,0
+5,Nintendo,,0.01,0.01
+6,Windows,,93.85,93.89
+6,Android,,0.02,0
+6,iOS,,0.36,0.34
+6,OS X,,4.07,4.04
+6,Linux,,0.76,0.74
+6,SymbianOS,,0.25,0.38
+6,BlackBerry OS,,0.09,0.07
+6,Samsung,,0,0
+6,Nokia,,0,0
+6,Chrome OS,,0,0
+6,Playstation,,0.16,0.14
+6,Sony Ericsson,,0.02,0
+6,KaiOS,,0,0
+6,bada,,0,0
+6,Tizen,,0,0
+6,LG,,0,0
+6,Xbox,,0,0
+6,Nintendo,,0.02,0.01
+7,Windows,,93.66,93.85
+7,Android,,0.03,0.02
+7,iOS,,0.38,0.36
+7,OS X,,4.3,4.07
+7,Linux,,0.68,0.76
+7,SymbianOS,,0.38,0.25
+7,BlackBerry OS,,0.1,0.09
+7,Samsung,,0.02,0
+7,Nokia,,0,0
+7,Chrome OS,,0,0
+7,Playstation,,0.17,0.16
+7,Sony Ericsson,,0.08,0.02
+7,KaiOS,,0,0
+7,bada,,0,0
+7,Tizen,,0,0
+7,LG,,0,0
+7,Xbox,,0,0
+7,Nintendo,,0.02,0.02
+8,Windows,,93.58,93.66
+8,Android,,0.03,0.03
+8,iOS,,0.35,0.38
+8,OS X,,4.39,4.3
+8,Linux,,0.69,0.68
+8,SymbianOS,,0.4,0.38
+8,BlackBerry OS,,0.1,0.1
+8,Samsung,,0.02,0.02
+8,Nokia,,0,0
+8,Chrome OS,,0,0
+8,Playstation,,0.14,0.17
+8,Sony Ericsson,,0.08,0.08
+8,KaiOS,,0,0
+8,bada,,0,0
+8,Tizen,,0,0
+8,LG,,0,0
+8,Xbox,,0,0
+8,Nintendo,,0.02,0.02
+9,Windows,,93.29,93.58
+9,Android,,0.03,0.03
+9,iOS,,0.35,0.35
+9,OS X,,4.66,4.39
+9,Linux,,0.68,0.69
+9,SymbianOS,,0.44,0.4
+9,BlackBerry OS,,0.1,0.1
+9,Samsung,,0.02,0.02
+9,Nokia,,0,0
+9,Chrome OS,,0,0
+9,Playstation,,0.15,0.14
+9,Sony Ericsson,,0.08,0.08
+9,KaiOS,,0,0
+9,bada,,0,0
+9,Tizen,,0,0
+9,LG,,0,0
+9,Xbox,,0,0
+9,Nintendo,,0.02,0.02
+10,Windows,,92.87,93.29
+10,Android,,0.04,0.03
+10,iOS,,0.38,0.35
+10,OS X,,4.9,4.66
+10,Linux,,0.71,0.68
+10,SymbianOS,,0.44,0.44
+10,BlackBerry OS,,0.12,0.1
+10,Samsung,,0.02,0.02
+10,Nokia,,0,0
+10,Chrome OS,,0,0
+10,Playstation,,0.16,0.15
+10,Sony Ericsson,,0.08,0.08
+10,KaiOS,,0,0
+10,bada,,0,0
+10,Tizen,,0,0
+10,LG,,0,0
+10,Xbox,,0,0
+10,Nintendo,,0.02,0.02
+11,Windows,,93,92.87
+11,Android,,0.05,0.04
+11,iOS,,0.41,0.38
+11,OS X,,4.66,4.9
+11,Linux,,0.68,0.71
+11,SymbianOS,,0.45,0.44
+11,BlackBerry OS,,0.12,0.12
+11,Samsung,,0.02,0.02
+11,Nokia,,0,0
+11,Chrome OS,,0,0
+11,Playstation,,0.17,0.16
+11,Sony Ericsson,,0.09,0.08
+11,KaiOS,,0,0
+11,bada,,0,0
+11,Tizen,,0,0
+11,LG,,0,0
+11,Xbox,,0,0
+11,Nintendo,,0.02,0.02
+12,Windows,,92.31,93
+12,Android,,0.07,0.05
+12,iOS,,0.52,0.41
+12,OS X,,5.08,4.66
+12,Linux,,0.69,0.68
+12,SymbianOS,,0.53,0.45
+12,BlackBerry OS,,0.16,0.12
+12,Samsung,,0.03,0.02
+12,Nokia,,0,0
+12,Chrome OS,,0,0
+12,Playstation,,0.17,0.17
+12,Sony Ericsson,,0.11,0.09
+12,KaiOS,,0,0
+12,bada,,0,0
+12,Tizen,,0,0
+12,LG,,0,0
+12,Xbox,,0,0
+12,Nintendo,,0.02,0.02
+13,Windows,,91.78,92.31
+13,Android,,0.09,0.07
+13,iOS,,0.58,0.52
+13,OS X,,5.53,5.08
+13,Linux,,0.73,0.69
+13,SymbianOS,,0.56,0.53
+13,BlackBerry OS,,0.19,0.16
+13,Samsung,,0.03,0.03
+13,Nokia,,0,0
+13,Chrome OS,,0,0
+13,Playstation,,0.15,0.17
+13,Sony Ericsson,,0.11,0.11
+13,KaiOS,,0,0
+13,bada,,0,0
+13,Tizen,,0,0
+13,LG,,0,0
+13,Xbox,,0,0
+13,Nintendo,,0.02,0.02
+14,Windows,,91.36,91.78
+14,Android,,0.12,0.09
+14,iOS,,0.59,0.58
+14,OS X,,5.67,5.53
+14,Linux,,0.77,0.73
+14,SymbianOS,,0.68,0.56
+14,BlackBerry OS,,0.25,0.19
+14,Samsung,,0.03,0.03
+14,Nokia,,0,0
+14,Chrome OS,,0,0
+14,Playstation,,0.15,0.15
+14,Sony Ericsson,,0.12,0.11
+14,KaiOS,,0,0
+14,bada,,0,0
+14,Tizen,,0,0
+14,LG,,0,0
+14,Xbox,,0,0
+14,Nintendo,,0.02,0.02
+15,Windows,,90.95,91.36
+15,Android,,0.12,0.12
+15,iOS,,0.64,0.59
+15,OS X,,5.79,5.67
+15,Linux,,0.78,0.77
+15,SymbianOS,,0.73,0.68
+15,BlackBerry OS,,0.31,0.25
+15,Samsung,,0.04,0.03
+15,Nokia,,0,0
+15,Chrome OS,,0,0
+15,Playstation,,0.16,0.15
+15,Sony Ericsson,,0.13,0.12
+15,KaiOS,,0,0
+15,bada,,0,0
+15,Tizen,,0,0
+15,LG,,0,0
+15,Xbox,,0,0
+15,Nintendo,,0.02,0.02
+16,Windows,,90.89,90.95
+16,Android,,0.09,0.12
+16,iOS,,0.7,0.64
+16,OS X,,5.63,5.79
+16,Linux,,0.79,0.78
+16,SymbianOS,,0.77,0.73
+16,BlackBerry OS,,0.33,0.31
+16,Samsung,,0.07,0.04
+16,Nokia,,0,0
+16,Chrome OS,,0,0
+16,Playstation,,0.17,0.16
+16,Sony Ericsson,,0.14,0.13
+16,KaiOS,,0,0
+16,bada,,0,0
+16,Tizen,,0,0
+16,LG,,0,0
+16,Xbox,,0,0
+16,Nintendo,,0.02,0.02
+17,Windows,,90.88,90.89
+17,Android,,0.1,0.09
+17,iOS,,0.79,0.7
+17,OS X,,5.42,5.63
+17,Linux,,0.78,0.79
+17,SymbianOS,,0.86,0.77
+17,BlackBerry OS,,0.39,0.33
+17,Samsung,,0.09,0.07
+17,Nokia,,0,0
+17,Chrome OS,,0,0
+17,Playstation,,0.17,0.17
+17,Sony Ericsson,,0.15,0.14
+17,KaiOS,,0,0
+17,bada,,0,0
+17,Tizen,,0,0
+17,LG,,0,0
+17,Xbox,,0,0
+17,Nintendo,,0.03,0.02
+18,Windows,,90.63,90.88
+18,Android,,0.23,0.1
+18,iOS,,0.88,0.79
+18,OS X,,5.38,5.42
+18,Linux,,0.75,0.78
+18,SymbianOS,,0.92,0.86
+18,BlackBerry OS,,0.47,0.39
+18,Samsung,,0.08,0.09
+18,Nokia,,0,0
+18,Chrome OS,,0,0
+18,Playstation,,0.18,0.17
+18,Sony Ericsson,,0.16,0.15
+18,KaiOS,,0,0
+18,bada,,0,0
+18,Tizen,,0,0
+18,LG,,0,0
+18,Xbox,,0,0
+18,Nintendo,,0.03,0.03
+19,Windows,,90.13,90.63
+19,Android,,0.3,0.23
+19,iOS,,1,0.88
+19,OS X,,5.48,5.38
+19,Linux,,0.77,0.75
+19,SymbianOS,,1.01,0.92
+19,BlackBerry OS,,0.54,0.47
+19,Samsung,,0.09,0.08
+19,Nokia,,0,0
+19,Chrome OS,,0,0
+19,Playstation,,0.17,0.18
+19,Sony Ericsson,,0.17,0.16
+19,KaiOS,,0,0
+19,bada,,0,0
+19,Tizen,,0,0
+19,LG,,0.01,0
+19,Xbox,,0,0
+19,Nintendo,,0.03,0.03
+20,Windows,,89.64,90.13
+20,Android,,0.34,0.3
+20,iOS,,1,1
+20,OS X,,5.69,5.48
+20,Linux,,0.76,0.77
+20,SymbianOS,,1.14,1.01
+20,BlackBerry OS,,0.63,0.54
+20,Samsung,,0.1,0.09
+20,Nokia,,0,0
+20,Chrome OS,,0,0
+20,Playstation,,0.15,0.17
+20,Sony Ericsson,,0.2,0.17
+20,KaiOS,,0,0
+20,bada,,0,0
+20,Tizen,,0,0
+20,LG,,0,0.01
+20,Xbox,,0,0
+20,Nintendo,,0.02,0.03
+21,Windows,,89.2,89.64
+21,Android,,0.41,0.34
+21,iOS,,1.08,1
+21,OS X,,5.82,5.69
+21,Linux,,0.74,0.76
+21,SymbianOS,,1.25,1.14
+21,BlackBerry OS,,0.69,0.63
+21,Samsung,,0.11,0.1
+21,Nokia,,0,0
+21,Chrome OS,,0,0
+21,Playstation,,0.15,0.15
+21,Sony Ericsson,,0.21,0.2
+21,KaiOS,,0,0
+21,bada,,0,0
+21,Tizen,,0,0
+21,LG,,0,0
+21,Xbox,,0,0
+21,Nintendo,,0.02,0.02
+22,Windows,,88.81,89.2
+22,Android,,0.47,0.41
+22,iOS,,1.13,1.08
+22,OS X,,5.97,5.82
+22,Linux,,0.75,0.74
+22,SymbianOS,,1.29,1.25
+22,BlackBerry OS,,0.77,0.69
+22,Samsung,,0.14,0.11
+22,Nokia,,0,0
+22,Chrome OS,,0,0
+22,Playstation,,0.14,0.15
+22,Sony Ericsson,,0.2,0.21
+22,KaiOS,,0,0
+22,bada,,0,0
+22,Tizen,,0,0
+22,LG,,0,0
+22,Xbox,,0,0
+22,Nintendo,,0.02,0.02
+23,Windows,,88.65,88.81
+23,Android,,0.56,0.47
+23,iOS,,1.28,1.13
+23,OS X,,6,5.97
+23,Linux,,0.72,0.75
+23,SymbianOS,,1.22,1.29
+23,BlackBerry OS,,0.74,0.77
+23,Samsung,,0.17,0.14
+23,Nokia,,0,0
+23,Chrome OS,,0,0
+23,Playstation,,0.16,0.14
+23,Sony Ericsson,,0.18,0.2
+23,KaiOS,,0,0
+23,bada,,0,0
+23,Tizen,,0,0
+23,LG,,0,0
+23,Xbox,,0,0
+23,Nintendo,,0.02,0.02
+24,Windows,,88.08,88.65
+24,Android,,0.63,0.56
+24,iOS,,1.49,1.28
+24,OS X,,6.28,6
+24,Linux,,0.71,0.72
+24,SymbianOS,,1.3,1.22
+24,BlackBerry OS,,0.65,0.74
+24,Samsung,,0.19,0.17
+24,Nokia,,0,0
+24,Chrome OS,,0,0
+24,Playstation,,0.16,0.16
+24,Sony Ericsson,,0.17,0.18
+24,KaiOS,,0,0
+24,bada,,0,0
+24,Tizen,,0,0
+24,LG,,0.01,0
+24,Xbox,,0,0
+24,Nintendo,,0.02,0.02
+25,Windows,,87.91,88.08
+25,Android,,0.69,0.63
+25,iOS,,1.51,1.49
+25,OS X,,6.3,6.28
+25,Linux,,0.72,0.71
+25,SymbianOS,,1.36,1.3
+25,BlackBerry OS,,0.65,0.65
+25,Samsung,,0.2,0.19
+25,Nokia,,0,0
+25,Chrome OS,,0,0
+25,Playstation,,0.14,0.16
+25,Sony Ericsson,,0.17,0.17
+25,KaiOS,,0,0
+25,bada,,0,0
+25,Tizen,,0,0
+25,LG,,0.01,0.01
+25,Xbox,,0,0
+25,Nintendo,,0.02,0.02
+26,Windows,,87.71,87.91
+26,Android,,0.76,0.69
+26,iOS,,1.58,1.51
+26,OS X,,6.22,6.3
+26,Linux,,0.73,0.72
+26,SymbianOS,,1.44,1.36
+26,BlackBerry OS,,0.66,0.65
+26,Samsung,,0.22,0.2
+26,Nokia,,0,0
+26,Chrome OS,,0,0
+26,Playstation,,0.14,0.14
+26,Sony Ericsson,,0.18,0.17
+26,KaiOS,,0,0
+26,bada,,0,0
+26,Tizen,,0,0
+26,LG,,0.01,0.01
+26,Xbox,,0,0
+26,Nintendo,,0.02,0.02
+27,Windows,,87.22,87.71
+27,Android,,0.86,0.76
+27,iOS,,1.72,1.58
+27,OS X,,6.13,6.22
+27,Linux,,0.72,0.73
+27,SymbianOS,,1.64,1.44
+27,BlackBerry OS,,0.71,0.66
+27,Samsung,,0.26,0.22
+27,Nokia,,0,0
+27,Chrome OS,,0,0
+27,Playstation,,0.15,0.14
+27,Sony Ericsson,,0.19,0.18
+27,KaiOS,,0,0
+27,bada,,0.01,0
+27,Tizen,,0,0
+27,LG,,0.01,0.01
+27,Xbox,,0,0
+27,Nintendo,,0.02,0.02
+28,Windows,,86.69,87.22
+28,Android,,1.05,0.86
+28,iOS,,1.84,1.72
+28,OS X,,5.99,6.13
+28,Linux,,0.76,0.72
+28,SymbianOS,,1.8,1.64
+28,BlackBerry OS,,0.74,0.71
+28,Samsung,,0.29,0.26
+28,Nokia,,0,0
+28,Chrome OS,,0,0
+28,Playstation,,0.16,0.15
+28,Sony Ericsson,,0.2,0.19
+28,KaiOS,,0,0
+28,bada,,0.02,0.01
+28,Tizen,,0,0
+28,LG,,0.01,0.01
+28,Xbox,,0,0
+28,Nintendo,,0.02,0.02
+29,Windows,,85.97,86.69
+29,Android,,1.22,1.05
+29,iOS,,1.96,1.84
+29,OS X,,5.86,5.99
+29,Linux,,0.74,0.76
+29,SymbianOS,,2.19,1.8
+29,BlackBerry OS,,0.79,0.74
+29,Samsung,,0.37,0.29
+29,Nokia,,0,0
+29,Chrome OS,,0,0
+29,Playstation,,0.15,0.16
+29,Sony Ericsson,,0.21,0.2
+29,KaiOS,,0,0
+29,bada,,0.03,0.02
+29,Tizen,,0,0
+29,LG,,0.01,0.01
+29,Xbox,,0,0
+29,Nintendo,,0.02,0.02
+30,Windows,,85.45,85.97
+30,Android,,1.39,1.22
+30,iOS,,2.18,1.96
+30,OS X,,5.79,5.86
+30,Linux,,0.71,0.74
+30,SymbianOS,,2.28,2.19
+30,BlackBerry OS,,0.88,0.79
+30,Samsung,,0.4,0.37
+30,Nokia,,0,0
+30,Chrome OS,,0,0
+30,Playstation,,0.15,0.15
+30,Sony Ericsson,,0.21,0.21
+30,KaiOS,,0,0
+30,bada,,0.03,0.03
+30,Tizen,,0,0
+30,LG,,0.01,0.01
+30,Xbox,,0,0
+30,Nintendo,,0.02,0.02
+31,Windows,,85.25,85.45
+31,Android,,1.54,1.39
+31,iOS,,2.22,2.18
+31,OS X,,5.83,5.79
+31,Linux,,0.72,0.71
+31,SymbianOS,,2.29,2.28
+31,BlackBerry OS,,0.85,0.88
+31,Samsung,,0.43,0.4
+31,Nokia,,0,0
+31,Chrome OS,,0,0
+31,Playstation,,0.16,0.15
+31,Sony Ericsson,,0.19,0.21
+31,KaiOS,,0,0
+31,bada,,0.03,0.03
+31,Tizen,,0,0
+31,LG,,0.01,0.01
+31,Xbox,,0,0
+31,Nintendo,,0.02,0.02
+32,Windows,,85,85.25
+32,Android,,1.48,1.54
+32,iOS,,2.36,2.22
+32,OS X,,6.32,5.83
+32,Linux,,0.75,0.72
+32,SymbianOS,,2.15,2.29
+32,BlackBerry OS,,0.73,0.85
+32,Samsung,,0.38,0.43
+32,Nokia,,0,0
+32,Chrome OS,,0,0
+32,Playstation,,0.16,0.16
+32,Sony Ericsson,,0.15,0.19
+32,KaiOS,,0,0
+32,bada,,0.03,0.03
+32,Tizen,,0,0
+32,LG,,0.01,0.01
+32,Xbox,,0,0
+32,Nintendo,,0.02,0.02
+33,Windows,,84.58,85
+33,Android,,1.58,1.48
+33,iOS,,2.58,2.36
+33,OS X,,6.71,6.32
+33,Linux,,0.79,0.75
+33,SymbianOS,,1.95,2.15
+33,BlackBerry OS,,0.63,0.73
+33,Samsung,,0.34,0.38
+33,Nokia,,0,0
+33,Chrome OS,,0,0
+33,Playstation,,0.16,0.16
+33,Sony Ericsson,,0.13,0.15
+33,KaiOS,,0,0
+33,bada,,0.03,0.03
+33,Tizen,,0,0
+33,LG,,0.01,0.01
+33,Xbox,,0,0
+33,Nintendo,,0.02,0.02
+34,Windows,,84.25,84.58
+34,Android,,1.66,1.58
+34,iOS,,2.83,2.58
+34,OS X,,6.56,6.71
+34,Linux,,0.79,0.79
+34,SymbianOS,,2.15,1.95
+34,BlackBerry OS,,0.59,0.63
+34,Samsung,,0.38,0.34
+34,Nokia,,0,0
+34,Chrome OS,,0,0
+34,Playstation,,0.15,0.16
+34,Sony Ericsson,,0.13,0.13
+34,KaiOS,,0,0
+34,bada,,0.04,0.03
+34,Tizen,,0,0
+34,LG,,0.01,0.01
+34,Xbox,,0,0
+34,Nintendo,,0.02,0.02
+35,Windows,,83.07,84.25
+35,Android,,1.93,1.66
+35,iOS,,3.12,2.83
+35,OS X,,6.45,6.56
+35,Linux,,0.77,0.79
+35,SymbianOS,,2.69,2.15
+35,BlackBerry OS,,0.64,0.59
+35,Samsung,,0.45,0.38
+35,Nokia,,0,0
+35,Chrome OS,,0,0
+35,Playstation,,0.16,0.15
+35,Sony Ericsson,,0.16,0.13
+35,KaiOS,,0,0
+35,bada,,0.04,0.04
+35,Tizen,,0,0
+35,LG,,0.01,0.01
+35,Xbox,,0,0
+35,Nintendo,,0.02,0.02
+36,Windows,,82.06,83.07
+36,Android,,2.19,1.93
+36,iOS,,3.61,3.12
+36,OS X,,6.71,6.45
+36,Linux,,0.76,0.77
+36,SymbianOS,,2.71,2.69
+36,BlackBerry OS,,0.61,0.64
+36,Samsung,,0.5,0.45
+36,Nokia,,0,0
+36,Chrome OS,,0,0
+36,Playstation,,0.14,0.16
+36,Sony Ericsson,,0.15,0.16
+36,KaiOS,,0,0
+36,bada,,0.04,0.04
+36,Tizen,,0,0
+36,LG,,0.01,0.01
+36,Xbox,,0,0
+36,Nintendo,,0.02,0.02
+37,Windows,,81.92,82.06
+37,Android,,2.35,2.19
+37,iOS,,3.83,3.61
+37,OS X,,6.78,6.71
+37,Linux,,0.77,0.76
+37,SymbianOS,,2.58,2.71
+37,BlackBerry OS,,0.6,0.61
+37,Samsung,,0.43,0.5
+37,Nokia,,0,0
+37,Chrome OS,,0,0
+37,Playstation,,0.05,0.14
+37,Sony Ericsson,,0.13,0.15
+37,KaiOS,,0,0
+37,bada,,0.04,0.04
+37,Tizen,,0,0
+37,LG,,0.01,0.01
+37,Xbox,,0,0
+37,Nintendo,,0.02,0.02
+38,Windows,,81.4,81.92
+38,Android,,2.37,2.35
+38,iOS,,3.88,3.83
+38,OS X,,6.66,6.78
+38,Linux,,0.77,0.77
+38,SymbianOS,,2.83,2.58
+38,BlackBerry OS,,0.6,0.6
+38,Samsung,,0.54,0.43
+38,Nokia,,0,0
+38,Chrome OS,,0,0
+38,Playstation,,0.07,0.05
+38,Sony Ericsson,,0.15,0.13
+38,KaiOS,,0,0
+38,bada,,0.06,0.04
+38,Tizen,,0,0
+38,LG,,0.01,0.01
+38,Xbox,,0,0
+38,Nintendo,,0.02,0.02
+39,Windows,,80.31,81.4
+39,Android,,2.56,2.37
+39,iOS,,4.2,3.88
+39,OS X,,6.93,6.66
+39,Linux,,0.78,0.77
+39,SymbianOS,,2.73,2.83
+39,BlackBerry OS,,0.61,0.6
+39,Samsung,,0.65,0.54
+39,Nokia,,0,0
+39,Chrome OS,,0,0
+39,Playstation,,0.13,0.07
+39,Sony Ericsson,,0.15,0.15
+39,KaiOS,,0,0
+39,bada,,0.07,0.06
+39,Tizen,,0,0
+39,LG,,0.01,0.01
+39,Xbox,,0,0
+39,Nintendo,,0.02,0.02
+40,Windows,,79.9,80.31
+40,Android,,2.71,2.56
+40,iOS,,4.33,4.2
+40,OS X,,6.69,6.93
+40,Linux,,0.78,0.78
+40,SymbianOS,,2.05,2.73
+40,BlackBerry OS,,0.6,0.61
+40,Samsung,,0.73,0.65
+40,Nokia,,0,0
+40,Chrome OS,,0,0
+40,Playstation,,0.12,0.13
+40,Sony Ericsson,,0.15,0.15
+40,KaiOS,,0,0
+40,bada,,0.08,0.07
+40,Tizen,,0,0
+40,LG,,0.01,0.01
+40,Xbox,,0,0
+40,Nintendo,,0.02,0.02
+41,Windows,,79.72,79.9
+41,Android,,2.94,2.71
+41,iOS,,4.71,4.33
+41,OS X,,6.32,6.69
+41,Linux,,0.76,0.78
+41,SymbianOS,,1.8,2.05
+41,BlackBerry OS,,0.57,0.6
+41,Samsung,,0.75,0.73
+41,Nokia,,0,0
+41,Chrome OS,,0,0
+41,Playstation,,0.13,0.12
+41,Sony Ericsson,,0.13,0.15
+41,KaiOS,,0,0
+41,bada,,0.08,0.08
+41,Tizen,,0,0
+41,LG,,0.01,0.01
+41,Xbox,,0,0
+41,Nintendo,,0.02,0.02
+42,Windows,,79.14,79.72
+42,Android,,3.29,2.94
+42,iOS,,5.16,4.71
+42,OS X,,6.16,6.32
+42,Linux,,0.75,0.76
+42,SymbianOS,,1.49,1.8
+42,BlackBerry OS,,0.58,0.57
+42,Samsung,,0.74,0.75
+42,Nokia,,0,0
+42,Chrome OS,,0,0
+42,Playstation,,0.14,0.13
+42,Sony Ericsson,,0.13,0.13
+42,KaiOS,,0,0
+42,bada,,0.08,0.08
+42,Tizen,,0,0
+42,LG,,0.01,0.01
+42,Xbox,,0,0
+42,Nintendo,,0.02,0.02
+43,Windows,,78.47,79.14
+43,Android,,3.61,3.29
+43,iOS,,5.25,5.16
+43,OS X,,6.35,6.16
+43,Linux,,0.74,0.75
+43,SymbianOS,,1.44,1.49
+43,BlackBerry OS,,0.56,0.58
+43,Samsung,,0.75,0.74
+43,Nokia,,0,0
+43,Chrome OS,,0.01,0
+43,Playstation,,0.14,0.14
+43,Sony Ericsson,,0.12,0.13
+43,KaiOS,,0,0
+43,bada,,0.08,0.08
+43,Tizen,,0,0
+43,LG,,0.01,0.01
+43,Xbox,,0,0
+43,Nintendo,,0.02,0.02
+44,Windows,,77.84,78.47
+44,Android,,3.84,3.61
+44,iOS,,5.29,5.25
+44,OS X,,6.61,6.35
+44,Linux,,0.77,0.74
+44,SymbianOS,,1.42,1.44
+44,BlackBerry OS,,0.56,0.56
+44,Samsung,,0.78,0.75
+44,Nokia,,0,0
+44,Chrome OS,,0.01,0.01
+44,Playstation,,0.13,0.14
+44,Sony Ericsson,,0.11,0.12
+44,KaiOS,,0,0
+44,bada,,0.08,0.08
+44,Tizen,,0,0
+44,LG,,0.01,0.01
+44,Xbox,,0,0
+44,Nintendo,,0.02,0.02
+45,Windows,,77.45,77.84
+45,Android,,4.07,3.84
+45,iOS,,5.38,5.29
+45,OS X,,6.69,6.61
+45,Linux,,0.78,0.77
+45,SymbianOS,,1.39,1.42
+45,BlackBerry OS,,0.54,0.56
+45,Samsung,,0.8,0.78
+45,Nokia,,0,0
+45,Chrome OS,,0.01,0.01
+45,Playstation,,0.13,0.13
+45,Sony Ericsson,,0.11,0.11
+45,KaiOS,,0,0
+45,bada,,0.08,0.08
+45,Tizen,,0,0
+45,LG,,0.01,0.01
+45,Xbox,,0,0
+45,Nintendo,,0.02,0.02
+46,Windows,,76.64,77.45
+46,Android,,4.56,4.07
+46,iOS,,5.66,5.38
+46,OS X,,6.61,6.69
+46,Linux,,0.77,0.78
+46,SymbianOS,,1.38,1.39
+46,BlackBerry OS,,0.53,0.54
+46,Samsung,,0.82,0.8
+46,Nokia,,0,0
+46,Chrome OS,,0.01,0.01
+46,Playstation,,0.13,0.13
+46,Sony Ericsson,,0.11,0.11
+46,KaiOS,,0,0
+46,bada,,0.07,0.08
+46,Tizen,,0,0
+46,LG,,0.01,0.01
+46,Xbox,,0,0
+46,Nintendo,,0.02,0.02
+47,Windows,,75.26,76.64
+47,Android,,5.39,4.56
+47,iOS,,6.08,5.66
+47,OS X,,6.33,6.61
+47,Linux,,0.74,0.77
+47,SymbianOS,,1.5,1.38
+47,BlackBerry OS,,0.53,0.53
+47,Samsung,,0.92,0.82
+47,Nokia,,0,0
+47,Chrome OS,,0.01,0.01
+47,Playstation,,0.13,0.13
+47,Sony Ericsson,,0.12,0.11
+47,KaiOS,,0,0
+47,bada,,0.08,0.07
+47,Tizen,,0,0
+47,LG,,0.01,0.01
+47,Xbox,,0,0
+47,Nintendo,,0.02,0.02
+48,Windows,,75.02,75.26
+48,Android,,5.9,5.39
+48,iOS,,6.59,6.08
+48,OS X,,6.54,6.33
+48,Linux,,0.8,0.74
+48,SymbianOS,,1.2,1.5
+48,BlackBerry OS,,0.5,0.53
+48,Samsung,,0.68,0.92
+48,Nokia,,0,0
+48,Chrome OS,,0.01,0.01
+48,Playstation,,0.13,0.13
+48,Sony Ericsson,,0.1,0.12
+48,KaiOS,,0,0
+48,bada,,0.06,0.08
+48,Tizen,,0,0
+48,LG,,0,0.01
+48,Xbox,,0,0
+48,Nintendo,,0.02,0.02
+49,Windows,,74.46,75.02
+49,Android,,6.04,5.9
+49,iOS,,7.14,6.59
+49,OS X,,6.5,6.54
+49,Linux,,0.86,0.8
+49,SymbianOS,,1.12,1.2
+49,BlackBerry OS,,0.49,0.5
+49,Samsung,,0.66,0.68
+49,Nokia,,0,0
+49,Chrome OS,,0.01,0.01
+49,Playstation,,0.12,0.13
+49,Sony Ericsson,,0.09,0.1
+49,KaiOS,,0,0
+49,bada,,0.06,0.06
+49,Tizen,,0,0
+49,LG,,0,0
+49,Xbox,,0,0
+49,Nintendo,,0.02,0.02
+50,Windows,,74.56,74.46
+50,Android,,6.09,6.04
+50,iOS,,7.21,7.14
+50,OS X,,6.28,6.5
+50,Linux,,0.87,0.86
+50,SymbianOS,,1.1,1.12
+50,BlackBerry OS,,0.49,0.49
+50,Samsung,,0.64,0.66
+50,Nokia,,0,0
+50,Chrome OS,,0.02,0.01
+50,Playstation,,0.11,0.12
+50,Sony Ericsson,,0.09,0.09
+50,KaiOS,,0,0
+50,bada,,0.06,0.06
+50,Tizen,,0,0
+50,LG,,0,0
+50,Xbox,,0,0
+50,Nintendo,,0.02,0.02
+51,Windows,,75.34,74.56
+51,Android,,6.04,6.09
+51,iOS,,6.78,7.21
+51,OS X,,6.15,6.28
+51,Linux,,0.96,0.87
+51,SymbianOS,,1.03,1.1
+51,BlackBerry OS,,0.47,0.49
+51,Samsung,,0.6,0.64
+51,Nokia,,0,0
+51,Chrome OS,,0.02,0.02
+51,Playstation,,0.1,0.11
+51,Sony Ericsson,,0.08,0.09
+51,KaiOS,,0,0
+51,bada,,0.05,0.06
+51,Tizen,,0,0
+51,LG,,0,0
+51,Xbox,,0,0
+51,Nintendo,,0.02,0.02
+52,Windows,,74.32,75.34
+52,Android,,6.37,6.04
+52,iOS,,6.91,6.78
+52,OS X,,6.21,6.15
+52,Linux,,1.14,0.96
+52,SymbianOS,,1.07,1.03
+52,BlackBerry OS,,0.51,0.47
+52,Samsung,,0.64,0.6
+52,Nokia,,0,0
+52,Chrome OS,,0.02,0.02
+52,Playstation,,0.11,0.1
+52,Sony Ericsson,,0.08,0.08
+52,KaiOS,,0,0
+52,bada,,0.05,0.05
+52,Tizen,,0,0
+52,LG,,0,0
+52,Xbox,,0,0
+52,Nintendo,,0.02,0.02
+53,Windows,,72.51,74.32
+53,Android,,6.98,6.37
+53,iOS,,7.37,6.91
+53,OS X,,6.29,6.21
+53,Linux,,1.14,1.14
+53,SymbianOS,,1.18,1.07
+53,BlackBerry OS,,0.56,0.51
+53,Samsung,,0.73,0.64
+53,Nokia,,0,0
+53,Chrome OS,,0.02,0.02
+53,Playstation,,0.11,0.11
+53,Sony Ericsson,,0.09,0.08
+53,KaiOS,,0,0
+53,bada,,0.05,0.05
+53,Tizen,,0,0
+53,LG,,0,0
+53,Xbox,,0,0
+53,Nintendo,,0.02,0.02
+54,Windows,,71.37,72.51
+54,Android,,7.62,6.98
+54,iOS,,7.72,7.37
+54,OS X,,6.14,6.29
+54,Linux,,1.26,1.14
+54,SymbianOS,,1.05,1.18
+54,BlackBerry OS,,0.63,0.56
+54,Samsung,,0.76,0.73
+54,Nokia,,0,0
+54,Chrome OS,,0.02,0.02
+54,Playstation,,0.12,0.11
+54,Sony Ericsson,,0.09,0.09
+54,KaiOS,,0,0
+54,bada,,0.05,0.05
+54,Tizen,,0,0
+54,LG,,0.05,0
+54,Xbox,,0,0
+54,Nintendo,,0.03,0.02
+55,Windows,,70.93,71.37
+55,Android,,8.17,7.62
+55,iOS,,7.57,7.72
+55,OS X,,5.95,6.14
+55,Linux,,1.32,1.26
+55,SymbianOS,,1.08,1.05
+55,BlackBerry OS,,0.67,0.63
+55,Samsung,,0.79,0.76
+55,Nokia,,0,0
+55,Chrome OS,,0.03,0.02
+55,Playstation,,0.12,0.12
+55,Sony Ericsson,,0.09,0.09
+55,KaiOS,,0,0
+55,bada,,0.05,0.05
+55,Tizen,,0,0
+55,LG,,0.06,0.05
+55,Xbox,,0,0
+55,Nintendo,,0.03,0.03
+56,Windows,,71.5,70.93
+56,Android,,8.21,8.17
+56,iOS,,7.3,7.57
+56,OS X,,5.8,5.95
+56,Linux,,1.17,1.32
+56,SymbianOS,,1.07,1.08
+56,BlackBerry OS,,0.66,0.67
+56,Samsung,,0.82,0.79
+56,Nokia,,0,0
+56,Chrome OS,,0.03,0.03
+56,Playstation,,0.09,0.12
+56,Sony Ericsson,,0.08,0.09
+56,KaiOS,,0,0
+56,bada,,0.05,0.05
+56,Tizen,,0,0
+56,LG,,0.06,0.06
+56,Xbox,,0,0
+56,Nintendo,,0.02,0.03
+57,Windows,,69.79,71.5
+57,Android,,8.95,8.21
+57,iOS,,7.22,7.3
+57,OS X,,5.68,5.8
+57,Linux,,1.24,1.17
+57,SymbianOS,,1.22,1.07
+57,BlackBerry OS,,0.74,0.66
+57,Samsung,,0.93,0.82
+57,Nokia,,0,0
+57,Chrome OS,,0.03,0.03
+57,Playstation,,0.08,0.09
+57,Sony Ericsson,,0.11,0.08
+57,KaiOS,,0,0
+57,bada,,0.05,0.05
+57,Tizen,,0,0
+57,LG,,0.08,0.06
+57,Xbox,,0,0
+57,Nintendo,,0.02,0.02
+58,Windows,,69.12,69.79
+58,Android,,9.6,8.95
+58,iOS,,7.76,7.22
+58,OS X,,5.67,5.68
+58,Linux,,1.19,1.24
+58,SymbianOS,,1.04,1.22
+58,BlackBerry OS,,0.75,0.74
+58,Samsung,,0.91,0.93
+58,Nokia,,0.1,0
+58,Chrome OS,,0.04,0.03
+58,Playstation,,0.08,0.08
+58,Sony Ericsson,,0.1,0.11
+58,KaiOS,,0,0
+58,bada,,0.05,0.05
+58,Tizen,,0,0
+58,LG,,0.07,0.08
+58,Xbox,,0,0
+58,Nintendo,,0.02,0.02
+59,Windows,,65.4,69.12
+59,Android,,11.66,9.6
+59,iOS,,8.72,7.76
+59,OS X,,5.68,5.67
+59,Linux,,1.14,1.19
+59,SymbianOS,,1.1,1.04
+59,BlackBerry OS,,0.83,0.75
+59,Samsung,,1.01,0.91
+59,Nokia,,0.13,0.1
+59,Chrome OS,,0.07,0.04
+59,Playstation,,0.08,0.08
+59,Sony Ericsson,,0.11,0.1
+59,KaiOS,,0,0
+59,bada,,0.06,0.05
+59,Tizen,,0,0
+59,LG,,0.08,0.07
+59,Xbox,,0.01,0
+59,Nintendo,,0.02,0.02
+60,Windows,,64.39,65.4
+60,Android,,12.28,11.66
+60,iOS,,9.44,8.72
+60,OS X,,6,5.68
+60,Linux,,1.13,1.14
+60,SymbianOS,,0.98,1.1
+60,BlackBerry OS,,0.7,0.83
+60,Samsung,,0.93,1.01
+60,Nokia,,0.14,0.13
+60,Chrome OS,,0.1,0.07
+60,Playstation,,0.08,0.08
+60,Sony Ericsson,,0.09,0.11
+60,KaiOS,,0,0
+60,bada,,0.05,0.06
+60,Tizen,,0,0
+60,LG,,0.07,0.08
+60,Xbox,,0.02,0.01
+60,Nintendo,,0.02,0.02
+61,Windows,,64.12,64.39
+61,Android,,12.67,12.28
+61,iOS,,9.5,9.44
+61,OS X,,5.95,6
+61,Linux,,1.1,1.13
+61,SymbianOS,,0.93,0.98
+61,BlackBerry OS,,0.63,0.7
+61,Samsung,,0.9,0.93
+61,Nokia,,0.14,0.14
+61,Chrome OS,,0.11,0.1
+61,Playstation,,0.09,0.08
+61,Sony Ericsson,,0.08,0.09
+61,KaiOS,,0,0
+61,bada,,0.05,0.05
+61,Tizen,,0,0
+61,LG,,0.06,0.07
+61,Xbox,,0.02,0.02
+61,Nintendo,,0.02,0.02
+62,Windows,,63.41,64.12
+62,Android,,12.94,12.67
+62,iOS,,9.88,9.5
+62,OS X,,6.02,5.95
+62,Linux,,1.1,1.1
+62,SymbianOS,,0.88,0.93
+62,BlackBerry OS,,0.62,0.63
+62,Samsung,,0.87,0.9
+62,Nokia,,0.15,0.14
+62,Chrome OS,,0.12,0.11
+62,Playstation,,0.09,0.09
+62,Sony Ericsson,,0.08,0.08
+62,KaiOS,,0,0
+62,bada,,0.05,0.05
+62,Tizen,,0,0
+62,LG,,0.06,0.06
+62,Xbox,,0.02,0.02
+62,Nintendo,,0.02,0.02
+63,Windows,,63.49,63.41
+63,Android,,13.2,12.94
+63,iOS,,9.66,9.88
+63,OS X,,6.24,6.02
+63,Linux,,1.21,1.1
+63,SymbianOS,,0.81,0.88
+63,BlackBerry OS,,0.53,0.62
+63,Samsung,,0.84,0.87
+63,Nokia,,0.15,0.15
+63,Chrome OS,,0.13,0.12
+63,Playstation,,0.09,0.09
+63,Sony Ericsson,,0.07,0.08
+63,KaiOS,,0,0
+63,bada,,0.05,0.05
+63,Tizen,,0,0
+63,LG,,0.06,0.06
+63,Xbox,,0.02,0.02
+63,Nintendo,,0.02,0.02
+64,Windows,,61.46,63.49
+64,Android,,14.78,13.2
+64,iOS,,10.22,9.66
+64,OS X,,6.06,6.24
+64,Linux,,1.35,1.21
+64,SymbianOS,,0.77,0.81
+64,BlackBerry OS,,0.5,0.53
+64,Samsung,,0.79,0.84
+64,Nokia,,0.16,0.15
+64,Chrome OS,,0.13,0.13
+64,Playstation,,0.08,0.09
+64,Sony Ericsson,,0.07,0.07
+64,KaiOS,,0,0
+64,bada,,0.05,0.05
+64,Tizen,,0,0
+64,LG,,0.05,0.06
+64,Xbox,,0.02,0.02
+64,Nintendo,,0.02,0.02
+65,Windows,,60.34,61.46
+65,Android,,15.74,14.78
+65,iOS,,11.04,10.22
+65,OS X,,5.72,6.06
+65,Linux,,1.21,1.35
+65,SymbianOS,,0.74,0.77
+65,BlackBerry OS,,0.51,0.5
+65,Samsung,,0.71,0.79
+65,Nokia,,0.15,0.16
+65,Chrome OS,,0.13,0.13
+65,Playstation,,0.08,0.08
+65,Sony Ericsson,,0.06,0.07
+65,KaiOS,,0,0
+65,bada,,0.04,0.05
+65,Tizen,,0,0
+65,LG,,0.05,0.05
+65,Xbox,,0.03,0.02
+65,Nintendo,,0.02,0.02
+66,Windows,,59.37,60.34
+66,Android,,16.38,15.74
+66,iOS,,11.62,11.04
+66,OS X,,5.65,5.72
+66,Linux,,1.19,1.21
+66,SymbianOS,,0.69,0.74
+66,BlackBerry OS,,0.47,0.51
+66,Samsung,,0.69,0.71
+66,Nokia,,0.15,0.15
+66,Chrome OS,,0.12,0.13
+66,Playstation,,0.08,0.08
+66,Sony Ericsson,,0.06,0.06
+66,KaiOS,,0,0
+66,bada,,0.04,0.04
+66,Tizen,,0,0
+66,LG,,0.05,0.05
+66,Xbox,,0.03,0.03
+66,Nintendo,,0.02,0.02
+67,Windows,,58.26,59.37
+67,Android,,17.34,16.38
+67,iOS,,11.61,11.62
+67,OS X,,5.59,5.65
+67,Linux,,1.22,1.19
+67,SymbianOS,,0.71,0.69
+67,BlackBerry OS,,0.47,0.47
+67,Samsung,,0.72,0.69
+67,Nokia,,0.17,0.15
+67,Chrome OS,,0.13,0.12
+67,Playstation,,0.08,0.08
+67,Sony Ericsson,,0.06,0.06
+67,KaiOS,,0,0
+67,bada,,0.04,0.04
+67,Tizen,,0,0
+67,LG,,0.05,0.05
+67,Xbox,,0.03,0.03
+67,Nintendo,,0.02,0.02
+68,Windows,,57.12,58.26
+68,Android,,17.97,17.34
+68,iOS,,12.21,11.61
+68,OS X,,5.83,5.59
+68,Linux,,1.17,1.22
+68,SymbianOS,,0.64,0.71
+68,BlackBerry OS,,0.48,0.47
+68,Samsung,,0.67,0.72
+68,Nokia,,0.19,0.17
+68,Chrome OS,,0.16,0.13
+68,Playstation,,0.07,0.08
+68,Sony Ericsson,,0.06,0.06
+68,KaiOS,,0,0
+68,bada,,0.04,0.04
+68,Tizen,,0,0
+68,LG,,0.05,0.05
+68,Xbox,,0.02,0.03
+68,Nintendo,,0.02,0.02
+69,Windows,,56.09,57.12
+69,Android,,19.28,17.97
+69,iOS,,12.65,12.21
+69,OS X,,5.73,5.83
+69,Linux,,1.14,1.17
+69,SymbianOS,,0.55,0.64
+69,BlackBerry OS,,0.41,0.48
+69,Samsung,,0.55,0.67
+69,Nokia,,0.17,0.19
+69,Chrome OS,,0.17,0.16
+69,Playstation,,0.07,0.07
+69,Sony Ericsson,,0.05,0.06
+69,KaiOS,,0,0
+69,bada,,0.03,0.04
+69,Tizen,,0,0
+69,LG,,0.04,0.05
+69,Xbox,,0.02,0.02
+69,Nintendo,,0.02,0.02
+70,Windows,,55.5,56.09
+70,Android,,20.7,19.28
+70,iOS,,11.78,12.65
+70,OS X,,5.56,5.73
+70,Linux,,1.08,1.14
+70,SymbianOS,,0.57,0.55
+70,BlackBerry OS,,0.42,0.41
+70,Samsung,,0.55,0.55
+70,Nokia,,0.18,0.17
+70,Chrome OS,,0.18,0.17
+70,Playstation,,0.08,0.07
+70,Sony Ericsson,,0.05,0.05
+70,KaiOS,,0,0
+70,bada,,0.03,0.03
+70,Tizen,,0,0
+70,LG,,0.04,0.04
+70,Xbox,,0.02,0.02
+70,Nintendo,,0.02,0.02
+71,Windows,,55.46,55.5
+71,Android,,20.62,20.7
+71,iOS,,11.91,11.78
+71,OS X,,5.34,5.56
+71,Linux,,1.08,1.08
+71,SymbianOS,,0.57,0.57
+71,BlackBerry OS,,0.43,0.42
+71,Samsung,,0.56,0.55
+71,Nokia,,0.34,0.18
+71,Chrome OS,,0.18,0.18
+71,Playstation,,0.08,0.08
+71,Sony Ericsson,,0.05,0.05
+71,KaiOS,,0,0
+71,bada,,0.03,0.03
+71,Tizen,,0,0
+71,LG,,0.04,0.04
+71,Xbox,,0.03,0.02
+71,Nintendo,,0.02,0.02
+72,Windows,,55.73,55.46
+72,Android,,20.46,20.62
+72,iOS,,11.41,11.91
+72,OS X,,5.67,5.34
+72,Linux,,1.11,1.08
+72,SymbianOS,,0.54,0.57
+72,BlackBerry OS,,0.42,0.43
+72,Samsung,,0.5,0.56
+72,Nokia,,0.46,0.34
+72,Chrome OS,,0.21,0.18
+72,Playstation,,0.09,0.08
+72,Sony Ericsson,,0.04,0.05
+72,KaiOS,,0,0
+72,bada,,0.03,0.03
+72,Tizen,,0,0
+72,LG,,0.04,0.04
+72,Xbox,,0.03,0.03
+72,Nintendo,,0.02,0.02
+73,Windows,,55.87,55.73
+73,Android,,20.65,20.46
+73,iOS,,11.49,11.41
+73,OS X,,5.68,5.67
+73,Linux,,1.16,1.11
+73,SymbianOS,,0.47,0.54
+73,BlackBerry OS,,0.38,0.42
+73,Samsung,,0.44,0.5
+73,Nokia,,0.43,0.46
+73,Chrome OS,,0.21,0.21
+73,Playstation,,0.09,0.09
+73,Sony Ericsson,,0.04,0.04
+73,KaiOS,,0,0
+73,bada,,0.03,0.03
+73,Tizen,,0.01,0
+73,LG,,0.04,0.04
+73,Xbox,,0.03,0.03
+73,Nintendo,,0.02,0.02
+74,Windows,,54.89,55.87
+74,Android,,21.37,20.65
+74,iOS,,11.23,11.49
+74,OS X,,6.11,5.68
+74,Linux,,1.32,1.16
+74,SymbianOS,,0.43,0.47
+74,BlackBerry OS,,0.39,0.38
+74,Samsung,,0.4,0.44
+74,Nokia,,0.44,0.43
+74,Chrome OS,,0.21,0.21
+74,Playstation,,0.08,0.09
+74,Sony Ericsson,,0.04,0.04
+74,KaiOS,,0,0
+74,bada,,0.03,0.03
+74,Tizen,,0.01,0.01
+74,LG,,0.03,0.04
+74,Xbox,,0.03,0.03
+74,Nintendo,,0.02,0.02
+75,Windows,,55.3,54.89
+75,Android,,21.69,21.37
+75,iOS,,10.35,11.23
+75,OS X,,6.02,6.11
+75,Linux,,1.38,1.32
+75,SymbianOS,,0.42,0.43
+75,BlackBerry OS,,0.39,0.39
+75,Samsung,,0.38,0.4
+75,Nokia,,0.48,0.44
+75,Chrome OS,,0.22,0.21
+75,Playstation,,0.08,0.08
+75,Sony Ericsson,,0.04,0.04
+75,KaiOS,,0,0
+75,bada,,0.03,0.03
+75,Tizen,,0.01,0.01
+75,LG,,0.03,0.03
+75,Xbox,,0.03,0.03
+75,Nintendo,,0.01,0.02
+76,Windows,,53.7,55.3
+76,Android,,22.76,21.69
+76,iOS,,10.34,10.35
+76,OS X,,6.46,6.02
+76,Linux,,1.29,1.38
+76,SymbianOS,,0.43,0.42
+76,BlackBerry OS,,0.38,0.39
+76,Samsung,,0.36,0.38
+76,Nokia,,0.61,0.48
+76,Chrome OS,,0.23,0.22
+76,Playstation,,0.07,0.08
+76,Sony Ericsson,,0.04,0.04
+76,KaiOS,,0,0
+76,bada,,0.03,0.03
+76,Tizen,,0.01,0.01
+76,LG,,0.03,0.03
+76,Xbox,,0.02,0.03
+76,Nintendo,,0.01,0.01
+77,Windows,,52.65,53.7
+77,Android,,23.56,22.76
+77,iOS,,10.6,10.34
+77,OS X,,6.11,6.46
+77,Linux,,1.27,1.29
+77,SymbianOS,,0.44,0.43
+77,BlackBerry OS,,0.44,0.38
+77,Samsung,,0.37,0.36
+77,Nokia,,0.76,0.61
+77,Chrome OS,,0.17,0.23
+77,Playstation,,0.07,0.07
+77,Sony Ericsson,,0.04,0.04
+77,KaiOS,,0,0
+77,bada,,0.02,0.03
+77,Tizen,,0.02,0.01
+77,LG,,0.03,0.03
+77,Xbox,,0.02,0.02
+77,Nintendo,,0.01,0.01
+78,Windows,,50.85,52.65
+78,Android,,25.62,23.56
+78,iOS,,11.37,10.6
+78,OS X,,4.9,6.11
+78,Linux,,1.12,1.27
+78,SymbianOS,,0.43,0.44
+78,BlackBerry OS,,0.45,0.44
+78,Samsung,,0.36,0.37
+78,Nokia,,0.84,0.76
+78,Chrome OS,,0.15,0.17
+78,Playstation,,0.07,0.07
+78,Sony Ericsson,,0.04,0.04
+78,KaiOS,,0,0
+78,bada,,0.02,0.02
+78,Tizen,,0.02,0.02
+78,LG,,0.04,0.03
+78,Xbox,,0.03,0.02
+78,Nintendo,,0.01,0.01
+79,Windows,,49.51,50.85
+79,Android,,27.39,25.62
+79,iOS,,11.11,11.37
+79,OS X,,4.51,4.9
+79,Linux,,1.17,1.12
+79,SymbianOS,,0.41,0.43
+79,BlackBerry OS,,0.54,0.45
+79,Samsung,,0.35,0.36
+79,Nokia,,0.9,0.84
+79,Chrome OS,,0.16,0.15
+79,Playstation,,0.08,0.07
+79,Sony Ericsson,,0.03,0.04
+79,KaiOS,,0,0
+79,bada,,0.02,0.02
+79,Tizen,,0.02,0.02
+79,LG,,0.04,0.04
+79,Xbox,,0.03,0.03
+79,Nintendo,,0.01,0.01
+80,Windows,,49.77,49.51
+80,Android,,27.52,27.39
+80,iOS,,10.53,11.11
+80,OS X,,4.82,4.51
+80,Linux,,1.2,1.17
+80,SymbianOS,,0.37,0.41
+80,BlackBerry OS,,0.49,0.54
+80,Samsung,,0.34,0.35
+80,Nokia,,0.91,0.9
+80,Chrome OS,,0.23,0.16
+80,Playstation,,0.07,0.08
+80,Sony Ericsson,,0.03,0.03
+80,KaiOS,,0,0
+80,bada,,0.02,0.02
+80,Tizen,,0.02,0.02
+80,LG,,0.04,0.04
+80,Xbox,,0.02,0.03
+80,Nintendo,,0.01,0.01
+81,Windows,,49.18,49.77
+81,Android,,27.85,27.52
+81,iOS,,10.23,10.53
+81,OS X,,5.03,4.82
+81,Linux,,1.17,1.2
+81,SymbianOS,,0.36,0.37
+81,BlackBerry OS,,0.43,0.49
+81,Samsung,,0.33,0.34
+81,Nokia,,0.99,0.91
+81,Chrome OS,,0.26,0.23
+81,Playstation,,0.07,0.07
+81,Sony Ericsson,,0.03,0.03
+81,KaiOS,,0,0
+81,bada,,0.02,0.02
+81,Tizen,,0.02,0.02
+81,LG,,0.04,0.04
+81,Xbox,,0.02,0.02
+81,Nintendo,,0.01,0.01
+82,Windows,,49.96,49.18
+82,Android,,26.34,27.85
+82,iOS,,10.68,10.23
+82,OS X,,5.35,5.03
+82,Linux,,1.08,1.17
+82,SymbianOS,,0.33,0.36
+82,BlackBerry OS,,0.38,0.43
+82,Samsung,,0.32,0.33
+82,Nokia,,0.94,0.99
+82,Chrome OS,,0.27,0.26
+82,Playstation,,0.07,0.07
+82,Sony Ericsson,,0.03,0.03
+82,KaiOS,,0,0
+82,bada,,0.02,0.02
+82,Tizen,,0.02,0.02
+82,LG,,0.04,0.04
+82,Xbox,,0.02,0.02
+82,Nintendo,,0.01,0.01
+83,Windows,,48.63,49.96
+83,Android,,27.05,26.34
+83,iOS,,10.82,10.68
+83,OS X,,5.51,5.35
+83,Linux,,1.03,1.08
+83,SymbianOS,,0.31,0.33
+83,BlackBerry OS,,0.42,0.38
+83,Samsung,,0.31,0.32
+83,Nokia,,1.01,0.94
+83,Chrome OS,,0.29,0.27
+83,Playstation,,0.07,0.07
+83,Sony Ericsson,,0.03,0.03
+83,KaiOS,,0,0
+83,bada,,0.02,0.02
+83,Tizen,,0.02,0.02
+83,LG,,0.03,0.04
+83,Xbox,,0.02,0.02
+83,Nintendo,,0.01,0.01
+84,Windows,,48.42,48.63
+84,Android,,27.42,27.05
+84,iOS,,11.1,10.82
+84,OS X,,5.04,5.51
+84,Linux,,1.02,1.03
+84,SymbianOS,,0.29,0.31
+84,BlackBerry OS,,0.39,0.42
+84,Samsung,,0.29,0.31
+84,Nokia,,0.98,1.01
+84,Chrome OS,,0.29,0.29
+84,Playstation,,0.08,0.07
+84,Sony Ericsson,,0.03,0.03
+84,KaiOS,,0,0
+84,bada,,0.02,0.02
+84,Tizen,,0.02,0.02
+84,LG,,0.03,0.03
+84,Xbox,,0.02,0.02
+84,Nintendo,,0.01,0.01
+85,Windows,,48.15,48.42
+85,Android,,27.51,27.42
+85,iOS,,11.04,11.1
+85,OS X,,5.2,5.04
+85,Linux,,1,1.02
+85,SymbianOS,,0.29,0.29
+85,BlackBerry OS,,0.39,0.39
+85,Samsung,,0.29,0.29
+85,Nokia,,0.97,0.98
+85,Chrome OS,,0.3,0.29
+85,Playstation,,0.09,0.08
+85,Sony Ericsson,,0.03,0.03
+85,KaiOS,,0,0
+85,bada,,0.02,0.02
+85,Tizen,,0.03,0.02
+85,LG,,0.03,0.03
+85,Xbox,,0.03,0.02
+85,Nintendo,,0.01,0.01
+86,Windows,,47.32,48.15
+86,Android,,29.34,27.51
+86,iOS,,11.02,11.04
+86,OS X,,5.08,5.2
+86,Linux,,0.95,1
+86,SymbianOS,,0.28,0.29
+86,BlackBerry OS,,0.38,0.39
+86,Samsung,,0.29,0.29
+86,Nokia,,0.94,0.97
+86,Chrome OS,,0.29,0.3
+86,Playstation,,0.08,0.09
+86,Sony Ericsson,,0.03,0.03
+86,KaiOS,,0,0
+86,bada,,0.02,0.02
+86,Tizen,,0.03,0.03
+86,LG,,0.03,0.03
+86,Xbox,,0.02,0.03
+86,Nintendo,,0.01,0.01
+87,Windows,,46.44,47.32
+87,Android,,29.9,29.34
+87,iOS,,11.12,11.02
+87,OS X,,5.09,5.08
+87,Linux,,0.99,0.95
+87,SymbianOS,,0.26,0.28
+87,BlackBerry OS,,0.4,0.38
+87,Samsung,,0.28,0.29
+87,Nokia,,0.96,0.94
+87,Chrome OS,,0.3,0.29
+87,Playstation,,0.08,0.08
+87,Sony Ericsson,,0.02,0.03
+87,KaiOS,,0,0
+87,bada,,0.01,0.02
+87,Tizen,,0.03,0.03
+87,LG,,0.03,0.03
+87,Xbox,,0.03,0.02
+87,Nintendo,,0.01,0.01
+88,Windows,,44.29,46.44
+88,Android,,31.6,29.9
+88,iOS,,11.38,11.12
+88,OS X,,5.05,5.09
+88,Linux,,0.91,0.99
+88,SymbianOS,,0.26,0.26
+88,BlackBerry OS,,0.41,0.4
+88,Samsung,,0.3,0.28
+88,Nokia,,0.99,0.96
+88,Chrome OS,,0.3,0.3
+88,Playstation,,0.1,0.08
+88,Sony Ericsson,,0.03,0.02
+88,KaiOS,,0,0
+88,bada,,0.01,0.01
+88,Tizen,,0.04,0.03
+88,LG,,0.03,0.03
+88,Xbox,,0.03,0.03
+88,Nintendo,,0.01,0.01
+89,Windows,,45.55,44.29
+89,Android,,30.15,31.6
+89,iOS,,11.83,11.38
+89,OS X,,5.29,5.05
+89,Linux,,0.96,0.91
+89,SymbianOS,,0.2,0.26
+89,BlackBerry OS,,0.35,0.41
+89,Samsung,,0.29,0.3
+89,Nokia,,0.79,0.99
+89,Chrome OS,,0.22,0.3
+89,Playstation,,0.1,0.1
+89,Sony Ericsson,,0.03,0.03
+89,KaiOS,,0,0
+89,bada,,0.01,0.01
+89,Tizen,,0.04,0.04
+89,LG,,0.03,0.03
+89,Xbox,,0.03,0.03
+89,Nintendo,,0.01,0.01
+90,Windows,,42.56,45.55
+90,Android,,32.48,30.15
+90,iOS,,12.25,11.83
+90,OS X,,4.81,5.29
+90,Linux,,0.96,0.96
+90,SymbianOS,,0.22,0.2
+90,BlackBerry OS,,0.34,0.35
+90,Samsung,,0.3,0.29
+90,Nokia,,0.87,0.79
+90,Chrome OS,,0.18,0.22
+90,Playstation,,0.09,0.1
+90,Sony Ericsson,,0.03,0.03
+90,KaiOS,,0,0
+90,bada,,0.01,0.01
+90,Tizen,,0.04,0.04
+90,LG,,0.03,0.03
+90,Xbox,,0.03,0.03
+90,Nintendo,,0.01,0.01
+91,Windows,,42.49,42.56
+91,Android,,32.07,32.48
+91,iOS,,12.16,12.25
+91,OS X,,4.96,4.81
+91,Linux,,0.98,0.96
+91,SymbianOS,,0.21,0.22
+91,BlackBerry OS,,0.29,0.34
+91,Samsung,,0.28,0.3
+91,Nokia,,0.85,0.87
+91,Chrome OS,,0.21,0.18
+91,Playstation,,0.09,0.09
+91,Sony Ericsson,,0.03,0.03
+91,KaiOS,,0,0
+91,bada,,0.01,0.01
+91,Tizen,,0.04,0.04
+91,LG,,0.03,0.03
+91,Xbox,,0.03,0.03
+91,Nintendo,,0.01,0.01
+92,Windows,,41.61,42.49
+92,Android,,32.84,32.07
+92,iOS,,11.87,12.16
+92,OS X,,5.07,4.96
+92,Linux,,0.94,0.98
+92,SymbianOS,,0.19,0.21
+92,BlackBerry OS,,0.27,0.29
+92,Samsung,,0.28,0.28
+92,Nokia,,0.84,0.85
+92,Chrome OS,,0.33,0.21
+92,Playstation,,0.1,0.09
+92,Sony Ericsson,,0.03,0.03
+92,KaiOS,,0,0
+92,bada,,0.01,0.01
+92,Tizen,,0.05,0.04
+92,LG,,0.02,0.03
+92,Xbox,,0.03,0.03
+92,Nintendo,,0.01,0.01
+93,Windows,,40.06,41.61
+93,Android,,34.46,32.84
+93,iOS,,12.04,11.87
+93,OS X,,5.3,5.07
+93,Linux,,0.85,0.94
+93,SymbianOS,,0.17,0.19
+93,BlackBerry OS,,0.27,0.27
+93,Samsung,,0.26,0.28
+93,Nokia,,0.87,0.84
+93,Chrome OS,,0.34,0.33
+93,Playstation,,0.08,0.1
+93,Sony Ericsson,,0.03,0.03
+93,KaiOS,,0,0
+93,bada,,0.01,0.01
+93,Tizen,,0.07,0.05
+93,LG,,0.02,0.02
+93,Xbox,,0.03,0.03
+93,Nintendo,,0.01,0.01
+94,Windows,,39.65,40.06
+94,Android,,36.28,34.46
+94,iOS,,12.28,12.04
+94,OS X,,5.22,5.3
+94,Linux,,0.86,0.85
+94,SymbianOS,,0.15,0.17
+94,BlackBerry OS,,0.26,0.27
+94,Samsung,,0.24,0.26
+94,Nokia,,0.79,0.87
+94,Chrome OS,,0.35,0.34
+94,Playstation,,0.08,0.08
+94,Sony Ericsson,,0.03,0.03
+94,KaiOS,,0,0
+94,bada,,0.01,0.01
+94,Tizen,,0.08,0.07
+94,LG,,0.02,0.02
+94,Xbox,,0.03,0.03
+94,Nintendo,,0.01,0.01
+95,Windows,,38.35,39.65
+95,Android,,37.8,36.28
+95,iOS,,12.71,12.28
+95,OS X,,4.92,5.22
+95,Linux,,0.86,0.86
+95,SymbianOS,,0.15,0.15
+95,BlackBerry OS,,0.22,0.26
+95,Samsung,,0.25,0.24
+95,Nokia,,0.77,0.79
+95,Chrome OS,,0.33,0.35
+95,Playstation,,0.09,0.08
+95,Sony Ericsson,,0.02,0.03
+95,KaiOS,,0,0
+95,bada,,0.01,0.01
+95,Tizen,,0.1,0.08
+95,LG,,0.02,0.02
+95,Xbox,,0.03,0.03
+95,Nintendo,,0.01,0.01
+96,Windows,,38.75,38.35
+96,Android,,37.15,37.8
+96,iOS,,13.16,12.71
+96,OS X,,5.06,4.92
+96,Linux,,0.78,0.86
+96,SymbianOS,,0.14,0.15
+96,BlackBerry OS,,0.21,0.22
+96,Samsung,,0.24,0.25
+96,Nokia,,0.75,0.77
+96,Chrome OS,,0.35,0.33
+96,Playstation,,0.09,0.09
+96,Sony Ericsson,,0.02,0.02
+96,KaiOS,,0,0
+96,bada,,0.01,0.01
+96,Tizen,,0.11,0.1
+96,LG,,0.02,0.02
+96,Xbox,,0.03,0.03
+96,Nintendo,,0.01,0.01
+97,Windows,,38.59,38.75
+97,Android,,37.42,37.15
+97,iOS,,12.99,13.16
+97,OS X,,5.24,5.06
+97,Linux,,0.77,0.78
+97,SymbianOS,,0.13,0.14
+97,BlackBerry OS,,0.23,0.21
+97,Samsung,,0.22,0.24
+97,Nokia,,0.74,0.75
+97,Chrome OS,,0.38,0.35
+97,Playstation,,0.1,0.09
+97,Sony Ericsson,,0.01,0.02
+97,KaiOS,,0,0
+97,bada,,0.01,0.01
+97,Tizen,,0.12,0.11
+97,LG,,0.02,0.02
+97,Xbox,,0.03,0.03
+97,Nintendo,,0.01,0.01
+98,Windows,,37.91,38.59
+98,Android,,37.93,37.42
+98,iOS,,13.09,12.99
+98,OS X,,5.17,5.24
+98,Linux,,0.75,0.77
+98,SymbianOS,,0.13,0.13
+98,BlackBerry OS,,0.19,0.23
+98,Samsung,,0.21,0.22
+98,Nokia,,0.68,0.74
+98,Chrome OS,,0.37,0.38
+98,Playstation,,0.09,0.1
+98,Sony Ericsson,,0.02,0.01
+98,KaiOS,,0,0
+98,bada,,0.01,0.01
+98,Tizen,,0.13,0.12
+98,LG,,0.03,0.02
+98,Xbox,,0.03,0.03
+98,Nintendo,,0,0.01
+99,Windows,,36.88,37.91
+99,Android,,38.91,37.93
+99,iOS,,13.45,13.09
+99,OS X,,5.01,5.17
+99,Linux,,0.76,0.75
+99,SymbianOS,,0.12,0.13
+99,BlackBerry OS,,0.17,0.19
+99,Samsung,,0.19,0.21
+99,Nokia,,0.63,0.68
+99,Chrome OS,,0.32,0.37
+99,Playstation,,0.1,0.09
+99,Sony Ericsson,,0.01,0.02
+99,KaiOS,,0,0
+99,bada,,0.01,0.01
+99,Tizen,,0.11,0.13
+99,LG,,0.03,0.03
+99,Xbox,,0.03,0.03
+99,Nintendo,,0,0
+100,Windows,,37.03,36.88
+100,Android,,39.13,38.91
+100,iOS,,13.04,13.45
+100,OS X,,5.12,5.01
+100,Linux,,0.75,0.76
+100,SymbianOS,,0.11,0.12
+100,BlackBerry OS,,0.16,0.17
+100,Samsung,,0.18,0.19
+100,Nokia,,0.64,0.63
+100,Chrome OS,,0.36,0.32
+100,Playstation,,0.1,0.1
+100,Sony Ericsson,,0.01,0.01
+100,KaiOS,,0,0
+100,bada,,0.01,0.01
+100,Tizen,,0.11,0.11
+100,LG,,0.03,0.03
+100,Xbox,,0.03,0.03
+100,Nintendo,,0,0
+101,Windows,,36.02,37.03
+101,Android,,40.26,39.13
+101,iOS,,13.33,13.04
+101,OS X,,4.88,5.12
+101,Linux,,0.77,0.75
+101,SymbianOS,,0.1,0.11
+101,BlackBerry OS,,0.15,0.16
+101,Samsung,,0.18,0.18
+101,Nokia,,0.63,0.64
+101,Chrome OS,,0.23,0.36
+101,Playstation,,0.1,0.1
+101,Sony Ericsson,,0.01,0.01
+101,KaiOS,,0,0
+101,bada,,0.01,0.01
+101,Tizen,,0.12,0.11
+101,LG,,0.03,0.03
+101,Xbox,,0.03,0.03
+101,Nintendo,,0.01,0
+102,Windows,,35.24,36.02
+102,Android,,41.24,40.26
+102,iOS,,13.2,13.33
+102,OS X,,4.66,4.88
+102,Linux,,0.77,0.77
+102,SymbianOS,,0.1,0.1
+102,BlackBerry OS,,0.15,0.15
+102,Samsung,,0.19,0.18
+102,Nokia,,0.63,0.63
+102,Chrome OS,,0.19,0.23
+102,Playstation,,0.11,0.1
+102,Sony Ericsson,,0.01,0.01
+102,KaiOS,,0,0
+102,bada,,0.01,0.01
+102,Tizen,,0.12,0.12
+102,LG,,0.03,0.03
+102,Xbox,,0.04,0.03
+102,Nintendo,,0.01,0.01
+103,Windows,,36.1,35.24
+103,Android,,39.82,41.24
+103,iOS,,13.68,13.2
+103,OS X,,5.1,4.66
+103,Linux,,0.8,0.77
+103,SymbianOS,,0.09,0.1
+103,BlackBerry OS,,0.14,0.15
+103,Samsung,,0.17,0.19
+103,Nokia,,0.56,0.63
+103,Chrome OS,,0.24,0.19
+103,Playstation,,0.11,0.11
+103,Sony Ericsson,,0.01,0.01
+103,KaiOS,,0,0
+103,bada,,0,0.01
+103,Tizen,,0.11,0.12
+103,LG,,0.03,0.03
+103,Xbox,,0.04,0.04
+103,Nintendo,,0.01,0.01
+104,Windows,,36.34,36.1
+104,Android,,39.81,39.82
+104,iOS,,12.97,13.68
+104,OS X,,5.24,5.1
+104,Linux,,0.75,0.8
+104,SymbianOS,,0.09,0.09
+104,BlackBerry OS,,0.13,0.14
+104,Samsung,,0.17,0.17
+104,Nokia,,0.49,0.56
+104,Chrome OS,,0.36,0.24
+104,Playstation,,0.11,0.11
+104,Sony Ericsson,,0.01,0.01
+104,KaiOS,,0,0
+104,bada,,0,0
+104,Tizen,,0.11,0.11
+104,LG,,0.03,0.03
+104,Xbox,,0.25,0.04
+104,Nintendo,,0,0.01
+105,Windows,,37.43,36.34
+105,Android,,38.49,39.81
+105,iOS,,13.02,12.97
+105,OS X,,5.79,5.24
+105,Linux,,0.75,0.75
+105,SymbianOS,,0.08,0.09
+105,BlackBerry OS,,0.12,0.13
+105,Samsung,,0.17,0.17
+105,Nokia,,0.45,0.49
+105,Chrome OS,,0.43,0.36
+105,Playstation,,0.12,0.11
+105,Sony Ericsson,,0.01,0.01
+105,KaiOS,,0,0
+105,bada,,0,0
+105,Tizen,,0.1,0.11
+105,LG,,0.03,0.03
+105,Xbox,,0.18,0.25
+105,Nintendo,,0,0
+106,Windows,,38.11,37.43
+106,Android,,37.91,38.49
+106,iOS,,13.03,13.02
+106,OS X,,6.04,5.79
+106,Linux,,0.74,0.75
+106,SymbianOS,,0.08,0.08
+106,BlackBerry OS,,0.1,0.12
+106,Samsung,,0.17,0.17
+106,Nokia,,0.26,0.45
+106,Chrome OS,,0.45,0.43
+106,Playstation,,0.11,0.12
+106,Sony Ericsson,,0.01,0.01
+106,KaiOS,,0,0
+106,bada,,0,0
+106,Tizen,,0.1,0.1
+106,LG,,0.03,0.03
+106,Xbox,,0.04,0.18
+106,Nintendo,,0,0
+107,Windows,,36.07,38.11
+107,Android,,39.98,37.91
+107,iOS,,13.22,13.03
+107,OS X,,5.64,6.04
+107,Linux,,0.69,0.74
+107,SymbianOS,,0.09,0.08
+107,BlackBerry OS,,0.1,0.1
+107,Samsung,,0.18,0.17
+107,Nokia,,0.15,0.26
+107,Chrome OS,,0.39,0.45
+107,Playstation,,0.11,0.11
+107,Sony Ericsson,,0.01,0.01
+107,KaiOS,,0,0
+107,bada,,0,0
+107,Tizen,,0.12,0.1
+107,LG,,0.03,0.03
+107,Xbox,,0.04,0.04
+107,Nintendo,,0,0
+108,Windows,,36.56,36.07
+108,Android,,40.05,39.98
+108,iOS,,12.9,13.22
+108,OS X,,5.61,5.64
+108,Linux,,0.66,0.69
+108,SymbianOS,,0.09,0.09
+108,BlackBerry OS,,0.08,0.1
+108,Samsung,,0.18,0.18
+108,Nokia,,0.15,0.15
+108,Chrome OS,,0.39,0.39
+108,Playstation,,0.09,0.11
+108,Sony Ericsson,,0.01,0.01
+108,KaiOS,,0,0
+108,bada,,0,0
+108,Tizen,,0.11,0.12
+108,LG,,0.02,0.03
+108,Xbox,,0.03,0.04
+108,Nintendo,,0,0
+109,Windows,,36.69,36.56
+109,Android,,40.11,40.05
+109,iOS,,13.06,12.9
+109,OS X,,5.45,5.61
+109,Linux,,0.67,0.66
+109,SymbianOS,,0.08,0.09
+109,BlackBerry OS,,0.08,0.08
+109,Samsung,,0.15,0.18
+109,Nokia,,0.13,0.15
+109,Chrome OS,,0.44,0.39
+109,Playstation,,0.09,0.09
+109,Sony Ericsson,,0.01,0.01
+109,KaiOS,,0,0
+109,bada,,0,0
+109,Tizen,,0.09,0.11
+109,LG,,0.02,0.02
+109,Xbox,,0.03,0.03
+109,Nintendo,,0,0
+110,Windows,,36.51,36.69
+110,Android,,39.59,40.11
+110,iOS,,13.51,13.06
+110,OS X,,5.53,5.45
+110,Linux,,0.68,0.67
+110,SymbianOS,,0.07,0.08
+110,BlackBerry OS,,0.07,0.08
+110,Samsung,,0.14,0.15
+110,Nokia,,0.12,0.13
+110,Chrome OS,,0.45,0.44
+110,Playstation,,0.09,0.09
+110,Sony Ericsson,,0.01,0.01
+110,KaiOS,,0.01,0
+110,bada,,0,0
+110,Tizen,,0.08,0.09
+110,LG,,0.02,0.02
+110,Xbox,,0.03,0.03
+110,Nintendo,,0,0
+111,Windows,,36.74,36.51
+111,Android,,40.06,39.59
+111,iOS,,12.59,13.51
+111,OS X,,5.88,5.53
+111,Linux,,0.77,0.68
+111,SymbianOS,,0.07,0.07
+111,BlackBerry OS,,0.07,0.07
+111,Samsung,,0.14,0.14
+111,Nokia,,0.12,0.12
+111,Chrome OS,,0.44,0.45
+111,Playstation,,0.09,0.09
+111,Sony Ericsson,,0.01,0.01
+111,KaiOS,,0.02,0.01
+111,bada,,0,0
+111,Tizen,,0.09,0.08
+111,LG,,0.02,0.02
+111,Xbox,,0.03,0.03
+111,Nintendo,,0,0
+112,Windows,,36.3,36.74
+112,Android,,41.04,40.06
+112,iOS,,12.43,12.59
+112,OS X,,5.89,5.88
+112,Linux,,0.74,0.77
+112,SymbianOS,,0.06,0.07
+112,BlackBerry OS,,0.06,0.07
+112,Samsung,,0.13,0.14
+112,Nokia,,0.11,0.12
+112,Chrome OS,,0.54,0.44
+112,Playstation,,0.08,0.09
+112,Sony Ericsson,,0.01,0.01
+112,KaiOS,,0.02,0.02
+112,bada,,0,0
+112,Tizen,,0.09,0.09
+112,LG,,0.02,0.02
+112,Xbox,,0.03,0.03
+112,Nintendo,,0,0
+113,Windows,,36.19,36.3
+113,Android,,41.7,41.04
+113,iOS,,12.44,12.43
+113,OS X,,5.66,5.89
+113,Linux,,0.8,0.74
+113,SymbianOS,,0.05,0.06
+113,BlackBerry OS,,0.05,0.06
+113,Samsung,,0.13,0.13
+113,Nokia,,0.11,0.11
+113,Chrome OS,,0.34,0.54
+113,Playstation,,0.07,0.08
+113,Sony Ericsson,,0.01,0.01
+113,KaiOS,,0.01,0.02
+113,bada,,0,0
+113,Tizen,,0.08,0.09
+113,LG,,0.02,0.02
+113,Xbox,,0.03,0.03
+113,Nintendo,,0,0
+114,Windows,,35.93,36.19
+114,Android,,42.26,41.7
+114,iOS,,12.82,12.44
+114,OS X,,5.39,5.66
+114,Linux,,0.77,0.8
+114,SymbianOS,,0.04,0.05
+114,BlackBerry OS,,0.05,0.05
+114,Samsung,,0.13,0.13
+114,Nokia,,0.1,0.11
+114,Chrome OS,,0.22,0.34
+114,Playstation,,0.08,0.07
+114,Sony Ericsson,,0.01,0.01
+114,KaiOS,,0.01,0.01
+114,bada,,0,0
+114,Tizen,,0.07,0.08
+114,LG,,0.01,0.02
+114,Xbox,,0.03,0.03
+114,Nintendo,,0,0
+115,Windows,,35.93,35.93
+115,Android,,41.66,42.26
+115,iOS,,13.5,12.82
+115,OS X,,5.47,5.39
+115,Linux,,0.77,0.77
+115,SymbianOS,,0.04,0.04
+115,BlackBerry OS,,0.04,0.05
+115,Samsung,,0.15,0.13
+115,Nokia,,0.09,0.1
+115,Chrome OS,,0.29,0.22
+115,Playstation,,0.08,0.08
+115,Sony Ericsson,,0.01,0.01
+115,KaiOS,,0.01,0.01
+115,bada,,0,0
+115,Tizen,,0.07,0.07
+115,LG,,0.01,0.01
+115,Xbox,,0.02,0.03
+115,Nintendo,,0,0
+116,Windows,,36.23,35.93
+116,Android,,40.85,41.66
+116,iOS,,13.54,13.5
+116,OS X,,5.95,5.47
+116,Linux,,0.78,0.77
+116,SymbianOS,,0.03,0.04
+116,BlackBerry OS,,0.03,0.04
+116,Samsung,,0.14,0.15
+116,Nokia,,0.08,0.09
+116,Chrome OS,,0.47,0.29
+116,Playstation,,0.08,0.08
+116,Sony Ericsson,,0,0.01
+116,KaiOS,,0.29,0.01
+116,bada,,0,0
+116,Tizen,,0.06,0.07
+116,LG,,0.01,0.01
+116,Xbox,,0.02,0.02
+116,Nintendo,,0,0
+117,Windows,,37.42,36.23
+117,Android,,37.13,40.85
+117,iOS,,13.59,13.54
+117,OS X,,6.55,5.95
+117,Linux,,0.81,0.78
+117,SymbianOS,,0.03,0.03
+117,BlackBerry OS,,0.03,0.03
+117,Samsung,,0.14,0.14
+117,Nokia,,0.08,0.08
+117,Chrome OS,,0.55,0.47
+117,Playstation,,0.08,0.08
+117,Sony Ericsson,,0,0
+117,KaiOS,,0.45,0.29
+117,bada,,0,0
+117,Tizen,,0.06,0.06
+117,LG,,0,0.01
+117,Xbox,,0.03,0.02
+117,Nintendo,,0.01,0
+118,Windows,,36.71,37.42
+118,Android,,32.87,37.13
+118,iOS,,13.57,13.59
+118,OS X,,6.37,6.55
+118,Linux,,0.8,0.81
+118,SymbianOS,,0.03,0.03
+118,BlackBerry OS,,0.03,0.03
+118,Samsung,,0.14,0.14
+118,Nokia,,0.07,0.08
+118,Chrome OS,,0.57,0.55
+118,Playstation,,0.08,0.08
+118,Sony Ericsson,,0,0
+118,KaiOS,,0.49,0.45
+118,bada,,0,0
+118,Tizen,,0.06,0.06
+118,LG,,0,0
+118,Xbox,,0.03,0.03
+118,Nintendo,,0.01,0.01
+119,Windows,,36.08,36.71
+119,Android,,37.86,32.87
+119,iOS,,13.47,13.57
+119,OS X,,5.82,6.37
+119,Linux,,0.82,0.8
+119,SymbianOS,,0.03,0.03
+119,BlackBerry OS,,0.03,0.03
+119,Samsung,,0.14,0.14
+119,Nokia,,0.07,0.07
+119,Chrome OS,,0.64,0.57
+119,Playstation,,0.07,0.08
+119,Sony Ericsson,,0,0
+119,KaiOS,,0.56,0.49
+119,bada,,0,0
+119,Tizen,,0.05,0.06
+119,LG,,0,0
+119,Xbox,,0.03,0.03
+119,Nintendo,,0,0.01
+120,Windows,,35.6,36.08
+120,Android,,37.55,37.86
+120,iOS,,14.05,13.47
+120,OS X,,5.79,5.82
+120,Linux,,0.79,0.82
+120,SymbianOS,,0.03,0.03
+120,BlackBerry OS,,0.03,0.03
+120,Samsung,,0.14,0.14
+120,Nokia,,0.07,0.07
+120,Chrome OS,,0.55,0.64
+120,Playstation,,0.07,0.07
+120,Sony Ericsson,,0,0
+120,KaiOS,,0.54,0.56
+120,bada,,0,0
+120,Tizen,,0.05,0.05
+120,LG,,0,0
+120,Xbox,,0.03,0.03
+120,Nintendo,,0,0
+121,Windows,,35.99,35.6
+121,Android,,36.5,37.55
+121,iOS,,13.99,14.05
+121,OS X,,6.37,5.79
+121,Linux,,0.79,0.79
+121,SymbianOS,,0.03,0.03
+121,BlackBerry OS,,0.02,0.03
+121,Samsung,,0.14,0.14
+121,Nokia,,0.07,0.07
+121,Chrome OS,,0.6,0.55
+121,Playstation,,0.07,0.07
+121,Sony Ericsson,,0.01,0
+121,KaiOS,,0.46,0.54
+121,bada,,0,0
+121,Tizen,,0.04,0.05
+121,LG,,0,0
+121,Xbox,,0.04,0.03
+121,Nintendo,,0,0
+122,Windows,,37.47,35.99
+122,Android,,38,36.5
+122,iOS,,13.78,13.99
+122,OS X,,6.74,6.37
+122,Linux,,0.83,0.79
+122,SymbianOS,,0.03,0.03
+122,BlackBerry OS,,0.02,0.02
+122,Samsung,,0.13,0.14
+122,Nokia,,0.06,0.07
+122,Chrome OS,,0.6,0.6
+122,Playstation,,0.08,0.07
+122,Sony Ericsson,,0,0.01
+122,KaiOS,,0.41,0.46
+122,bada,,0,0
+122,Tizen,,0.04,0.04
+122,LG,,0,0
+122,Xbox,,0.04,0.04
+122,Nintendo,,0,0
+123,Windows,,38.05,37.47
+123,Android,,37.42,38
+123,iOS,,13.75,13.78
+123,OS X,,6.71,6.74
+123,Linux,,0.8,0.83
+123,SymbianOS,,0.02,0.03
+123,BlackBerry OS,,0.03,0.02
+123,Samsung,,0.12,0.13
+123,Nokia,,0.05,0.06
+123,Chrome OS,,0.59,0.6
+123,Playstation,,0.07,0.08
+123,Sony Ericsson,,0,0
+123,KaiOS,,0.35,0.41
+123,bada,,0,0
+123,Tizen,,0.04,0.04
+123,LG,,0,0
+123,Xbox,,0.04,0.04
+123,Nintendo,,0,0
+124,Windows,,38.17,38.05
+124,Android,,37.14,37.42
+124,iOS,,13.57,13.75
+124,OS X,,6.7,6.71
+124,Linux,,0.77,0.8
+124,SymbianOS,,0.02,0.02
+124,BlackBerry OS,,0.02,0.03
+124,Samsung,,0.11,0.12
+124,Nokia,,0.05,0.05
+124,Chrome OS,,0.65,0.59
+124,Playstation,,0.06,0.07
+124,Sony Ericsson,,0,0
+124,KaiOS,,0.37,0.35
+124,bada,,0,0
+124,Tizen,,0.04,0.04
+124,LG,,0,0
+124,Xbox,,0.04,0.04
+124,Nintendo,,0,0
+125,Windows,,35.78,38.17
+125,Android,,39.61,37.14
+125,iOS,,13.8,13.57
+125,OS X,,6.15,6.7
+125,Linux,,0.75,0.77
+125,SymbianOS,,0.02,0.02
+125,BlackBerry OS,,0.02,0.02
+125,Samsung,,0.11,0.11
+125,Nokia,,0.05,0.05
+125,Chrome OS,,0.35,0.65
+125,Playstation,,0.06,0.06
+125,Sony Ericsson,,0,0
+125,KaiOS,,0.4,0.37
+125,bada,,0,0
+125,Tizen,,0.04,0.04
+125,LG,,0,0
+125,Xbox,,0.06,0.04
+125,Nintendo,,0,0
+126,Windows,,35.12,35.78
+126,Android,,39.91,39.61
+126,iOS,,13.85,13.8
+126,OS X,,5.94,6.15
+126,Linux,,0.77,0.75
+126,SymbianOS,,0.02,0.02
+126,BlackBerry OS,,0.02,0.02
+126,Samsung,,0.1,0.11
+126,Nokia,,0.05,0.05
+126,Chrome OS,,0.24,0.35
+126,Playstation,,0.07,0.06
+126,Sony Ericsson,,0,0
+126,KaiOS,,0.41,0.4
+126,bada,,0,0
+126,Tizen,,0.04,0.04
+126,LG,,0,0
+126,Xbox,,0.08,0.06
+126,Nintendo,,0,0
+127,Windows,,35.01,35.12
+127,Android,,40.39,39.91
+127,iOS,,14.13,13.85
+127,OS X,,5.89,5.94
+127,Linux,,0.79,0.77
+127,SymbianOS,,0.01,0.02
+127,BlackBerry OS,,0.02,0.02
+127,Samsung,,0.11,0.1
+127,Nokia,,0.05,0.05
+127,Chrome OS,,0.38,0.24
+127,Playstation,,0.06,0.07
+127,Sony Ericsson,,0,0
+127,KaiOS,,0.3,0.41
+127,bada,,0,0
+127,Tizen,,0.03,0.04
+127,LG,,0,0
+127,Xbox,,0.03,0.08
+127,Nintendo,,0,0
+128,Windows,,35.32,35.01
+128,Android,,40.44,40.39
+128,iOS,,14.29,14.13
+128,OS X,,6.4,5.89
+128,Linux,,0.8,0.79
+128,SymbianOS,,0.01,0.01
+128,BlackBerry OS,,0.01,0.02
+128,Samsung,,0.09,0.11
+128,Nokia,,0.04,0.05
+128,Chrome OS,,0.66,0.38
+128,Playstation,,0.05,0.06
+128,Sony Ericsson,,0,0
+128,KaiOS,,0.2,0.3
+128,bada,,0,0
+128,Tizen,,0.03,0.03
+128,LG,,0,0
+128,Xbox,,0.03,0.03
+128,Nintendo,,0,0
+129,Windows,,34.8,35.32
+129,Android,,41.19,40.44
+129,iOS,,13.52,14.29
+129,OS X,,7.1,6.4
+129,Linux,,0.81,0.8
+129,SymbianOS,,0.01,0.01
+129,BlackBerry OS,,0.01,0.01
+129,Samsung,,0.09,0.09
+129,Nokia,,0.04,0.04
+129,Chrome OS,,0.7,0.66
+129,Playstation,,0.05,0.05
+129,Sony Ericsson,,0,0
+129,KaiOS,,0.22,0.2
+129,bada,,0,0
+129,Tizen,,0.03,0.03
+129,LG,,0,0
+129,Xbox,,0.02,0.03
+129,Nintendo,,0,0
+130,Windows,,34.95,34.8
+130,Android,,40.45,41.19
+130,iOS,,13.67,13.52
+130,OS X,,7.55,7.1
+130,Linux,,0.84,0.81
+130,SymbianOS,,0.01,0.01
+130,BlackBerry OS,,0.01,0.01
+130,Samsung,,0.1,0.09
+130,Nokia,,0.04,0.04
+130,Chrome OS,,0.7,0.7
+130,Playstation,,0.05,0.05
+130,Sony Ericsson,,0,0
+130,KaiOS,,0.25,0.22
+130,bada,,0,0
+130,Tizen,,0.03,0.03
+130,LG,,0,0
+130,Xbox,,0.02,0.02
+130,Nintendo,,0,0
+131,Windows,,34.2,34.95
+131,Android,,40.47,40.45
+131,iOS,,14.92,13.67
+131,OS X,,7.24,7.55
+131,Linux,,0.83,0.84
+131,SymbianOS,,0.01,0.01
+131,BlackBerry OS,,0.01,0.01
+131,Samsung,,0.1,0.1
+131,Nokia,,0.03,0.04
+131,Chrome OS,,0.64,0.7
+131,Playstation,,0.05,0.05
+131,Sony Ericsson,,0,0
+131,KaiOS,,0.18,0.25
+131,bada,,0,0
+131,Tizen,,0.02,0.03
+131,LG,,0,0
+131,Xbox,,0.02,0.02
+131,Nintendo,,0,0
+132,Windows,,35.23,34.2
+132,Android,,39.67,40.47
+132,iOS,,14.5,14.92
+132,OS X,,7.71,7.24
+132,Linux,,0.88,0.83
+132,SymbianOS,,0.01,0.01
+132,BlackBerry OS,,0.01,0.01
+132,Samsung,,0.11,0.1
+132,Nokia,,0.03,0.03
+132,Chrome OS,,0.69,0.64
+132,Playstation,,0.05,0.05
+132,Sony Ericsson,,0,0
+132,KaiOS,,0.11,0.18
+132,bada,,0,0
+132,Tizen,,0.02,0.02
+132,LG,,0,0
+132,Xbox,,0.02,0.02
+132,Nintendo,,0,0
+133,Windows,,35.29,35.23
+133,Android,,38.9,39.67
+133,iOS,,14.97,14.5
+133,OS X,,8.07,7.71
+133,Linux,,0.89,0.88
+133,SymbianOS,,0,0.01
+133,BlackBerry OS,,0.01,0.01
+133,Samsung,,0.09,0.11
+133,Nokia,,0.02,0.03
+133,Chrome OS,,0.68,0.69
+133,Playstation,,0.05,0.05
+133,Sony Ericsson,,0,0
+133,KaiOS,,0.12,0.11
+133,bada,,0,0
+133,Tizen,,0.01,0.02
+133,LG,,0,0
+133,Xbox,,0.04,0.02
+133,Nintendo,,0,0
+134,Windows,,34.96,35.29
+134,Android,,38.61,38.9
+134,iOS,,15.63,14.97
+134,OS X,,8.3,8.07
+134,Linux,,0.78,0.89
+134,SymbianOS,,0,0
+134,BlackBerry OS,,0.01,0.01
+134,Samsung,,0.08,0.09
+134,Nokia,,0,0.02
+134,Chrome OS,,0.56,0.68
+134,Playstation,,0.05,0.05
+134,Sony Ericsson,,0,0
+134,KaiOS,,0.17,0.12
+134,bada,,0,0
+134,Tizen,,0.01,0.01
+134,LG,,0,0
+134,Xbox,,0.07,0.04
+134,Nintendo,,0,0
+135,Windows,,33.1,34.96
+135,Android,,39.13,38.61
+135,iOS,,17.23,15.63
+135,OS X,,8.21,8.3
+135,Linux,,0.7,0.78
+135,SymbianOS,,0,0
+135,BlackBerry OS,,0.01,0.01
+135,Samsung,,0.09,0.08
+135,Nokia,,0.01,0
+135,Chrome OS,,0.48,0.56
+135,Playstation,,0.06,0.05
+135,Sony Ericsson,,0,0
+135,KaiOS,,0.06,0.17
+135,bada,,0,0
+135,Tizen,,0.01,0.01
+135,LG,,0,0
+135,Xbox,,0.08,0.07
+135,Nintendo,,0,0
+136,Windows,,35.83,33.1
+136,Android,,37.81,39.13
+136,iOS,,15.28,17.23
+136,OS X,,8.54,8.21
+136,Linux,,0.79,0.7
+136,SymbianOS,,0,0
+136,BlackBerry OS,,0.01,0.01
+136,Samsung,,0.11,0.09
+136,Nokia,,0.01,0.01
+136,Chrome OS,,0.49,0.48
+136,Playstation,,0.06,0.06
+136,Sony Ericsson,,0,0
+136,KaiOS,,0.1,0.06
+136,bada,,0,0
+136,Tizen,,0.01,0.01
+136,LG,,0,0
+136,Xbox,,0.03,0.08
+136,Nintendo,,0,0
+137,Windows,,36.55,35.83
+137,Android,,38.3,37.81
+137,iOS,,14.3,15.28
+137,OS X,,8.35,8.54
+137,Linux,,0.81,0.79
+137,SymbianOS,,0,0
+137,BlackBerry OS,,0.01,0.01
+137,Samsung,,0.1,0.11
+137,Nokia,,0.01,0.01
+137,Chrome OS,,0.38,0.49
+137,Playstation,,0.05,0.06
+137,Sony Ericsson,,0,0
+137,KaiOS,,0.06,0.1
+137,bada,,0,0
+137,Tizen,,0.01,0.01
+137,LG,,0,0
+137,Xbox,,0.03,0.03
+137,Nintendo,,0,0
+138,Windows,,36.05,36.55
+138,Android,,39.06,38.3
+138,iOS,,14.22,14.3
+138,OS X,,7.91,8.35
+138,Linux,,0.87,0.81
+138,SymbianOS,,0,0
+138,BlackBerry OS,,0.01,0.01
+138,Samsung,,0.11,0.1
+138,Nokia,,0.01,0.01
+138,Chrome OS,,0.31,0.38
+138,Playstation,,0.05,0.05
+138,Sony Ericsson,,0,0
+138,KaiOS,,0.05,0.06
+138,bada,,0,0
+138,Tizen,,0.01,0.01
+138,LG,,0,0
+138,Xbox,,0.03,0.03
+138,Nintendo,,0,0
+139,Windows,,35.43,36.05
+139,Android,,39.23,39.06
+139,iOS,,14.53,14.22
+139,OS X,,7.78,7.91
+139,Linux,,0.85,0.87
+139,SymbianOS,,0,0
+139,BlackBerry OS,,0.01,0.01
+139,Samsung,,0.12,0.11
+139,Nokia,,0.01,0.01
+139,Chrome OS,,0.41,0.31
+139,Playstation,,0.05,0.05
+139,Sony Ericsson,,0,0
+139,KaiOS,,0.04,0.05
+139,bada,,0,0
+139,Tizen,,0.01,0.01
+139,LG,,0,0
+139,Xbox,,0.03,0.03
+139,Nintendo,,0,0
+140,Windows,,36.37,35.43
+140,Android,,38.42,39.23
+140,iOS,,14.08,14.53
+140,OS X,,8.28,7.78
+140,Linux,,0.83,0.85
+140,SymbianOS,,0,0
+140,BlackBerry OS,,0,0.01
+140,Samsung,,0.11,0.12
+140,Nokia,,0.01,0.01
+140,Chrome OS,,0.72,0.41
+140,Playstation,,0.04,0.05
+140,Sony Ericsson,,0,0
+140,KaiOS,,0.04,0.04
+140,bada,,0,0
+140,Tizen,,0.01,0.01
+140,LG,,0,0
+140,Xbox,,0.02,0.03
+140,Nintendo,,0,0
+141,Windows,,37.3,36.37
+141,Android,,36.46,38.42
+141,iOS,,14.36,14.08
+141,OS X,,8.62,8.28
+141,Linux,,0.76,0.83
+141,SymbianOS,,0,0
+141,BlackBerry OS,,0,0
+141,Samsung,,0.11,0.11
+141,Nokia,,0.01,0.01
+141,Chrome OS,,0.77,0.72
+141,Playstation,,0.04,0.04
+141,Sony Ericsson,,0,0
+141,KaiOS,,0.03,0.04
+141,bada,,0,0
+141,Tizen,,0.01,0.01
+141,LG,,0,0
+141,Xbox,,0.02,0.02
+141,Nintendo,,0,0
+142,Windows,,32.37,37.3
+142,Android,,38.83,36.46
+142,iOS,,16.57,14.36
+142,OS X,,7.31,8.62
+142,Linux,,0.81,0.76
+142,SymbianOS,,0,0
+142,BlackBerry OS,,0,0
+142,Samsung,,0.13,0.11
+142,Nokia,,0.01,0.01
+142,Chrome OS,,0.85,0.77
+142,Playstation,,0.04,0.04
+142,Sony Ericsson,,0,0
+142,KaiOS,,0.07,0.03
+142,bada,,0,0
+142,Tizen,,0.01,0.01
+142,LG,,0,0
+142,Xbox,,0.02,0.02
+142,Nintendo,,0,0
+143,Windows,,31.73,32.37
+143,Android,,41.58,38.83
+143,iOS,,16.58,16.57
+143,OS X,,7.08,7.31
+143,Linux,,0.81,0.81
+143,SymbianOS,,0,0
+143,BlackBerry OS,,0,0
+143,Samsung,,0.13,0.13
+143,Nokia,,0.01,0.01
+143,Chrome OS,,0.71,0.85
+143,Playstation,,0.04,0.04
+143,Sony Ericsson,,0,0
+143,KaiOS,,0.07,0.07
+143,bada,,0,0
+143,Tizen,,0.01,0.01
+143,LG,,0,0
+143,Xbox,,0.02,0.02
+143,Nintendo,,0,0
+144,Windows,,31.6,31.73
+144,Android,,41.28,41.58
+144,iOS,,16.89,16.58
+144,OS X,,7.01,7.08
+144,Linux,,0.8,0.81
+144,SymbianOS,,0,0
+144,BlackBerry OS,,0,0
+144,Samsung,,0.16,0.13
+144,Nokia,,0.01,0.01
+144,Chrome OS,,0.79,0.71
+144,Playstation,,0.05,0.04
+144,Sony Ericsson,,0,0
+144,KaiOS,,0.05,0.07
+144,bada,,0,0
+144,Tizen,,0.01,0.01
+144,LG,,0,0
+144,Xbox,,0.03,0.02
+144,Nintendo,,0,0

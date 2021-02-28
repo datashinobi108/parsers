@@ -1,0 +1,66 @@
+{
+  "Windows": {
+    "url": "http://localhost:8000/assets/windows.png",
+    "color": "#0079D7"
+  },
+  "Android": {
+    "url": "http://localhost:8000/assets/android.png",
+    "color": "#3EDF84"
+  },
+  "iOS": {
+    "url": "http://localhost:8000/assets/ios.png",
+    "color": "#ECE7E8"
+  },
+  "OS X": {
+    "url": "http://localhost:8000/assets/osx.png",
+    "color": "#000000"
+  },
+  "Linux": {
+    "url": "http://localhost:8000/assets/linux.png",
+    "color": "#F3BF1A"
+  },
+  "Chrome OS": {
+    "url": "http://localhost:8000/assets/chromeos.png",
+    "color": "#FFCE44"
+  },
+  "Samsung": {
+    "url": "http://localhost:8000/assets/samsung.png",
+    "color": "#1428A0"
+  },
+  "Playstation": {
+    "url": "http://localhost:8000/assets/playstation.png",
+    "color": "#2E6DB4"
+  },
+  "KaiOS": {
+    "url": "http://localhost:8000/assets/kaios.png",
+    "color": "#7018B6"
+  },
+  "Xbox": {
+    "url": "http://localhost:8000/assets/xbox.png",
+    "color": "#207C11"
+  },
+  "SymbianOS": {
+    "url": "http://localhost:8000/assets/symbian.png",
+    "color": "#0A7EAF"
+  },
+  "Nintendo": {
+    "url": "http://localhost:8000/assets/nintendo.png",
+    "color": "#D80C00"
+  },
+  "Nokia": {
+    "url": "http://localhost:8000/assets/nokia.png",
+    "color": "#003399"
+  },
+  "Tizen": {
+    "url": "http://localhost:8000/assets/tizen.png",
+    "color": "#089AE0"
+  },
+  "BlackBerry OS": {
+    "url": "http://localhost:8000/assets/blackberry.png",
+    "color": "#141518"
+  },
+  "Sony Ericsson": {
+    "url": "http://localhost:8000/assets/sony.png",
+    "color": "#43E200"
+  }
+}
