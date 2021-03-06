@@ -1,0 +1,24 @@
+What are the most googled databases?
+
+In this video, we look at the most googled databases from July 2004 to March 2021. The data here is based off of the Top Database Index. This index is created by analyzing how often a database is searched on Google: the more a database is searched, the more popular it is assumed to be. It is a leading indicator. The raw data comes from Google Trends.
+
+Source:
+https://pypl.github.io/DB.html
+
+#programming #databases #2021
+
+programming, computers, developer, code, databases, tech, internet, google, google trends, data, oracle, mongodb, sql, postgres, elasticsearch, software development
+
+
+R
+[OC] What are the most googled databases?
+
+Data is based off of Google trend searches.
+
+In this visualization, I look at most googled databases from Jul 2004 to Mar 2021. This index is created by analyzing how often a database is searched for on Google; the more a certain database is searched for, the more popular it is assumed to be.
+
+Sources
+https://pypl.github.io/DB.html
+
+Tools used
+- D3.js (https://d3js.org/)

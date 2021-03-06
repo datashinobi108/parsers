@@ -1,0 +1,126 @@
+{
+  "Apache Hive": {
+    "url": "",
+    "color": ""
+  },
+  "CouchBase": {
+    "url": "",
+    "color": ""
+  },
+  "CouchDB": {
+    "url": "",
+    "color": ""
+  },
+  "DB2": {
+    "url": "http://localhost:8000/assets/db2.png",
+    "color": "#039A2C"
+  },
+  "dBase": {
+    "url": "",
+    "color": ""
+  },
+  "DynamoDB": {
+    "url": "",
+    "color": ""
+  },
+  "Elasticsearch": {
+    "url": "http://localhost:8000/assets/elasticsearch.png",
+    "color": "#07A4DF"
+  },
+  "FileMaker": {
+    "url": "http://localhost:8000/assets/filemaker.png",
+    "color": "#3688C1"
+  },
+  "Firebase": {
+    "url": "http://localhost:8000/assets/firebase.png",
+    "color": "#FCCA40"
+  },
+  "Firebird": {
+    "url": "http://localhost:8000/assets/firebird.png",
+    "color": "#F43F0C"
+  },
+  "Hbase": {
+    "url": "",
+    "color": ""
+  },
+  "Informix": {
+    "url": "http://localhost:8000/assets/informix.png",
+    "color": "#0040C4"
+  },
+  "Ingres": {
+    "url": "",
+    "color": ""
+  },
+  "MariaDB": {
+    "url": "",
+    "color": ""
+  },
+  "Memcached": {
+    "url": "",
+    "color": ""
+  },
+  "Microsoft Access": {
+    "url": "http://localhost:8000/assets/msaccess.png",
+    "color": "#B01A2D"
+  },
+  "MongoDB": {
+    "url": "http://localhost:8000/assets/mongo.png",
+    "color": "#509847"
+  },
+  "MySQL": {
+    "url": "http://localhost:8000/assets/mysql.png",
+    "color": "#106B91"
+  },
+  "Neo4j": {
+    "url": "",
+    "color": ""
+  },
+  "Netezza": {
+    "url": "",
+    "color": ""
+  },
+  "Oracle": {
+    "url": "http://localhost:8000/assets/oracle.png",
+    "color": "#EB2930"
+  },
+  "PostgreSQL": {
+    "url": "http://localhost:8000/assets/postgres.png",
+    "color": "#326192"
+  },
+  "Redis": {
+    "url": "http://localhost:8000/assets/redis.png",
+    "color": "#912726"
+  },
+  "Riak": {
+    "url": "",
+    "color": ""
+  },
+  "SAP HANA": {
+    "url": "",
+    "color": ""
+  },
+  "Solr": {
+    "url": "",
+    "color": ""
+  },
+  "Splunk": {
+    "url": "http://localhost:8000/assets/splunk.png",
+    "color": "#6CB463"
+  },
+  "SQLite": {
+    "url": "http://localhost:8000/assets/sqlite.png",
+    "color": "#023857"
+  },
+  "SQL Server": {
+    "url": "http://localhost:8000/assets/sqlserver.png",
+    "color": "#909CA9"
+  },
+  "Sybase": {
+    "url": "http://localhost:8000/assets/sybase.png",
+    "color": "#016D82"
+  },
+  "Teradata": {
+    "url": "http://localhost:8000/assets/teradata.png",
+    "color": "#364750"
+  }
+}
